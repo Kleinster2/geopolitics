@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\Users\\\\klein\\\\obsidian\\\\geopolitics\" status)",
+      "Bash(git -C \"C:\\\\Users\\\\klein\\\\obsidian\\\\geopolitics\" init)",
+      "Bash(git -C:*)"
+    ]
+  }
+}
