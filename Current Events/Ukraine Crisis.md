@@ -53,7 +53,69 @@ Russia's 2022 full-scale invasion of Ukraine, the largest land war in Europe sin
 2. **Eastern focus** (Apr-Aug 2022): Donbas fighting
 3. **Ukrainian counteroffensive** (Sep-Nov 2022): Kharkiv, Kherson
 4. **Attrition** (2023): Limited gains both sides
-5. **Stalemate?** (2024+): Uncertain trajectory
+5. **Stalemate** (2024): Grinding warfare continues
+6. **Fourth year** (2025): War of attrition, NATO spillover incidents
+
+## 2025 Developments
+
+### September 2025: Poland Drone Incident
+- Russian drones crossed into Poland during Ukraine strikes
+- **Poland shot them down** - first NATO member to fire shot in conflict
+- Warsaw denounced as "act of aggression"
+- **Article 4 invoked** - NATO consultations
+- Tests Putin's willingness to probe NATO boundaries
+
+### US Support Collapse
+- Trump administration cut funding to Ukraine
+- US aid has "evaporated" per Kiel Institute tracker
+- Defense Secretary Hegseth: US not "primary guarantor" of European security
+- Ukraine NATO membership: Trump opposes, Europeans support
+- Europe scrambling to fill massive funding gap
+
+### Frozen Russian Assets Debate (Dec 2025)
+- $280 billion Russian central bank assets frozen globally
+- Bulk held at Euroclear in Brussels
+- G-7 deal (2024): Loans repaid from interest earned
+- EU proposes: Use assets as collateral for €90B more loans
+- Belgium blocking: Fears liability, Russian retaliation
+- Ukraine's funding gap: $65B over 4 years (IMF estimate)
+- Stakes: Without funds, Ukraine loses peace talk leverage
+- See: [[Sanctions]]
+
+### NATO Response
+- June 2025 summit: Raised spending target to 5% GDP
+- Germany leading European rearmament
+- Eastern flank reinforcement continues
+- Finland, Sweden fully integrated
+
+## January 2026: Major Developments
+
+### France & UK to Deploy Troops
+- **Jan 6**: France, UK, Ukraine signed declaration of intent
+- France and UK to deploy armed forces to Ukraine
+- Multinational force for deterrence operations (land, sea, air)
+- Coalition of the Willing meeting in Paris (Macron, Starmer, Rutte)
+
+### UK "Nightfall" Missile
+- New deep-strike ballistic missile for Ukraine
+- 200kg warhead, 500km+ range
+- Significant escalation in Western support
+
+### Energy Crisis
+- Zelenskyy declared state of emergency for energy sector
+- Generating capacity: 33.7 GW → **14 GW**
+- -19°C temperatures, 471 Kyiv buildings without heat
+- Rail network: $5.8 billion in damages
+
+### Military Situation (Jan 2026)
+- Russia occupies **19.26%** of Ukraine (116,250 km²)
+- Russian gains slowing: 79 sq mi (Dec 16-Jan 13) vs 215 sq mi prior period
+- New Russian "Geran-5" jet-powered drone (90kg warhead)
+- December 2025: 5,649 Russian drones launched (triple Dec 2024)
+
+### Casualties (Jan 2026 estimates)
+- Russia: ~1.1 million (ex-CIA director Burns)
+- Ukraine: ~400,000 (Trump estimate, Dec 2024)
 
 ## Military Situation
 

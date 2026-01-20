@@ -84,6 +84,46 @@ The most dangerous flashpoint in international politics. China claims Taiwan as 
 - Air/sea blockade
 - US intervention → great power war
 
+## January 2026 Developments
+
+### Justice Mission 2025 (Dec 29-30, 2025)
+China's **largest military exercise ever** around Taiwan:
+- 130+ aircraft sorties into Taiwan ADIZ
+- 14 warships + 15 coast guard vessels
+- Simulated full maritime blockade
+- 35 aircraft crossed Taiwan Strait median line
+- 850+ international flights cancelled
+- Global silicon futures spiked 12%
+
+### Xi's New Year Address
+- Declared "national reunification is unstoppable"
+- Established "Taiwan Recovery Day" - symbolic escalation
+
+### Taiwan's Response
+- President Lai pledged to defend sovereignty
+- $40 billion special defense budget (2026-2033)
+- "Taiwan Dome" air defense system planned
+- Opposition parties blocking defense budget (6th time)
+
+### US-Taiwan Relations Under Trump
+| Development | Details |
+|------------|---------|
+| Trade Deal | $250B investment agreement - largest semiconductor reshoring |
+| Tariffs | Reduced to 15% for Taiwan |
+| Arms Sale | $11.1B package (record) |
+| Policy | "Firm but calibrated" - not seeking to change status quo |
+
+### China Counter-Sanctions
+- Sanctioned 20 US military companies, 10 executives
+- Targets: Northrop Grumman, L3Harris, Boeing
+- Largely symbolic (minimal US defense exposure to China)
+
+### Assessment
+- Invasion in 2026 considered **unlikely** by analysts
+- China perfecting "short-and-sharp" isolation tactics
+- Gray-zone pressure eroding war/peace distinction
+- Economic headwinds limit China's risk appetite
+
 ## Key Variables
 1. Xi Jinping's risk tolerance
 2. US commitment credibility

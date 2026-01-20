@@ -64,12 +64,23 @@ Theocratic regional power pursuing nuclear capabilities and regional influence t
 - Asymmetric/hybrid warfare
 - Navy: anti-access in Persian Gulf
 
-## Sanctions Impact
+## Economy
+See: [[Iranian Economic Crisis]] for full analysis.
+
+**Current status (January 2026):**
+- Deepest economic crisis in modern Iranian history
+- Rial lost **84%** of value in 2025
+- Food inflation: **72%** annually
+- Purchasing power down **90%+** over 8 years
+- Ayandeh Bank collapsed (late 2025) - "Ponzi scheme"
+- Five other banks in fragile condition
+- Capital flight: $10-20 billion in 2025
+
+**Sanctions impact:**
 - Oil exports restricted
-- Banking isolation
-- Economic hardship
-- Inflation, currency collapse
-- Black market economy
+- Banking isolation (cut off from SWIFT)
+- Cannot access international markets
+- Black market economy dominant
 
 ## Internal Dynamics
 - Regime stability concerns
@@ -77,6 +88,16 @@ Theocratic regional power pursuing nuclear capabilities and regional influence t
 - Economic grievances
 - Succession questions (Khamenei aging)
 - Hardliner dominance
+
+## 2024-2026 Crisis
+**Weakest position since 1979 revolution:**
+- [[Iran Protests 2025-2026]] - 12,000-18,000+ killed (mid-January 2026 estimates)
+- Merchant class (bazaaris) now joining protests
+- [[Iranian Economic Crisis]] - rial lost 84%, banks collapsing
+- IRGC decapitated: 12 senior commanders killed (mostly by Israel)
+- Israeli strikes exposed air defense vulnerability
+- [[Axis of Resistance]] proxies severely degraded
+- Two parallel militaries: [[IRGC]] vs [[Artesh]] - secular army may not defend regime
 
 ## Strategic Dilemmas
 - Nuclear threshold vs. strike risk
@@ -88,6 +109,7 @@ Theocratic regional power pursuing nuclear capabilities and regional influence t
 ## Key Institutions
 - [[IRGC]] - Revolutionary Guards, regime's sword
 - [[Quds Force]] - External operations arm
+- [[Artesh]] - Regular military (secular, may not defend regime)
 
 ## Key Figures
 - [[Qasem Soleimani]] - Legendary Quds Force commander (killed 2020)
@@ -114,6 +136,8 @@ Theocratic regional power pursuing nuclear capabilities and regional influence t
 ### Context
 - [[Middle East]]
 - [[Saudi Arabia]]
-- [[Sanctions]]
+- [[Iran Sanctions]]
 - [[Russia]]
 - [[China]]
+- [[Iranian Economic Crisis]]
+- [[Iranian Banking System]]

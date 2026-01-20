@@ -40,14 +40,14 @@ Catastrophic civil war between Sudanese Armed Forces (SAF) and paramilitary Rapi
 - RSF territorial gains (Darfur, Kordofan)
 - War of attrition
 
-### Geography
+### Geography (Updated Jan 2026)
 | Region | Control |
 |--------|---------|
-| Khartoum | Contested |
-| Darfur | Mostly RSF |
-| Port Sudan | SAF |
+| Khartoum | **SAF recaptured** (May 2025) |
+| Darfur | RSF (all 5 states, El Fasher fell Oct 2025) |
+| Port Sudan | SAF (government relocated here) |
 | Eastern Sudan | SAF |
-| Kordofan | RSF gains |
+| Kordofan | Active fighting, tens of thousands displaced |
 
 ### Atrocities
 - Ethnic targeting (Darfur)
@@ -58,12 +58,14 @@ Catastrophic civil war between Sudanese Armed Forces (SAF) and paramilitary Rapi
 
 ## Humanitarian Catastrophe
 
-### Scale
-- 10+ million displaced
-- World's largest displacement crisis
-- 25+ million need aid
-- Famine conditions
-- Health system collapse
+### Scale (January 2026 - 1,000 Days of War)
+- **33.7 million** need humanitarian assistance (2/3 of population)
+- **13.6 million displaced** - world's largest displacement crisis
+- **21 million** face acute food insecurity
+- Famine confirmed in Al Fasher and Kadugli, 20+ areas at risk
+- 37% of health facilities non-functional
+- 14 million children out of school (4 of 5)
+- Cholera in all 18 states, dengue in 14, malaria in 16
 
 ### Displacement
 - Internal: Millions
@@ -112,6 +114,20 @@ Catastrophic civil war between Sudanese Armed Forces (SAF) and paramilitary Rapi
 - Ceasefires failed
 - Limited progress
 - Process stalled
+
+### Cairo Consultative Meeting (Jan 14-15, 2026)
+- Hosted by Egypt with UN, US, UAE, Saudi Arabia
+- Representatives from EU, Arab League, AU, IGAD, major powers
+- Egypt "red lines": Preserve Sudan's unity, reject secession
+- Agreement to pursue immediate humanitarian truce
+- **Breakthrough**: First supplies to El Fasher in 18 months
+
+### January 2026 Developments
+- **1,000 days of war** reached January 9, 2026
+- Government returned to Khartoum (Jan 12)
+- RSF drone strike on Sinja killed 27 (Jan 13)
+- Pakistan finalized $1.5B arms deal with Sudan (SAF)
+- IRC: Sudan #1 on 2026 Emergency Watchlist
 
 ### African Union
 - IGAD involvement

@@ -74,6 +74,59 @@ The world's most populous country and second-largest economy, pursuing "national
 - Technology chokepoints (semiconductors)
 - Real estate/debt issues
 
+## US-China Competition (2025-2026)
+
+### Bipartisan Consensus
+
+According to Maurício Moura (George Washington University, electoral specialist), China is one of the "very few unifying themes" in Washington:
+
+**Democratic voters:** See China as national security threat—cybersecurity, industrial espionage, "not playing by the rules of international trade law."
+
+**Republican/MAGA voters:** Associate China with job losses, factory closures. "If there's very little consensus in Washington today, it's about the danger of China."
+
+
+### Technology Competition (Roberto Dumas Analysis)
+
+**Semiconductor controls:**
+- Biden's Foreign Direct Product Rule continued and expanded under Trump
+- Prohibits export of advanced chips to China
+- Xi Jinping's 2025 National People's Congress made clear: China no longer wants to be "sweat shop"—wants AI supremacy
+
+**Rare earths countermeasure:**
+- China controls rare earth supply chains
+- Responded to chip export controls by restricting rare earth exports to US
+- Value: small (~$100 million), but critical for US automotive industry
+- Leverage point: "That's where he [Trump] struck a deal"
+
+**AI competition:** Per Dumas, both countries now view AI supremacy as the central strategic competition. The "fight is now completely focused on artificial intelligence."
+
+### Tariff War Dynamics
+
+China was only country to escalate fully against Trump tariffs (per Felipe Loureiro, USP):
+- Went "to the last consequences" rather than negotiate
+- Trump ultimately "receded significantly"
+- Rare earth leverage demonstrated Chinese counter-capability
+- "Very clear capacity of China, through rare earths, to place an obstacle" to US tariff war
+
+### Taiwan Ambiguity Restored
+
+- Biden broke decades of "strategic ambiguity" by stating US would send troops if China invaded Taiwan
+- Trump restored ambiguity: "We'll see what we'll do"
+
+### Venezuela Response
+
+China's reaction to Maduro capture:
+- Issued formal protest, demanded Maduro's release
+- No substantive action taken
+- Priorities remain Pacific Rim, Taiwan
+
+### Latin American Influence
+
+US concern: China filling vacuum left by US tariff pressure:
+- Brazil: 6% increase in exports to China as US exports fell 6%
+- More than 1/3 of Brazilian exports to China
+- Washington views Brazil partly through lens of Chinese influence
+
 ## Related Notes
 - [[Asia-Pacific]]
 - [[Belt and Road Initiative]]

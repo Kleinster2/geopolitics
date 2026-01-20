@@ -18,7 +18,7 @@ World's third-largest economy and key US ally in Asia. Historically pacifist pos
 - **GDP**: ~$4.2 trillion
 - **Military Budget**: ~$50 billion (increasing to 2% GDP)
 - **Emperor**: Naruhito (ceremonial)
-- **Prime Minister**: Head of government
+- **Prime Minister**: Sanae Takaichi (2025-)
 
 ## Geopolitical Position
 
@@ -82,6 +82,30 @@ Post-WWII pacifism giving way to "normal" military posture:
 - South Korea reconciliation
 - China economic decoupling
 - Demographic decline management
+
+## Japan-Philippines Defense Partnership (2025-2026)
+
+### ACSA Agreement (Jan 2026)
+- **Acquisition and Cross-Servicing Agreement** signed
+- Allows exchange of logistical support, supplies, services
+- Supports mutual military visits agreement (2025)
+
+### Security Assistance
+- 900 million yen ($5.7M) for FY2025 armed forces modernization
+- Previously provided boats, coastal radar systems
+- Mindanao aid: 1.63 billion yen for digital connectivity
+
+### Strategic Context
+- Both US allies, strengthening trilateral cooperation
+- China tensions in East and South China Seas
+- PM Takaichi's Taiwan comments angered Beijing
+- Japan opposes "unilateral attempts to change status quo by force"
+
+### Broader Cooperation
+- Infrastructure development
+- Economic security
+- Semiconductors, supply chains
+- Agriculture trade (Philippine bananas)
 
 ## Related Notes
 - [[Asia-Pacific]]

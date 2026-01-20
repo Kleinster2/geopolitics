@@ -74,6 +74,13 @@ Index of influential thinkers, scholars, and practitioners who have shaped geopo
 - **Affiliation**: Harvard Kennedy School
 - **Influence**: Shaped US foreign policy thinking
 
+### [[Stephen Walt]] (1959-)
+- **School**: Neorealism / Defensive Realism
+- **Key Work**: *The Origins of Alliances* (1987), *The Israel Lobby* (2007, with Mearsheimer)
+- **Concept**: Balance of threat theory, [[Predatory Hegemony]] (2026)
+- **Affiliation**: Harvard Kennedy School
+- **Current**: Analysis of Trump foreign policy, coined "predatory hegemony"
+
 ## Contemporary Strategists
 
 ### Henry Kissinger (1923-2023)
@@ -99,6 +106,14 @@ Index of influential thinkers, scholars, and practitioners who have shaped geopo
 - **Key Works**: *The Jungle Grows Back*, *Of Paradise and Power*
 - **Concept**: US hegemony necessity
 - **Affiliation**: Brookings
+
+### [[Hal Brands]] (1983-)
+- **Focus**: Grand strategy, US foreign policy, great power competition
+- **Key Works**: *The Eurasian Century*, *The Twilight Struggle*
+- **Affiliation**: Johns Hopkins SAIS, AEI, Bloomberg Opinion
+- **Orientation**: Realist-leaning, pro-engagement
+- **Current**: Analysis of liberal order erosion under Trump
+- **Key Concept**: Post-1945 order is unraveling; US faces choice between sustaining or profiting from its collapse
 
 ## Asia Specialists
 
@@ -126,13 +141,23 @@ Index of influential thinkers, scholars, and practitioners who have shaped geopo
 - **Affiliation**: Australian National University
 - **Argument**: Accommodation of China
 
+### [[Kevin Rudd]] (1957-)
+- **Focus**: China, Xi Jinping, US-China relations
+- **Key Work**: *The Avoidable War* (2022)
+- **Background**: Former Australian PM, Ambassador to US (2023-2026)
+- **Current**: President, Asia Society (2026-)
+- **Unique**: Fluent Mandarin, PhD on Xi Jinping's worldview
+- **Concept**: "Managed strategic competition"
+
 ## Political Risk/Public Intellectuals
 
-### Ian Bremmer (1969-)
+### [[Ian Bremmer]] (1969-)
 - **Role**: Political risk pioneer
 - **Affiliation**: [[Eurasia Group]] founder
-- **Concepts**: G-Zero, GZERO world
-- **Platform**: Media presence, books
+- **Concepts**: [[G-Zero]], GZERO world
+- **Platform**: GZERO Media, books, speaking
+- **Key Works**: *Every Nation for Itself*, *The Power of Crisis*
+- **Current**: Annual [[Eurasia Group Top Risks 2026|Top Risks]] report
 
 ### George Friedman (1949-)
 - **Role**: Geopolitical forecaster
@@ -195,6 +220,52 @@ Index of influential thinkers, scholars, and practitioners who have shaped geopo
 - **Key Works**: *Bloodlands*, *On Tyranny*
 - **Affiliation**: Yale
 - **Current**: Ukraine war commentary
+
+## Political Economy / Institutions
+
+### Daron Acemoglu (1967-)
+- **Focus**: Why nations succeed or fail, democratic institutions
+- **Key Works**: *Why Nations Fail* (with James Robinson), *The Narrow Corridor*
+- **Affiliation**: MIT
+- **Nobel Prize**: Economics 2024
+- **Current**: Analysis of democratic backsliding, "Theory of Trump"
+- **Key Argument**: Inclusive institutions → prosperity; extractive → failure
+
+## Current Policy Voices (2026)
+
+Thinkers representing key factions in Trump-era foreign policy debates:
+
+### Victoria Coates
+- **Affiliation**: [[Heritage Foundation]] (VP, National Security and Foreign Policy)
+- **Background**: Deputy NSA, first Trump administration
+- **Position**: Pro-Trump, targeted strikes approach
+- **Arguments**:
+  - Targeted strikes change battlefield dynamics without quagmires
+  - Venezuela was linchpin for drug flows—justified intervention
+  - Iran's problems not solvable; regime may collapse without US intervention
+  - Allies must increase capabilities to allow US focus on 4 theaters
+
+### Kori Schake
+- **Affiliation**: [[AEI]] (Senior Fellow, Director of Foreign/Defense Policy)
+- **Background**: NSC official under Clinton and both Bush administrations
+- **Position**: Traditional interventionist, values-based foreign policy
+- **Arguments**:
+  - No dominant power has had as much voluntary assistance as US post-1945
+  - Values and self-restraint bring cooperation
+  - Threatening allies makes everything costlier
+  - Tactical military elegance must connect to strategic objectives
+  - Morally wrong to encourage protesters without protecting them
+
+### Jennifer Kavanagh
+- **Affiliation**: Defense Priorities (Senior Fellow, Director of Military Analysis)
+- **Position**: Restrainer
+- **Arguments**:
+  - US should pull back from Europe; Russia not major threat to US
+  - Europe rich and prosperous, can defend itself
+  - Military power inappropriate for law enforcement challenges (drugs/cartels)
+  - Values-based foreign policy doesn't serve US interests
+  - Might has always made right—this isn't new
+  - "Pivot home" instead of pivot to Asia
 
 ## How to Use This Index
 

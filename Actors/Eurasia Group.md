@@ -44,7 +44,20 @@ World's largest political risk consultancy, founded by Ian Bremmer. Provides geo
 - Track record mixed but influential
 
 ### Recent Top Risks
-Examples of themes identified:
+
+#### [[Eurasia Group Top Risks 2026]]
+1. The US vs. Itself (domestic political revolution)
+2. Overpowered ([[G-Zero]] accelerates)
+3. [[Donroe Doctrine]] (Trump's Western Hemisphere)
+4. Europe under siege
+5. Russia's second front
+6. State capitalism with American characteristics
+7. China's deflation trap
+8. AI eats its users
+9. Zombie USMCA
+10. Water weapon
+
+#### Historical Themes
 - US political dysfunction
 - China's rise/assertiveness
 - Technology/AI governance
@@ -148,3 +161,6 @@ Examples of themes identified:
 - [[Geopolitics]]
 - [[Think Tanks]]
 - [[Ian Bremmer]]
+- [[G-Zero]]
+- [[Eurasia Group Top Risks 2026]]
+- [[Donroe Doctrine]]

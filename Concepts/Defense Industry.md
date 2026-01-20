@@ -145,6 +145,39 @@ The industrial base that designs, develops, and produces military equipment. A s
 - Long-lead item bottlenecks
 - Alliance production coordination
 
+## 2025-2026: European Rearmament Boom
+
+### Scale of Investment
+- Germany: €500 billion defense commitment by 2029
+- NATO: 5% GDP spending target (raised June 2025)
+- EU: €150 billion SAFE defense loan fund
+
+### Key Beneficiaries
+| Company | Country | Surge Area |
+|---------|---------|------------|
+| [[Rheinmetall]] | Germany | Ammunition, armor, air defense |
+| [[Dassault Aviation]] | France | Fighter jets |
+| [[MBDA]] | European | Missiles |
+| [[Kongsberg]] | Norway | NASAMS air defense |
+
+### European Air Defense Focus
+- NATO drone wall initiative
+- European Sky Shield (German-led)
+- Massive investment in detection/intercept
+- See: [[European Air Defense]]
+
+### FCAS Crisis
+- 6th-gen fighter program "about to fall apart"
+- Dassault vs Airbus workshare disputes
+- Franco-German defense tensions
+- Could fragment European industry
+
+### Challenges
+- Production capacity limits
+- Workforce shortages
+- Supply chain bottlenecks
+- National preference vs. integration
+
 ## Technology Frontiers
 
 ### Emerging Areas

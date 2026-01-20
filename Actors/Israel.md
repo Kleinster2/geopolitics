@@ -97,10 +97,40 @@ Militarily dominant Middle Eastern democracy with undeclared nuclear arsenal. Fa
 - Maritime interdiction
 - Cyber operations
 
+## 2025-2026: Strategic Transformation
+
+### June 2025: 12-Day Attack on Iran
+- Comprehensive strikes on Iranian nuclear and military infrastructure
+- Joint operation with United States
+- Killed multiple senior IRGC commanders
+- Destroyed Iranian air defenses
+- Set back nuclear program significantly
+
+### Strategic Outcomes
+- Iran dramatically weakened
+- [[Axis of Resistance]] degraded (Assad fell Dec 2024, Hezbollah decimated)
+- Regional position strongest in decades
+- Nuclear threat reduced (for now)
+
+### Current Posture (2026)
+- Watching [[Iran Protests 2025-2026]] quietly
+- Giving Trump administration space to act
+- Netanyahu: Won't allow Iran to rebuild missiles or nuclear program
+- Prepared for additional strikes if needed
+
+### US-Israel Alignment
+- Trump administration highly aligned with Israeli priorities
+- Abraham Accords expansion as shared goal
+- Coordinated Iran containment strategy
+- US threatened military intervention if Iran cracks down on protesters
+
 ## Related Notes
 - [[Middle East]]
 - [[Iran]]
 - [[United States]]
+- [[US-Israel Relations]]
 - [[Abraham Accords]]
 - [[Nuclear Proliferation]]
 - [[Palestinian Conflict]]
+- [[Iran-Israel Shadow War]]
+- [[Iran Protests 2025-2026]]

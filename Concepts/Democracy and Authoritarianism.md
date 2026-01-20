@@ -78,6 +78,52 @@ Full Democracy → Flawed Democracy → Hybrid → Competitive Auth → Closed A
 - Brazil (Bolsonaro period)
 - Philippines (Duterte period)
 - India (democratic erosion concerns)
+- **United States** (Trump era - see below)
+
+## US Democratic Erosion (2025-2026)
+
+### Acemoglu's "Theory of Trump"
+Nobel laureate Daron Acemoglu (*Why Nations Fail*) argues all Trump administration actions share unified logic: **expanding executive power toward an imperial presidency**.
+
+### Three-Pronged Strategy
+
+#### 1. Breaking Norms
+- DOJ targeting political enemies
+- National Guard deployments under "crime emergency" pretext
+- President involved in family businesses while in office
+- Defying court orders (deportation case)
+- Crypto dealings that would have been prosecuted previously
+
+#### 2. Removing Legal Barriers
+- Supreme Court: near-absolute immunity for presidents (July 2024)
+- Limits on nationwide injunctions
+- Authority to fire independent agency heads
+- Cutting Congress out of: tariffs, troop deployments, oversight
+
+#### 3. Expanding De Facto Power
+- Appointing loyalists to head agencies
+- Unqualified appointees = more loyal, more compliant
+- Dismantling "administrative state" / "deep state"
+- Conflicts with Federal Reserve
+
+### Carl Schmitt Connection
+Acemoglu links Trump's philosophy to **Carl Schmitt** (1888-1985):
+- German jurist who rose during Weimar/Third Reich
+- Contempt for liberal democracy, parliamentary rule
+- Called for authoritarian "sovereign" power
+- "States of exception" require ultimate decider
+- Ideas adopted by right-wing thinkers when facing democratic constraints
+
+### Foreign Policy as Domestic Power
+- Tariffs give president power over supply chains
+- Makes major companies (Apple, Walmart) subservient
+- Foreign interventions (Venezuela) boost domestic authority
+- "Much more about his domestic agenda than about foreign policy"
+
+### Lasting Danger
+- Changes may be permanent regardless of successor
+- Both left and right tempted to expand executive when in power
+- "Real danger" = fundamental transformation of American politics
 
 ## Authoritarian Resilience
 

@@ -119,7 +119,7 @@ Decades-long covert conflict between Iran and Israel fought through assassinatio
 - Most intercepted
 - Response to Damascus consulate strike
 
-### Israeli Retaliation
+### Israeli Retaliation (April)
 - Limited strike on Iran
 - Air defense targeted
 - De-escalation signaled
@@ -127,8 +127,56 @@ Decades-long covert conflict between Iran and Israel fought through assassinatio
 ### October 2024: Second Round
 - Iran ballistic missile attack
 - Response to Nasrallah killing
-- Israeli response TBD
-- Escalation ongoing
+- Israeli strikes on Iranian military targets
+
+### December 2024
+- Assad regime falls in Syria
+- Iran loses key regional ally
+- Axis of Resistance severely degraded
+
+## 2025: Full-Scale War
+
+### Failed Diplomacy (April-June 2025)
+- Trump sends letter to Khamenei proposing nuclear talks
+- April 12: Direct US-Iran negotiations begin
+- 60-day deadline set
+- Deadline passes without agreement
+
+### June 2025: Israel's 12-Day Attack
+- Beginning June 13, 2025: Israel launches comprehensive strikes
+- **US participation**: Joint US-Israel operations
+- **Targets**: Nuclear facilities, military infrastructure
+- **Leadership decapitation**: Multiple senior IRGC commanders killed
+- **Air defenses**: Destroyed, leaving Iran exposed
+- Goal: Prevent nuclear weapons development
+
+### US Strikes on Nuclear Facilities
+- US directly strikes Iranian nuclear sites
+- **B-2 stealth bombers** used (confirmed)
+- First direct US military action against Iran's nuclear program
+- Significant damage to enrichment capacity
+- Washington Week (Jan 2026): "took out 3 nuclear sites"
+
+### Results
+- IRGC leadership decimated
+- Nuclear program set back
+- Air defense capability destroyed
+- Regime severely weakened
+- Set stage for [[Iran Protests 2025-2026]]
+
+## 2026: Current Status
+
+### Israel's Posture
+- Waiting quietly as protests unfold
+- Giving Trump space to decide next moves
+- Netanyahu: Will not allow Iran to rebuild missiles or nuclear program
+- Prepared to strike again if Iran reconstitutes
+
+### US-Israel Coordination
+- Trump administration sees weakened Iran as opportunity
+- Abraham Accords expansion as regional strategy
+- Continued containment of Iran
+- Trump has threatened military intervention if crackdown continues
 
 ## Rules of Engagement (Evolving)
 

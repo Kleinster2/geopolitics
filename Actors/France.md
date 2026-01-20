@@ -94,6 +94,59 @@ Europe's foremost military power with global reach, permanent UN Security Counci
 - Energy independence
 - Industrial policy
 
+## 2025-2026: German Rearmament Anxiety
+
+### The Problem
+Historical European balance being upended:
+- **Old model**: France = geopolitical power, Germany = economic power
+- **New reality**: Germany becoming both, leaving France sidelined
+- Germany spending €500 billion on defense by 2029
+- France lacks fiscal space to match
+
+### French Concerns
+- "Schizophrenic" mood: relief Germany doing more, anxiety about being surpassed
+- German defense industry threatening French sector dominance
+- Political fragility weakening France's geopolitical heft
+- Center of European gravity moving east
+
+### FCAS Collapse
+- Future Combat Air System (6th-gen fighter)
+- Joint project with Germany (Dassault + Airbus)
+- Years of failed negotiations over production share
+- Europe's most ambitious defense project "about to fall apart"
+
+### Feeling Excluded
+- European Sky Shield Initiative announced without France
+- Germany chose US F-35s over European aircraft
+- Perception of Germany acting unilaterally despite rhetoric of cooperation
+
+### French Response
+- Push for "Buy European" defense procurement
+- Advocating exports to European neighbors over distant customers
+- Concern but recognition: "France has long complained about doing the job alone"
+
+## January 2026: Major Deployments
+
+### Greenland
+- Military team **already on ground**
+- Reinforcing with air, sea, land assets
+- Responding to US annexation threats
+- Unprecedented: Defending NATO ally from NATO ally
+- Shows European solidarity and strategic autonomy in action
+
+### Ukraine
+- **Jan 6, 2026**: France, UK, Ukraine signed declaration of intent
+- France to deploy armed forces to Ukraine
+- Multinational force for deterrence operations
+- "Coalition of the Willing" meeting hosted by Macron in Paris
+- Significant escalation of European support
+
+### Strategic Context
+- France asserting European defense leadership
+- Filling gap left by reduced US commitments
+- Macron's "strategic autonomy" rhetoric becoming reality
+- Tests of European capability without US direction
+
 ## Domestic Factors
 - Presidential power
 - Political fragmentation
@@ -104,7 +157,9 @@ Europe's foremost military power with global reach, permanent UN Security Counci
 ## Related Notes
 - [[European Union]]
 - [[Germany]]
+- [[Franco-German Relations]]
 - [[NATO]]
 - [[Africa]]
 - [[Indo-Pacific]]
 - [[Nuclear Weapons]]
+- [[Defense Industry]]

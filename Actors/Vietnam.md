@@ -17,8 +17,8 @@ One-party communist state with capitalist economy that has emerged as a key play
 - **Population**: ~100 million
 - **GDP**: ~$430 billion
 - **Ruling Party**: Communist Party of Vietnam (CPV)
-- **Leader**: General Secretary (paramount)
-- **System**: "Collective leadership"
+- **General Secretary**: To Lam (since 2024)
+- **System**: Moving from "collective leadership" toward centralization
 
 ## Geopolitical Position
 
@@ -105,17 +105,27 @@ Communist country that:
 - Party control maintained
 
 ### Growth Story
-- 6-7% growth (sustained)
+- 6-7% growth (sustained historically)
+- **8.02% growth in 2025** - among world's strongest
 - Poverty reduction dramatic
 - Manufacturing hub
 - Export success
+- Targeting 10% growth in 2026 (ambitious)
 
 ### Supply Chain Winner
-- China+1 beneficiary
+- China+1 beneficiary (accelerated under Trump tariffs)
 - Samsung major presence
-- Apple suppliers relocating
-- Electronics assembly
-- Textiles, footwear
+- Apple expanding operations
+- Kimberly-Clark expanding
+- FDI disbursed up 9% in 2025
+- Export surge as firms relocate from China
+- Electronics assembly, textiles, footwear
+
+### Infrastructure Blitz (2025-2026)
+- Rail link to China under construction
+- New airports being built
+- Major transport investments
+- Government spending push
 
 ### Challenges
 - Middle-income trap
@@ -154,10 +164,39 @@ Communist country that:
 
 ### Leadership
 - General Secretary (top)
-- President (ceremonial + )
+- President (ceremonial + military commander)
 - Prime Minister (government)
 - National Assembly Chair
 - "Four Pillars" system
+
+## To Lam Era (2024-)
+
+### Power Consolidation
+- **To Lam**: Former public security minister, became General Secretary mid-2024
+- Seeking dual role: General Secretary + President (Xi Jinping model)
+- January 2026 Party Congress: Attempting to secure both positions
+- Would give "unprecedented authority" if successful
+
+### Radical Reforms
+- Cut number of provinces by **half**
+- Eliminated entire tier of local government
+- Slashing bureaucracy - thousands of civil servants lost jobs
+- Elevated private sector prominence
+- Anti-corruption campaign used to remove rivals
+- 2,300+ party members disciplined since 2021
+
+### Resistance
+- Conservative factions and military pushing back
+- Concerns over pace of change and promotion of allies
+- Son To Long elevated to senior public security role
+- Many provincial chiefs and party officials removed
+
+### Xi Jinping Parallels
+- Using anti-corruption to consolidate power
+- Stacking Politburo with loyalists
+- Burnishing family's revolutionary credentials
+- Centralizing authority vs. "collective leadership" tradition
+- Tightening media restrictions
 
 ### Human Rights
 - Restrictions on speech, assembly

@@ -222,6 +222,82 @@ Elements used:
 - Territory requires force
 - Occupation needs troops
 
+## Russia's 2025 Hybrid Campaign Against NATO
+
+As Putin struggles in Ukraine, Russia has intensified hybrid attacks on Ukrainian allies. Italy's defense minister called for urgent response to Russia's "ongoing" hybrid war.
+
+### Sabotage Operations
+
+#### Infrastructure Attacks
+| Date | Target | Location | Details |
+|------|--------|----------|---------|
+| Nov 2025 | Railway | Poland | Explosive destroyed track to Ukraine border |
+| Oct 2023+ | Undersea cables | Baltic Sea | Power, telecom, gas pipeline severed |
+| 2024 | Ikea store | Lithuania | GRU-recruited arsonists |
+| 2025 | Warehouse | UK | Ukrainian-linked facility |
+
+#### GRU Coordination
+- Russian military intelligence (GRU) oversees operations
+- Recruits locals online through intermediaries
+- Targets in Poland, UK, Estonia, Lithuania
+- Parcel bombs, arson, vandalism for cash
+- Telegram used for recruitment
+
+### Political Interference
+
+#### Romania (Nov 2024)
+- Elaborate scheme propelled pro-Kremlin candidate to victory
+- 4 Russia-linked companies orchestrated fake social media accounts
+- AI bots reached 1.3 million citizens
+- Result annulled by highest court
+
+#### Moldova
+- Plan to reverse EU membership progress
+- Recruiting Moldovans abroad to vote
+- Staging disruptive protests
+- Social media disinformation campaign
+
+#### Storm-1516
+- Russian group producing deepfake videos
+- AI-generated content targeting elections
+- Reached millions on social media
+- Fraudulent claims against officials
+
+### Airspace Violations
+
+| Date | Incident | Location |
+|------|----------|----------|
+| Sept 9, 2025 | Poland shot down Russian drones | Poland |
+| Sept 19, 2025 | MiG-31 fighters escorted out | Estonia |
+| Sept 22-24, 2025 | Drone overflights halted airports | Denmark |
+| 2025 | 3 violations (first in decade) | Norway |
+| Oct-Nov 2025 | Balloon incursions closed border | Lithuania-Belarus |
+
+### Cyberattacks
+- Georgia espionage campaign (2017-2020)
+- Satellite internet knockout (Feb 2022)
+- DDoS attacks on Western governments, banks
+- Coordinated with missile strikes on Ukraine
+- Pro-Russian hacking groups: NoName057(16), Cyber Army of Russia
+
+### Weaponized Migration
+- Finland-Russia border closed since 2023
+- Migrants transported by Kremlin operatives
+- First tested in 2015 (Lapland)
+- 2021 Belarus crisis (Latvia, Lithuania, Poland)
+
+### GPS Jamming
+- Widespread disruption in Eastern Europe
+- Small airports affected
+- Spanish defense minister's plane jammed (Sept 2025)
+- Daily tracking maps now exist
+
+### Countering Hybrid Threats
+- European Centre of Excellence (Helsinki, 2017)
+- NATO Article 4 invoked by Poland (Sept 2025)
+- EU designates acts as "state-sponsored terrorism"
+- Calls for ICC prosecution of cyberattacks as war crimes
+
 ## Related Concepts
 - [[Gray Zone]]
 - [[Cyber Warfare]]

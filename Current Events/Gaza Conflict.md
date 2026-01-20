@@ -160,12 +160,42 @@ Major escalation of Israeli-Palestinian conflict following Hamas's October 7, 20
 - Saudi normalization future?
 - Axis of Resistance strength?
 
+## Phase 2 Ceasefire (January 2026)
+
+### Phase One Results (Oct 2025 - Jan 2026)
+- Ceasefire took effect **October 10, 2025**, ending two years of war
+- All living hostages released for ~2,000 Palestinian prisoners
+- One remaining: Ran Gvili (remains not returned)
+
+### Phase Two Announced (January 14, 2026)
+- US Special Envoy Steve Witkoff announced Phase Two
+- **National Committee for Gaza Administration**: 15-member technocratic body
+- Led by Ali Shaath (former PA deputy minister)
+- Former UN envoy Nickolay Mladenov as "Board of Peace" director
+- Focus: Demilitarization, transitional governance, reconstruction
+
+### Ceasefire Violations (Phase One)
+- Israel violated ceasefire **1,193 times** (Oct 10, 2025 - Jan 9, 2026)
+- Attacks on 82 of 97 days
+- **442 Palestinians killed**, 1,240 injured during ceasefire
+- Only 43% of agreed aid trucks (23,019/54,000) entered Gaza
+
+### Total Casualties
+- **71,439+ Palestinians killed** (Oct 7, 2023 - Jan 14, 2026)
+- Including 20,179 children
+- Per Palestinian Ministry of Health
+
+### Regional Status (Jan 2026)
+- **Iran**: Facing massive internal protests, weakened by 2025 Israeli/US strikes
+- **Hezbollah**: Nov 2024 ceasefire ended direct fighting; Israel struck 17 times on Jan 2
+- **Houthis**: Expected to resume Red Sea attacks if fighting resumes
+
 ## Historical Context
 
 ### Previous Gaza Wars
 - 2008-09, 2012, 2014, 2021
 - Pattern of escalation-ceasefire
-- This one different in scale
+- 2023-2025 war different in scale and duration
 
 ### Palestinian Issue
 - 1948 Nakba

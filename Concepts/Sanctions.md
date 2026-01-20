@@ -80,6 +80,65 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - Export controls (technology)
 - Results: Economic damage, adaptation, no war end
 
+## Frozen Russian Assets (2025 Debate)
+
+### The Assets
+- **$280 billion** Russian central bank assets frozen
+- Held by G-7, EU, Australia
+- Bulk at Euroclear in Brussels, Belgium
+- Putin moved most out of US in 2018 after earlier sanctions
+
+### Legal Status
+- Assets frozen, not seized
+- Russia retains legal ownership
+- Cannot repatriate or use funds
+- Western nations cannot spend without legal basis
+
+### G-7 Loan Deal (2024)
+- Leave principal assets untouched
+- Provide Ukraine loans repaid using **interest earned**
+- EU providing €45 billion through this mechanism
+- Avoids "theft" accusations
+
+### EU Escalation (Dec 2025)
+- US aid to Ukraine "evaporated" under Trump
+- EU proposes using assets as **collateral** for €90 billion more
+- Would require indefinite asset freeze
+- Emergency powers invoked to enforce freeze
+- Russia only gets assets back if pays for Ukraine reconstruction
+
+### Belgium's Concerns
+- Hosts bulk of assets at Euroclear
+- Fears liability if Russia sues
+- Wants full risk mutualization across EU
+- Worried about Russian retaliation against Belgian businesses
+
+### Legal/Systemic Risks
+- Could be construed as "theft" under international law
+- Precedent concerns for global finance
+- Fear of capital flight from developing nations
+- Euro reserve currency status implications
+- Russia/China pushing alternative financial systems
+
+### Russia's Response
+- Threatens to confiscate Western assets in Russia
+- Putin signed fast-track nationalization order (Oct 2025)
+- Already frozen foreign assets at war's start
+- Could seize foreign-owned companies
+
+### Stakes
+- Ukraine funding gap: **$65 billion** over 4 years (IMF)
+- Without funds, Ukraine loses leverage in peace talks
+- EU fears "lopsided deal" rewarding Putin
+- Lithuania FM: Europe loses "relevant role" if plan fails
+
+### Precedents
+| Case | Year | Details |
+|------|------|---------|
+| Iraqi funds | 2003 | US seized $1.7B after Saddam ousted |
+| Cuban funds | 1996 | US seized, used for compensation |
+| Oligarch yachts | 2022 | Kerimov, Vekselberg yachts seized |
+
 ## Humanitarian Concerns
 - Comprehensive sanctions harm civilians
 - Medical/food exemptions needed
@@ -94,12 +153,15 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - Parallel financial systems
 
 ## Related Concepts
+- [[Geoeconomics]]
 - [[Economic Statecraft]]
 - [[Coercive Diplomacy]]
 - [[Hard Power]]
 - [[Iran]]
 - [[Russia]]
 - [[North Korea]]
+- [[Ukraine Crisis]]
+- [[Dollar Dominance]]
 
 ## Further Reading
 - Hufbauer et al., *Economic Sanctions Reconsidered* (2007)

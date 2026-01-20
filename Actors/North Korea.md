@@ -100,6 +100,44 @@ Isolated totalitarian state with advancing nuclear and missile capabilities. Reg
 | 2003-2009 | Six-Party Talks (failed) |
 | 2018-2019 | Trump-Kim summits (no deal) |
 | 2022+ | Return to testing |
+| 2025-2026 | Deep Russia alliance, rejected Trump overtures |
+
+## January 2026 Developments
+
+### Missile Tests
+- **January 4, 2026**: First test of year - hypersonic missiles
+- Hwasong-16B solid-fuel IRBM, 900 km range
+- Kim personally oversaw, cited "geopolitical crisis"
+- Progress on first nuclear-powered submarine revealed
+
+### Kim's Messaging
+- **New Year Address**: No mention of US or South Korea
+- Praised troops fighting in "alien land" alongside Russia
+- Emphasized "invincible alliance" with Moscow
+- **Letter to Putin (Jan 9)**: Pledged "unconditional" support for all Putin's policies
+
+### Russia Alliance Deepening
+- Evolved from cash-for-weapons to active military cooperation
+- North Korean troops deployed in Ukraine
+- Russia expected to transfer advanced military technology
+- Effective formal war alliance declared
+
+### China Relations
+- Accelerated exchanges since September 2025 Kim-Xi summit
+- Xi prioritizing DPRK over South Korea ties
+- Strategy: "Security with Russia, economy with China"
+
+### CRINK Axis
+- China, Russia, Iran, North Korea cooperation intensifying
+- Challenging US and global governance
+- Ambitions to "reshape" Asia's political landscape
+
+### Trump Administration
+- Trump referred to DPRK as "sort of a nuclear power"
+- Expressed desire to meet Kim again
+- **Kim quietly rejected overtures** (burned by Hanoi 2019)
+- December 2025 NSS: No mention of North Korea (China mentioned 21x)
+- Talks considered significantly less likely than Trump 1.0
 
 ## Threat Assessment
 

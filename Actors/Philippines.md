@@ -162,10 +162,27 @@ US treaty ally and frontline state in South China Sea disputes with China. Strat
 - ASEAN centrality
 
 ### Bilateral Ties
-- Japan: Quasi-alliance developing
+- Japan: Quasi-alliance developing → **ACSA signed Jan 2026**
 - Australia: Growing defense ties
 - Vietnam: SCS coordination
 - Indonesia: Maritime cooperation
+
+## Japan-Philippines ACSA (Jan 2026)
+
+### Agreement Details
+- **Acquisition and Cross-Servicing Agreement** signed
+- Exchange of logistical support, supplies, services
+- Supports mutual military visits pact (effective 2025)
+
+### Japan Security Assistance
+- 900 million yen ($5.7M) for armed forces modernization
+- Previous: boats, coastal radar systems
+- 1.63 billion yen aid for Mindanao digital connectivity
+
+### Context
+- China ship clashes in contested waters
+- Manila: tensions "direct result of China's persistent illegal, coercive, aggressive and deceptive activities"
+- Both nations strengthening trilateral US cooperation
 
 ## Key Challenges
 

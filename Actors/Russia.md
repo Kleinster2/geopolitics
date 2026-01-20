@@ -87,9 +87,45 @@ Largest country by territory, wielding significant military power (largest nucle
 - Internal stability
 - Military reconstitution
 
+## Hybrid Warfare Campaign (2025)
+
+As Putin struggles to achieve objectives in Ukraine, Russia has intensified hybrid attacks on Ukrainian allies across NATO.
+
+### Toolkit
+| Method | Examples |
+|--------|----------|
+| **Sabotage** | Poland railway bombing, Baltic Sea cables |
+| **Political interference** | Romania election, Moldova schemes |
+| **Airspace violations** | Poland drones, Estonia MiG-31s |
+| **Cyberattacks** | DDoS on governments, infrastructure |
+| **Weaponized migration** | Finland border, Belarus crisis |
+| **GPS jamming** | Eastern European airports |
+
+### GRU Operations
+- Military intelligence coordinates sabotage
+- Recruits locals via Telegram for cash
+- Targets infrastructure in NATO countries
+- Arson, bombs, vandalism campaigns
+
+### Deepfakes & Disinformation
+- Storm-1516 group produces AI deepfakes
+- Targeted elections in US, Europe
+- Reached millions on social media
+- Romania election annulled due to interference
+
+### Western Response
+- EU labels attacks "state-sponsored terrorism"
+- NATO Article 4 invoked (Poland, Sept 2025)
+- European Centre of Excellence countering threats
+- Calls for ICC prosecution of cyberattacks
+
+See: [[Hybrid Warfare]]
+
 ## Related Notes
 - [[NATO]]
 - [[Europe]]
 - [[Ukraine Crisis]]
+- [[Hybrid Warfare]]
+- [[Cyber Warfare]]
 - [[Nuclear Weapons]]
 - [[Energy Security]]

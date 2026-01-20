@@ -35,7 +35,7 @@ A pattern of activity that sustains elementary goals of society:
 - One dominant power sets rules
 - Others accept/comply
 - Stability through dominance
-- Example: Pax Britannica, Pax Americana
+- Example: Pax Britannica, [[Pax Americana]]
 
 #### Balance of Power Order
 - Multiple great powers
@@ -166,6 +166,59 @@ A pattern of activity that sustains elementary goals of society:
 - Multipolarity
 - Civilizational distinctiveness
 
+## 2026: The Order Unravels (Hal Brands Analysis)
+
+### Symptoms of Collapse
+The transition away from the post-1945 liberal order is accelerating:
+- Superpower "snatching foreign leaders in the dead of night" (Maduro)
+- Strong countries threatening to redraw weaker neighbors' borders (Greenland, Ukraine, Himalayas)
+- International law and [[Arms Control]] agreements unraveling
+- Armed conflict surging as curbs on aggression erode
+- [[Freedom of Navigation]] challenged (Red Sea, Western Pacific)
+- Rules-based trading system becoming "thing of the past"
+
+### [[State Death]]: A Telling Statistic
+> Between 1816 and 1945, a quarter of the world's states simply vanished from the map at some point. Since 1945, "state death" has become vanishingly rare.
+
+This stability is now threatened.
+
+### Multiple Culprits
+| Actor | Role in Erosion |
+|-------|-----------------|
+| **Russia, China** | Long chafed at US rules, unwinding them as power grows |
+| **Endangered democracies** | Choosing buffer zones over international law |
+| **Globalization** | Excesses destroyed WTO; predatory China behavior |
+| **United States** | Recalculating whether order serves its interest |
+
+### Trump's Strategic Bet
+Stephen Miller: "We live in a world … that is governed by strength, that is governed by force, that is governed by power. These are the iron laws of the world since the beginning of time."
+
+Trump's calculation:
+- More nakedly competitive world benefits the fiercest player
+- US - with unmatched military and resource-rich hemisphere - will have greatest [[Spheres of Influence|sphere of influence]]
+- If Washington can't afford to uphold order, seize largest share of the loot
+- Pursuing mercantilist ends through [[Gunboat Diplomacy]]
+
+### [[Predatory Hegemony]] (Stephen Walt)
+[[Stephen Walt]] coined "predatory hegemony" to describe this approach:
+- Traditional hegemony preys on **adversaries**
+- Predatory hegemony preys on **everyone**, including allies
+- "What's mine is mine, what's yours is negotiable"
+- Works short-term against dependent allies
+- Long-term failure as allies diversify and push back
+
+### The [[Melian Dialogue]] Returns
+Trump making the ancient Athenian ethos US policy:
+> "The strong do what they will and the weak suffer what they must."
+
+### Risks of the Bet
+- Grabbing Greenland could fracture NATO
+- Losing global legitimacy that lubricates American strength
+- Post-liberal-order world may be less prosperous, less stable
+- Even the US may eventually suffer
+
+> "Trump is betting that American power and well-being will survive, even soar, after the demise of the US order. In typically Trumpian fashion, he won't be around to pay the price if the wager fails." — Hal Brands
+
 ## Order Transition Scenarios
 
 ### 1. Liberal Order Adapts
@@ -228,3 +281,20 @@ A pattern of activity that sustains elementary goals of society:
 - [[China]]
 - [[United States]]
 - [[Power Transition]]
+- [[Melian Dialogue]]
+- [[State Death]]
+- [[Freedom of Navigation]]
+- [[Spheres of Influence]]
+- [[Gunboat Diplomacy]]
+- [[Arms Control]]
+- [[Greenland Crisis]]
+- [[Venezuela]]
+- [[Pax Americana]]
+- [[Thucydides Trap]]
+- [[Monroe Doctrine]]
+- [[UNCLOS]]
+- [[FONOPs]]
+- [[Hal Brands]]
+- [[Stephen Walt]]
+- [[Predatory Hegemony]]
+- [[Donroe Doctrine]]

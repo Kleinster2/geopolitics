@@ -149,6 +149,7 @@ Climate change is transforming the Arctic from frozen periphery to strategic fro
 - Distant from Arctic center
 - Limited icebreaker fleet
 - Playing catch-up
+- Thule Air Base in Greenland (Danish territory)
 
 ### Strategic Awakening
 - Arctic strategy updated
@@ -156,6 +157,14 @@ Climate change is transforming the Arctic from frozen periphery to strategic fro
 - Alaska base investments
 - NATO coordination
 - China/Russia concerns
+
+### 2026 Greenland Crisis
+- Trump openly threatening **forcible annexation** of Greenland
+- Unprecedented: NATO ally threatening NATO ally
+- Cites strategic Arctic importance
+- European troops deploying to Greenland in response
+- Danish PM: Would end NATO if US attacks
+- See: [[Greenland Crisis]], [[Greenland]], [[Denmark]]
 
 ### Icebreaker Gap
 | Country | Heavy Icebreakers |
@@ -255,6 +264,10 @@ Climate change is transforming the Arctic from frozen periphery to strategic fro
 ## Related Concepts
 - [[Russia]]
 - [[China]]
+- [[United States]]
+- [[Denmark]]
+- [[Greenland]]
+- [[Greenland Crisis]]
 - [[Climate Change]]
 - [[Energy Security]]
 - [[Critical Minerals]]

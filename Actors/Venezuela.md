@@ -199,20 +199,110 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 - Distraction tactic?
 - Resource motivation
 
-## Future Scenarios
+## US Military Intervention (January 3, 2026)
 
-### Possibilities
-1. Regime persistence
-2. Negotiated transition
-3. Succession (Maduro)
-4. Collapse/fragmentation
+### Operation Absolute Resolve
+- **2:00 AM local time**: US bombed air defenses across northern Venezuela
+- Apprehension force attacked Maduro's compound in Caracas
+- **Maduro and wife Cilia Flores captured**
+- Transported to New York City by US forces
+- Zero US casualties
+- Closest parallel: Panama 1989 (Noriega capture)
 
-### Key Variables
-- Oil prices
-- Military loyalty
-- External support
-- Opposition capacity
-- US policy
+### Legal Framing
+- Maduro and Flores indicted on **narcoterrorism charges**
+- Pleaded not guilty in Manhattan federal court (Jan 5)
+- Trump: "inherent constitutional authority" for operation
+- Trump explicitly cited **oil access** as core reason
+- Chatham House: "significant violation of Venezuelan sovereignty"
+
+### Walt's Analysis: The Real Reasons
+[[Stephen Walt]] argues the stated justifications don't hold:
+
+> "It's not primarily about narcotics, because Venezuela is not a major drug source. It's not about the regime itself, because you've now left the old regime in place. It's not about anything they've done that threatens anyone's security."
+
+**What it's really about:**
+- Putting Latin America on notice: "This is our hemisphere and we're going to run it"
+- [[Monroe Doctrine]] enforcement
+- Demonstrating US dominance in Western Hemisphere
+- Example of [[Predatory Hegemony]] extending to entire region
+- Message: resistance will not be tolerated
+
+### Aftermath in Venezuela
+- **Acting President**: Delcy Rodríguez (Maduro's handpicked lieutenant)
+- Interior minister and defense minister left in place
+- Rodríguez: "There is only one president - Nicolás Maduro"
+- 68 political prisoners released (of 800+ held)
+- Trump: "US is in charge of Venezuela"
+
+**Reality on the Ground (January 2026):**
+- Security services of Maduro government still running Venezuela
+- State Department warning: "No American is safe in Venezuela"
+- Regime reestablishing terror networks
+- Terror networks that kept Maduro in power remain operational
+- AG Barr worked on Maduro indictments back in 2020—this is not new
+
+### Nobel Prize Incident
+[[María Corina Machado]] gave Trump her **physical Nobel Peace Prize medal** as a gesture of gratitude:
+- Machado won the Nobel Peace Prize (exact date TBD)
+- Presented the actual medal to Trump at the White House
+- Trump appeared to conflate having the medal with being a laureate
+- Nobel Committee clarified: prizes cannot be transferred; recipient remains the laureate
+- Trump has long desired Nobel recognition (resented Obama receiving one "after just a few weeks")
+- Teddy Roosevelt's 1906 Nobel medal is displayed elsewhere in the White House
+
+### International Reactions
+| Response | Countries |
+|----------|-----------|
+| **Condemned** | Brazil, Spain, Chile, Colombia, Mexico, Uruguay, China |
+| **Supported** | NATO members, most of Europe/North America |
+| **China** | Demands immediate release of Maduro |
+
+### Regional Response
+- Brazil: Joint communiqué expressing "deep concern"
+- Minimal action beyond careful words
+- Latin America exposed as geopolitically impotent
+- Brazil and Cuba "biggest losers" from reshuffle
+
+### Why It Happened
+- Brazil spent years misreading the crisis
+- Lula enabled Maduro (May 2023 red carpet visit)
+- Regional institutions failed to respond to authoritarian drift
+- "Respect for sovereignty" used to mask indifference
+- US felt emboldened by regional paralysis
+
+### Implications
+- End of US reluctance to intervene in Western Hemisphere
+- Death of Latin American "non-intervention" norm
+- Brazil's UNSC ambitions damaged
+- BRICS, Global South rhetoric exposed as hollow
+- First capture of sitting head of state since Noriega
+
+### Strategic Critique
+Kori Schake (AEI) argues tactical elegance doesn't connect to strategic objectives:
+- Not regime change (same people in power)
+- Not assisting democratic transition
+- Story keeps shifting about objectives
+- Clock ticking as regime reestablishes control
+
+Jennifer Kavanagh (Defense Priorities) notes:
+- Threats in Western Hemisphere are drugs/cartels—law enforcement challenges
+- Military power was inappropriate tool
+- Once Maduro gone, keeping regime preferable to De-Ba'athification repeat (Iraq lesson)
+
+Victoria Coates (Heritage) defends approach:
+- Trump gave Maduro nearly a year of engagement first
+- Venezuela identified as linchpin for drug/cartel flows
+- Law enforcement operation using existing institutions for orderly transition
+
+## Future Scenarios (Post-Intervention)
+
+### Challenges
+- Nation-building complexity
+- Venezuelan institutional capacity
+- Economic reconstruction
+- Refugee returns
+- Regional relations
 
 ## Lessons
 
@@ -230,10 +320,17 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 
 ## Related Notes
 - [[Americas]]
+- [[Brazil]]
 - [[Colombia]]
 - [[Cuba]]
 - [[Russia]]
 - [[China]]
+- [[United States]]
 - [[Oil]]
 - [[Sanctions]]
 - [[Democracy and Authoritarianism]]
+- [[Monroe Doctrine]]
+- [[Donroe Doctrine]]
+- [[Predatory Hegemony]]
+- [[Stephen Walt]]
+- [[Spheres of Influence]]

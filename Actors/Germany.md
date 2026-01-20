@@ -16,8 +16,8 @@ Europe's largest economy and the EU's de facto leader. Historically restrained o
 - **Capital**: Berlin
 - **Population**: ~84 million
 - **GDP**: ~$4.5 trillion (4th largest)
-- **Military Budget**: ~$65 billion (rising to 2% GDP)
-- **Chancellor**: Head of government
+- **Military Budget**: €500 billion committed by 2029
+- **Chancellor**: Friedrich Merz (2025-)
 - **EU Role**: Largest member, Franco-German engine
 
 ## Geopolitical Position
@@ -86,6 +86,38 @@ Chancellor Scholz announced historic shift:
 - Troop presence in Baltics/Poland
 - Capability gaps persist
 
+## 2025-2026: Historic Rearmament
+
+### Scale of Investment
+- **€500 billion** committed to defense by 2029
+- Hitting NATO's 3.5% GDP target **6 years early**
+- Merz abolished strict borrowing limits ("debt brake") for defense
+- Speed and volume unmatched in Europe
+
+### Strategic Shift
+- Historical balance: Germany = economic power, France = geopolitical power
+- Now Germany becoming **both** military and economic power
+- Center of European political gravity shifting east
+- NATO praise: "Germany is leading by example" - Rutte
+
+### Key Initiatives
+- **European Sky Shield Initiative**: Missile defense gap closure
+- **Strategic enablers**: Air defense, space intelligence, logistics
+- Positioning to provide capabilities Europe currently gets from US
+
+### Franco-German Tensions
+- France feeling "awe and unease"
+- French concerns about German industry superseding French defense sector
+- FCAS (6th-gen fighter program) falling apart over production share disputes
+- France felt excluded from Sky Shield Initiative
+- F-35 purchase instead of European aircraft frustrated Paris
+
+### European Concerns
+- AfD (far-right) at record polling highs
+- Worry about German military power if nationalists take control
+- Some capitals having "second thoughts" about Bundeswehr dominance
+- Poland's Sikorski: More afraid of German "aversion to armament" than the army itself
+
 ## Domestic Politics
 - Coalition government challenges
 - AfD rise (far-right)
@@ -104,7 +136,9 @@ Chancellor Scholz announced historic shift:
 ## Related Notes
 - [[European Union]]
 - [[France]]
+- [[Franco-German Relations]]
 - [[NATO]]
 - [[Russia]]
 - [[Europe]]
 - [[Energy Security]]
+- [[Defense Industry]]

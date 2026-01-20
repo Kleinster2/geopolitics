@@ -157,6 +157,22 @@ Iran's ideological military force, parallel to the regular armed forces but more
 - Sanctions pressure
 - Generational questions
 
+## 2024-2025 Crisis: Leadership Decapitation
+**Unprecedented degradation of IRGC command structure:**
+- 12 senior commanders killed (mostly by Israeli strikes)
+- Including Quds Force leadership
+- Lower-level, less experienced commanders now running operations
+- Loss of institutional knowledge and networks
+- Israeli strikes exposed air defense failures
+- Organization at weakest point since founding
+
+**Strategic Implications:**
+- Proxy networks operating without experienced handlers
+- Reduced capacity for external operations
+- Internal security mission strained
+- [[Artesh]] (regular army) may not support IRGC if it falters
+- See: [[Iran Protests 2025-2026]]
+
 ## Related Notes
 - [[Iran]]
 - [[Quds Force]]
