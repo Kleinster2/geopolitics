@@ -291,10 +291,14 @@ tags: [thinker, ...]
 ### Purpose
 Track vault changes and developments each session. Located in `Daily/` folder with format `YYYY-MM-DD.md`.
 
-### When to Use
-- At end of significant work sessions
+### Requirement
+**Always log all vault changes.** Every session that creates or updates notes must be recorded in the daily note. This is mandatory, not optional.
+
+### When to Update
+- When creating any new note
+- When updating any existing note
 - When processing news or articles
-- To record what was created/updated
+- At end of work sessions
 
 ### Template Sections
 - **Key Developments**: News or events analyzed

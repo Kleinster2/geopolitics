@@ -97,6 +97,30 @@ Former global hegemon maintaining outsized influence through permanent UNSC seat
 - Diminished European influence
 - Trade deal pursuit
 
+### The US Trade Deal Impasse (Zeihan Analysis)
+
+[[Peter Zeihan]] argues the UK faces a binary choice with no middle ground:
+
+**US deal terms** (consistent under Biden and Trump):
+- Adopt US regulatory policies
+- Adopt US agricultural norms
+- Adopt US manufacturing norms
+- Fold into North American systems
+- "Airbus goes away. The City closes down."
+
+Per Zeihan: "These aren't mild points, but they're also not negotiable from an American point of view."
+
+**The fundamental problem:**
+> "The United Kingdom left Europe. It is on its own. It brings very little to the table in terms of trade talks. And so you either accept what Brussels says or you accept what Washington says."
+
+**The choice:**
+1. **European option**: Return to EU norms, fold British defense decisionmaking into French norms
+2. **American option**: "Functionally become the 51st state"
+
+**His assessment**: "There is not a middle road here." With each day without a deal, UK leverage weakens.
+
+**Note**: This is Zeihan's framing—an intentionally stark presentation. Reality may offer more gradations, but captures UK's structural weakness in trade negotiations.
+
 ## Defense Review (Integrated Review)
 - Indo-Pacific tilt
 - Nuclear warhead increase (to 260)
@@ -118,3 +142,5 @@ Former global hegemon maintaining outsized influence through permanent UNSC seat
 - [[Five Eyes]]
 - [[Europe]]
 - [[Nuclear Weapons]]
+- [[European Nuclear Debate]]
+- [[Peter Zeihan]]

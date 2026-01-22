@@ -103,6 +103,13 @@ A relationship where states are mutually dependent on each other economically th
 - European diversification response
 - Limits of interdependence logic
 
+### US-Europe Financial (2026 Debate)
+- European countries hold nearly 40% of foreign US Treasuries
+- US assets held within EU exceed $10 trillion (US Treasury data, November 2025)
+- [[Greenland Crisis]] sparked debate: could Europe leverage holdings against US?
+- Structural constraints: mostly private holdings, self-harm risk
+- See [[Weaponized Interdependence]] for analysis
+
 ## Decoupling Debates
 
 ### Arguments For
@@ -124,6 +131,7 @@ A relationship where states are mutually dependent on each other economically th
 - [[Supply Chains]]
 - [[Trade]]
 - [[Weaponized Interdependence]]
+- [[Greenland Crisis]]
 
 ## Further Reading
 - Rosecrance, *The Rise of the Trading State* (1986)

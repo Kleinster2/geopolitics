@@ -29,6 +29,7 @@ Ongoing geopolitical developments and analysis.
 - [[The Hague Summit 2025]] - NATO 5% GDP commitment, June 2025
 - [[Trade War 2025-2026]] - Liberation Day, tariff dynamics, global responses
 - [[2025 National Security Strategy]] - Trump 2.0 NSS, four-theater framework
+- [[Board of Peace]] - Trump's proposed UN rival, $1B membership fee (January 2026)
 
 ## By Region
 
@@ -45,6 +46,7 @@ Ongoing geopolitical developments and analysis.
 ### Europe
 - [[Ukraine Crisis]]
 - [[Greenland Crisis]]
+- [[European Nuclear Debate]] - Independent deterrent discussions (2025-2026)
 
 ### Arctic
 - [[Greenland Crisis]] - NATO ally threatening NATO ally

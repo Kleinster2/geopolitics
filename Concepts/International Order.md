@@ -176,6 +176,7 @@ The transition away from the post-1945 liberal order is accelerating:
 - Armed conflict surging as curbs on aggression erode
 - [[Freedom of Navigation]] challenged (Red Sea, Western Pacific)
 - Rules-based trading system becoming "thing of the past"
+- [[Board of Peace]]: Trump-proposed UN rival with $1B membership fee and Trump-centered decision-making (January 2026)
 
 ### [[State Death]]: A Telling Statistic
 > Between 1816 and 1945, a quarter of the world's states simply vanished from the map at some point. Since 1945, "state death" has become vanishingly rare.
@@ -218,6 +219,14 @@ Trump making the ancient Athenian ethos US policy:
 - Even the US may eventually suffer
 
 > "Trump is betting that American power and well-being will survive, even soar, after the demise of the US order. In typically Trumpian fashion, he won't be around to pay the price if the wager fails." — Hal Brands
+
+### Structural, Not Personal (Poggio)
+[[Carlos Gustavo Poggio]] argues this transcends Trump:
+- "Donald Trump created a movement that can return to power at any moment"
+- [[JD Vance]] "perhaps even more anti-European than Trump himself"
+- Ideas that were marginal in US politics now at center of one major party
+- "Europeans won't forget this"
+- World is "reconfiguring for a United States playing a very different role than since end of WWII"
 
 ## Order Transition Scenarios
 
@@ -298,3 +307,5 @@ Trump making the ancient Athenian ethos US policy:
 - [[Stephen Walt]]
 - [[Predatory Hegemony]]
 - [[Donroe Doctrine]]
+- [[Board of Peace]]
+- [[Carlos Gustavo Poggio]]

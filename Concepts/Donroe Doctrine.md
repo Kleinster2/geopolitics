@@ -132,6 +132,14 @@ Military force as primary tool, not last resort. Venezuela raid as template.
 - Overextension risks
 - Resistance will grow
 
+## Tail Risks to Watch (Garman, January 2026)
+[[Christopher Garman]] (Eurasia Group) identifies specific tail risks:
+- **Mexico**: Possible action against cartels without Sheinbaum approval (small but real risk)
+- **Cuba**: "What we're most watching" in Latin America
+- **Colombia**: On the radar
+
+These represent scenarios where Donroe Doctrine could generate unexpected crises.
+
 ## Related Concepts
 - [[Monroe Doctrine]]
 - [[Predatory Hegemony]]
@@ -147,6 +155,7 @@ Military force as primary tool, not last resort. Venezuela raid as template.
 - [[Ian Bremmer]]
 - [[Eurasia Group]]
 - [[Eurasia Group Top Risks 2026]]
+- [[Christopher Garman]]
 - [[G-Zero]]
 
 ## Sources

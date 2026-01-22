@@ -56,7 +56,9 @@ Theories, frameworks, and key terms in geopolitics.
 ## Economic Statecraft
 - [[Geoeconomics]]
 - [[Sanctions]]
+- [[Anti-Coercion Instrument]] - EU trade defense "bazooka" (2023)
 - [[Economic Interdependence]]
+- [[Weaponized Interdependence]] - Using economic networks as coercion (Farrell & Newman)
 - [[Trade]]
 - [[Dollar Dominance]]
 - [[Federal Reserve Independence]] - Central bank independence, Trump attacks, time inconsistency
@@ -82,11 +84,13 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Freedom of Navigation]]
 - [[UNCLOS]]
 - [[FONOPs]]
+- [[US-Denmark Defense Agreement (1951)]] - Greenland military access treaty, Igaliku update
 
 ## Political Concepts
 - [[Nationalism]]
 - [[Democracy and Authoritarianism]]
 - [[Insurrection Act]] - US law for domestic military deployment
+- [[War Powers Resolution]] - Congressional check on presidential war authority (1973)
 
 ## Other Key Concepts
 - [[Technology Competition]]
@@ -96,6 +100,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Defense Industry]]
 - [[Axis of Resistance]]
 - [[Political Risk]]
+- [[China Demographic Decline]] - Population crisis, data quality debate, Zeihan thesis
 
 ## Reference
 - [[Think Tanks]]

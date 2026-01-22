@@ -68,11 +68,25 @@ The world's most populous country and second-largest economy, pursuing "national
 - Growing military capabilities
 
 ## Vulnerabilities
-- Demographics (aging population)
+- **Demographics** (aging population) - see [[China Demographic Decline]]
 - Energy import dependence
 - Taiwan scenario costs
 - Technology chokepoints (semiconductors)
 - Real estate/debt issues
+
+### Demographic Crisis (2025-2026)
+
+**Official data (NBS, January 2026):**
+- Population fell for 4th consecutive year
+- 2025: -3.39 million (accelerating from -2.08 million in 2024)
+- Births: 7.92 million (lowest since 1949)
+- Birth rate: 5.63 per 1,000
+- Population over 60: 323 million (23%)
+
+**The overcount debate:**
+Some analysts argue official data understates the problem. The Shanghai Academy of Sciences has reportedly discussed population overcounts of 100+ million under age 45.
+
+[[Peter Zeihan]] argues China has "no more than 10 years" before economic model fails due to demographics. This is contested—see [[China Demographic Decline]] for full analysis of claims and counterclaims.
 
 ## US-China Competition (2025-2026)
 
@@ -133,3 +147,5 @@ US concern: China filling vacuum left by US tariff pressure:
 - [[Taiwan]]
 - [[South China Sea]]
 - [[US-China Relations]]
+- [[China Demographic Decline]]
+- [[Peter Zeihan]]

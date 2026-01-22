@@ -15,6 +15,7 @@ World's largest political risk consultancy, founded by Ian Bremmer. Provides geo
 ## Key Facts
 - **Founded**: 1998
 - **Founder/President**: Ian Bremmer
+- **Executive Director**: [[Christopher Garman]]
 - **Headquarters**: New York
 - **Employees**: ~200 analysts
 - **Clients**: Fortune 500, investors, governments

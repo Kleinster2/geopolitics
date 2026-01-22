@@ -147,6 +147,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[Franco-German Relations]] - EU engine under strain
 
 ## Decision-Makers
+- [[JD Vance]] - Vice President (2025-), Iraq veteran, intervention skeptic publicly backing Trump
 - [[Kevin Rudd]] - Former Australian PM, China expert, US Ambassador (2023-2026)
 - [[María Corina Machado]] - Venezuelan opposition leader, Nobel Peace Prize laureate
 - [[Elbridge Colby]] - Under Secretary of Defense for Policy, China prioritization strategist

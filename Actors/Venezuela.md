@@ -216,6 +216,14 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 - Trump explicitly cited **oil access** as core reason
 - Chatham House: "significant violation of Venezuelan sovereignty"
 
+### Congressional Response: [[War Powers Resolution]] (January 14, 2026)
+- Sen. Tim Kaine (D-VA) introduced resolution to require congressional approval for further military action
+- Five Republicans initially defected: Josh Hawley, Todd Young, Susan Collins, Lisa Murkowski, Rand Paul
+- Hawley and Young flipped back before final vote
+- **Final vote: 50-50**
+- [[JD Vance]] cast tie-breaking vote to kill the resolution
+- Vance justification: operation justified as Maduro was wanted in US
+
 ### Walt's Analysis: The Real Reasons
 [[Stephen Walt]] argues the stated justifications don't hold:
 
