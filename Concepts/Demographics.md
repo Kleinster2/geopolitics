@@ -71,6 +71,43 @@ Most developed countries and China now below replacement fertility:
 
 **Criticism:** Deterministic—may underweight automation, productivity, adaptation.
 
+## Friedman's Medical Solution
+
+[[George Friedman]] offers a more optimistic counterpoint:
+
+**The problem reframed:**
+- Retirement age 65 was set when life expectancy was ~65
+- Now people live 2 decades past retirement but aren't *productive*
+- Issue isn't lifespan—it's productive lifespan
+- "When you can't produce and you're in an old age home... you're not producing, you're consuming"
+
+**His proposed solution:**
+- Extend productive life to 90-100 through medical technology
+- Material science creating revolutionary new treatments
+- Medicine (not AI) will be the dominant technology of next 50 years
+- Already seeing early examples (GLP-1 drugs, etc.)
+
+**On birth rate incentives:**
+> "$5,000 ain't much" given child-rearing costs. Would require "massive economic commitment"—chicken-and-egg with productivity.
+
+**On AI as solution:**
+Friedman is skeptical AI can replace human workforce:
+> "Most jobs require the ability to deal with the unexpected. And given that most of the tools we create in computing are modeled on what is expected, not the extraordinary."
+
+AI is a tool for medical research, not a workforce replacement.
+
+### Zeihan vs. Friedman
+
+| Issue | Zeihan | Friedman |
+|-------|--------|----------|
+| **Diagnosis** | Irreversible collapse | Serious but solvable |
+| **Timeline** | Decade | Gradual adaptation |
+| **AI role** | Insufficient offset | Overhyped tool |
+| **Solution** | None | Medical tech extending productive years |
+| **Tone** | Apocalyptic | Cautiously optimistic |
+
+Both agree demographics is a critical challenge; differ sharply on whether solutions exist.
+
 ## Case Studies
 
 ### China
@@ -136,6 +173,7 @@ Can technology offset demographic decline?
 - [[China Demographic Decline]]
 - [[Deglobalization]]
 - [[Peter Zeihan]]
+- [[George Friedman]]
 - [[Economic Interdependence]]
 - [[Migration]]
 
