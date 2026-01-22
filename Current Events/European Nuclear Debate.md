@@ -139,6 +139,7 @@ He argues Europe lacks time for conventional buildup given the revolution in mil
 - [[Nuclear Proliferation]]
 - [[Greenland Crisis]]
 - [[Peter Zeihan]]
+- [[Zeitenwende]]
 
 ## Sources
 - [Carnegie Endowment: Can Europe Build Its Own Nuclear Umbrella?](https://carnegieendowment.org/emissary/2025/04/can-europe-build-its-own-nuclear-umbrella)

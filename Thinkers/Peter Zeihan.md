@@ -133,9 +133,11 @@ Zeihan's assessment is blunt:
 
 ## Related Notes
 - [[China Demographic Decline]]
+- [[Demographics]]
+- [[Deglobalization]]
 - [[Greenland Crisis]]
 - [[European Nuclear Debate]]
-- [[Deglobalization]]
+- [[Zeitenwende]]
 - [[United Kingdom]]
 
 ## Sources

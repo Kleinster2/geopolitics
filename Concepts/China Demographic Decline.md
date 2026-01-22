@@ -137,7 +137,8 @@ If China's consumer base collapses:
 ## Related Notes
 - [[China]]
 - [[Peter Zeihan]]
-- [[Demographics]]
+- [[Demographics]] - General framework
+- [[Deglobalization]] - Implications if China consumer base collapses
 - [[One-Child Policy]]
 
 ## Sources

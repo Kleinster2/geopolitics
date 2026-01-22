@@ -100,7 +100,10 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Defense Industry]]
 - [[Axis of Resistance]]
 - [[Political Risk]]
+- [[Demographics]] - Population as strategic driver, aging, fertility
 - [[China Demographic Decline]] - Population crisis, data quality debate, Zeihan thesis
+- [[Deglobalization]] - Trade fragmentation, reshoring, supply chain restructuring
+- [[Zeitenwende]] - Germany's post-2022 defense policy transformation
 
 ## Reference
 - [[Think Tanks]]
