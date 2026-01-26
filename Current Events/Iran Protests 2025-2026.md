@@ -67,16 +67,16 @@ Trump appeared poised to order military strikes on Iran but pulled back:
 - Drones also repositioned away from Middle East
 - USS Abraham Lincoln moving from Western Pacific to fill gap
 
-**Internal debate:**
-- Tucker Carlson at White House twice (restrainer influence)
-- JD Vance faction: focus on China, not Middle East
-- Rubio faction: muscular intervention to support protesters
+**Internal debate (reported, characterizations may oversimplify):**
+- Tucker Carlson at White House twice (reported - restrainer influence)
+- Vance-aligned view: focus on China, not Middle East
+- Rubio-aligned view: muscular intervention to support protesters
 - Trump encompasses both views at different moments
 
-**Alternative options discussed:**
+**Alternative options discussed (reported):**
 - Dropping Starlink into Iran
 - Persian-language broadcasting
-- Both dismissed or dismantled
+- Both reportedly dismissed or dismantled
 
 Trump's Truth Social post claiming "800 hangings cancelled" appears to be based on inaccurate information.
 

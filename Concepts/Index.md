@@ -26,6 +26,9 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Escalation]] - Conflict intensity, escalation ladders, crisis management
 - [[Security Dilemma]]
 - [[Game Theory]] - Strategic interaction, rational choice, crisis bargaining
+- [[Great Power Competition]] - US-China/Russia rivalry as organizing framework
+- [[Power Transition]] - Rising powers challenging dominant powers
+- [[Globalization]] - Economic/social interconnection across borders
 - [[Hegemony]]
 - [[Predatory Hegemony]]
 - [[Multipolarity]]
@@ -39,6 +42,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Donroe Doctrine]]
 - [[Comprehensive Strategic Partnership]] - China's tiered partnership diplomacy system
 - [[Community with a Shared Future]] - Xi's alternative global governance vision
+- [[Partnership Diplomacy]] - Tiered bilateral relationships, China's partnership network
 
 ## Power Concepts
 - [[Power]]

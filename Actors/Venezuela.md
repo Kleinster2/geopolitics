@@ -202,21 +202,21 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 ## US Military Intervention (January 3, 2026)
 
 ### Operation Absolute Resolve
-**Preparation (August 2025 onward):**
-- US military buildup in southern Caribbean
-- CIA team inserted into Venezuela tracking Maduro
-- Source close to Maduro provided daily habits, pet names
-- Trump gave final approval January 2, 10:46 PM ET
+**Preparation (August 2025 onward, per media reports):**
+- US military buildup in southern Caribbean (confirmed)
+- CIA team reportedly inserted into Venezuela tracking Maduro (unverified)
+- Source close to Maduro allegedly provided daily habits (unverified)
+- Trump gave final approval January 2, 10:46 PM ET (reported)
 
 **Execution (January 3, 2026, ~2:00 AM local):**
-- 150+ aircraft launched from 20 bases across Western Hemisphere
-- US bombed air defenses across northern Venezuela
-- Delta Force extraction team flew at 100 feet above water
-- Apprehension force attacked Maduro's compound at Fuerte Tiuna (largest military complex)
-- Maduro tried to flee to steel-reinforced safe room; captured before reaching it
-- **Maduro and wife Cilia Flores captured**
-- Transported to New York City
-- Zero US casualties
+- 150+ aircraft launched from 20 bases across Western Hemisphere (reported)
+- US bombed air defenses across northern Venezuela (confirmed)
+- Delta Force extraction team reportedly flew at low altitude
+- Apprehension force attacked Maduro's compound at Fuerte Tiuna (confirmed)
+- Maduro reportedly tried to flee to safe room; captured before reaching it (unverified)
+- **Maduro and wife Cilia Flores captured** (confirmed)
+- Transported to New York City (confirmed)
+- Zero US casualties (official claim)
 - Closest parallel: Panama 1989 (Noriega capture)
 
 ### Legal Framing
@@ -260,14 +260,13 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 - Terror networks that kept Maduro in power remain operational
 - AG Barr worked on Maduro indictments back in 2020—this is not new
 
-### Nobel Prize Incident
-[[María Corina Machado]] gave Trump her **physical Nobel Peace Prize medal** as a gesture of gratitude:
-- Machado won the Nobel Peace Prize (exact date TBD)
-- Presented the actual medal to Trump at the White House
+### Nobel Prize Incident (reported)
+[[María Corina Machado]] reportedly gave Trump her **physical Nobel Peace Prize medal**:
+- Machado reportedly won Nobel Peace Prize (unverified - requires confirmation)
+- Presented medal to Trump at White House (reported)
 - Trump appeared to conflate having the medal with being a laureate
-- Nobel Committee clarified: prizes cannot be transferred; recipient remains the laureate
-- Trump has long desired Nobel recognition (resented Obama receiving one "after just a few weeks")
-- Teddy Roosevelt's 1906 Nobel medal is displayed elsewhere in the White House
+- Nobel Committee: prizes cannot be transferred; recipient remains laureate
+- Note: Nobel Peace Prize announcements occur in October; verify if Machado was 2025 laureate
 
 ### International Reactions
 | Response | Countries |

@@ -34,6 +34,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[Israel]]
 - [[Turkey]]
 - [[Egypt]]
+- [[Syria]]
 
 ### Europe
 - [[European Union]]
@@ -74,6 +75,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[European Union]]
 - [[European Parliament]]
 - [[European Commission]]
+- [[European Council]]
 - [[Council of the EU]]
 - [[Court of Justice of the EU]]
 - [[BRICS]]
@@ -164,7 +166,10 @@ States, organizations, and decision-makers in geopolitics.
 - [[Elbridge Colby]] - Under Secretary of Defense for Policy, China prioritization strategist
 
 ### Heads of State/Government
+- [[Xi Jinping]] - Chinese President/CCP General Secretary, assertive foreign policy
 - [[Vladimir Putin]] - Russian President, Ukraine war, Alaska Summit, Board of Peace controversy
+- [[Narendra Modi]] - Indian PM, multi-alignment foreign policy
+- [[Mohammad bin Salman]] - Saudi Crown Prince, Vision 2030, Abraham Accords prospect
 - [[Benjamin Netanyahu]] - Israeli PM, Gaza war leader
 - [[Keir Starmer]] - UK PM, declined Board of Peace
 - [[Emmanuel Macron]] - French President, European strategic autonomy advocate

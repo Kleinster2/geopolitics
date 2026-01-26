@@ -46,6 +46,7 @@ Ongoing geopolitical developments and analysis.
 - [[Gaza Conflict]]
 - [[Iran Nuclear Program]]
 - [[Iran-Israel Shadow War]]
+- [[Abraham Accords]] - Israel-Arab normalization (2020-)
 
 ### Europe
 - [[Ukraine Crisis]]
