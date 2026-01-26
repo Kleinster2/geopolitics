@@ -11,6 +11,16 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Peter Zeihan]] - Demographics, deglobalization, geographic determinism
 - [[George Friedman]] - Geopolitical Futures, long-range forecasting, technology cycles
 
+## Nuclear Strategists (Cold War)
+- [[Bernard Brodie]] - Yale/RAND, founding father of deterrence theory
+- [[Herman Kahn]] - RAND/Hudson, escalation ladder, "thinking the unthinkable"
+- [[Thomas Schelling]] - Harvard, game theory, bargaining and coercion (Nobel 2005)
+
+## Nuclear & Escalation (Contemporary)
+- [[Caitlin Talmadge]] - Georgetown, conventional-nuclear escalation, Taiwan scenarios
+- [[Keir Lieber]] - Georgetown, nuclear primacy thesis, first-strike stability
+- [[Daryl Press]] - Dartmouth, credibility of threats, nuclear strategy
+
 ## Political Risk
 - [[Ian Bremmer]] - Eurasia Group founder, G-Zero concept
 
@@ -18,6 +28,9 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Lawrence Lessig]] - Harvard Law, "Code is Law," four modalities of regulation
 - [[Tim Wu]] - Columbia Law, net neutrality, internet sovereignty thesis
 - [[Milton Mueller]] - Georgia Tech, networks vs. states, internet governance
+- [[Jack Goldsmith]] - Harvard Law, territorial internet, national security law
+- [[Evgeny Morozov]] - Technology critic, solutionism, Net Delusion
+- [[Kieron O'Hara]] - Southampton, Four Internets framework, web science
 - [[Shoshana Zuboff]] - Harvard Business, surveillance capitalism
 - [[Michael Kwet]] - U. of Johannesburg/Yale, digital colonialism
 

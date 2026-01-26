@@ -111,10 +111,13 @@ Paris "Coalition of the Willing" summit - 35 countries attended.
 
 **Zelenskyy:** "The leading ones are Britain and France. It is their military presence that is mandatory."
 
-### UK "Nightfall" Missile
-- New deep-strike ballistic missile for Ukraine
-- 200kg warhead, 500km+ range
-- Significant escalation in Western support
+### UK Project Nightfall (January 11, 2026)
+UK Ministry of Defence announced accelerated competition for ground-launched deep-strike ballistic missile:
+- **Specs**: 200kg warhead, 500km+ range
+- **Production target**: 10 missiles/month at £800,000 each
+- **Timeline**: Proposals due February 9, contracts March 2026, test missiles within 12 months
+- **Purpose**: Independent Ukrainian deep-strike capability (currently reliant on limited US ATACMS)
+- Also informs future UK Armed Forces long-range strike projects
 
 ### Energy Crisis
 - Zelenskyy declared state of emergency for energy sector
@@ -217,3 +220,4 @@ Paris "Coalition of the Willing" summit - 35 countries attended.
 - [[United States]]
 - [[European Union]]
 - [[Nuclear Weapons]]
+- [[Long-Range Strike]]

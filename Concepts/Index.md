@@ -21,7 +21,11 @@ Theories, frameworks, and key terms in geopolitics.
 ## Strategic Concepts
 - [[Balance of Power]]
 - [[Deterrence]]
+- [[Compellence]] - Forcing action through threats (vs. deterrence preventing action)
+- [[Coercive Diplomacy]] - Threats + limited force + diplomatic off-ramps
+- [[Escalation]] - Conflict intensity, escalation ladders, crisis management
 - [[Security Dilemma]]
+- [[Game Theory]] - Strategic interaction, rational choice, crisis bargaining
 - [[Hegemony]]
 - [[Predatory Hegemony]]
 - [[Multipolarity]]
@@ -52,6 +56,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Nuclear Weapons]]
 - [[Nuclear Proliferation]]
 - [[Anti-Access Area Denial]]
+- [[Long-Range Strike]] - Deep strike capability, precision missiles, escalation politics
 - [[European Air Defense]]
 - [[Terrorism]]
 
