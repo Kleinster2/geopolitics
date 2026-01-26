@@ -87,13 +87,16 @@ The most dangerous flashpoint in international politics. China claims Taiwan as 
 ## January 2026 Developments
 
 ### Justice Mission 2025 (Dec 29-30, 2025)
-China's **largest military exercise ever** around Taiwan:
-- 130+ aircraft sorties into Taiwan ADIZ
-- 14 warships + 15 coast guard vessels
-- Simulated full maritime blockade
-- 35 aircraft crossed Taiwan Strait median line
+China's **largest military exercise ever** around Taiwan (6th since Pelosi visit 2022):
+- 130+ aircraft sorties into Taiwan ADIZ (90 crossed median line)
+- 14 warships + 8 coast guard vessels
+- **First time**: Chinese military/coast guard vessels entered Taiwan's contiguous zone in significant numbers
+- Rehearsed full maritime blockade: air/sea control, targeting ports, deterring external forces
+- Covered larger area than any exercise since August 2022
 - 850+ international flights cancelled
 - Global silicon futures spiked 12%
+
+**Trigger**: $11.1B US arms sale (record) - Beijing warned Taiwan becoming "powder keg"
 
 ### Xi's New Year Address
 - Declared "national reunification is unstoppable"

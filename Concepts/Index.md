@@ -94,6 +94,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Insurrection Act]] - US law for domestic military deployment
 - [[War Powers Resolution]] - Congressional check on presidential war authority (1973)
 - [[Lisbon Treaty]] - EU constitutional basis, competence division (2009)
+- [[EU Governance]] - Hub note on EU institutional architecture
 
 ## Internet & Technology Governance
 - [[Internet Geopolitics]] - Control over infrastructure, governance, and standards

@@ -202,10 +202,20 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 ## US Military Intervention (January 3, 2026)
 
 ### Operation Absolute Resolve
-- **2:00 AM local time**: US bombed air defenses across northern Venezuela
-- Apprehension force attacked Maduro's compound in Caracas
+**Preparation (August 2025 onward):**
+- US military buildup in southern Caribbean
+- CIA team inserted into Venezuela tracking Maduro
+- Source close to Maduro provided daily habits, pet names
+- Trump gave final approval January 2, 10:46 PM ET
+
+**Execution (January 3, 2026, ~2:00 AM local):**
+- 150+ aircraft launched from 20 bases across Western Hemisphere
+- US bombed air defenses across northern Venezuela
+- Delta Force extraction team flew at 100 feet above water
+- Apprehension force attacked Maduro's compound at Fuerte Tiuna (largest military complex)
+- Maduro tried to flee to steel-reinforced safe room; captured before reaching it
 - **Maduro and wife Cilia Flores captured**
-- Transported to New York City by US forces
+- Transported to New York City
 - Zero US casualties
 - Closest parallel: Panama 1989 (Noriega capture)
 

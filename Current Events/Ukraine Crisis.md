@@ -90,11 +90,26 @@ Russia's 2022 full-scale invasion of Ukraine, the largest land war in Europe sin
 
 ## January 2026: Major Developments
 
-### France & UK to Deploy Troops
-- **Jan 6**: France, UK, Ukraine signed declaration of intent
-- France and UK to deploy armed forces to Ukraine
-- Multinational force for deterrence operations (land, sea, air)
-- Coalition of the Willing meeting in Paris (Macron, Starmer, Rutte)
+### France & UK to Deploy Troops (January 6, 2026)
+Paris "Coalition of the Willing" summit - 35 countries attended.
+
+**Declaration of Intent signed** by [[Keir Starmer]] and [[Emmanuel Macron]]:
+- France and UK to deploy armed forces to Ukraine **after ceasefire**
+- Multinational force for deterrence (land, sea, air)
+- Military hubs across Ukraine, protected weapons facilities
+- Deployed "away from the contact line" per Macron
+- France: "Several thousand" troops committed
+
+**Other nations:**
+- Germany ([[Friedrich Merz]]): Could deploy to neighboring NATO territory; "not ruling anything out"
+- US: [[Steve Witkoff]] and [[Jared Kushner]] attended; Trump ruled out US troops but "significant progress" on security guarantees
+
+**Russia's response:**
+- No immediate reaction
+- Putin (September 2025): Western troops in Ukraine would be "legitimate targets"
+- Kremlin repeatedly stressed it will not accept foreign peacekeepers
+
+**Zelenskyy:** "The leading ones are Britain and France. It is their military presence that is mandatory."
 
 ### UK "Nightfall" Missile
 - New deep-strike ballistic missile for Ukraine

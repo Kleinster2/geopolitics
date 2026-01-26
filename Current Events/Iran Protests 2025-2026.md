@@ -86,11 +86,15 @@ Trump's Truth Social post claiming "800 hangings cancelled" appears to be based 
 - People getting killed as a result
 - Lack of US assistance means regime will succeed at ruthless repression
 
-### Current Status
-- Protests easing after brutal crackdown
-- Funerals ongoing for civilians and security forces
+### Current Status (Late January 2026)
+- **Protests sharply reduced**: 7 protests across 6 provinces (Jan 13) vs 156 across 27 provinces (Jan 8)
+- Death toll: **2,586+** (HRANA, late January)
+- Makeshift morgue footage (Jan 10): At least 205 body bags identified by Amnesty International
+- Attorney General Movahedi Azad: Protesters to be charged as "enemy of God" (death penalty)
 - International solidarity rallies: Berlin, Paris, London, Istanbul
-- US strike threat remains but de-escalated for now
+- US strike threat de-escalated; Trump says crackdown "has eased"
+
+**Assessment**: Brutal crackdown appears to have succeeded in suppressing mass protests, though information flow severely limited by internet blackout. Regime treating this as proto-revolution to crush completely.
 
 ## Key Dynamics
 

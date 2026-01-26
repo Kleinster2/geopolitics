@@ -181,6 +181,10 @@ States, organizations, and decision-makers in geopolitics.
 - [[António Costa]] - European Council President
 - [[Mark Rutte]] - NATO Secretary General, Greenland "framework deal" negotiator
 - [[Christine Lagarde]] - ECB President, walked out of Lutnick's Davos speech
+- [[Kaja Kallas]] - EU High Representative for Foreign Affairs
+- [[Roberta Metsola]] - European Parliament President
+- [[Friedrich Merz]] - German Chancellor (2025-)
+- [[Delcy Rodríguez]] - Venezuela acting president (post-Maduro capture)
 - [[Tony Blair]] - Former UK PM, Board of Peace executive board
 - [[Ajay Banga]] - World Bank President, Board of Peace executive board
 - [[Nikolay Mladenov]] - Board of Peace Director-General / High Representative for Gaza
