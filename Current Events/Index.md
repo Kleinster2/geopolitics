@@ -29,7 +29,11 @@ Ongoing geopolitical developments and analysis.
 - [[The Hague Summit 2025]] - NATO 5% GDP commitment, June 2025
 - [[Trade War 2025-2026]] - Liberation Day, tariff dynamics, global responses
 - [[2025 National Security Strategy]] - Trump 2.0 NSS, four-theater framework
-- [[Board of Peace]] - Trump's proposed UN rival, $1B membership fee (January 2026)
+- [[Board of Peace]] - Trump's conflict-resolution body, charter signed at Davos (January 22, 2026)
+- [[EU-India FTA]] - Largest EU trade deal, signing January 2026
+- [[EU-Mercosur FTA]] - 25-year negotiation, signed but referred to EU Court (January 2026)
+- [[CETA]] - EU-Canada deal, Wallonia crisis precedent
+- [[Brexit]] - UK withdrawal from EU (2020)
 
 ## By Region
 

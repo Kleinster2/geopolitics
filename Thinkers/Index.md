@@ -14,6 +14,13 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 ## Political Risk
 - [[Ian Bremmer]] - Eurasia Group founder, G-Zero concept
 
+## Internet & Technology Governance
+- [[Lawrence Lessig]] - Harvard Law, "Code is Law," four modalities of regulation
+- [[Tim Wu]] - Columbia Law, net neutrality, internet sovereignty thesis
+- [[Milton Mueller]] - Georgia Tech, networks vs. states, internet governance
+- [[Shoshana Zuboff]] - Harvard Business, surveillance capitalism
+- [[Michael Kwet]] - U. of Johannesburg/Yale, digital colonialism
+
 ## Tags
 - #thinker
 - #academic

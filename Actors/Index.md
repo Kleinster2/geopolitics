@@ -72,7 +72,12 @@ States, organizations, and decision-makers in geopolitics.
 - [[United Nations]]
 - [[NATO]]
 - [[European Union]]
+- [[European Parliament]]
+- [[European Commission]]
+- [[Council of the EU]]
+- [[Court of Justice of the EU]]
 - [[BRICS]]
+- [[Mercosur]]
 - [[ASEAN]]
 - [[African Union]]
 - [[Quad]]
@@ -147,10 +152,50 @@ States, organizations, and decision-makers in geopolitics.
 - [[Franco-German Relations]] - EU engine under strain
 
 ## Decision-Makers
+
+### US (Trump 2.0)
+- [[Donald Trump]] - 47th President, central actor in multiple vault flashpoints
+- [[Marco Rubio]] - Secretary of State, China/Latin America hawk
+- [[Scott Bessent]] - Treasury Secretary, Greenland "Golden Dome" rationale
+- [[Howard Lutnick]] - Commerce Secretary, "Europe was dead" speech
+- [[Steve Witkoff]] - Special Envoy to Middle East, Board of Peace executive board
+- [[Jared Kushner]] - Trump advisor, Abraham Accords architect, Board of Peace executive board
 - [[JD Vance]] - Vice President (2025-), Iraq veteran, intervention skeptic publicly backing Trump
+- [[Elbridge Colby]] - Under Secretary of Defense for Policy, China prioritization strategist
+
+### Heads of State/Government
+- [[Vladimir Putin]] - Russian President, Ukraine war, Alaska Summit, Board of Peace controversy
+- [[Benjamin Netanyahu]] - Israeli PM, Gaza war leader
+- [[Keir Starmer]] - UK PM, declined Board of Peace
+- [[Emmanuel Macron]] - French President, European strategic autonomy advocate
+- [[Recep Tayyip Erdogan]] - Turkish President, NATO-Russia balancer, Board of Peace signatory
+- [[Mark Carney]] - Canadian PM, conditional Board of Peace engagement
+- [[Giorgia Meloni]] - Italian PM, Trump-Europe bridge
+- [[Viktor Orban]] - Hungarian PM, EU/NATO outlier, pro-Russia
+- [[Javier Milei]] - Argentine President, libertarian, Board of Peace founding member
+- [[Alexander Lukashenko]] - Belarusian President, Russia-dependent, Board of Peace signatory
+- [[Jonas Gahr Støre]] - Norwegian PM, European spine, Greenland response
+
+### International (Other)
+- [[Ursula von der Leyen]] - European Commission President, EU-India/Mercosur deals
+- [[António Costa]] - European Council President
+- [[Mark Rutte]] - NATO Secretary General, Greenland "framework deal" negotiator
+- [[Christine Lagarde]] - ECB President, walked out of Lutnick's Davos speech
+- [[Tony Blair]] - Former UK PM, Board of Peace executive board
+- [[Ajay Banga]] - World Bank President, Board of Peace executive board
+- [[Nikolay Mladenov]] - Board of Peace Director-General / High Representative for Gaza
+- [[Marc Rowan]] - Apollo Global Management CEO, Board of Peace executive board
+- [[Robert Gabriel Jr.]] - Deputy NSA, Board of Peace executive board
 - [[Kevin Rudd]] - Former Australian PM, China expert, US Ambassador (2023-2026)
 - [[María Corina Machado]] - Venezuelan opposition leader, Nobel Peace Prize laureate
-- [[Elbridge Colby]] - Under Secretary of Defense for Policy, China prioritization strategist
+
+### Board of Peace - Gaza Executive Board
+- [[Hakan Fidan]] - Turkey's Foreign Minister
+- [[Ali Al-Thawadi]] - Qatari diplomat
+- [[Hassan Rashad]] - Egyptian Major General
+- [[Reem Al Hashimy]] - UAE State Minister for International Cooperation
+- [[Yakir Gabay]] - Israeli-Cypriot businessman
+- [[Sigrid Kaag]] - Netherlands' former Deputy PM, UN Middle East veteran
 
 ## Tags
 - #state

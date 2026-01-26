@@ -33,6 +33,8 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Arms Control]]
 - [[Monroe Doctrine]]
 - [[Donroe Doctrine]]
+- [[Comprehensive Strategic Partnership]] - China's tiered partnership diplomacy system
+- [[Community with a Shared Future]] - Xi's alternative global governance vision
 
 ## Power Concepts
 - [[Power]]
@@ -91,6 +93,15 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Democracy and Authoritarianism]]
 - [[Insurrection Act]] - US law for domestic military deployment
 - [[War Powers Resolution]] - Congressional check on presidential war authority (1973)
+- [[Lisbon Treaty]] - EU constitutional basis, competence division (2009)
+
+## Internet & Technology Governance
+- [[Internet Geopolitics]] - Control over infrastructure, governance, and standards
+- [[Digital Sovereignty]] - State claims to govern their own cyberspace
+- [[Splinternet]] - Fragmentation of global internet along geopolitical lines
+- [[Digital Colonialism]] - Imperial power through digital infrastructure control
+- [[Techno-Nationalism]] - Technology policy fused with nationalist ideology
+- [[Surveillance Capitalism]] - Economic logic of behavioral data extraction
 
 ## Other Key Concepts
 - [[Technology Competition]]

@@ -248,7 +248,29 @@ Trump's announced deal appears to involve:
 - Military cooperation (already exists under 1951 treaty)
 - Mineral development cooperation (Greenland has been seeking this for years)
 
-**Assessment**: The "deal" largely describes existing arrangements. Unclear what is actually new.
+**Negotiation Team**: [[JD Vance]], [[Marco Rubio]], and [[Steve Witkoff]] to lead negotiations.
+
+**Trump's Claim**: Deal is "forever" - "better than the Obama deal with the famous Iran nuclear deal with a 9-year deal."
+
+**NATO Secretary General Mark Rutte** - When asked if Greenland remains a Danish territory: "That issue did not come up anymore in my conversations tonight."
+
+**Market Reaction**: Dow up 600 points after tariff threat dropped.
+
+**Assessment**: The "deal" largely describes existing arrangements. Congressman Brendan Boyle: "Congrats to Donald Trump on achieving the status quo." Fox News analyst Britt Hume: "The practical difference is a little unclear to me" from existing 1951 treaty.
+
+### Norwegian Response
+[[Jonas Gahr Støre]] (Norwegian PM) interview at Davos (January 22):
+- Said Europe had "finally found its spine"
+- Had texted Trump that morning on behalf of Norway and Finland to calm Greenland tensions
+- Received "blistering letter" back from Trump about the Nobel Peace Prize
+- Trump believes Norway controls the Nobel Prize (they do not - the Norwegian Nobel Committee is independent)
+- Støre: "It's going to be hard for Europe to carry on trusting America in the way that it has."
+
+### Drivers of De-escalation
+Per Catty Kay (BBC), several factors contributed:
+- Markets responded badly to Trump's threats
+- Big tech executives (present at Davos) pressured the White House
+- European leaders "went to the White House and said listen this is what we will do if you carry on"
 
 ### Danish Response
 FM Lars Løkke Rasmussen:

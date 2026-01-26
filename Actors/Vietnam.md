@@ -48,7 +48,7 @@ Communist country that:
 ### US Relations
 - Vietnam War legacy
 - 1995: Normalization
-- 2023: Comprehensive Strategic Partnership
+- 2023: [[Comprehensive Strategic Partnership]]
 - Remarkable transformation
 
 ## South China Sea

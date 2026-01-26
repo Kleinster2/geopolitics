@@ -163,6 +163,7 @@ The use of digital attacks by states or state-sponsored actors against another s
 - Norms development
 
 ## Related Concepts
+- [[Internet Geopolitics]]
 - [[Gray Zone]]
 - [[Hybrid Warfare]]
 - [[Information Warfare]]

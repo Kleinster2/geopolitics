@@ -38,7 +38,7 @@ The world's most populous country and second-largest economy, pursuing "national
 ## Foreign Policy Concepts
 - **Wolf Warrior Diplomacy**: Assertive, nationalist posture
 - **Dual Circulation**: Domestic + international economic strategy
-- **Community of Shared Future**: Alternative to Western order
+- **[[Community with a Shared Future]]**: Alternative to Western order
 
 ## Territorial Disputes
 - **Taiwan**: Claims full sovereignty

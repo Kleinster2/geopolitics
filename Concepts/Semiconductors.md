@@ -265,6 +265,7 @@ But more concentrated than oil ever was.
 ## Related Concepts
 - [[Supply Chains]]
 - [[Geoeconomics]]
+- [[Techno-Nationalism]]
 - [[Taiwan]]
 - [[China]]
 - [[United States]]
