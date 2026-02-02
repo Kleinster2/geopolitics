@@ -22,9 +22,14 @@ Ongoing geopolitical developments and analysis.
 - [[Iran-Saudi Rivalry]]
 - [[Iran Protests 2025-2026]] - Regime crisis, 1850+ dead
 
+## Strategic Competition
+- [[US-China Moon Race]] - Artemis vs ILRS, lunar south pole race
+
 ## Major Developments
+- [[Chagos Islands Transfer]] - UK decolonization deal, Trump criticism (2025)
 - [[Belt and Road Initiative]] - China's global infrastructure
 - [[Honduras President Pardon]] - Contradicts Venezuela drug rationale
+- [[US-Venezuela Oil Arrangement]] - Qatar deposits, post-intervention oil proceeds
 - [[Alaska Summit 2025]] - Trump-Putin summit, August 2025
 - [[The Hague Summit 2025]] - NATO 5% GDP commitment, June 2025
 - [[Trade War 2025-2026]] - Liberation Day, tariff dynamics, global responses
