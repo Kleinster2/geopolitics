@@ -146,6 +146,7 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - Ethical debates continue
 
 ## Sanctions Evasion
+- [[Shadow Fleet]] - Tanker networks evading oil sanctions
 - Ship-to-ship transfers
 - Shell companies
 - Cryptocurrency

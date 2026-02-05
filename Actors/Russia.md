@@ -22,6 +22,16 @@ Largest country by territory, wielding significant military power (largest nucle
 
 ## Geopolitical Position
 
+### Geographic Determinism
+
+[[Hal Brands]] (February 2026) argues Russia's strategic behavior flows from enduring geographic realities:
+
+- **Open terrain**: Russia has been an invasion route for ravagers from Europe and Asia alike
+- **Northern location**: Far from warm waters that conveyed commerce, literacy, and liberalism—predisposed to slow development and tyranny
+- **Result**: A polity that amasses strength at the center to rule a vulnerable, distant periphery
+
+This produces what George Kennan called a strategic culture "in which conceptions of offense and defense are inextricably confused"—security sought through expansion that makes Russia the scourge of neighbors. This pattern transcends regimes and ideologies: Ivan the Terrible → Stalin → Putin.
+
 ### Strategic Worldview
 - Post-Cold War settlement was unjust humiliation
 - NATO expansion threatens Russian security

@@ -31,6 +31,17 @@ AD: If they get in, make them pay
 
 ## Why A2/AD Matters
 
+### Krepinevich's Warning
+
+[[Andrew Krepinevich]] (CSBA founder) was among the first to articulate A2/AD as a strategic challenge in his 2009 Foreign Affairs article "The Pentagon's Wasting Assets":
+
+- US forward bases increasingly vulnerable to precision strike
+- Traditional power projection model breaking down
+- Aircraft carriers—icons of American dominance—becoming "wasting assets"
+- Required fundamental rethink of military posture
+
+His proposed response: **archipelagic defense**—distribute forces across the [[First Island Chain]], using island geography defensively rather than concentrating on vulnerable mega-bases.
+
 ### Strategic Logic
 - Asymmetric counter to US dominance
 - Cheaper than matching fleet-for-fleet
@@ -245,9 +256,11 @@ AD: If they get in, make them pay
 
 ## Related Concepts
 - [[Island Chains]]
+- [[First Island Chain]]
 - [[Taiwan]]
 - [[China]]
 - [[Power Projection]]
 - [[Deterrence]]
 - [[Military Power]]
 - [[AUKUS]]
+- [[Andrew Krepinevich]]

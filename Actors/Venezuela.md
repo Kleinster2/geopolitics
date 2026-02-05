@@ -164,6 +164,8 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 - Sanctions carve-out
 - Leverage attempt
 
+See [[US-Venezuela Oil Arrangement]] for post-intervention oil proceeds mechanism.
+
 ## Regional Impact
 
 ### Refugee Crisis
@@ -226,13 +228,19 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 - Trump explicitly cited **oil access** as core reason
 - Chatham House: "significant violation of Venezuelan sovereignty"
 
-### Congressional Response: [[War Powers Resolution]] (January 14, 2026)
+### Congressional Response: War Powers Resolutions
+
+**Senate (January 14-15, 2026):**
 - Sen. Tim Kaine (D-VA) introduced resolution to require congressional approval for further military action
 - Five Republicans initially defected: Josh Hawley, Todd Young, Susan Collins, Lisa Murkowski, Rand Paul
-- Hawley and Young flipped back before final vote
+- Hawley and Young flipped after receiving assurances from Rubio (no ground troops)
 - **Final vote: 50-50**
 - [[JD Vance]] cast tie-breaking vote to kill the resolution
 - Vance justification: operation justified as Maduro was wanted in US
+
+**House (January 22, 2026):**
+- Companion war powers resolution also failed: **215-215**, falling short of simple majority
+- Both votes give administration congressional latitude to continue operations
 
 ### Walt's Analysis: The Real Reasons
 [[Stephen Walt]] argues the stated justifications don't hold:
@@ -260,13 +268,12 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 - Terror networks that kept Maduro in power remain operational
 - AG Barr worked on Maduro indictments back in 2020—this is not new
 
-### Nobel Prize Incident (reported)
-[[María Corina Machado]] reportedly gave Trump her **physical Nobel Peace Prize medal**:
-- Machado reportedly won Nobel Peace Prize (unverified - requires confirmation)
-- Presented medal to Trump at White House (reported)
+### Nobel Prize Incident (confirmed)
+[[María Corina Machado]] won the **2025 Nobel Peace Prize** and presented her physical medal to Trump at the White House:
+- Machado confirmed as 2025 Nobel Peace Prize laureate (confirmed, multiple sources)
+- Presented medal to Trump at White House
 - Trump appeared to conflate having the medal with being a laureate
 - Nobel Committee: prizes cannot be transferred; recipient remains laureate
-- Note: Nobel Peace Prize announcements occur in October; verify if Machado was 2025 laureate
 
 ### International Reactions
 | Response | Countries |
@@ -294,6 +301,47 @@ Once wealthy oil state now in prolonged humanitarian and political crisis under 
 - Brazil's UNSC ambitions damaged
 - BRICS, Global South rhetoric exposed as hollow
 - First capture of sitting head of state since Noriega
+
+### One Month Later (February 2026)
+
+**Situation on the Ground (per Military.com, NPR, Feb 1-2):**
+- 30 days after Maduro capture, mix of uncertainty, hope, and fear persists
+- Pervasive fear of another attack or government repression lingers
+- Children and adults alike unsure of what exactly is happening
+
+**Political Developments:**
+- Rodríguez sworn in as acting president (Jan 5)
+- **344 political prisoners released** (confirmed, Foro Penal, Feb 1) out of ~1,055 held (711 remaining per Foro Penal—higher than earlier ~800 estimates)
+- Prominent activist Javier Tarazona (Fundaredes director) released Feb 1 after 1,675 days in El Helicoide
+- **Amnesty law** announced Jan 30: covers political offenses 1999-present; excludes homicide, drug trafficking
+- **El Helicoide prison** closure announced—to become "social and sports services center" (no timeline)
+- Rodríguez cabinet appointments: Félix Plasencia (ex-FM) as diplomatic envoy to US; Daniella Cabello (daughter of Diosdado) as Tourism Minister
+- Discussions begun to **reopen US Embassy** in Caracas (closed since 2019)—Rodriguez met with Laura Dogu, Washington's chargé d'affaires
+- Opposition frustrated: expected one of their own, not Rodríguez, to take power
+- Trump's decision to work with Rodríguez instead of Machado continues to baffle opposition
+- Rubio's three-phase plan: stabilization → economic recovery → transition to representative government; elections "not an immediate priority"
+- Machado (CBS, Feb 1): "I will be president when the time comes" but insists on elections
+- Edmundo González Urrutia remains in exile in Spain; no plans to return
+
+**Dual Reality (Amnesty International, Feb 3):**
+- SEBIN and DGCIM intelligence agencies still detaining people, surveilling communities, intimidating suspected supporters
+- Documented forced phone unlocking at checkpoints
+- Prisoner releases AND continued repression occurring simultaneously
+
+**Pro-Maduro Demonstrations (February 4):**
+- Thousands marched in Caracas demanding Maduro's release on one-month anniversary
+- Diosdado Cabello participated in Maracay mobilization commemorating 1992 civic-military rebellion
+
+**International Condemnation:**
+- UN experts: "grave, manifest and deliberate violation of the most fundamental principles of international law"
+- Warned operation "could risk destabilizing the entire region and the world"
+- Brazil, Spain, Chile, Colombia, Mexico, Uruguay: joint statement rejecting US unilateral military action (Jan 4)
+- Colombian President Petro mobilized security forces along border; warned he would "take up arms" if necessary (Jan 5)
+- Cuba: 32 soldiers killed in intervention; Díaz-Canel labeled operation "state terrorism"
+
+**Houston Venezuelan Community (NPR, Feb 1):**
+- Reactions range from "admiration and relief to skepticism and dread"
+- Community divided on intervention's legitimacy and outcomes
 
 ### Strategic Critique
 Kori Schake (AEI) argues tactical elegance doesn't connect to strategic objectives:

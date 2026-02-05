@@ -90,8 +90,9 @@ The most dangerous flashpoint in international politics. China claims Taiwan as 
 China's **largest military exercise ever** around Taiwan (6th since Pelosi visit 2022):
 - 130+ aircraft sorties into Taiwan ADIZ (90 crossed median line)
 - 14 warships + 8 coast guard vessels
-- **First time**: Chinese military/coast guard vessels entered Taiwan's contiguous zone in significant numbers
-- Rehearsed full maritime blockade: air/sea control, targeting ports, deterring external forces
+- **First time in force**: 11 PLAN vessels crossed into Taiwan's contiguous zone (12nm buffer); 8 CCG ships also entered; live projectiles fired into contiguous zone (a first)
+- Additional CCG vessels deployed around Wuqiu (2), Matsu (3), Pratas (2)
+- Rehearsed full maritime blockade: air/sea control, targeting ports of Keelung and Kaohsiung, deterring external forces
 - Covered larger area than any exercise since August 2022
 - 850+ international flights cancelled
 - Global silicon futures spiked 12%
@@ -121,11 +122,40 @@ China's **largest military exercise ever** around Taiwan (6th since Pelosi visit
 - Targets: Northrop Grumman, L3Harris, Boeing
 - Largely symbolic (minimal US defense exposure to China)
 
+### Pratas Island Drone Incursion (January 17, 2026)
+
+First confirmed PLA violation of Taiwan-controlled airspace:
+- Guizhou WZ-7 Soaring Dragon HALE reconnaissance drone entered Pratas (Dongsha) territorial airspace at 5:44 AM, departed at 5:48 AM after radio warnings
+- Altitude outside range of Taiwan's air-defense weaponry on the island
+- PLA Southern Theatre Command confirmed flight, called it "routine training" that was "fully legitimate and lawful"
+- Taiwan MND condemned it as "highly provocative and irresponsible"
+- Significant escalation: first time PLA publicly confirmed such an operation
+
+### Trump-Xi Phone Call (February 4, 2026)
+
+- Trump described as "excellent" and "long and thorough"
+- Xi called Taiwan "the most important issue" in China-US relations
+- Xi urged US to handle Taiwan arms sales "with great prudence"
+- Also discussed trade (Chinese soybean purchases), Iran, Russia/Ukraine
+- **April 2026 face-to-face summit planned**
+- Taiwan President Lai Ching-te (Feb 5): relations with US are "rock-solid"
+- Russia reaffirmed support for China on Taiwan (Feb 2)
+
+### Taiwan Defense Preparations (January-February 2026)
+
+- Taiwan-US Joint Firepower Cooperation Center being established for coordinated defense
+- $18.1B special budget proposed for national resilience (would elevate spending to NATO benchmarks)
+- New anti-ship missile units planned at Penghu, Pingtung, and Northern Taiwan
+- Domestically-made cruise missiles capable of striking targets throughout mainland China
+- Military Police Command added battalion specialized in air defense; procuring 21 Stinger MANPADS
+- **Political obstacle**: KMT opposition has voted multiple times to block asymmetric warfare special budget
+
 ### Assessment
 - Invasion in 2026 considered **unlikely** by analysts
 - China perfecting "short-and-sharp" isolation tactics
-- Gray-zone pressure eroding war/peace distinction
+- Gray-zone pressure eroding war/peace distinction—contiguous zone incursions and airspace violations are graduated escalation ("boiling the frog")
 - Economic headwinds limit China's risk appetite
+- "Fourth Taiwan Strait Crisis" framing gaining traction (Aug 2022 to present as continuous crisis)
 
 ## Key Variables
 1. Xi Jinping's risk tolerance
@@ -158,3 +188,12 @@ China's **largest military exercise ever** around Taiwan (6th since Pelosi visit
 - [[Asia-Pacific]]
 - [[Deterrence]]
 - [[First Island Chain]]
+- [[China Nuclear Program]]
+
+## Sources
+- [Global Taiwan Institute - PLA Justice Mission 2025](https://globaltaiwan.org/2026/01/pla-justice-mission-2025/)
+- [The Diplomat - China's Taiwan Drills Are Crossing a New Line](https://thediplomat.com/2026/01/chinas-taiwan-drills-are-crossing-a-new-line/)
+- [Taipei Times - Chinese drone enters Pratas airspace](https://www.taipeitimes.com/News/front/archives/2026/01/18/2003850781)
+- [CNBC - Xi reasserts Taiwan stance in call with Trump](https://www.cnbc.com/2026/02/05/chinas-xi-taiwan-trump-trade-talks-iran-russia.html)
+- [Breaking Defense - US greenlights $11B arms package](https://breakingdefense.com/2025/12/us-greenlights-massive-11-billion-military-arms-package-to-taiwan/)
+- [Defense News - Taiwan-US firepower center](https://www.defensenews.com/global/asia-pacific/2026/02/02/taiwan-us-firepower-center-to-hone-asymmetric-warfare-tactics/)

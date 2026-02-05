@@ -38,6 +38,11 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Spheres of Influence]]
 - [[Gunboat Diplomacy]]
 - [[Arms Control]]
+- [[NPT]] - Nuclear Non-Proliferation Treaty (1968), three pillars
+- [[New START]] - Last US-Russia nuclear treaty, suspended 2023, expires 2026
+- [[CTBT]] - Comprehensive Test Ban, signed 1996, never entered force
+- [[INF Treaty]] - Intermediate-Range Nuclear Forces (1987-2019), first to eliminate weapon category
+- [[Open Skies Treaty]] - Aerial observation (1992-2021), collapsed after US/Russia withdrawals
 - [[Monroe Doctrine]]
 - [[Donroe Doctrine]]
 - [[Comprehensive Strategic Partnership]] - China's tiered partnership diplomacy system
@@ -59,18 +64,23 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Proxy Wars]]
 - [[Nuclear Weapons]]
 - [[Nuclear Proliferation]]
+- [[Nuclear Triad]] - Land/sea/air delivery systems, survivability, who has what
+- [[Nuclear Command and Control]] - C2 systems, AI/cyber risks, emerging tech challenges
 - [[Anti-Access Area Denial]]
 - [[Long-Range Strike]] - Deep strike capability, precision missiles, escalation politics
 - [[European Air Defense]]
+- [[Golden Dome]] - Trump's Arctic missile defense concept
 - [[Terrorism]]
 
 ## Economic Statecraft
 - [[Geoeconomics]]
 - [[Sanctions]]
+- [[Shadow Fleet]] - Tanker networks evading oil sanctions (Russia, Iran, Venezuela)
 - [[Anti-Coercion Instrument]] - EU trade defense "bazooka" (2023)
 - [[Economic Interdependence]]
 - [[Weaponized Interdependence]] - Using economic networks as coercion (Farrell & Newman)
 - [[Trade]]
+- [[IEEPA]] - International Emergency Economic Powers Act (1977), tariff authority dispute
 - [[Dollar Dominance]]
 - [[Federal Reserve Independence]] - Central bank independence, Trump attacks, time inconsistency
 - [[Iranian Economic Crisis]] - Banking collapse, currency crisis, 2025-2026
@@ -89,6 +99,7 @@ Theories, frameworks, and key terms in geopolitics.
 
 ## Strategic Geography
 - [[Island Chains]]
+- [[First Island Chain]] - Pacific containment barrier from Japan through Taiwan to Philippines
 - [[Chokepoints]]
 - [[Arctic Geopolitics]]
 - [[Space Geopolitics]]

@@ -95,6 +95,11 @@ States, organizations, and decision-makers in geopolitics.
 
 ### Other
 - [[Quds Force]]
+- [[Falun Gong]] - Spiritual movement, persecuted in China since 1999
+- [[Kachin Independence Organization]] - Myanmar ethnic army, controls world's most valuable heavy rare earth deposits since October 2024
+
+### Colombian (Historical)
+- [[AUC]] - United Self-Defense Forces, right-wing paramilitaries (1997-2006, demobilized)
 
 ## Iranian Military
 - [[IRGC]] - Revolutionary Guards (ideological)
@@ -107,6 +112,9 @@ States, organizations, and decision-makers in geopolitics.
 - [[Bank Melli Iran]] - Largest state-owned bank
 - [[Bank Mellat]] - Major state-owned bank
 - [[Bank Saderat Iran]] - Export bank, Hezbollah allegations
+
+## Political Parties
+- [[Centro Democrático]] - Colombia, Uribe's right-wing party (in crisis 2025-26)
 
 ## Think Tanks & Analysis
 ### US Think Tanks
@@ -197,6 +205,10 @@ States, organizations, and decision-makers in geopolitics.
 - [[Robert Gabriel Jr.]] - Deputy NSA, Board of Peace executive board
 - [[Kevin Rudd]] - Former Australian PM, China expert, US Ambassador (2023-2026)
 - [[María Corina Machado]] - Venezuelan opposition leader, Nobel Peace Prize laureate
+
+### Latin America
+- [[Abelardo de la Espriella]] - Colombian presidential candidate (2026), far-right, Defensores de la Patria founder
+- [[Iván Cepeda]] - Colombian presidential candidate (2026), Pacto Histórico, human rights defender
 
 ### Board of Peace - Gaza Executive Board
 - [[Hakan Fidan]] - Turkey's Foreign Minister

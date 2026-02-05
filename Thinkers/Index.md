@@ -10,6 +10,10 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Hal Brands]] - Johns Hopkins SAIS, liberal order, US grand strategy
 - [[Peter Zeihan]] - Demographics, deglobalization, geographic determinism
 - [[George Friedman]] - Geopolitical Futures, long-range forecasting, technology cycles
+- [[Vali Nasr]] - Johns Hopkins SAIS, Iran/Middle East, former Obama State Dept
+- [[Robert Kaplan]] - CNAS, geographic determinism, *Revenge of Geography*
+- [[Andrew Krepinevich]] - CSBA founder, A2/AD, competitive strategies
+- [[Rush Doshi]] - Brookings, China grand strategy, *The Long Game*
 
 ## Nuclear Strategists (Cold War)
 - [[Bernard Brodie]] - Yale/RAND, founding father of deterrence theory
@@ -20,6 +24,9 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Caitlin Talmadge]] - Georgetown, conventional-nuclear escalation, Taiwan scenarios
 - [[Keir Lieber]] - Georgetown, nuclear primacy thesis, first-strike stability
 - [[Daryl Press]] - Dartmouth, credibility of threats, nuclear strategy
+
+## Arms Control
+- [[Rose Gottemoeller]] - Stanford/Hoover, New START chief negotiator, former NATO Deputy SecGen
 
 ## Political Risk
 - [[Ian Bremmer]] - Eurasia Group founder, G-Zero concept

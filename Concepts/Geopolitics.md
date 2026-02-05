@@ -146,6 +146,18 @@ Today "geopolitics" often means:
 - Resource/trade competition
 - Less geographic determinism
 
+### The Case for Geographic Thinking (2026)
+
+[[Hal Brands]] argues (February 2026) that the post-Cold War eclipse of geographic thinking was premature:
+
+> "Geography isn't quite destiny, but it is the most elemental foundation of international relations."
+
+Key insights:
+- Technology shifts geography's *meaning* but doesn't eliminate it
+- Physical features create recurring patterns that outlast regimes and ideologies
+- Russia's expansionism, China's dual-domain ambitions, US strategic ambivalence all flow from geography
+- Understanding geography helps "get inside the heads" of leaders from Putin to Trump
+
 ## Critical Geopolitics
 
 ### Critique of Classical
@@ -247,3 +259,5 @@ It draws on IR theory but emphasizes:
 - [[Heartland Theory]]
 - [[Containment]]
 - [[Chokepoints]]
+- [[First Island Chain]]
+- [[Hal Brands]]

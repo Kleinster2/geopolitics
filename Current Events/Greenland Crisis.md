@@ -297,6 +297,49 @@ Large demonstrations in Denmark and Greenland:
 - Rutte's "framework" appears to be face-saving rather than substantive change
 - Zeihan's "distraction" strategy may have partially worked
 
+## Post-Davos Developments (Late January-February 2026)
+
+### Operation Arctic Endurance
+NATO allies launched a multinational military deployment/exercise in Greenland (January 2026), running throughout 2026:
+
+**Participating nations** (11): Belgium, France, Germany, Sweden, Norway, Finland, Netherlands, United Kingdom, Estonia, Slovenia, Iceland
+
+**Key allied statements:**
+- UK PM Starmer: tariffs on allies for pursuing collective NATO security is "completely wrong"
+- French President Macron: "no intimidation nor threat will influence us, neither in Ukraine, nor in Greenland, nor anywhere else"
+- Swedish PM Kristersson: "We will not let ourselves be blackmailed"
+
+### Arctic Sentry Proposal
+Germany proposed a **permanent NATO mission in Greenland** called Arctic Sentry, modeled on the Baltic Sentry mission. Six NATO members (UK, Germany, France, Italy, Poland, Spain) offered to increase NATO activity in Greenland. Denmark welcomed the initiative.
+
+### Denmark's Defense Buildup
+- Committed **88 billion kroner** (US$13.7 billion) to Arctic defense
+- 29 billion for F-35 fighter jets
+- 27.8 billion for anti-aircraft warfare
+- 200 additional elite arctic warfare soldiers deployed to Greenland
+
+### Cold Response 2026
+Planned March 2026 NATO exercise in Norway: 20,000-25,000 participants from 10+ countries, including ~4,000 US soldiers.
+
+### Russia's Ryabkov Warning (February 3, 2026)
+Deputy FM Ryabkov warned Russia would take "military and technical compensatory measures" if US deploys Golden Dome elements to Greenland. Timed two days before New START expiration.
+
+### AI/Tech Dimension
+- Dell Technologies (in partnership with Nvidia) began operating AI data center in Greenland in **December 2025**—six weeks before Trump's public push
+- Uses Greenland's abundant hydroelectric power
+- Former Trump official pursuing plans for massive Greenland data center (CNBC, Jan 23)
+- At Davos, investors "went for AI, left talking about Greenland"
+
+### Alliance Damage Assessment
+- Carnegie Europe analyst: episode "crossed a line that cannot be uncrossed"
+- Norwegian PM Støre at Davos: "It's going to be hard for Europe to carry on trusting America"
+- Fortune assessment: even without force or sanctions, breach weakens NATO in lasting way
+
+### Greenland Independence Polling
+- 84% of Greenlanders support independence from Denmark
+- But 61% oppose independence if it means a lower standard of living
+- No referendum scheduled for 2026; government commission established September 2024 to draw up proposals
+
 ## Scenarios
 
 ### Negotiated Outcome
@@ -316,6 +359,7 @@ Large demonstrations in Denmark and Greenland:
 - Global realignment
 
 ## Related Notes
+- [[Chagos Islands Transfer]] - Trump used as precedent argument
 - [[NATO]]
 - [[Denmark]]
 - [[Arctic Geopolitics]]
@@ -343,3 +387,9 @@ Large demonstrations in Denmark and Greenland:
 - [NPR - Trump backs off tariff threats, hails 'framework'](https://www.npr.org/2026/01/21/nx-s1-5683078/trump-davos-speech-tariffs-greenland)
 - [Al Jazeera - Trump nixes tariff threats after Rutte talks](https://www.aljazeera.com/news/2026/1/21/trump-nixes-european-tariff-threats-over-greenland-after-nato-chief-talks)
 - [NBC News - EU halts trade deal approval](https://www.nbcnews.com/business/economy/eu-trade-deal-trump-greenland-tariff-rcna255199)
+- [Atlantic Council - Trump's quest for Greenland could be NATO's darkest hour](https://www.atlanticcouncil.org/dispatches/trumps-quest-for-greenland-could-be-natos-darkest-hour/)
+- [Danish Defence - Arctic Endurance continues throughout 2026](https://www.forsvaret.dk/en/news/2026/arctic-endurance-fortsatter-i-hele-2026/)
+- [Al Jazeera - Russia ready to respond to US weapons in Greenland](https://www.aljazeera.com/news/2026/2/3/russia-ready-to-respond-to-any-us-weapons-deployment-in-greenland-ryabkov)
+- [Fortune - Trump's NATO fight crossed a line](https://fortune.com/2026/02/01/trumps-nato-fight-greenland-control-tariffs-alliance-long-term-damage/)
+- [Byline Times - Pro-Trump AI giants pushed Greenland expansion](https://bylinetimes.com/2026/02/03/pro-trump-ai-giants-pushed-greenland-expansion-weeks-before-trumps-bid-to-seize-the-island/)
+- [Military.com - Denmark surges Arctic forces](https://www.military.com/daily-news/headlines/2026/01/26/greenland-draws-red-line-after-trump-nato-claim-denmark-accelerates-arctic-forces.html)

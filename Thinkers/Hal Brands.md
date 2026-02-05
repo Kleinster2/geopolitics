@@ -117,6 +117,58 @@ Notes in this vault drawing on Brands' analysis:
 - [[Arms Control]]
 - [[Freedom of Navigation]]
 
+## February 2026: Geography Is Still Destiny
+
+### "In an Age of Superpowers, Geography Is Still Destiny"
+Bloomberg Opinion piece (February 1, 2026) arguing for return to geopolitical thinking as great-power competition intensifies.
+
+#### Core Thesis
+> "Geography isn't quite destiny, but it is the most elemental foundation of international relations."
+
+Innovation shifts geography's *meaning* but doesn't eliminate it. Post-Cold War "end of geography" was illusion - Afghanistan terrain defeated hyperpower; Chinese missiles exploit Pacific distances.
+
+#### Key Geographic Frameworks
+
+**Ukraine - "Strategic Hinge of Supercontinent"**
+- Lies on pathway between Eurasian [[Heartland Theory|Heartland]] and European [[Rimland]]
+- Black Sea access links Russia to Mediterranean
+- Name itself means "borderland"
+- Has been invasion target in every great-power contest for generations
+
+**Taiwan - Double Barrier**
+- Heart of [[First Island Chain]]
+- Confluence of South China Sea and East China Sea
+- If free: bottles up Chinese power, breaks unity of China's seaboard
+- If taken: blasts hole in containment, becomes springboard to open Pacific
+
+**Russia - Geography Breeds Expansion**
+- Open terrain = invasion route from Europe and Asia alike
+- "Security through violent expansion" transcends regimes and ideologies
+- Cites Kennan: "conceptions of offense and defense inextricably confused"
+- Russia's rulers can only see nearby states as "buffers, vassals or enemies"
+
+**China - Amphibious Geography**
+- Huge Eurasian hinterland + Pacific frontage
+- "Most dangerous sort of country—one that can plausibly seek dominance in two domains"
+- [[Belt and Road Initiative]] = continental hegemony
+- Naval buildup = reclaiming Ming Dynasty oceanic grandeur
+- If Beijing succeeds: "hybrid hegemony" ending American Century
+
+**United States - Geographic Ambivalence**
+- Oceans served as shields when young, conveyor belts when strong
+- Distance from Old World made US attractive ally (non-threatening)
+- Same geography creates enduring temptation to retrench
+- Trump tapping "older, more unilateral tradition... dating back generations, even centuries"
+
+**India as Barrier**
+- "Madness" for US-India feud
+- Indian Ocean coastline + Himalayan frontier = barrier to Chinese power on land and sea
+
+#### Strategic Implications
+- US must exploit "natural tendencies of resistance" Russia/China inspire in neighbors
+- Design ways of war making Western Pacific "death-trap for invasion fleets"
+- Recognize expansionist impulses are geographically ingrained—may persist after Xi/Putin depart
+
 ## Comparison to Other Thinkers
 
 | Thinker | Overlap | Difference |

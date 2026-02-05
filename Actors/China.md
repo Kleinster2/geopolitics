@@ -17,10 +17,24 @@ The world's most populous country and second-largest economy, pursuing "national
 - **Population**: ~1.4 billion
 - **GDP**: ~$18 trillion (PPP: ~$30 trillion)
 - **Military Budget**: ~$225 billion (official; likely higher)
-- **Nuclear Warheads**: ~500 (rapidly expanding)
+- **Nuclear Warheads**: ~600 (rapidly expanding; DoD projects 1,000+ by 2030)
 - **Leader**: Xi Jinping (General Secretary since 2012)
 
 ## Geopolitical Position
+
+### Amphibious Geography
+
+[[Hal Brands]] (February 2026) argues China's strategic geography is uniquely dangerous:
+
+- **Double endowment**: Huge Eurasian hinterland resources + Pacific frontage for oceanic reach
+- **When weak**: Assailed by richer enemies from sea while land borders menaced by nomads/rivals
+- **When strong**: "Most dangerous sort of country—one that can plausibly seek dominance in two domains"
+
+Xi's strategic gambits reflect this dual geography:
+- **Maritime**: Naval buildup, South China Sea militarization, blue-water fleet = reclaiming Ming Dynasty oceanic grandeur
+- **Continental**: [[Belt and Road Initiative]] = integrating Eurasia under Chinese economic/political sway
+
+If Beijing succeeds in both domains: "hybrid hegemony" with overwhelming influence on the largest landmass and greatest oceans—ending the American Century.
 
 ### Strategic Goals
 1. **Taiwan unification**: Core interest, potential flashpoint
@@ -73,6 +87,33 @@ The world's most populous country and second-largest economy, pursuing "national
 - Taiwan scenario costs
 - Technology chokepoints (semiconductors)
 - Real estate/debt issues
+- **Military leadership instability** (2024-2026 purges)
+- **Heavy rare earth supply fragility**: ~98% of HREE imports came from [[Myanmar Rare Earths|Myanmar's Kachin State]] in 2023; KIO seizure of mines (October 2024) disrupted this supply
+
+## Military Leadership Purges (2024-2026)
+
+### January 2026 Announcement (Confirmed)
+On January 24, 2026, China's Ministry of National Defense announced that Zhang Youxia and Liu Zhenli were under investigation for "serious disciplinary and legal violations."
+
+- **Zhang Youxia**: Vice Chairman of Central Military Commission, highest-ranking military official after Xi
+- **Liu Zhenli**: CMC member, Chief of Joint Staff Department
+
+### CMC Composition (Confirmed)
+Of the seven original members of China's Central Military Commission, five have been purged or removed since 2024. Only two remain:
+1. Xi Jinping (Chairman)
+2. Miao Hua (promoted October 2025)
+
+Earlier purges included members of the Rocket Force and equipment development departments.
+
+### Analytical Interpretations
+
+**Heng He (Epoch Times)** characterizes this as a "coup" by Xi to reassert control:
+- Claims announcement violated normal CCP procedures
+- Argues "chain of command is totally broken"
+- Views purged generals as professional military opposing premature Taiwan action
+- See [[Heng He]] for full framework
+
+**Note**: Claims about internal motivations, power dynamics, and procedure violations are largely unverifiable. The scale of purges (5/7 CMC members) is observable; the reasons are contested.
 
 ### Demographic Crisis (2025-2026)
 
@@ -107,10 +148,12 @@ According to Maurício Moura (George Washington University, electoral specialist
 - Xi Jinping's 2025 National People's Congress made clear: China no longer wants to be "sweat shop"—wants AI supremacy
 
 **Rare earths countermeasure:**
-- China controls rare earth supply chains
+- China controls rare earth supply chains (~91% of global processing)
 - Responded to chip export controls by restricting rare earth exports to US
-- Value: small (~$100 million), but critical for US automotive industry
+- April 2025: Imposed export controls on 7 medium/heavy REEs including dysprosium and terbium
+- Value: small (~$100 million), but critical for defense (F-35s require ~920 lbs of rare earths per unit) and automotive industry
 - Leverage point: "That's where he [Trump] struck a deal"
+- See [[Myanmar Rare Earths]] for China's HREE supply chain vulnerability
 
 **AI competition:** Per Dumas, both countries now view AI supremacy as the central strategic competition. The "fight is now completely focused on artificial intelligence."
 
@@ -140,6 +183,14 @@ US concern: China filling vacuum left by US tariff pressure:
 - Brazil: 6% increase in exports to China as US exports fell 6%
 - More than 1/3 of Brazilian exports to China
 - Washington views Brazil partly through lens of Chinese influence
+
+## Trump-Xi Phone Call (February 4, 2026)
+
+- Trump described as "excellent" and "long and thorough"
+- Xi called Taiwan "the most important issue" in China-US relations
+- Discussed: trade (soybean purchases of 20-25 million tons), Iran, Russia/Ukraine
+- **April 2026 face-to-face summit planned**
+- Xi urged US to handle Taiwan arms sales "with great prudence"
 
 ## Related Notes
 - [[Asia-Pacific]]

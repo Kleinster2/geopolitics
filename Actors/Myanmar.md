@@ -109,6 +109,25 @@ Southeast Asian nation in crisis following 2021 military coup that reversed demo
 - Limited impact
 - NUG engagement debates
 
+## Rare Earth Mining
+
+Northern Kachin State contains some of the world's most valuable deposits of heavy rare earth elements (dysprosium, terbium). See [[Myanmar Rare Earths]] for full analysis.
+
+### Key Facts
+- Over 370 active mining sites by end of 2024 (per ISP-Myanmar)
+- Myanmar supplied approximately 98% of China's heavy rare earth imports in 2023 (per Global Witness)
+- USD 4.2 billion in exports to China (2017-2024), 85% after the coup (per ISP-Myanmar)
+- World's third-largest rare earth producer (approximately 31,000 metric tons in 2024)
+
+### Control
+- Pre-October 2024: Controlled by NDA-K (junta-aligned militia), operated by Chinese companies
+- October 2024: [[Kachin Independence Organization]] (KIA) seized all major mining areas
+- 2025: KIO renegotiating terms, imposing taxes, formulating regulations
+- India began direct engagement with KIO for rare earth access (July 2025)
+
+### Environmental Impact
+EarthRights International (April 2025) documented severe environmental destruction: 32,720 hectares of deforestation (2018-2024), water contamination with heavy metals, community health impacts. Described Kachin as a "sacrifice zone for the green transition."
+
 ## Strategic Significance
 
 ### Geography
@@ -116,12 +135,14 @@ Southeast Asian nation in crisis following 2021 military coup that reversed demo
 - Bay of Bengal access
 - Connectivity routes
 - Regional stability
+- **Rare earth deposits** (Kachin State): critical for global defense and energy transition supply chains
 
 ### China's Interests
 - Border stability
 - Infrastructure (pipelines, corridor)
 - Strategic access
 - Influence maintenance
+- **Rare earth supply**: China sources approximately 50% of heavy rare earth inputs from Myanmar
 
 ### BRI Projects
 - China-Myanmar Economic Corridor
@@ -226,3 +247,6 @@ Southeast Asian nation in crisis following 2021 military coup that reversed demo
 - [[Asia-Pacific]]
 - [[Democracy and Authoritarianism]]
 - [[Rohingya Crisis]]
+- [[Myanmar Rare Earths]]
+- [[Kachin Independence Organization]]
+- [[Critical Minerals]]

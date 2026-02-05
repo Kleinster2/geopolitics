@@ -11,6 +11,17 @@ tags: [nuclear, europe, deterrence, nato]
 ## Overview
 Growing debate across Europe about developing independent nuclear deterrence as doubts mount about US extended deterrence under Trump. France and UK already have nuclear weapons; the question is whether to extend protection to allies or whether non-nuclear states should develop their own capabilities.
 
+## Major Development: Northwood Declaration (July 2025)
+
+The debate moved from theoretical to operational with the [[Northwood Declaration]]:
+
+- **July 10, 2025**: UK-France signed first explicit nuclear coordination agreement
+- Commits that "there is no extreme threat to Europe that would not prompt a response by our two nations"
+- Established Nuclear Steering Group (first met December 2025 in Paris)
+- IISS: "Most far-reaching step yet in UK-France nuclear cooperation"
+
+This provides an embryonic European nuclear umbrella framework that others may join.
+
 ## Drivers
 
 ### Loss of Confidence in US Umbrella
@@ -36,6 +47,8 @@ US threatening a NATO ally over [[Greenland Crisis|Greenland]] has accelerated t
 
 ### Germany
 - **Friedrich Merz (February 2025)**: Declared US "no longer trustworthy," called for nuclear sharing talks with Paris
+- **February 2026**: Merz government in active negotiations with UK/France on joining nuclear umbrella
+- Spokesman Stefan Cornelius: "The negotiations that we are conducting are at a very early stage"
 - Historical reluctance to nuclear weapons now being reconsidered
 - Could contribute funding/hosting rather than development
 
@@ -46,6 +59,8 @@ US threatening a NATO ally over [[Greenland Crisis|Greenland]] has accelerated t
 
 ### Finland and Sweden
 - New NATO members with heightened threat perception
+- **Sweden (January 2026)**: PM Ulf Kristersson confirmed talks with UK and France about "nuclear umbrella" protection
+- UK government confirmed Starmer discussed proposal with Kristersson
 - Technical challenges: only have light-water reactors (not suitable for weapons-grade plutonium production)
 - More likely to seek protection from France/UK than develop own
 
@@ -114,14 +129,36 @@ US threatening a NATO ally over [[Greenland Crisis|Greenland]] has accelerated t
 - UK post-Brexit relationship
 - Command authority in crisis
 
-## Current Status (January 2026)
+## Macron's Expanded Deterrence (January 15, 2026)
 
-Per Carnegie Endowment: "Heading into 2026, Europe still lacks a shared framework and a coherent epistemic community on deterrence."
+Following emergency defence council meeting at the Elysée Palace, Macron declared:
+- "Nous sommes prêts à dissuader pour défendre notre sol" (we are ready to deter to defend our territory)
+- Described European territory as part of France's "vital interests"—a significant doctrinal expansion
+- IISS: "unprecedented signal" that France may extend nuclear deterrent to European allies
 
-The debate remains at early stages:
-- Political discussions happening (confirmed)
-- No concrete programs announced
-- Focus on extending French/UK umbrella rather than new weapons states
+This goes beyond the March 2025 offer of a "strategic debate"—it explicitly frames European defense as a French vital interest warranting nuclear deterrence.
+
+### SIPRI Assessment (February 2026)
+After New START's expiration, SIPRI published: "After New START expires, Europe needs to step up on arms control"
+- Argues Europeans must take more active role since US-Russia bilateral framework has collapsed
+- Notes Russia has approximately **1,477 tactical nuclear weapons** vs US ~200—"precisely the weapon systems that pose the greatest threat to Europe's security"
+- These were never covered by New START, and with the treaty gone, broader arms control architecture further weakened
+
+## Current Status (February 2026)
+
+The [[Northwood Declaration]] has moved the debate from theory to practice:
+
+**Concrete developments:**
+- UK-France Nuclear Steering Group operational (December 2025)
+- Germany in negotiations to join framework
+- Sweden in discussions for umbrella protection
+- Macron's January 15 speech explicitly extends deterrence to European territory
+
+**Remaining gaps:**
+- Per Carnegie Endowment: "Europe still lacks a shared framework and a coherent epistemic community on deterrence"
+- Command and control arrangements undefined
+- Cost sharing not resolved
+- Credibility against Russia's larger arsenal untested
 
 ## Zeihan's Assessment
 
@@ -130,6 +167,7 @@ The debate remains at early stages:
 He argues Europe lacks time for conventional buildup given the revolution in military affairs visible in Ukraine, making nuclear deterrence the faster path.
 
 ## Related Notes
+- [[Northwood Declaration]]
 - [[NATO]]
 - [[France]]
 - [[United Kingdom]]
@@ -138,6 +176,7 @@ He argues Europe lacks time for conventional buildup given the revolution in mil
 - [[Nuclear Weapons]]
 - [[Nuclear Proliferation]]
 - [[Greenland Crisis]]
+- [[New START Expiration]]
 - [[Peter Zeihan]]
 - [[Zeitenwende]]
 

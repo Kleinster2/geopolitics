@@ -198,9 +198,16 @@ London-based think tank focused on defense, security, and strategic affairs. Kno
 - Conference sponsors
 - Disclosed relationships
 
+## Notable Analysis
+
+### Northwood Declaration (2025)
+IISS Strategic Comments (September 2025) described UK-France nuclear agreement as "most far-reaching step yet in UK-France nuclear cooperation." Significant given IISS's measured, non-hyperbolic tone.
+
 ## Related Notes
 - [[Think Tanks]]
 - [[Military Power]]
 - [[Asia-Pacific]]
 - [[Deterrence]]
 - [[Defense Industry]]
+- [[Northwood Declaration]]
+- [[European Nuclear Debate]]

@@ -1,7 +1,14 @@
 # Claude Code Instructions for Geopolitics Vault
 
 ## Project Overview
-Obsidian vault tracking geopolitical developments, actors, concepts, and current events. Uses wiki-style linking (`[[Note Name]]`) and YAML frontmatter.
+Obsidian vault building a comprehensive knowledge base of geopolitics: actors, concepts, frameworks, and events. Uses wiki-style linking (`[[Note Name]]`) and YAML frontmatter.
+
+### Scope Principle
+**All geopolitically relevant information is equally relevant.** The vault is not limited to "active" or "trending" topics. Information is incorporated based on its relevance to understanding global dynamics—not because we have recently worked on it or because it is in the news cycle.
+
+Recent developments and active flashpoints are tracked as **additional** information layered onto this broader base. A Cold War-era treaty framework, a 19th-century geopolitical concept, and today's breaking crisis are all valid subjects if they contribute to understanding how the world works.
+
+Do not filter information by recency or activity level. Filter by relevance to the structure of international relations.
 
 ## Folder Structure
 ```
@@ -70,6 +77,28 @@ Think of it like a museum: backlinks show everything that mentions a topic, but 
 4. Update all relevant indexes
 5. Check for orphan links that should become notes
 6. **Maintain attribution** - Track who said what; don't flatten analysis into anonymous facts
+
+### Deep Research
+**Always run deep research.** Every note creation or update session should include background research subagents to verify facts, catch gaps, find corrections, and identify missing related concepts.
+
+This is not optional and is not limited to "active" topics. A note on the Treaty of Westphalia deserves the same research rigor as a note on today's crisis. The vault's value depends on accuracy, and accuracy requires verification against current sources.
+
+**What it catches:**
+- Outdated numbers (e.g., arsenal estimates that changed)
+- Date errors (e.g., proposal was September, not February)
+- Missing major developments (e.g., treaties signed while you weren't looking)
+- Related concepts that should exist but don't
+- Expert voices to add as Analysts/Thinkers
+- Contradictions between vault content and current scholarship
+- New analytical frameworks applied to established topics
+
+**Workflow:**
+1. Create/update notes from source material
+2. Launch background research subagents on the topic cluster (multiple in parallel when possible)
+3. Continue other work while they run
+4. Review findings: apply corrections, create suggested notes, add new sources
+
+**For broad update sessions** (e.g., "what's new"), launch parallel research agents across all major topic areas—not just the ones recently edited. The goal is to surface developments the vault hasn't captured yet, regardless of which notes were last touched.
 
 ## Style
 
@@ -322,12 +351,14 @@ When creating new notes, update relevant indexes:
 ### Orphan Links
 Periodically check for referenced notes that don't exist and create them.
 
-## Current Context (January 2026)
+## Current Context (February 2026)
 
 Major ongoing situations:
 - Trump 2.0 reshaping international order
-- [[Greenland Crisis]] - US threatening NATO ally
+- [[New START Expiration]] - Last US-Russia nuclear treaty expires Feb 5
+- [[Greenland Crisis]] - US threatening NATO ally, Golden Dome connection
 - [[Venezuela]] - US intervention (Operation Absolute Resolve)
 - [[Ukraine Crisis]] - France/UK troop deployment
 - [[Iran Protests 2025-2026]] - Regime crisis
 - [[Taiwan]] - Largest-ever Chinese military exercises
+- [[China Nuclear Program]] - Rapid expansion toward parity

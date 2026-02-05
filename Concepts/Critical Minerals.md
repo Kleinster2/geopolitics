@@ -56,10 +56,12 @@ IEA projections (by 2040):
 ### Rare Earth Elements (REEs)
 **17 elements, not actually rare**
 - Magnets, catalysts, electronics
-- **Mining**: China (60%), Myanmar, Australia
-- **Processing**: China (90%)
-- **Issues**: Environmental damage, strategic vulnerability
-- **Trend**: Diversification efforts slow
+- **Mining**: China (60%), Myanmar (3rd largest), Australia
+- **Processing**: China (~91% of separation/refining)
+- **Heavy REEs** (dysprosium, terbium): ~60% from [[Myanmar Rare Earths|Myanmar's Kachin State]] (per EarthRights, 2025); China sourced ~98% of HREE imports from Myanmar in 2023
+- **Issues**: Environmental damage, strategic vulnerability, conflict-zone sourcing
+- **Trend**: Lynas (Australia/Malaysia) became first non-Chinese producer of separated heavy rare earths (May 2025); Pentagon invested $400M in MP Materials (July 2025)
+- See [[Myanmar Rare Earths]] for detailed analysis
 
 ### Nickel
 **Battery grade crucial**
@@ -111,9 +113,10 @@ This is where real control lies:
 
 ### Weaponization Potential
 - 2010: Rare earth embargo to Japan
-- Can restrict exports
-- Processing chokepoint
-- Leverage over energy transition
+- **April 2025**: China imposed export controls on terbium, dysprosium, and five other REEs; dysprosium prices rose 180% within 60 days (per CSIS)
+- **January 2026**: Dual-use export ban to Japan over Taiwan remarks
+- Processing chokepoint (91% of global capacity)
+- Leverage over energy transition and defense supply chains
 
 ## Geopolitical Responses
 
@@ -216,10 +219,14 @@ Clean energy requires dirty mining:
 | Project | Location | Mineral | Status |
 |---------|----------|---------|--------|
 | Thacker Pass | US (Nevada) | Lithium | Contested |
-| Mt. Weld | Australia | Rare earths | Operating |
+| Mt. Weld | Australia | Rare earths | Operating (Lynas) |
+| Lynas Malaysia | Malaysia | Heavy rare earths | Operating (first non-Chinese HREE, May 2025) |
 | Simandou | Guinea | Iron ore | Developing |
 | Kamoa-Kakula | DRC | Copper | Operating |
-| MP Materials | US (California) | Rare earths | Operating |
+| MP Materials | US (California) | Rare earths | Operating (Pentagon $400M investment, July 2025) |
+| Eneabba | Australia | Rare earths | Commissioning 2026 (Iluka, A$1.25B govt loan) |
+| Tanbreez | Greenland | Rare earths | Developing (Critical Metals Corp, US ExIm interest) |
+| Kvanefjeld | Greenland | Rare earths | Stalled (uranium mining ban) |
 
 ## Future Outlook
 
@@ -245,7 +252,10 @@ Clean energy requires dirty mining:
 - [[Supply Chains]]
 - [[Geoeconomics]]
 - [[China]]
+- [[Myanmar Rare Earths]]
 - [[Energy Security]]
 - [[Climate Change]]
 - [[Resource Curse]]
 - [[Africa]]
+- [[Greenland Crisis]]
+- [[Defense Industry]]
