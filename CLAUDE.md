@@ -353,7 +353,9 @@ Periodically check for referenced notes that don't exist and create them.
 
 ## Cross-Vault Linking
 
-The **investing vault** (`C:\Users\klein\financial-charts\investing\`, Obsidian vault name `investing`, repo `Kleinster2/financial-charts`) covers the same topics from a market/trade angle. When a note has a meaningful counterpart in the other vault, add clickable `obsidian://` URI links.
+The **investing vault** (`C:\Users\klein\financial-charts\investing\`, Obsidian vault name `investing`, repo `Kleinster2/financial-charts`) covers the same topics from a market/trade angle. **Overlap is expected and desirable.** Both vaults need core facts; each adds its own lens. This vault includes economic/business context when it shapes statecraft. The investing vault includes geopolitical context when it affects investment flows. Don't strip content just because it "belongs" in the other vault — strip it only if it's irrelevant to this vault's purpose.
+
+When a note has a meaningful counterpart in the other vault, add clickable `obsidian://` URI links.
 
 **Format:**
 ```markdown
