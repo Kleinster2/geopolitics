@@ -98,6 +98,10 @@ Current: Weaponizing chokepoints:
 - [[Surveillance Capitalism]]
 - [[Semiconductors]]
 
+### Cross-vault
+- [Investing: Submarine Cables](obsidian://open?vault=investing&file=Concepts%2FSubmarine%20Cables) — cable projects, hyperscaler ownership, investment exposure
+- [Investing: US Chile cable visa sanctions](obsidian://open?vault=investing&file=Events%2FUS%20Chile%20cable%20visa%20sanctions) — market/trade angle
+
 ## Sources
 - "Digital Sovereignty: A Descriptive Analysis" (*Digital Society*, Springer, 2024)
 - "Digital Sovereignty: Europe's Declaration of Independence?" (Atlantic Council)

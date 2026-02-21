@@ -87,6 +87,11 @@ This fits within multiple trends:
 - [[Baltic Sea Cable Sabotage]] — parallel cable security concern (different vector: sabotage vs. diplomatic)
 - [[Trade War 2025-2026]] — broader US-China competition context
 
+### Cross-vault
+- [Investing: US Chile cable visa sanctions](obsidian://open?vault=investing&file=Events%2FUS%20Chile%20cable%20visa%20sanctions) — market/trade angle, copper exposure, cable companies
+- [Investing: Submarine Cables](obsidian://open?vault=investing&file=Concepts%2FSubmarine%20Cables) — infrastructure investment context
+- [Investing: Chile](obsidian://open?vault=investing&file=Actors%2FChile) — copper trade, investment exposure
+
 ## Sources
 - US State Department, "Visa Restrictions on Chilean Nationals Undermining Regional Security" (February 20, 2026)
 - Bloomberg, "US Imposes Visa Restrictions on Chile Minister Juan Carlos Muñoz, Two Others" (February 20, 2026)

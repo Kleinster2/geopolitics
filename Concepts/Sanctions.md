@@ -167,6 +167,9 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - [[Chile-China Cable Sanctions]] — visa sanctions on allied officials over telecom infrastructure (February 2026)
 - [[Digital Sovereignty]] — infrastructure control as geopolitical lever
 
+### Cross-vault
+- [Investing: US Sanctions](obsidian://open?vault=investing&file=Concepts%2FUS%20Sanctions) — market impact, tariff-based sanctions, company exposure
+
 ## Further Reading
 - Hufbauer et al., *Economic Sanctions Reconsidered* (2007)
 - Drezner, *The Sanctions Paradox* (1999)
