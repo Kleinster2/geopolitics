@@ -129,6 +129,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[Stimson Center]]
 - [[Middle East Institute]]
 - [[WINEP]]
+- [[Foundation for Defense of Democracies]] - Hawkish; Iran sanctions, China, cyber
 
 ### European
 - [[Chatham House]]
