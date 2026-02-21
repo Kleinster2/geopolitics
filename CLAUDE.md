@@ -370,6 +370,8 @@ When a note has a meaningful counterpart in the other vault, add clickable `obsi
 - Only cross-link notes with meaningful counterparts — not every shared entity
 - These links won't appear in graph view or backlinks — navigation aids only
 
+**Post-ingestion gate:** After creating a new event or making a major update, ask: *does this also belong in the investing vault?* If the story involves trade flows, commodity exposure, company impact, infrastructure investment, or market-moving policy, flag it to the user. Don't silently skip — the default is to ask. Routine updates to existing notes don't trigger this.
+
 ---
 
 ## Current Context (February 2026)
