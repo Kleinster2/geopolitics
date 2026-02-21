@@ -372,7 +372,7 @@ When a note has a meaningful counterpart in the other vault, add clickable `obsi
 
 **Post-ingestion gate:** After creating a new event or making a major update, ask: *does this also belong in the investing vault?* If the story involves trade flows, commodity exposure, company impact, infrastructure investment, or market-moving policy, flag it to the user. Don't silently skip — the default is to ask. Routine updates to existing notes don't trigger this.
 
-**History vault reference:** The **history vault** (`C:\Users\klein\obsidian\history\`) covers long-arc economic history — trade, institutions, innovation from prehistory to modernity. When writing about a topic with deep historical roots (sanctions, trade wars, alliance theory, imperial overreach, balance of power, Monroe Doctrine, etc.), check the history vault for relevant precedent. This is a lookup relationship, not a feed — don't routinely ingest current events into the history vault.
+**History vault reference:** The **history vault** (`C:\Users\klein\obsidian\history\`) covers long-arc economic history — trade, institutions, innovation from prehistory to modernity. When writing about a topic with deep historical roots (sanctions, trade wars, alliance theory, imperial overreach, balance of power, Monroe Doctrine, etc.), check the history vault for relevant precedent. When an event represents a genuine structural break or first-of-its-kind precedent (novel coercive mechanism, new alliance pattern, institutional transformation), flag it for the history vault — today's inflection points become tomorrow's history.
 
 ---
 
