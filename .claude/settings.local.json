@@ -3,7 +3,37 @@
     "allow": [
       "Bash(git -C \"C:\\\\Users\\\\klein\\\\obsidian\\\\geopolitics\" status)",
       "Bash(git -C \"C:\\\\Users\\\\klein\\\\obsidian\\\\geopolitics\" init)",
-      "Bash(git -C:*)"
+      "Bash(git -C:*)",
+      "Bash(gh repo create:*)",
+      "Bash(Get-ChildItem -Recurse -Filter \"*.md\")",
+      "Bash(ForEach-Object { Get-Content $_FullName })",
+      "Bash(Select-String -Pattern '\\\\[\\\\[\\([^\\\\]]+\\)\\\\]\\\\]' -AllMatches)",
+      "Bash(ForEach-Object { $_Matches })",
+      "Bash(ForEach-Object { $_Groups[1].Value })",
+      "Bash(Sort-Object)",
+      "Bash(Uniq -c:*)",
+      "Bash(Sort-Object -Descending)",
+      "Bash(Select-Object -First 80)",
+      "WebFetch(domain:www.brookings.edu)",
+      "WebFetch(domain:www.congress.gov)",
+      "WebFetch(domain:www.lawfaremedia.org)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd vault structure, inclusion standards, and Jan 2026 content\n\nStructure:\n- Add CLAUDE.md with vault guidelines and inclusion standards\n- Create Thinkers/ folder \\(academics shaping discourse\\)\n- Create Analysts/ folder \\(commentators and correspondents\\)\n- Move Hal Brands, Stephen Walt, Ian Bremmer to Thinkers/\n- Add Brazilian analysts: Moura, Dumas, Loureiro\n\nCurrent Events:\n- 2025 National Security Strategy \\(verified from White House, Brookings\\)\n- Trade War 2025-2026 \\(Liberation Day, tariff dynamics\\)\n- Iran Protests 2025-2026 \\(regime crisis, banking collapse\\)\n- Greenland Crisis \\(US-Denmark tensions\\)\n- Alaska Summit 2025, The Hague Summit 2025\n- Honduras President Pardon\n\nConcepts:\n- Federal Reserve Independence\n- Iranian Banking System, Iranian Economic Crisis\n- Iran Sanctions, Iran Financial Sanctions, INSTEX\n- Monroe Doctrine, Donroe Doctrine \\(Trump corollary\\)\n- International order framework notes\n\nActors:\n- Elbridge Colby \\(Under Secretary of Defense\\)\n- María Corina Machado \\(Venezuelan opposition\\)\n- Kevin Rudd \\(US Ambassador\\)\n- Iranian banks: Ayandeh, Bank Melli, Bank Mellat, Bank Saderat\n- Defense companies: Rheinmetall, MBDA, Kongsberg, Dassault\n\nMajor updates to: United States, China, Brazil, Venezuela, NATO, Iran\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "WebFetch(domain:www.cbc.ca)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd Greenland crisis analysis, Zeihan frameworks, and Jan 19-21 developments\n\nNew notes:\n- Peter Zeihan \\(thinker\\): demographic determinism, deglobalization thesis\n- China Demographic Decline: official data, overcount debate, collapse thesis\n- European Nuclear Debate: Poland/Germany/France discussions \\(2025-2026\\)\n- Weaponized Interdependence: Farrell & Newman framework, capital weaponization\n- US-Denmark Defense Agreement \\(1951\\): treaty provisions, Igaliku update\n- Anti-Coercion Instrument, War Powers Resolution, Board of Peace\n- JD Vance, Carlos Gustavo Poggio, Carlos Primo Braga, Christopher Garman\n\nMajor updates:\n- Greenland Crisis: Zeihan analysis \\(no strategic value\\), Davos de-escalation\n  \\(Jan 21\\), EU halts trade deal, financial retaliation debate\n- United Kingdom: post-Brexit trade impasse \\(Zeihan''s binary choice\\)\n- China: 2025 demographic data, crisis section\n- Economic Interdependence: US-Europe financial ties\n\nSources: Bloomberg, Washington Post, NPR, Al Jazeera, The Forecast \\(Zeihan\\),\nNBS China, Carnegie Endowment\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(comm:*)",
+      "Bash(while read count link)",
+      "Bash(do if ! ls -1 **/*.md)",
+      "Bash(git commit:*)",
+      "WebFetch(domain:www.euronews.com)",
+      "WebFetch(domain:venezuelanalysis.com)",
+      "WebFetch(domain:www.wlrn.org)",
+      "WebFetch(domain:www.cnn.com)",
+      "WebFetch(domain:www.semafor.com)",
+      "WebFetch(domain:photos.app.goo.gl)",
+      "WebFetch(domain:photos.google.com)",
+      "WebFetch(domain:www.foxnews.com)",
+      "WebFetch(domain:betterworldcampaign.org)",
+      "WebFetch(domain:english.news.cn)"
     ]
   }
 }
