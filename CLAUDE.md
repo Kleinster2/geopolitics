@@ -351,6 +351,25 @@ When creating new notes, update relevant indexes:
 ### Orphan Links
 Periodically check for referenced notes that don't exist and create them.
 
+## Cross-Vault Linking
+
+The **investing vault** (`C:\Users\klein\financial-charts\investing\`, Obsidian vault name `investing`, repo `Kleinster2/financial-charts`) covers the same topics from a market/trade angle. When a note has a meaningful counterpart in the other vault, add clickable `obsidian://` URI links.
+
+**Format:**
+```markdown
+### Cross-vault
+- [Investing: Note Name](obsidian://open?vault=investing&file=Folder%2FNote%20Name) — what the other perspective adds
+```
+
+**Rules:**
+- Place under `### Cross-vault` subheading at end of Related section (before Sources if present)
+- URL-encode paths: spaces → `%20`, slashes → `%2F`
+- Brief description of what the other vault's perspective adds
+- Only cross-link notes with meaningful counterparts — not every shared entity
+- These links won't appear in graph view or backlinks — navigation aids only
+
+---
+
 ## Current Context (February 2026)
 
 Major ongoing situations:
