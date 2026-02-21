@@ -62,7 +62,7 @@ See: [[Digital Sovereignty]], [[Splinternet]]
 
 ### Infrastructure Control
 Physical layer increasingly contested:
-- **Submarine cables**: Meta, Google, Microsoft, Amazon control 70%+ of used capacity. Chinese competitor HMN Technologies builds 20-30% cheaper. Four cable disruptions in Taiwan Strait (Jan-Feb 2025). FCC barred Chinese equipment (August 2025).
+- **Submarine cables**: Meta, Google, Microsoft, Amazon control 70%+ of used capacity. Chinese competitor HMN Technologies builds 20-30% cheaper. Four cable disruptions in Taiwan Strait (Jan-Feb 2025). FCC barred Chinese equipment (August 2025). **February 2026**: US revoked visas for three Chilean officials for advancing China Mobile's proposed cable from Valparaiso to Hong Kong — first personal sanctions on an allied government over cable routing. See [[Chile-China Cable Sanctions]].
 - **Cloud/compute**: US hyperscalers (AWS, Azure, GCP) process Global South data on US-controlled infrastructure.
 - **Semiconductors**: See [[Semiconductors]] - the hardware layer that enables everything.
 

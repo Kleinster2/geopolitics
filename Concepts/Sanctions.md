@@ -22,6 +22,7 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - **Travel bans**: Visa denials
 - **Arms embargoes**: Weapons restrictions
 - **Sectoral**: Target specific industries (energy, finance)
+- **Infrastructure visa sanctions (new, 2026)**: Revoking visas of allied officials who advance adversary infrastructure projects. See [[Chile-China Cable Sanctions]].
 
 ## Key Actors
 
@@ -163,6 +164,8 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - [[North Korea]]
 - [[Ukraine Crisis]]
 - [[Dollar Dominance]]
+- [[Chile-China Cable Sanctions]] — visa sanctions on allied officials over telecom infrastructure (February 2026)
+- [[Digital Sovereignty]] — infrastructure control as geopolitical lever
 
 ## Further Reading
 - Hufbauer et al., *Economic Sanctions Reconsidered* (2007)

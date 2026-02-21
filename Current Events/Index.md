@@ -18,6 +18,7 @@ Ongoing geopolitical developments and analysis.
 - [[Greenland Crisis]] - US annexation threats (2026)
 - [[Panama Canal Crisis]] - US reassertion of control, CK Hutchison removed (2025-2026)
 - [[Baltic Sea Cable Sabotage]] - Pattern of undersea cable damage; NATO Operation Baltic Sentry
+- [[Chile-China Cable Sanctions]] - US visa sanctions on Chilean officials over China cable (February 2026)
 
 ## Iran-Related
 - [[Iran Nuclear Program]]
@@ -93,6 +94,7 @@ Ongoing geopolitical developments and analysis.
 - [[Argentina-US Ushuaia Naval Base]]
 - [[Cuba Secondary Tariffs]]
 - [[Panama Canal Crisis]]
+- [[Chile-China Cable Sanctions]] — US visa sanctions on Chilean officials over China-linked submarine cable (February 2026)
 
 ### Africa
 - [[Sudan Civil War]]

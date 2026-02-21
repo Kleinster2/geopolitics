@@ -31,6 +31,7 @@ US Secretary of State in Trump 2.0 (confirmed 2025). Former US Senator from Flor
 ### Latin America
 - Hard line on Venezuela, Cuba, Nicaragua
 - Supported maximum pressure on Maduro regime
+- Announced visa sanctions on three Chilean officials over China-linked submarine cable (February 20, 2026) — see [[Chile-China Cable Sanctions]]
 
 ## Board of Peace Role
 Named to the founding executive board alongside Witkoff, Kushner, Blair, and Banga.
@@ -40,3 +41,5 @@ Named to the founding executive board alongside Witkoff, Kushner, Blair, and Ban
 - [[Donald Trump]]
 - [[Board of Peace]]
 - [[China]]
+- [[Chile]]
+- [[Chile-China Cable Sanctions]]

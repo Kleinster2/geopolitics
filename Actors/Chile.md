@@ -147,10 +147,17 @@ South America's most stable and developed economy, though recent social unrest r
 - Investment
 - FTA (first in South America)
 
+### Submarine Cable Dispute (February 2026)
+Chile is caught between [[China]] and [[United States]] over competing submarine cable projects:
+- **Chile-China Express**: Proposed cable from Valparaiso to Hong Kong, operated by China Mobile. US views it as intelligence risk under China's 2017 Cybersecurity Law.
+- **Humboldt Cable**: Google/NEC (Japan)-backed alternative, Valparaiso to Australia via French Polynesia. US-preferred. Under installation.
+
+On February 20, 2026, the US revoked visas for Transport Minister Juan Carlos Muñoz and two Subtel officials for advancing the Chinese cable — first visa sanctions against an allied cabinet minister over telecom infrastructure. See [[Chile-China Cable Sanctions]].
+
 ### Balance
 - Economic pragmatism
-- Security awareness
-- Both relationships
+- Security awareness — now tested by cable sanctions
+- Both relationships increasingly difficult to maintain
 - Competition management
 
 ## Regional Position
@@ -214,3 +221,7 @@ South America's most stable and developed economy, though recent social unrest r
 - [[Peru]]
 - [[Supply Chains]]
 - [[China]]
+- [[United States]]
+- [[Chile-China Cable Sanctions]] — US visa sanctions over submarine cable (February 2026)
+- [[Digital Sovereignty]] — data routing as geopolitical competition
+- [[Sanctions]] — visa restrictions as coercive tool

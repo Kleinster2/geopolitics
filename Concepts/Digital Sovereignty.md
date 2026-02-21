@@ -51,7 +51,7 @@ Current: Weaponizing chokepoints:
 - Semiconductor export controls
 - SWIFT access
 - App store bans (TikTok)
-- Submarine cable restrictions
+- Submarine cable restrictions — FCC barred Chinese equipment (August 2025); visa sanctions on Chilean officials for advancing China-linked cable (February 2026, see [[Chile-China Cable Sanctions]])
 
 ## Key Tensions
 
@@ -74,6 +74,7 @@ Current: Weaponizing chokepoints:
 
 - **TikTok ban debate (2024-2025)**: Crystallized tension between open internet ideology and national security claims
 - **WSIS+20 (December 2025)**: Debated whether governance remains multistakeholder or shifts to state-centric
+- **Chile-China cable sanctions (February 2026)**: US revoked visas for three Chilean officials advancing a China-linked submarine cable. First personal sanctions against an allied government over telecom infrastructure. See [[Chile-China Cable Sanctions]].
 - **UN Cyber Mechanism (March 2026)**: New permanent body for responsible state behavior in cyberspace
 
 ## Critiques
