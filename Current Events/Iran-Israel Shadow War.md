@@ -166,17 +166,48 @@ Decades-long covert conflict between Iran and Israel fought through assassinatio
 
 ## 2026: Current Status
 
+### Post-War Equilibrium (Fragile)
+
+The June 2025 war left Iran severely damaged but not defeated, creating a structurally unstable equilibrium.
+
+**Iran's condition:**
+- Air defenses destroyed -- described as "house with no roof" (Firas Maksad, Eurasia Group)
+- IRGC leadership decimated; senior commanders killed
+- Nuclear program set back (IAEA: enrichment capability "curtailed")
+- FM Araghchi claims Iran has "reconstructed everything damaged" and "learned many lessons" (CNN, February 2026) -- disputed by Western analysts
+- Iran reportedly reconstituting ballistic missile stockpile; Israel assesses Iran could produce hundreds of missiles per month once recovery complete
+
+**Structural instability:** RAND Corporation assessed the post-June 2025 situation as a detente that "won't last" (January 2026). Geopolitical Monitor characterized it as a "high-risk equilibrium" with a "use it before you lose it" dynamic on both sides.
+
+### Iran Preemptive Strike Concerns
+
+**Iran's Defence Council warning (January 6-7, 2026):**
+Iran's newly created Defence Council stated Iran would not limit itself to reacting "only after an action has taken place" but would regard "concrete signs of threats as part of the security equation" (per Israel Hayom, Haaretz). This was interpreted as a signal that Iran reserves the right to strike preemptively.
+
+**[[Amos Yadlin]] warning (Channel 12, January 11-12, 2026):**
+Former Aman chief warned Iran might launch a preemptive attack despite it appearing irrational by Western standards:
+- "Jihadi logic, extremist religious logic, could be different" from Western cost-benefit analysis
+- IDF should prepare "as though there is going to be a surprise"
+- Cited Iran's desire for revenge following June 2025 war
+- Applied October 7 lesson: actors "immune to deterrence" can launch strategically suicidal surprise attacks
+
+**IDF response:** Within days, IDF said it remained on alert for "surprise scenarios" -- mirroring Yadlin's framing (per Times of Israel, January 12).
+
+**Brigadier General (Res.) Amir Avivi** (Israel Defense and Security Forum, January 28, 2026): Warned Israel may need to strike Iran before Washington moves. "We are building up toward a campaign in Iran. There could be a preemptive Iranian strike" (per Israel Hayom).
+
 ### Israel's Posture
-- Waiting quietly as protests unfold
-- Giving Trump space to decide next moves
+- Waiting as [[Iran Protests 2025-2026|protests]] unfold; giving Trump space to decide
 - Netanyahu: Will not allow Iran to rebuild missiles or nuclear program
 - Prepared to strike again if Iran reconstitutes
+- Security cabinet weighing whether to act independently or wait for US coordination
+- Israel views Iranian ballistic missile reconstitution as a new "red line"
 
 ### US-Israel Coordination
 - Trump administration sees weakened Iran as opportunity
 - Abraham Accords expansion as regional strategy
-- Continued containment of Iran
 - Trump has threatened military intervention if crackdown continues
+- Gap emerging: US sources question some Israeli assessments of missile threat scale
+- US-Iran talks scheduled for Muscat, Oman (February 7, 2026) via Witkoff-Araghchi channel
 
 ## Rules of Engagement (Evolving)
 
@@ -250,3 +281,14 @@ Decades-long covert conflict between Iran and Israel fought through assassinatio
 - [[Quds Force]]
 - [[IRGC]]
 - [[Mossad]]
+- [[Amos Yadlin]]
+- [[Iran Protests 2025-2026]]
+
+## Sources
+- [The Yeshiva World - Former Intel Chief Warns of Iran Surprise Attack (Jan 2026)](https://www.theyeshivaworld.com/news/israel-news/2506765/former-idf-intel-chief-warns-irans-jihadi-logic-may-result-in-surprise-attack-on-israel.html)
+- [Israel Hayom - Iran Warns of Preemptive Action (Jan 6-7, 2026)](https://www.israelhayom.com/2026/01/06/iran-warns-preemptive-action-threats-protests)
+- [Haaretz - Iran Hints at Preemptive Strike (Jan 7, 2026)](https://www.haaretz.com/israel-news/2026-01-07/ty-article/iran-hints-at-preemptive-strike-on-israel-if-it-sees-indications-of-threats/)
+- [Israel Hayom - Avivi Warning (Jan 28, 2026)](https://www.israelhayom.com/2026/01/28/avivi-iran-strike-internal-security-warning/)
+- [RAND - The Israel-Iran Detente Won't Last (Jan 2026)](https://www.rand.org/pubs/commentary/2026/01/the-israel-iran-detente-wont-last.html)
+- [Geopolitical Monitor - High-Risk Equilibria (Jan 2026)](https://www.geopoliticalmonitor.com/israel-strike-prospects-on-iran-in-2026-high-risk-equilibria/)
+- CNN interview with FM Abbas Araghchi (Feb 2026)

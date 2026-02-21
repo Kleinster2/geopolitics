@@ -15,6 +15,9 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Andrew Krepinevich]] - CSBA founder, A2/AD, competitive strategies
 - [[Rush Doshi]] - Brookings, China grand strategy, *The Long Game*
 
+## Israeli Security
+- [[Amos Yadlin]] - Former Aman chief, MIND Israel founder, preemptive doctrine, Osirak pilot
+
 ## Nuclear Strategists (Cold War)
 - [[Bernard Brodie]] - Yale/RAND, founding father of deterrence theory
 - [[Herman Kahn]] - RAND/Hudson, escalation ladder, "thinking the unthinkable"
