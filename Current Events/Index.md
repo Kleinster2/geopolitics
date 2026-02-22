@@ -26,6 +26,7 @@ Ongoing geopolitical developments and analysis.
 - [[Iran-Israel Shadow War]]
 - [[Iran-Saudi Rivalry]]
 - [[Iran Protests 2025-2026]] - Regime crisis, 6,800+ dead; US-Iran talks in Muscat Feb 7
+- [[2026 US Military Buildup Against Iran]] - Largest US deployment to Middle East in decades; 2 carrier strike groups, 160+ airlift flights, THAAD/Patriot
 - [[US-Israel-Saudi Arms Sales (January 2026)]] - $15.7B amid Iran tensions
 
 ## Strategic Competition
