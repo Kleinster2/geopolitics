@@ -19,6 +19,7 @@ Ongoing geopolitical developments and analysis.
 - [[Panama Canal Crisis]] - US reassertion of control, CK Hutchison removed (2025-2026)
 - [[Baltic Sea Cable Sabotage]] - Pattern of undersea cable damage; NATO Operation Baltic Sentry
 - [[Chile-China Cable Sanctions]] - US visa sanctions on Chilean officials over China cable (February 2026)
+- [[Trump Latin America Summit (March 2026)]] - Miami summit with allied LatAm leaders to counter China; Lula/Petro/Sheinbaum excluded
 
 ## Iran-Related
 - [[Iran Nuclear Program]]
