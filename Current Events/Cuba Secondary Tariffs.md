@@ -24,6 +24,9 @@ On January 29, 2026, Trump signed Executive Order 14380 declaring a national eme
 | **January 11, 2026** | Trump: "no more Venezuelan oil or money" to Cuba |
 | **January 29, 2026** | **EO 14380: Cuba secondary tariff authority** (effective January 30) |
 | **February 1, 2026** | Trump: US "starting to talk to Cuba" |
+| **February 4, 2026** | Pemex CEO Rodriguez confirms $496M of oil supplied to Cuba in 2025; says contract will be upheld |
+| **February 9, 2026** | **Sheinbaum confirms oil shipments "currently halted"** — seeks to support Cuba without triggering US reprisals |
+| **February 2026** | Pemex cancels scheduled crude cargo; Mexico sends 2 humanitarian aid ships to Cuba instead |
 
 (per White House, Fortune, Washington Times)
 
@@ -99,7 +102,14 @@ The White House fact sheet explicitly cites these facilities as justification fo
 
 ## Regional Reactions
 
-**Mexico**: Sheinbaum warned tariffs could "trigger a far-reaching humanitarian crisis." Pemex temporarily paused some shipments (January 27). As of February 2, aims to continue humanitarian oil shipments "without seeking confrontation."
+**Mexico**: Sheinbaum warned tariffs could "trigger a far-reaching humanitarian crisis." Timeline of Mexico's response:
+- **January 23**: Reuters reports Mexico weighing halt to shipments to avoid Trump retaliation
+- **January 27**: Mexico halts oil shipments; Sheinbaum calls it "a sovereign decision" (not admitting US pressure)
+- **February 4**: Pemex CEO confirms $496M in oil supplied to Cuba in 2025 (~17,000-20,000 bpd of crude and refined products through a commercial contract effective since 2023); says contract will be upheld
+- **February 9**: Sheinbaum confirms shipments "currently halted" — attempting to balance Cuba solidarity with avoiding US tariff reprisals
+- **February 2026**: Pemex cancels a scheduled crude cargo; Mexico sends 2 humanitarian aid ships as face-saving substitute
+
+Mexico was Cuba's second-largest oil supplier in 2025 (~5,000 bpd after declines, down from 17,000-20,000 bpd earlier). With Venezuela offline since Maduro's capture, Mexico was Cuba's last meaningful oil lifeline. The halt leaves Cuba almost entirely cut off from external oil supply.
 
 **Cuba**: Foreign Minister Rodriguez condemned EO as "brutal act of aggression." Diaz-Canel called threats made under "empty pretext."
 
