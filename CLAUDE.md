@@ -17,7 +17,7 @@ geopolitics/
 ├── Thinkers/         # Academics whose frameworks shape discourse
 ├── Analysts/         # Commentators who interpret events
 ├── Concepts/         # Theories, frameworks, terms
-├── Current Events/   # Ongoing situations, flashpoints
+├── Events/           # Situations, flashpoints, discrete events
 ├── Daily/            # Daily notes tracking changes
 ├── Regions/          # Geographic areas
 ├── Templates/        # Note templates
@@ -34,7 +34,7 @@ geopolitics/
 | Thinker | Thinkers | [[Hal Brands]], [[Stephen Walt]], [[Ian Bremmer]] |
 | Analyst | Analysts | [[Maurício Moura]], [[Roberto Dumas]] |
 | Concept | Concepts | [[Deterrence]], [[Hegemony]], [[Melian Dialogue]] |
-| Flashpoint | Current Events | [[Taiwan]], [[Greenland Crisis]] |
+| Flashpoint | Events | [[Taiwan]], [[Greenland Crisis]] |
 | Region | Regions | [[Middle East]], [[Asia-Pacific]] |
 
 ## Principles
@@ -345,7 +345,7 @@ Configure daily notes plugin to use `Daily/` folder and `Templates/Daily Note.md
 When creating new notes, update relevant indexes:
 - `Actors/Index.md`
 - `Concepts/Index.md`
-- `Current Events/Index.md`
+- `Events/Index.md`
 - `Regions/Index.md`
 
 ### Orphan Links

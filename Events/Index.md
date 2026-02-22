@@ -1,4 +1,4 @@
-# Current Events
+# Events
 
 Ongoing geopolitical developments and analysis.
 
