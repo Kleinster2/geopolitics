@@ -12,6 +12,11 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Maurício Moura]] - George Washington University, electoral specialist
 - [[Roberto Dumas]] - Insper, economist, China/monetary policy
 
+## Horn of Africa
+- [[Ahmed Soliman]] - Chatham House, Horn of Africa regional conflict dynamics
+- [[Marc Champion]] - Bloomberg Opinion, Europe/Russia/Middle East/Horn
+- [[Martin Plaut]] - University of London (Institute of Commonwealth Studies), Eritrea/Ethiopia
+
 ## International
 - [[Brandon Weichert]] - Author "The Shadow War," Iran/space policy, conservative commentator
 - [[Christopher Garman]] - Eurasia Group executive director, political risk, Latin America

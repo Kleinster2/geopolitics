@@ -1,7 +1,7 @@
 ---
 type: country
 region: Africa
-population: 120 million
+population: 132 million
 gdp: $155 billion
 government: Federal parliamentary republic
 tags: [country, regional-power, africa, horn]
@@ -14,7 +14,7 @@ Africa's second-most populous country with ancient civilization and unique non-c
 
 ## Key Facts
 - **Capital**: Addis Ababa (AU headquarters)
-- **Population**: ~120 million (2nd in Africa)
+- **Population**: ~132 million (2nd in Africa, largest landlocked country in the world)
 - **GDP**: ~$155 billion (PPP much higher)
 - **PM**: Abiy Ahmed (2018-present, Nobel Peace Prize 2019)
 - **Unique**: Never colonized (except brief Italian occupation)
@@ -65,18 +65,33 @@ Africa's second-most populous country with ancient civilization and unique non-c
 - Oromo, Amhara, Tigray, Somali, etc.
 - Centralization vs. autonomy debates
 
-### Current Tensions
-- Amhara militias
-- Oromo insurgency (OLA)
-- Ethnic violence
-- Displacement
+### Current Tensions (as of February 2026)
+- **Amhara/Fano insurgency**: Two largest factions unified into AFNM (January 2026); Eritrea accused of funding and arming
+- **Oromia/OLA**: Continues despite partial 2024 peace deal; UN: 3.2 million children out of school
+- **Tigray re-escalation**: Federal forces moved toward Tigray (February 2026); skirmishes and drone strikes; Tigray admin rejected election suspension as "direct attack on our people" (February 25, 2026)
+- Abiy believes Eritrea (and behind it, Egypt) is fueling all three insurgencies
+- See: [[Ethiopia-Eritrea Crisis]]
+
+## "Two Waters" Doctrine
+
+Abiy frames Ethiopia's Nile and Red Sea challenges as a single geopolitical problem. Egypt has historically used Eritrea and Red Sea access denial as leverage over the Nile, dating back to Egyptian sponsorship of Eritrean separatists in the 1950s to prevent Ethiopian dam-building. The Red Sea controls access to Cairo's other economic lifeline, Suez. Any resolution likely requires a package deal addressing both water rights and sea access simultaneously.
+
+### Red Sea Access Campaign
+- Landlocked since Eritrean independence (1993); dependent on Djibouti
+- Signed MOU with Somaliland (January 2024) for 20 km coastline lease and naval base near Berbera — paused under regional pressure
+- Built permanent naval headquarters and training facilities in Addis Ababa (2025); graduated first cohort of naval officers
+- Signed naval cooperation agreement with Russia
+- Sought access to Eritrea's port of Assab — categorically rejected by Eritrea
+- Backed down from Somaliland deal after Somalia threatened to expel Ethiopian AMISOM troops; Ethiopia has 6 million ethnic Somalis near the border
+
+(per Champion, Bloomberg Opinion; Horn Review; IISS)
 
 ## Strategic Priorities
 1. Post-war reconstruction
 2. National unity
 3. Economic recovery
 4. Regional relations
-5. Nile water rights
+5. Nile water rights / Red Sea access ("Two Waters")
 
 ## Nile Waters Dispute
 
@@ -96,10 +111,11 @@ Africa's second-most populous country with ancient civilization and unique non-c
 ## Key Relationships
 
 ### Eritrea
-- Historic enemy → peace (2018)
-- Tigray war ally (controversial)
-- Relations uncertain post-war
-- Port access interest
+- Historic enemy → peace (2018) → Tigray war ally (2020-2022) → open hostility (2025-)
+- Eritrea now tactically allied with TPLF faction against federal government
+- Port of Assab: Ethiopia demands access; Eritrea categorically refuses
+- ICG: Ethiopia-Eritrea one of "Ten Conflicts to Watch in 2026"
+- See: [[Ethiopia-Eritrea Crisis]]
 
 ### Egypt
 - Nile tensions

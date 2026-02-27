@@ -116,6 +116,18 @@ Israel's recognition could catalyze Ethiopia following suit, but Addis Ababa has
 - [[Red Sea]]
 - [[UAE]]
 
+## Security Risks from Recognition
+
+RUSI analysis ("Selective Diplomacy: Israel's Somaliland Move and its Regional Implications") argues recognition may paradoxically make Somaliland **less secure**:
+
+- **Houthi threats**: Abdul Malik al-Houthi declared any Israeli presence in Somaliland "a legitimate military target"
+- **Al-Shabaab threats**: Vowed to "fight against" any Israeli use of Somaliland, referencing its 2008 Hargeisa bombings
+- **Regional isolation**: 21-country condemnation, AU opposition, UNSC 14-of-15 opposed
+- **Entanglement**: Peripheral Horn theaters becoming increasingly intertwined with Middle Eastern security calculations
+- **Catalyzed counter-bloc**: Egypt, Saudi Arabia, Turkey aligned more firmly with Mogadishu
+
+(per RUSI, January 2026)
+
 ## Sources
 - [Al Jazeera - Israel becomes first country to recognise Somaliland](https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland)
 - [Washington Institute - "Recognizing Somaliland: Israel's Return to the Red Sea"](https://www.washingtoninstitute.org/policy-analysis/recognizing-somaliland-israels-return-red-sea)
@@ -123,3 +135,5 @@ Israel's recognition could catalyze Ethiopia following suit, but Addis Ababa has
 - [UN Press - Security Council session](https://press.un.org/en/2025/sc16270.doc.htm)
 - [Times of Israel - Somaliland official confirms base talks](https://www.timesofisrael.com/somaliland-official-confirms-talks-with-israel-on-hosting-a-military-base/)
 - [Eurasia Review - Geo-Strategic Rationale](https://www.eurasiareview.com/08012026-geo-strategic-rationale-for-israels-recognizing-somaliland-analysis/)
+- [RUSI - Selective Diplomacy: Israel's Somaliland Move](https://www.rusi.org/explore-our-research/publications/commentary/selective-diplomacy-israels-somaliland-move-and-its-regional-implications)
+- [RUSI - Turkey-Israel Competition Reshapes Region](https://www.rusi.org/explore-our-research/publications/commentary/syria-somaliland-turkey-israel-competition-reshapes-region)
