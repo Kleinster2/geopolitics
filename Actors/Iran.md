@@ -16,7 +16,7 @@ Theocratic regional power pursuing nuclear capabilities and regional influence t
 - **Capital**: Tehran
 - **Population**: ~87 million
 - **GDP**: ~$400 billion (sanctioned economy)
-- **Supreme Leader**: Ayatollah Ali Khamenei (since 1989)
+- **Supreme Leader**: ~~Ayatollah Ali Khamenei (since 1989)~~ — killed in US-Israeli strikes February 28, 2026. Interim Leadership Council established.
 - **President**: Elected but subordinate to Supreme Leader
 - **Military**: IRGC (Revolutionary Guards) + regular armed forces
 
@@ -83,21 +83,45 @@ See: [[Iranian Economic Crisis]] for full analysis.
 - Black market economy dominant
 
 ## Internal Dynamics
-- Regime stability concerns
+- Regime stability in crisis — Supreme Leader killed, Interim Leadership Council governing
 - Youth discontent (Woman, Life, Freedom protests)
-- Economic grievances
-- Succession questions (Khamenei aging)
-- Hardliner dominance
+- Economic grievances — deepest crisis in modern history
+- Succession: first time without a Supreme Leader since 1989
+- IRGC redundancy structures activated; no defections reported as of March 4
 
 ## 2024-2026 Crisis
 **Weakest position since 1979 revolution:**
-- [[Iran Protests 2025-2026]] - 12,000-18,000+ killed (mid-January 2026 estimates)
+- [[Iran Protests 2025-2026]] - 6,800+ killed (HRANA, Feb 1 2026 estimate)
 - Merchant class (bazaaris) now joining protests
 - [[Iranian Economic Crisis]] - rial lost 84%, banks collapsing
-- IRGC decapitated: 12 senior commanders killed (mostly by Israel)
+- IRGC decapitated: 12 senior commanders killed (mostly by Israel) in June 2025
 - Israeli strikes exposed air defense vulnerability
 - [[Axis of Resistance]] proxies severely degraded
 - Two parallel militaries: [[IRGC]] vs [[Artesh]] - secular army may not defend regime
+
+## February 28, 2026: US-Israeli War (Operation Epic Fury)
+
+**See main article: [[2026 Iran conflict]]**
+
+On February 28, 2026, the US and Israel launched joint strikes that killed Supreme Leader [[Ali Khamenei]] and 47+ senior officials. The operation targeted political leadership, nuclear facilities, ballistic missile sites, air defenses, and naval vessels simultaneously.
+
+**Iran's response:**
+- Immediate retaliation across the Gulf — hitting [[Israel]], [[Bahrain]], [[Saudi Arabia]], [[Kuwait]], [[Qatar]], [[Oman]], and [[Cyprus]]
+- [[IRGC]] declared [[Strait of Hormuz]] closed; shipping effectively halted
+- Faster and broader escalation than expected — all GCC states targeted from day one
+- Interim Leadership Council established after confirming Khamenei's death (March 1)
+- IRGC redundancy structures activated: replacement officials designated five rows deep after June 2025 war
+
+**Pre-war diplomacy rejected:**
+- Iran put forward proposal through Omani FM (CBS, Feb 28): no enriched uranium stockpile, full IAEA access, irreversible fuel conversion
+- Trump rejected it expecting total capitulation (per [[Trita Parsi]], Quincy Institute)
+- Ceasefire offer through Italy rejected by Iran (March 1-2)
+
+**Kurdish dimension (March 3-4):**
+- CIA arming Iranian Kurdish forces (confirmed, CNN). Trump called KDPI and Iraqi Kurdish leaders directly.
+- Turkey alarmed — FM [[Hakan Fidan]] contacted KRG leadership immediately.
+
+**As of March 4:** War ongoing. Iran strategy per analysts: make war maximally costly to prevent future attacks. US talking about arming Kurdish ground forces. Thousands of Americans stranded in Gulf states.
 
 ## Strategic Dilemmas
 - Nuclear threshold vs. strike risk
@@ -129,7 +153,8 @@ See: [[Iranian Economic Crisis]] for full analysis.
 - [[Nuclear Proliferation]]
 
 ### Conflict
-- [[Iran-Israel Shadow War]] - Covert and direct conflict
+- [[2026 Iran conflict]] — ongoing US-Israeli war (Operation Epic Fury)
+- [[Iran-Israel Shadow War]] - Covert and direct conflict, escalated to open war Feb 2026
 - [[Israel]]
 - [[Proxy Wars]]
 

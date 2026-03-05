@@ -378,14 +378,15 @@ When a note has a meaningful counterpart in the other vault, add clickable `obsi
 
 ---
 
-## Current Context (February 2026)
+## Current Context (March 2026)
 
 Major ongoing situations:
+- **[[2026 Iran conflict]]** - US-Israeli war on Iran (Operation Epic Fury, started Feb 28). Khamenei killed. Iran retaliating across GCC. Strait of Hormuz effectively closed. CIA arming Kurdish forces. Americans stranded. Day 4+.
 - Trump 2.0 reshaping international order
-- [[New START Expiration]] - Last US-Russia nuclear treaty expires Feb 5
+- [[New START Expiration]] - Last US-Russia nuclear treaty expired Feb 5
 - [[Greenland Crisis]] - US threatening NATO ally, Golden Dome connection
 - [[Venezuela]] - US intervention (Operation Absolute Resolve)
 - [[Ukraine Crisis]] - France/UK troop deployment
-- [[Iran Protests 2025-2026]] - Regime crisis
+- [[Iran Protests 2025-2026]] - Preceded and enabled the war
 - [[Taiwan]] - Largest-ever Chinese military exercises
 - [[China Nuclear Program]] - Rapid expansion toward parity

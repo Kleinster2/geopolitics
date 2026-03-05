@@ -164,9 +164,9 @@ Decades-long covert conflict between Iran and Israel fought through assassinatio
 - Regime severely weakened
 - Set stage for [[Iran Protests 2025-2026]]
 
-## 2026: Current Status
+## 2026: From Shadow War to Open War
 
-### Post-War Equilibrium (Fragile)
+### Post-June 2025 Equilibrium (January-February 2026)
 
 The June 2025 war left Iran severely damaged but not defeated, creating a structurally unstable equilibrium.
 
@@ -179,7 +179,7 @@ The June 2025 war left Iran severely damaged but not defeated, creating a struct
 
 **Structural instability:** RAND Corporation assessed the post-June 2025 situation as a detente that "won't last" (January 2026). Geopolitical Monitor characterized it as a "high-risk equilibrium" with a "use it before you lose it" dynamic on both sides.
 
-### Iran Preemptive Strike Concerns
+### Iran Preemptive Strike Concerns (January 2026)
 
 **Iran's Defence Council warning (January 6-7, 2026):**
 Iran's newly created Defence Council stated Iran would not limit itself to reacting "only after an action has taken place" but would regard "concrete signs of threats as part of the security equation" (per Israel Hayom, Haaretz). This was interpreted as a signal that Iran reserves the right to strike preemptively.
@@ -195,19 +195,44 @@ Former Aman chief warned Iran might launch a preemptive attack despite it appear
 
 **Brigadier General (Res.) Amir Avivi** (Israel Defense and Security Forum, January 28, 2026): Warned Israel may need to strike Iran before Washington moves. "We are building up toward a campaign in Iran. There could be a preemptive Iranian strike" (per Israel Hayom).
 
-### Israel's Posture
-- Waiting as [[Iran Protests 2025-2026|protests]] unfold; giving Trump space to decide
-- Netanyahu: Will not allow Iran to rebuild missiles or nuclear program
-- Prepared to strike again if Iran reconstitutes
-- Security cabinet weighing whether to act independently or wait for US coordination
-- Israel views Iranian ballistic missile reconstitution as a new "red line"
+### Diplomacy and Israeli Pressure (February 2026)
 
-### US-Israel Coordination
+**Israel's posture:**
+- Netanyahu: Will not allow Iran to rebuild missiles or nuclear program
+- Israeli concern was ballistic missiles, not nuclear program (confirmed by Rubio March 2; IAEA head Grossi: no evidence of nuclear weapons program)
+- Israel assessed Iran could build missiles faster than US/Israel could build interceptors
+- Security cabinet weighing whether to act independently or wait for US coordination
+
+**US-Israel coordination:**
 - Trump administration sees weakened Iran as opportunity
-- Abraham Accords expansion as regional strategy
-- Trump has threatened military intervention if crackdown continues
-- Gap emerging: US sources question some Israeli assessments of missile threat scale
-- US-Iran talks scheduled for Muscat, Oman (February 7, 2026) via Witkoff-Araghchi channel
+- US-Iran talks held via Omani mediation (multiple rounds — Oman, then Geneva)
+- Iran offered: no enriched uranium stockpile, full IAEA access, irreversible fuel conversion (confirmed, Omani FM Albusaidi on CBS, Feb 28)
+- Rob Malley (Biden JCPOA negotiator) assessed proposal as potentially stronger than JCPOA (reported)
+- Trump rejected — expecting total capitulation, not compromise
+
+**Israeli psychological pressure on Trump** (per [[Trita Parsi]], Quincy Institute):
+- Israel told Trump Iran was at its weakest point and would collapse with a push
+- "All of the people who said you couldn't move the embassy, couldn't recognize the Golan, couldn't take out Soleimani have been proven wrong"
+- Trump on "the mother of all sugar highs" after Venezuela
+- Israeli priority: destroy Iran's ballistic missile capability before reconstitution complete
+
+### February 28, 2026: Shadow War Becomes Open War
+
+**See main article: [[2026 Iran conflict]]**
+
+On February 28, the US and Israel launched Operation Epic Fury — joint strikes that killed Supreme Leader [[Ali Khamenei]] and 47+ senior officials, targeted nuclear/missile facilities, air defenses, and naval vessels. This ended the shadow war paradigm permanently.
+
+**Key distinction from June 2025:** The June war was Israel-led with US support on nuclear sites. Operation Epic Fury was a joint US-Israeli campaign from day one, with the US as lead belligerent.
+
+**Rubio's admission (March 2):** Secretary of State [[Marco Rubio]] confirmed Israel was planning to attack Iran unilaterally; the US went preemptively to avoid being caught in Iranian retaliation against US forces (confirmed, State Dept transcript). He stated the mission's focus was ballistic missiles and naval threat to shipping — exactly the Israeli priority.
+
+**Iran's retaliation:**
+- Immediate strikes across all GCC states, Israel, and Cyprus — broader and faster than any prior exchange
+- Strait of Hormuz declared closed
+- No red lines: Iran treats this as existential (per Parsi, Bohl analyses)
+- Hezbollah-Israel front opened March 2
+
+**The shadow war is over.** What began as covert operations, proxy skirmishes, and limited direct exchanges has escalated through the April 2024 direct attacks, June 2025 war, and now into a full-scale US-Israeli military campaign against Iran with regional spillover across the Gulf.
 
 ## Rules of Engagement (Evolving)
 
@@ -273,6 +298,7 @@ Former Aman chief warned Iran might launch a preemptive attack despite it appear
 - Turkey: Balancing
 
 ## Related Notes
+- [[2026 Iran conflict]] — the open war this shadow war became
 - [[Iran]]
 - [[Israel]]
 - [[Iran Nuclear Program]]
@@ -283,6 +309,8 @@ Former Aman chief warned Iran might launch a preemptive attack despite it appear
 - [[Mossad]]
 - [[Amos Yadlin]]
 - [[Iran Protests 2025-2026]]
+- [[Trita Parsi]] — Israeli pressure on Trump analysis
+- [[Marco Rubio]] — confirmed Israel drove the decision
 
 ## Sources
 - [The Yeshiva World - Former Intel Chief Warns of Iran Surprise Attack (Jan 2026)](https://www.theyeshivaworld.com/news/israel-news/2506765/former-idf-intel-chief-warns-irans-jihadi-logic-may-result-in-surprise-attack-on-israel.html)

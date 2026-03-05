@@ -112,17 +112,52 @@ Militarily dominant Middle Eastern democracy with undeclared nuclear arsenal. Fa
 - Regional position strongest in decades
 - Nuclear threat reduced (for now)
 
-### Current Posture (2026)
+### Current Posture (early 2026, pre-war)
 - Watching [[Iran Protests 2025-2026]] quietly
 - Giving Trump administration space to act
 - Netanyahu: Won't allow Iran to rebuild missiles or nuclear program
 - Prepared for additional strikes if needed
 
+### February 28, 2026: Joint War on Iran (Operation Epic Fury)
+
+**See main article: [[2026 Iran conflict]]**
+
+Israel launched joint strikes with the US on February 28, killing Supreme Leader [[Ali Khamenei]] and 47+ senior officials. Largest strikes Israel had ever launched.
+
+**Israel's role:**
+- Joint US-Israeli operation from day one — coordinated, not sequential
+- Israel operating directly over Tehran, dropping ordnance (not just standoff munitions)
+- Declared nationwide state of emergency — schools/workplaces closed, public gatherings cancelled
+- Netanyahu goal: destroy Iran's ballistic missile arsenal (estimated ~2,000 pre-war) and manufacturing capability
+- Second wave of strikes on central Tehran (March 1)
+- IDF bombed F-4 and F-5 fighters preparing to take off (confirmed)
+
+**Iranian retaliation on Israel:**
+- Missiles launched at Tel Aviv and Haifa
+- Missile hit synagogue in Beit Shemesh — 9 killed, 11 missing, 51 injured
+- 12 Israeli dead, 777 injured as of March 2
+
+**Israeli influence on US decision (per Rubio, March 2):**
+- Sec. State [[Marco Rubio]] admitted Israel was planning to attack Iran; US went preemptively to avoid higher casualties from Iranian retaliation against US forces (confirmed, State Dept transcript)
+- [[Trita Parsi]] (Quincy Institute): Israel "very effectively played [Trump's] psychology" — told him regime would collapse with a push
+- Real Israeli concern was ballistic missiles, not nuclear program — confirmed by Rubio's stated objectives and IAEA head Grossi's assessment that Iran had no nuclear weapons program
+
+**Hezbollah front (March 2):**
+- [[Hezbollah]] and Israel exchanged strikes — conflict widening (see [[2026 Hezbollah-Israel strikes]])
+
+### Israel's post-Iran horizon: "Sunni axis"
+
+**Netanyahu (cabinet meeting, February 22, 2026):** "The intention is to create an axis of nations against the radical axes, both the radical Shia axis, which we have struck very hard, and the emerging radical Sunni axis" (confirmed, Al Jazeera, MEE). Proposed "hexagon of alliances" including India, Cyprus, Greece.
+
+**Bennett (Conference of Presidents, February 17, 2026):** "Turkey is the new Iran... Erdogan is a cunning and dangerous rival who wants to encircle Israel." Warned Turkey is trying to "flip Saudi Arabia against us and establish a hostile Sunni axis with nuclear Pakistan" (confirmed, The Media Line).
+
+This signals Israel already looking beyond Iran to Turkey, Qatar, Pakistan, and potentially Saudi Arabia as next rivals. [[Vali Nasr]] (Johns Hopkins SAIS): "Israel has come out of the Gaza war seeing itself as a military superpower... it wants to shape the Middle East and doesn't want any rivals."
+
 ### US-Israel Alignment
 - Trump administration highly aligned with Israeli priorities
 - Abraham Accords expansion as shared goal
-- Coordinated Iran containment strategy
-- US threatened military intervention if Iran cracks down on protesters
+- Joint Iran war as ultimate expression of coordinated strategy
+- Gap: Rubio's admission that Israel drove the decision caused domestic political backlash
 
 ## Related Notes
 - [[Middle East]]
@@ -132,5 +167,6 @@ Militarily dominant Middle Eastern democracy with undeclared nuclear arsenal. Fa
 - [[Abraham Accords]]
 - [[Nuclear Proliferation]]
 - [[Palestinian Conflict]]
+- [[2026 Iran conflict]] — ongoing joint war with US
 - [[Iran-Israel Shadow War]]
 - [[Iran Protests 2025-2026]]

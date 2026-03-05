@@ -139,8 +139,8 @@ Iran's ideological military force, parallel to the regular armed forces but more
 | Name | Role | Status |
 |------|------|--------|
 | Qasem Soleimani | Quds Force Commander | Killed 2020 |
-| Hossein Salami | IRGC Commander | Active |
-| Esmail Qaani | Quds Force Commander | Active |
+| Hossein Salami | IRGC Commander | Unknown (post-Feb 28 strikes) |
+| Esmail Qaani | Quds Force Commander | Unknown (post-Feb 28 strikes) |
 | Mohammad Ali Jafari | Former Commander | Retired |
 
 ## Strengths
@@ -159,7 +159,7 @@ Iran's ideological military force, parallel to the regular armed forces but more
 
 ## 2024-2025 Crisis: Leadership Decapitation
 **Unprecedented degradation of IRGC command structure:**
-- 12 senior commanders killed (mostly by Israeli strikes)
+- 12 senior commanders killed (mostly by Israeli strikes in June 2025)
 - Including Quds Force leadership
 - Lower-level, less experienced commanders now running operations
 - Loss of institutional knowledge and networks
@@ -173,10 +173,36 @@ Iran's ideological military force, parallel to the regular armed forces but more
 - [[Artesh]] (regular army) may not support IRGC if it falters
 - See: [[Iran Protests 2025-2026]]
 
+## February 28, 2026: Operation Epic Fury
+
+**See main article: [[2026 Iran conflict]]**
+
+US-Israeli strikes on February 28 killed 48 leaders including Supreme Leader [[Ali Khamenei]] — IRGC's direct commander. This was a second round of leadership decapitation on top of the June 2025 losses.
+
+### Resilience demonstrated
+Despite the decapitation, the IRGC's institutional design proved its purpose:
+- **Redundancy by design**: The IRGC was created precisely as a redundancy — because the revolutionaries didn't trust the regular military ([[Artesh]]). Now far more powerful and better funded than Artesh ([[Trita Parsi]], Quincy Institute).
+- **Five-deep succession**: After June 2025, IRGC defined replacement officials five rows deep for every top position. These plans activated after Khamenei's death.
+- **Autonomous operations**: Local commanders have standing orders to operate autonomously ([[Ryan Bohl]], RANE). Top-down assassinations did not disrupt retaliatory operations.
+- **No defections**: As of March 4, no reported defections from IRGC, Artesh, or Basij. Regime "rattled but united" (Bohl).
+- **Interim Leadership Council**: Established within hours of confirming Khamenei's death.
+
+### Retaliation
+- IRGC launched missiles and drones at Israel, all GCC states, and Cyprus within hours of the strikes — faster response than the June 2025 Twelve-Day War
+- Declared Strait of Hormuz closed; ~150 ships stalled
+- Claimed hitting USS Abraham Lincoln with 4 missiles (denied by US)
+- Strategy: expand theater, make war maximally costly
+
+### Assessment
+[[Ryan Bohl]] (RANE): Iran is "not a personalized dictatorship like Saddam's Iraq or Assad's Syria. It's structured more like a network." [[Fred Kagan]] (AEI): the surviving leaders (Larijani, Qalibaf, Bezeshkian, Rouhani) are "smarter" pragmatists who may actually stabilize the regime — potentially a worse outcome for the US than collapse.
+
 ## Related Notes
 - [[Iran]]
+- [[2026 Iran conflict]] — IRGC targeted and retaliating
 - [[Quds Force]]
 - [[Axis of Resistance]]
 - [[Hezbollah]]
 - [[Iran Nuclear Program]]
 - [[Qasem Soleimani]]
+- [[Ryan Bohl]] — RANE analyst, network resilience assessment
+- [[Fred Kagan]] — AEI, pragmatist survival scenario

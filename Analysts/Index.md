@@ -30,3 +30,4 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 ## Tags
 - #analyst
 - #commentator
+- [[Ryan Bohl]] — RANE Senior MENA Analyst; GCC, Iran, Turkey, US ME policy

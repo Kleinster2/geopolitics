@@ -78,6 +78,50 @@ Parsi's characterization of Iranian thinking among "those who are skeptical abou
 - "Iranians recognize obviously they will take huge hits even in the best case scenario"
 - Hopes "regional efforts will make sure that this is never tested in the first place"
 
+## Analysis: 2026 Iran War — Day 4 (March 4, 2026)
+
+From Newsweek's The 1600 with Carlo Versano, March 4, 2026 (Day 4 of the [[2026 Iran conflict]]).
+
+### On Plan A failure
+- Trump's plan did not survive 2.5 days. Expected Khamenei's death to cause quick regime implosion by Sunday evening. Trump reached out through Italy for a ceasefire; Iran rejected it.
+- Compares to Iraq 2003: "We didn't get to this point until after August of 2003 when it came to the Iraq war. For the first five months, the war actually looked like a massive success."
+- "At this point, [the Iranians] are the ones defining the geography of this war, the length of this war, and frankly perhaps even the intensity of this war."
+
+### On Israeli influence
+- Argues Israel "very effectively, very skillfully played [Trump's] psychology" — told him Iran was at its weakest, regime would collapse with a push.
+- Trump on "the mother of all sugar highs after Venezuela."
+- Israeli security doctrine requires everyone else be defenseless: "If the missiles are eliminated, there will always be something."
+- Notes Israelis went to Trump on December 29 focused on missiles, not the nuclear program.
+
+### On the rejected Omani proposal
+- Iran put forward an "extremely attractive proposal" through the Omani FM. Rob Malley (Biden JCPOA lead) assessed it would have been easy for Trump to claim as stronger than the JCPOA.
+- Trump rejected it expecting total capitulation, not compromise. "He could have declared victory. Instead, he declared war."
+- Argues Trump went to negotiations only to check: "Are you guys ready to surrender?"
+- Warning: if the narrative holds that diplomacy was a ruse, "this would be truly killing any credibility left of America's diplomatic standing" — which serves Israeli interests by eliminating the need to sabotage future talks.
+
+### On Rubio's admissions
+- Rubio acknowledged Israel was going to attack first and the US followed to avoid higher casualties.
+- Rubio stated real objective was missiles and naval threat — confirming the Israeli priority.
+- IAEA head Grossi: no evidence Iran was building a bomb. "The real issue was missiles."
+
+### On Iran's strategy
+- Iran treating war as existential from day one — "no red lines at this point."
+- Strategy: expand theater, make war maximally costly so "not only does the US opt to end the war, the conclusion will be it was a mistake to start the war."
+- If war ends too quickly, Iran calculates the US will "bomb them again in another 6 months."
+- IRGC built as redundancy to the regular army. After June 2025, defined replacements five rows deep for all top officials.
+
+### On Kurdish escalation
+- Frames Trump's outreach to Kurdish groups as improvisation: "just throwing everything he has at the wall, hoping that he can turn this around."
+- Turkey's FM immediately contacted Kurdish leaders in Iraq in alarm.
+
+### Three scenarios
+1. **Regime implodes** — Trump declares victory, walks away (not happening so far).
+2. **Low-grade war** — destabilizes markets/energy, pressures Trump for off-ramp.
+3. **Return to negotiations** — least likely because Iran fears premature end invites repeat bombing.
+
+### Fox News accusations
+- Accused of being a "mouthpiece for the Iranian regime." Response: father was imprisoned under both the Shah and the Islamic Republic. Cannot travel to Iran. "I have been a mouthpiece for diplomacy, for avoiding unnecessary, idiotic wars."
+
 ## Caveats
 - Quincy Institute is restrainer-oriented, institutionally skeptical of military intervention
 - NIAC background - some critics view him as sympathetic to Iranian government
@@ -85,10 +129,13 @@ Parsi's characterization of Iranian thinking among "those who are skeptical abou
 - Provides important counterpoint to hawkish analysts but has clear policy preferences
 
 ## Related Notes
+- [[2026 Iran conflict]] — war analysis
 - [[Iran Protests 2025-2026]]
 - [[Iran]]
 - [[Quincy Institute]]
 - [[United States]]
+- [[Fred Kagan]] — contrast: hawkish perspective on same events
 
 ## Sources
 - Al Jazeera interview, February 2, 2026
+- Newsweek, The 1600 with Carlo Versano, March 4, 2026

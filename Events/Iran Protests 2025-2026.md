@@ -400,7 +400,23 @@ Critical development - the bazaaris historically support the regime:
 - Regional spillover
 - Failed state trajectory
 
+## February 28, 2026: War Overtakes Protests
+
+**See main article: [[2026 Iran conflict]]**
+
+The protest movement's trajectory was overtaken by the US-Israeli strikes on February 28. Operation Epic Fury killed Supreme Leader [[Ali Khamenei]] and 47+ officials, transforming the crisis from an internal uprising into an international war.
+
+**Impact on protest dynamics:**
+- Rally-around-the-flag effect: many Iranians glad Khamenei is dead but resent it being done by Israel and the US ([[Ryan Bohl]], RANE)
+- Pro-regime crowds flooding public spaces in Tehran and Isfahan — only 10-20% needed as true believers to dominate opposition (Bohl)
+- No indigenous uprising materialized despite decapitation
+- Opposition deeply divided on what post-Islamic Republic Iran should look like
+- Internet at 1% connectivity (NetBlock) — organized resistance impossible without communications
+
+**Key question**: Did the war help or hurt the protest movement? The protests weakened the regime from within; the war gave it an external enemy to rally against. [[Fred Kagan]] (AEI) warns the surviving "pragmatist" leaders (Larijani, Qalibaf, Bezeshkian, Rouhani) may stabilize the regime more effectively than the hardline ideologues the strikes killed.
+
 ## Related Notes
+- [[2026 Iran conflict]] — war that overtook the protest dynamic
 - [[Iran]]
 - [[IRGC]]
 - [[Artesh]]

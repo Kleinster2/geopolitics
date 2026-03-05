@@ -22,11 +22,12 @@ Ongoing geopolitical developments and analysis.
 - [[Trump Latin America Summit (March 2026)]] - Miami summit with allied LatAm leaders to counter China; Lula/Petro/Sheinbaum excluded
 
 ## Iran-Related
-- [[Iran Nuclear Program]]
+- **[[2026 Iran conflict]]** - US-Israeli war (Operation Epic Fury, Feb 28-). Khamenei killed. Iran retaliating across Gulf. Strait of Hormuz closed. CIA arming Kurds. Day 4+.
+- [[Iran Nuclear Program]] — IAEA: no weapons program; strikes hit facilities anyway
 - [[JCPOA]] - Nuclear deal status
-- [[Iran-Israel Shadow War]]
+- [[Iran-Israel Shadow War]] — escalated to open war Feb 28
 - [[Iran-Saudi Rivalry]]
-- [[Iran Protests 2025-2026]] - Regime crisis, 6,800+ dead; US-Iran talks in Muscat Feb 7
+- [[Iran Protests 2025-2026]] - Regime crisis, 6,800+ dead; war overtook protest dynamics
 - [[2026 US Military Buildup Against Iran]] - Largest US deployment to Middle East in decades; 2 carrier strike groups, 160+ airlift flights, THAAD/Patriot
 - [[US-Israel-Saudi Arms Sales (January 2026)]] - $15.7B amid Iran tensions
 

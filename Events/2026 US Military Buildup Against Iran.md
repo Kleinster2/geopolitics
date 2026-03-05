@@ -113,8 +113,15 @@ Supreme Leader [[Ali Khamenei]] warned that any confrontation could spark a wide
 - **February 17**: EGYOSINT publishes force disposition graphic (this image)
 - **February 19**: BBC Verify confirms two carrier strike groups; Trump says deal clarity "within 10 days"; PBS calls it "largest force in decades"
 
+## Outcome
+
+This buildup culminated in the [[2026 Iran conflict]] — joint US-Israeli strikes launched February 28, 2026 (Operation Epic Fury), killing Supreme Leader [[Ali Khamenei]] and decapitating the Iranian security apparatus. See that note for full coverage of hostilities.
+
+---
+
 ## Related
 
+- **[[2026 Iran conflict]]** — the strikes this buildup enabled
 - [[Iran]]
 - [[Iran Protests 2025-2026]]
 - [[Iran Nuclear Program]]
