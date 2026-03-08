@@ -26,6 +26,8 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Robin Wright]] - New Yorker columnist, Iran/Middle East veteran correspondent
 - [[Trita Parsi]] - Quincy Institute EVP, Iran diplomacy, restrainer perspective
 - [[Heng He]] - Epoch Times columnist, CCP elite politics, Chinese military
+- [[Karen Young]] - MEI Senior Fellow / Columbia professor, energy economics, GCC political economy
+- [[Ken Pollack]] - MEI, former CIA analyst, Middle East military affairs, Iran
 
 ## Tags
 - #analyst

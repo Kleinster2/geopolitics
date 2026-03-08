@@ -119,6 +119,10 @@ Washington's oldest Middle East-focused think tank. Broad regional coverage from
 
 ### Current/Recent
 - Paul Salem (President)
+- [[Joseph Votel]] (Distinguished Military Fellow, former CENTCOM/SOCOM commander)
+- [[Karen Young]] (Senior Fellow, energy/GCC economics, also Columbia University)
+- [[Ken Pollack]] (Middle East military affairs, former CIA analyst)
+- [[Firas Maksad]] (also Eurasia Group MENA)
 - Various regional experts
 - Former diplomats
 - Academic specialists

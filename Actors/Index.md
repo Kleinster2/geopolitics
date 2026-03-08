@@ -173,6 +173,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[Jared Kushner]] - Trump advisor, Abraham Accords architect, Board of Peace executive board
 - [[JD Vance]] - Vice President (2025-), Iraq veteran, intervention skeptic publicly backing Trump
 - [[Elbridge Colby]] - Under Secretary of Defense for Policy, China prioritization strategist
+- [[Joseph Votel]] - Gen. (ret.), former CENTCOM/SOCOM commander, MEI Distinguished Military Fellow
 
 ### Heads of State/Government
 - [[Xi Jinping]] - Chinese President/CCP General Secretary, assertive foreign policy

@@ -102,6 +102,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[First Island Chain]] - Pacific containment barrier from Japan through Taiwan to Philippines
 - [[Chokepoints]]
 - [[Arctic Geopolitics]]
+- [[Strait of Hormuz]] - World's most important oil chokepoint; mine warfare vulnerability; 2026 closure
 - [[Space Geopolitics]]
 - [[Freedom of Navigation]]
 - [[UNCLOS]]

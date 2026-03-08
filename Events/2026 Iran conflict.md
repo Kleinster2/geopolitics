@@ -203,6 +203,8 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Marco Rubio]] — admitted Israel driving force, missiles as objective
 - [[Vali Nasr]] — Johns Hopkins SAIS, performative diplomacy thesis, Israel's "Sunni axis" ambitions
 - [[Pete Hegseth]] — "this is not Iraq" claim
+- [[Joseph Votel]] — former CENTCOM commander, mine warfare/munitions sustainability assessment
+- [[Karen Young]] — MEI energy economist, GCC existential threat framing
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid
@@ -484,6 +486,99 @@ Kagan was explicit: "The likeliest outcome of collapse of this regime is a large
 
 ---
 
+### Gen. Joseph Votel & Dr. Karen Young (MEI) — March 8, 2026
+
+**Source**: [MEI virtual briefing — "Operation Epic Fury: What Comes Next?"](https://www.youtube.com/live/YemEawWNxFo), moderated by [[Ken Pollack]] ([[Middle East Institute|MEI]]). Speakers: Gen. [[Joseph Votel]] (former CENTCOM/SOCOM commander, MEI Distinguished Military Fellow) and Dr. [[Karen Young]] (MEI Senior Fellow, Columbia University professor — energy/economics).
+
+#### US military objectives — Votel's three thrusts
+
+1. **Paralyze Iranian C2** — Votel describes the opening Saturday strikes as decapitation strikes, designed to disrupt civilian and military security leadership and prevent a coherent response.
+2. **Destroy means of retaliation** — ballistic missiles, ships, drone sites, carriers. Per Admiral Cooper, 80-90% of Iran's retaliatory capability has been degraded, but 10% remains operational. Votel notes small volleys of drones and missiles are continuing even a week into the conflict.
+3. **Degrade regime's ability to control population** — Votel states targeting has expanded to provinces, disrupting communications and suppressing the regime's ability to quash uprisings.
+
+#### Iranian response strategy
+
+Votel identifies two pillars of Iran's counter-strategy:
+
+- **Broaden retaliation geographically** — 12 countries struck, with Iran hoping those countries will pressure the US. Votel assesses this is "not working as hoped."
+- **Extend operations in time** — exploiting the US public's limited patience for protracted conflict.
+- Votel notes the Iranian president apologized publicly on March 8 while drones were simultaneously en route to targets — signaling the disconnect between diplomatic signaling and operational reality.
+- "Iran only has to be right a couple times" — even 10% residual capability is dangerous. Votel compares remaining Iranian capability to IEDs in Iraq/Afghanistan: suppressible but nearly impossible to eliminate completely.
+- Votel's assessment: if remnants of the regime survive and can still operate, Iran will view it as a win.
+
+#### Strait of Hormuz — Votel's assessment
+
+- US targeting has focused on southern Iran near the strait — specifically shore-based anti-ship missile systems.
+- Iranian Navy "almost completely decimated" per Votel, but small boats remain a threat.
+- **Mines are the biggest concern.** Votel states Iran has studied mine warfare for decades. A single mine shut down the strait 40 years ago (referring to the 1988 USS Samuel B. Roberts incident). The strait is approximately 12 miles across — advantage to the attacker.
+- US mine-sweeping capability is limited: "we don't have endless amounts of mine sweepers."
+- Current US maritime forces are focused on offensive operations — diverting assets to escort and mine-clearing duties would reduce combat capacity.
+- Votel outlines the process needed before tanker transit can resume: suppression of threats, escorts, and area clearance.
+
+#### Munitions and alliance sustainability
+
+- Votel warns the strain is not just on US stocks — UAE, Saudi Arabia, Bahrain, and Kuwait all use US-supplied interceptors. "There's a lot of pressure on this system" — all Gulf allies are dependent on the same supply chain.
+- The US likely surged munitions into theater but is depleting magazine depth elsewhere. Industry meetings are ongoing to accelerate resupply.
+- Broader readiness costs: carrier maintenance is being deferred, air assets are rotating from other theaters. Two carrier strike groups in the Middle East were not projected to be there — flexible but costly.
+- "There's no free chicken" — resources dedicated to the Middle East come from somewhere else. Votel assesses the US can sustain operations for months with rotations, but deferred maintenance costs come due eventually.
+- **Binding constraints**: munitions supply and American public patience.
+- Votel flags impact on Ukraine support and other contingencies.
+
+#### Opposition forces and unconventional warfare
+
+- Discussion of arming Iranian Kurds — Votel acknowledges they are good fighters but notes Kurdish involvement would cause Turkish sensitivity.
+- Opposition exists but is "not coherent, not unified enough to overthrow the regime."
+- Votel emphasizes building effective unconventional warfare capability takes months to years, not weeks. Required sequence: identify partner, train/equip in sanctuary, dedicate US forces (Green Berets/CIA), decide level of support (intelligence, fire support, medevac, resupply).
+- Distinguishes tactical operations (raids/disruption) from strategic regime-change forces — regime change is ultimately a political objective, not military.
+
+#### Three likely outcomes — Votel's ranking
+
+1. **Theocratic succession** — process already underway (3-person council, assembly of experts). Votel considers this most likely.
+2. **Military/IRGC-led takeover** — plausible; they control the instruments of state control.
+3. **Popular opposition takeover** — improbable at this point.
+- Votel flags the risk of "lingering" between these options without a clear resolution.
+
+#### Russia and China — Votel's assessment
+
+- Russia is providing targeting intelligence to Iran — Votel states this "directly goes after protection of our forces." He considers it not unexpected, calling it payback for US support to Ukraine. Deep military exchange between Russia and Iran (Iran was a major drone supplier to Russia).
+- China's relationship with Iran is more of a client/market dynamic — political and information support, but not overt military capability.
+- China is watching the US get tied down: "another way we have taken our eye off Asia-Pacific."
+- Both China and Russia are studying US operations as models for their own future actions (Votel draws a Venezuela parallel).
+
+#### Energy and economic consequences — Young's assessment
+
+**Gulf energy disruption:**
+- Young notes Iraq has already shut in more than 1.5 million barrels per day, with Kuwait following.
+- If Gulf shutins reach 9 mb/d, that represents over 10% of global supply.
+- Saudi East-West pipeline bottleneck: 5 mb/d capacity, but Yanbu can only load approximately 3 mb/d.
+- UAE Fujairah pipeline handles only 400,000 bpd, and tankers are reluctant because Fujairah was itself an Iranian target.
+
+**Russia benefiting from the conflict:**
+- Young reports the US relaxed sanctions on Russian crude exports to India in the last 48 hours to ensure Indian supply — a direct consequence of Gulf disruption. Russia is also squeezing Europe harder on gas.
+
+**Asian hoarding and European pressure:**
+- Asian governments (South Korea, Taiwan, Japan, China) are hoarding fuel — banning refined fuel exports and keeping supply domestic.
+- European LNG spot prices spiking, already under pressure from loss of Russian pipeline gas.
+
+**Tanker escort politics:**
+- Young raises the politically loaded question: "Whose tankers are you escorting? Are we doing this as a favor to the Chinese?" — noting that 80% of strait LNG goes to Asia.
+- The DFC announced a $20 billion political risk insurance facility — Young assesses this is probably insufficient.
+- Energy diversification will be the top priority for 5+ years — not just sources but renewables and domestic production.
+
+**GCC existential threat:**
+- Data centers in UAE and Bahrain targeted by Iranian strikes — threatens the tech/AI hub model these countries have built.
+- Airport disruptions are the most psychologically damaging for expat populations. 90% of UAE/Qatar populations are non-nationals.
+- Young characterizes this as "the greatest threat... really existential that the Gulf states are facing" — a fundamental challenge to their identity as international business and finance hubs.
+
+**US domestic politics:**
+- US gasoline still approximately $3/gallon (same as a year ago) — not yet alarming. Jet fuel and diesel are more price-sensitive than gasoline.
+- "We started this conflict" — Young notes the timing will be politically debated.
+- Midterm election implications unclear but risk of inflationary pressure.
+
+**Assessment**: This briefing pairs a former CENTCOM commander's operational perspective with an energy economist's structural analysis. Votel's mine warfare concern and munitions sustainability warning are operationally specific in ways other analysts have not addressed — particularly his point that US mine-sweeping assets are limited and current forces cannot simultaneously conduct offensive operations and protect commercial shipping. Young's framing of the GCC existential threat and the tanker escort politics ("whose tankers?") adds a dimension absent from military-focused analyses. Compare Votel's three-outcome framework with [[Ryan Bohl]]'s five scenarios and [[Fred Kagan]]'s "pragmatist survival" warning — Votel is more conservative, ranking theocratic succession as most likely rather than exploring more transformative possibilities. Young's energy analysis complements Bohl's energy risk assessment but adds more granular pipeline/capacity data.
+
+---
+
 ## Sources
 
 - Wikipedia: [2026 Iran conflict](https://en.wikipedia.org/wiki/2026_Iran_conflict) (aggregated from 400+ citations)
@@ -506,3 +601,4 @@ Kagan was explicit: "The likeliest outcome of collapse of this regime is a large
 - Salon: [Hegseth denies US attack on Iran is another forever war](https://www.salon.com/2026/03/02/this-is-not-iraq-hegseth-denies-that-us-attack-on-iran-is-another-forever-war/) (March 2, 2026)
 - Middle East Eye: [Oman FM dismayed — deal was in reach](https://www.middleeasteye.net/news/oman-foreign-minister-dismayed-us-israeli-attacks-deal-reach) (March 2026)
 - NPR: [Satellite images show Minab strike more extensive than reported](https://www.npr.org/2026/03/04/nx-s1-5735801/satellite-imagery-shows-strike-that-destroyed-iranian-school-was-more-extensive-than-first-reported) (March 4, 2026)
+- Middle East Institute: [Operation Epic Fury: What Comes Next?](https://www.youtube.com/live/YemEawWNxFo) — Gen. Joseph Votel and Dr. Karen Young, moderated by Ken Pollack (March 8, 2026)
