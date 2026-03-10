@@ -6,6 +6,9 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Stephen Walt]] - Harvard realist, offensive realism, "predatory hegemony"
 - [[John Mearsheimer]] - Chicago, offensive realism, great power politics
 
+## Geoeconomics & Economic Statecraft
+- [[Edward Fishman]] - CFR, sanctions architect, *Chokepoints*, economic warfare
+
 ## Strategists
 - [[Hal Brands]] - Johns Hopkins SAIS, liberal order, US grand strategy
 - [[Peter Zeihan]] - Demographics, deglobalization, geographic determinism

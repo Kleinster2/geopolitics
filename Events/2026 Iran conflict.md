@@ -80,8 +80,14 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 - Secretary of State [[Marco Rubio]] told reporters on Capitol Hill: (1) Israel was planning to attack Iran; US went preemptively to avoid higher casualties from Iranian retaliation (confirmed, State Dept transcript, Axios, The Intercept). (2) The mission's focus is "the destruction of their ballistic missile capabilities and their ability to manufacture them as well as the threat posed by their Navy to global shipping" (confirmed, State Dept transcript). Rubio partially walked back the Israel framing the following day (reported, Jewish Insider).
 - State Department told Americans in the Middle East it could not evacuate them. Commercial air traffic choked off for fourth straight day. Government in contact with ~3,000 Americans; 9,000+ self-evacuated. Sen. Mark Warner accused the administration of "zero evacuation support" (confirmed, Washington Times, OPB/AP).
 
-### March 3-4 — Kurdish escalation and continued strikes
+### March 3-4 — Naval destruction, Kurdish escalation, continued strikes
 
+- US submarine torpedoed and sank the frigate IRIS Dena in international waters off Sri Lanka, killing at least 87 of its 180 crew (confirmed, Al Jazeera, Naval News). First submarine kill of a surface vessel since the Falklands War (1982). The Dena had been returning from India's International Fleet Review at Visakhapatnam — Iran's naval commander had met India's Chief of Naval Staff days earlier. India processing diplomatic implications (reported, Vizier Report).
+- Israeli F-35I scored what appears to be the first air-to-air kill of a manned fighter by a fifth-generation stealth aircraft, shooting down an Iranian Yak-130 over Tehran (reported, multiple sources via Vizier Report).
+- IAEA confirmed damage to entrance buildings at Natanz and access roads at Fordow, with "some localised radioactive as well as chemical release inside affected facilities," though no major off-site contamination detected (confirmed, IAEA verification report, France24).
+- Iranian missile/drone launch rates dropped 86% (missiles) and 73% (drones) from Day 1 to Day 5, indicating severe stockpile attrition (confirmed, CNN).
+- NATO missile defence system intercepted an Iranian ballistic missile heading toward [[Turkey]] (reported, Vizier Report citing open sources).
+- [[Houthis]] announced resumption of attacks on Red Sea shipping, threatening the Suez Canal alternative and creating a pincer on global maritime trade alongside the Hormuz closure (confirmed, Wikipedia aggregation).
 - CIA working to arm Iranian Kurdish forces (confirmed, CNN). Trump personally called KDPI president Mustafa Hijri and Iraqi Kurdish leaders Masoud Barzani and Bafel Talabani (confirmed, Axios). Five dissident Kurdish groups had formed the "Coalition of Political Forces of Iranian Kurdistan" six days before the war. Kurds expected to launch ground offensive after receiving US arms (reported, Haaretz).
 - Turkey's FM [[Hakan Fidan]] called KRG president Nechirvan Barzani and Kurdistan PM Masrour Barzani (confirmed, Turkish Minute, MEE). PJAK insurgency risk threatens Turkey's PKK talks.
 - Secretary of War [[Pete Hegseth]] at Pentagon press conference (March 2): "This is not Iraq. This is not endless... This is a clear, devastating, decisive mission. Destroy the missile threat, destroy the navy, no nukes." Called Israel "capable partners" (confirmed, Salon, PBS, Stars and Stripes).
@@ -89,9 +95,47 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 - Trump speaking alongside German Chancellor [[Friedrich Merz]]: "I guess the worst case would be we do this and then somebody takes over who's as bad as the previous person. That could happen."
 - Omani FM Albusaidi had met only VP [[JD Vance]] in Washington on February 27 — not Trump, who was in Texas. FM reportedly "dismayed" when strikes began ~24 hours later (confirmed, Al Jazeera, MEE).
 
+### March 7-8 — Infrastructure escalation and succession politics
+
+**Infrastructure targeting escalation:**
+- Israel struck fuel depots around Tehran and Karaj, spewing thick black smoke over the capital. Residents reported oily rain and blackened faces. "Many people are trying to leave the city because they're constantly bombing" (Channel 4, resident testimony).
+- Iran's FM called attacks on oil depots "a crime against humanity, chemical warfare" — warned environmental catastrophe would not be limited to Iran's borders.
+- Israeli strike on Iranian freshwater desalination plant on Qeshm Island (Iran said strike came from a Gulf state).
+- Bahrain reported an Iranian drone hit one of its desalination plants (water supplies not disrupted) — possible retaliation for Qeshm Island strike.
+- Iranian drone hit a tower block in Kuwait — headquarters of the state social security organization.
+- USCENTCOM accused Iran of using civilian areas to fire missiles and drones — Channel 4 noted this "sounds like preparing world opinion for large numbers of civilian casualties to come."
+
+**Casualty update (March 8):**
+- Iran says **1,300+ killed** over the past week (Iranian government figure via Channel 4).
+- 6 wounded in Tel Aviv from Iranian cluster munition.
+- 2 Israeli soldiers killed in southern Lebanon by anti-tank missile.
+- 14 killed in Gulf states from Iranian drone/missile attacks in the last 24 hours.
+- Kuwait has intercepted **234 missiles and 422 drones** in 8 days of war (Kuwait government figure).
+
+**Beirut strike:**
+- Israel hit the Raad Hotel in central Beirut, reportedly killing **4 Quds Force commanders** in a corner suite on the fourth floor. Precise drone strike. Indicates deep Israeli intelligence on IRGC movements in Lebanon.
+
+**Supreme leader succession:**
+- Assembly of Experts reportedly nearing decision — "firm decision by majority of members" but process "must be carried out with sufficient care."
+- **Mojtaba Khamenei** (son of Ali Khamenei) expected as new supreme leader.
+- Ali Vaez (International Crisis Group) assessed the new leader won't be "supreme" — will be in a bunker, not operationally present. Real power concentrated in **Ali Larijani** (national security adviser — day-to-day state affairs and strategic direction) and **Mohammad Bagher Ghalibaf** (parliament speaker — war effort). Both former IRGC commanders (Channel 4, confirmed).
+
+**Kurdish reversal:**
+- Trump on Air Force One (March 8): "I don't want the Kurds going in... I don't want to see the Kurds get hurt, get killed. We've had a good relation." Reversed earlier support for Kurdish involvement.
+- Channel 4 reporting: Kurdish groups "biding their time" — unlikely to move unless regime in "complete, irreversible freefall."
+- ~200 drone/missile attacks on Iraqi Kurdistan since war started. 2 killed in Sulaymaniyah area overnight including a Peshmerga soldier.
+- UK MOD confirmed UK forces "successfully engaged a one-way drone fired from Iran towards Iraq" over Iraqi Kurdistan.
+
+**UK involvement:**
+- HMS Prince of Wales being prepared for potential deployment; HMS Dragon departing for Mediterranean.
+- Trump criticizing Starmer: "We don't need people that join wars after we've already won."
+- Tony Blair reportedly told private lunch event Starmer "should have backed America from the very beginning."
+- Starmer-Trump phone call (March 8) discussed RAF base usage for "collective self-defense." No word on naval support.
+- Lord Peter Ricketts (former UK NSA) on Channel 4: UK shouldn't follow blindly; noted double standard — Gulf countries fired more Patriot interceptors in days than Ukraine received in four years. Putin supplying intelligence to Iran; Zelensky offering anti-drone tech to Gulf states.
+
 ---
 
-## Casualties (as of March 2)
+## Casualties (as of March 8)
 
 ### Coalition
 
@@ -106,17 +150,18 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 | Category | Detail |
 |----------|--------|
 | Leadership | 48 officials killed (per US) |
-| Military | 9 warships sunk (per US); at least 1 F-4, 2 F-5s destroyed |
-| Casualties | 555 killed, 747 injured (per Iranian Red Crescent Society) |
-| Civilian dead | 165-180 in Minab girls' school airstrike (disputed; 165 per Al Jazeera, 168 per Iranian officials, 153 per MEE); 20 at Niloofar Square |
+| Military | 9 warships sunk (per US); IRIS Dena torpedoed off Sri Lanka (87 killed); at least 1 F-4, 2 F-5s, 1 Yak-130 destroyed; navy "almost completely decimated" (Votel) |
+| Casualties | **2,400+ killed** by Day 6 (Hengaw Organisation for Human Rights); **1,300+ killed** over first week (Iranian government, March 8); earlier: 555 killed, 747 injured (Iranian Red Crescent, March 2) |
+| Civilian dead | 148-180 in Minab girls' school airstrike (disputed; 148 per Hengaw, 165 per Al Jazeera, 168 per Iranian officials, 153 per MEE); 20 at Niloofar Square |
 
 ### Regional
 
-| Party | Killed | Injured |
-|-------|--------|---------|
-| Hezbollah | 4 fighters | 3 |
-| Gulf states (Bahrain, Kuwait, Oman, UAE) | 31 | 149 |
-| Kuwait (separate tally) | 3 | 58 |
+| Party | Killed | Injured | Intercepted |
+|-------|--------|---------|-------------|
+| Hezbollah | 4 fighters | 3 | — |
+| UAE | — | — | 174 ballistic missiles, 689 drones, 8 cruise missiles |
+| Kuwait | 3 | 58 | 234 missiles, 422 drones (8-day tally) |
+| Gulf states total (Bahrain, Kuwait, Oman, UAE) | 31 | 149 | — |
 
 ---
 
@@ -205,6 +250,8 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Pete Hegseth]] — "this is not Iraq" claim
 - [[Joseph Votel]] — former CENTCOM commander, mine warfare/munitions sustainability assessment
 - [[Karen Young]] — MEI energy economist, GCC existential threat framing
+- [[Ali Vaez]] — Crisis Group Iran director, war of attrition logic, succession analysis
+- [[Peter Ricketts]] — former UK NSA, Ukraine double standard, UK-US dynamics
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid
@@ -577,6 +624,62 @@ Votel identifies two pillars of Iran's counter-strategy:
 
 **Assessment**: This briefing pairs a former CENTCOM commander's operational perspective with an energy economist's structural analysis. Votel's mine warfare concern and munitions sustainability warning are operationally specific in ways other analysts have not addressed — particularly his point that US mine-sweeping assets are limited and current forces cannot simultaneously conduct offensive operations and protect commercial shipping. Young's framing of the GCC existential threat and the tanker escort politics ("whose tankers?") adds a dimension absent from military-focused analyses. Compare Votel's three-outcome framework with [[Ryan Bohl]]'s five scenarios and [[Fred Kagan]]'s "pragmatist survival" warning — Votel is more conservative, ranking theocratic succession as most likely rather than exploring more transformative possibilities. Young's energy analysis complements Bohl's energy risk assessment but adds more granular pipeline/capacity data.
 
+### Ali Vaez (International Crisis Group) — March 8, 2026
+
+**Source**: Channel 4 News interview, Day 8 of the conflict
+
+**On supreme leader succession:**
+- Assembly of Experts reportedly near a decision, with Mojtaba Khamenei (son) as expected choice.
+- Vaez: whoever comes in "is not going to be supreme." New leader will be "highly reliant on the Revolutionary Guards, who are running the country right now." Likely to be in a bunker, not operationally present.
+- Power has gravitated to two figures: **Ali Larijani** (national security adviser — running day-to-day state affairs and strategic direction) and **Mohammad Bagher Ghalibaf** (parliament speaker — responsible for the war effort). Both former IRGC commanders, both "statesmen with long experience of governance."
+- Division of labor will continue regardless of who takes the title. Status quo governance for the foreseeable future.
+
+**On the war of attrition logic:**
+- Both sides believe they can force the other to blink first — "very hard to be optimistic about any exit ramps."
+- **Iran's calculus**: pace operations for attrition. Global economic pressure, energy market disruption, and pressure on Gulf neighbors will accumulate. After approximately two weeks, Trump will want an exit ramp. "If the regime is still standing in Iran, that is a victory for them."
+- **Trump's calculus**: significantly degrading retaliatory capacity, and by targeting infrastructure, weakening the regime to the point of collapse.
+- Neither side taking a step back under these circumstances.
+
+**On infrastructure escalation — water and oil:**
+- "In this region, there are two very important things — water and oil. If you start going after those resources, then this war would escalate very quickly."
+- Iran can target desalination plants in Israel and throughout the region, but is also vulnerable to the same attacks.
+- Oil infrastructure has not yet been damaged in ways requiring months/years to recover — current disruption is primarily to shipments, not production.
+- "If we enter into that category, we're basically going to end up with a scorched earth at the end of this crisis."
+
+**On civilian casualties:**
+- Draws "really terrible parallel" with Gaza — same arguments about human shields being used.
+- Iran has 92 million people and few shelters for the population.
+- "Whatever the outcome the US is able to achieve, it is going to have a generational impact."
+- Historical parallel: "There was a straight line between the 1953 coup... and the 1979 revolution, which from the perspective of the Iranians was revenge for what the US did to them in 1953. And so if now the US commits significant crimes against Iranian people, unarmed Iranian people, I think this will come back to haunt the US for years to come."
+
+**Assessment**: Vaez directs Crisis Group's Iran project from Geneva — a track-two diplomacy practitioner with direct access to Iranian officials and Western policymakers. His framing centers on the war of attrition dynamics: Iran believes time is on its side if the regime survives, while Trump believes infrastructure degradation will cause collapse. His most distinctive contribution is the infrastructure escalation warning — the distinction between disrupting oil/water *shipments* (current) versus destroying *production capacity* (which would create a scorched-earth outcome requiring years to recover). His succession analysis is operationally specific: the new supreme leader is functionally irrelevant; Larijani and Ghalibaf are the actual decision-makers. Compare with Kagan, who sees pragmatist survival (under leaders like Larijani) as the greatest risk; Vaez presents the same power structure but doesn't frame it as a threat — he sees functional governance as the status quo. Compare with Parsi's attrition framing: both see Iran betting on time, but Vaez adds the specific ~2-week timeline for when Iran expects Trump to seek an exit.
+
+### Vizier Report — March 5, 2026
+
+**Source**: [After the Ayatollah: The Endgame for Iran and the Middle East](https://vizier.report/p/endgame-iran-middleeast) (~9,000 words, open-source analysis)
+
+**Six-dimension framework:**
+
+1. **Iran's existential crisis is self-made.** Decades of sectarian overreach ($30-50B on Assad regime alone), nuclear brinkmanship, and economic mismanagement produced conditions for destruction. Air defenses were already severely degraded from the June 2025 Twelve-Day War and never recovered. The economy couldn't sustain even basic defense when the moment came. "Iran set the strategic scene for its own destruction. That does not make what followed just."
+
+2. **Israel seeks state collapse, not regime change.** Applying centrifugal force along ethnic fault lines (Kurds, Baloch, Azeris, Arabs). The article argues reconstruction of a destroyed state has become "near-impossible" in the modern era — citing Syria, Libya, Iraq, Yemen as evidence. Catastrophic spillover risks for Pakistan (Baloch), Turkey (Kurds), Gulf (refugees/instability), and Europe (migration).
+
+3. **Gulf monarchies face failure of US-Israeli security architecture.** Their cities absorb Iranian missiles from a war they refused to join. Washington stonewalls interceptor resupply. UAE's deep defense-industrial entanglement with Israel "has compromised Gulf security more thoroughly than Iranian subversion ever managed." The Vizier Report frames this as a fundamental betrayal: the GCC made defense bets on the US-Israeli axis, and those bets failed when tested.
+
+4. **Turkey's dual threat and nuclear ambiguity.** Confronts both disintegrating Iran (Kurdish insurgency risk) and Israel already positioning Ankara as next adversary (citing Netanyahu's "radical Sunni axis" statement and Bennett's "Turkey is the new Iran"). Driving military-industrial acceleration and nuclear ambiguity "without precedent in the Muslim world."
+
+5. **Holdout regimes collapsing simultaneously.** Iran, Venezuela, Cuba — the 20th century's revolutionary states failing at the same time. Russia unable to support allies. China positioning as principal beneficiary of American overextension. The article frames this as a structural shift rather than coincidence.
+
+6. **Rules-based international order collapse and European irrelevance.** The war validates the case for a Turkey-Levant-Gulf integration corridor while simultaneously threatening it materially.
+
+**On the IRIS Dena sinking:**
+The article highlights the diplomatic absurdity: an Iranian warship sunk by American torpedo while returning from a joint exercise with India. "It maintained relationships it assumed would offer at least informal protection, and they offered nothing." Encapsulates Iran's foreign policy failure.
+
+**On the three-member leadership council:**
+Reports functional successor government but notes it has never been tested against this level of attack. "Whether the system collapses into factional infighting, consolidates around the IRGC as a garrison state, or manages a genuine constitutional succession is unknowable."
+
+**Assessment**: The Vizier Report is a Substack-based analytical publication. This assessment is comprehensive and well-sourced (400+ hyperlinks to primary/institutional sources including IAEA, Carnegie, CSIS, Arms Control Association, Atlantic Council, House of Commons Library). Its six-dimension framework is the article's distinctive contribution — moving beyond the military-political binary to address Gulf security architecture failure, Turkish nuclear ambiguity, and the simultaneous collapse of holdout regimes as interconnected phenomena. The framing of UAE defense-industrial entanglement with Israel as a security liability rather than an asset is analytically distinctive — none of the other analysts in this note frame it that way. Compare with Nasr's Israeli agenda analysis (Netanyahu's "Sunni axis"): both identify Turkey as the next flashpoint, but the Vizier Report integrates it into a broader structural argument about regional order rather than attributing it to Israeli ambition alone.
+
 ---
 
 ## Sources
@@ -602,3 +705,8 @@ Votel identifies two pillars of Iran's counter-strategy:
 - Middle East Eye: [Oman FM dismayed — deal was in reach](https://www.middleeasteye.net/news/oman-foreign-minister-dismayed-us-israeli-attacks-deal-reach) (March 2026)
 - NPR: [Satellite images show Minab strike more extensive than reported](https://www.npr.org/2026/03/04/nx-s1-5735801/satellite-imagery-shows-strike-that-destroyed-iranian-school-was-more-extensive-than-first-reported) (March 4, 2026)
 - Middle East Institute: [Operation Epic Fury: What Comes Next?](https://www.youtube.com/live/YemEawWNxFo) — Gen. Joseph Votel and Dr. Karen Young, moderated by Ken Pollack (March 8, 2026)
+- Channel 4 News: [Israel launches new 'wide-scale strikes' on Iran](https://youtu.be/MM6YWEt_JZM) — Ali Vaez interview, Lord Peter Ricketts interview, Beirut/Kurdistan/UK coverage (March 8, 2026)
+- Vizier Report: [After the Ayatollah: The Endgame for Iran and the Middle East](https://vizier.report/p/endgame-iran-middleeast) — Six-dimension strategic assessment (March 5, 2026)
+- Hengaw Organisation for Human Rights: [2,400+ killed by Day 6](https://hengaw.net/en/reports-and-statistics-1/2026/03/article-3)
+- France24/IAEA: [No indication nuclear installations hit — but localized radioactive/chemical release confirmed](https://www.france24.com/en/live-news/20260302-no-indication-iran-nuclear-installations-hit-iaea) (March 2, 2026)
+- Naval News: [Iranian warship sunk in Indian Ocean by US Navy submarine](https://www.navalnews.com/naval-news/2026/03/iranian-warship-sunk-in-indian-ocean-by-us-navy-submarine-over-80-dead/) (March 4, 2026)

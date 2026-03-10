@@ -18,6 +18,7 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Martin Plaut]] - University of London (Institute of Commonwealth Studies), Eritrea/Ethiopia
 
 ## International
+- [[Ali Vaez]] - Crisis Group Iran Project Director, nuclear diplomacy, sanctions, track-two practitioner
 - [[Brandon Weichert]] - Author "The Shadow War," Iran/space policy, conservative commentator
 - [[Christopher Garman]] - Eurasia Group executive director, political risk, Latin America
 - [[David Wurmser]] - Center for Security Policy, ex-Cheney advisor, Middle East/Iran

@@ -4,6 +4,16 @@ Running log of vault changes by session.
 
 ---
 
+## 2026-03-08
+
+- created [[Edward Fishman]] (Thinkers) — CFR Center for Geoeconomic Studies director; sanctions architect (Obama-era Russia/Iran); *Chokepoints* (2025)
+- edited [[Thinkers/Index]] — Added Geoeconomics & Economic Statecraft section with Fishman
+- edited [[Chokepoints]] (Concepts) — Added Fishman's economic chokepoints framework
+- edited [[Geoeconomics]] (Concepts) — Added Key Thinkers section with Fishman, Luttwak, Farrell/Newman
+- edited [[2026 Iran conflict]] (Events) — March 7-8 timeline: oil depot strikes on Tehran/Karaj, Iran 1,300+ killed, desalination plant exchanges, Beirut Raad Hotel strike (4 Quds Force commanders), Trump Kurdish reversal, Kuwait 234 missiles/422 drones intercepted, UK dynamics (Starmer-Trump call, HMS Prince of Wales, Ricketts interview), Vaez succession analysis; updated casualty table
+- created [[Ali Vaez]] (Analysts) — Crisis Group Iran Project Director; war of attrition framing, succession analysis, sanctions book with Nasr; Channel 4 March 8 interview
+- edited [[Analysts/Index]] — Added Vaez
+
 ## 2026-03-04
 
 - edited [[2026 Iran conflict]] (Events) — March 2-4 timeline (ceasefire rejection, Rubio admissions, Kurdish arming, Americans stranded, Grossi statement); Trita Parsi analyst perspective; 8 new sources

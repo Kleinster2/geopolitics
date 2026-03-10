@@ -34,7 +34,10 @@
       "WebFetch(domain:www.foxnews.com)",
       "WebFetch(domain:betterworldcampaign.org)",
       "WebFetch(domain:english.news.cn)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "WebFetch(domain:www.cfr.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:wwsg.com)"
     ]
   }
 }

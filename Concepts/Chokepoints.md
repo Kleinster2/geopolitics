@@ -9,6 +9,8 @@ tags: [concept, geography, maritime, trade, security]
 ## Overview
 Narrow passages through which maritime traffic must pass, creating strategic vulnerabilities and control opportunities. Control of chokepoints has been central to naval strategy for centuries. Today, with globalized trade dependent on sea lanes, their importance has grown.
 
+The concept has expanded beyond geography. [[Edward Fishman]] (CFR) argues in *Chokepoints: American Power in the Age of Economic Warfare* (2025) that the US projects power through control of economic chokepoints — dollar clearing, semiconductor supply chains, SWIFT — not just maritime ones. See also [[Weaponized Interdependence]].
+
 ## Why Chokepoints Matter
 
 ### Strategic Value

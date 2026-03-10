@@ -14,6 +14,11 @@ The use of economic instruments to achieve geopolitical objectives, and the geop
 - Argued post-Cold War would see economic competition replace military
 - "The logic of conflict in the grammar of commerce"
 
+## Key Thinkers
+- **Edward Luttwak** - Coined the term, original framework
+- **Henry Farrell** & **Abraham Newman** - [[Weaponized Interdependence]] (2019)
+- [[Edward Fishman]] (CFR) - *Chokepoints* (2025), economic warfare through network control; directs CFR's Center for Geoeconomic Studies
+
 ## Geoeconomics vs. Related Concepts
 
 ```
