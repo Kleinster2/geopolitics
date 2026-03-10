@@ -41,6 +41,16 @@ During Operation Epic Fury (February 28, 2026 onward):
 - US targeting focused on southern Iran near the strait — specifically shore-based anti-ship systems (Votel).
 - Iranian Navy "almost completely decimated" per Votel, but small boats remain a threat.
 
+### De facto blockade — shipping data (Robin J. Brooks, March 9, 2026)
+
+[[Robin J. Brooks]] (Brookings, former IIF Chief Economist) published AIS vessel tracking data showing the blockade's scope:
+
+- **Normal traffic**: ~100 vessels/day through the strait (50 inbound, 50 outbound). Two-thirds are tankers (crude, refined product, LNG); remainder are cargo ships (coal, iron ore, grains).
+- **Since February 28**: traffic has essentially ceased across all vessel types — tankers and cargo alike. One week into hostilities, the blockade holds.
+- **Asymmetric cost problem**: Iran's navy is destroyed, but "it doesn't take much more than a few drones to blow up an oil tanker." Even one successful attack would freeze traffic indefinitely. The cost to Iran is asymmetrically low relative to the deterrent effect.
+- **Insurance and escorts insufficient**: Even with US-provided insurance and naval protection, Brooks assesses traffic is "highly unlikely" to return to anything like 100 ships/day any time soon.
+- **Oil price context**: Brent up 28% from the week prior. For comparison, Russia's 2022 invasion caused a 32% Brent rise in the first 10 days — and Hormuz is approximately 3x as important for the global oil market as Russia. "This shock still has room to build."
+
 ### Energy bypass limitations
 
 Dr. [[Karen Young]] (MEI/Columbia) assessed the alternatives as inadequate:
@@ -65,6 +75,7 @@ Iran and Iraq attacked commercial shipping during the Iran-Iraq War. The US cond
 - [[IRGC]]
 - [[Joseph Votel]]
 - [[Karen Young]]
+- [[Robin J. Brooks]]
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil price impact and shipping disruption
@@ -73,3 +84,5 @@ Iran and Iraq attacked commercial shipping during the Iran-Iraq War. The US cond
 - MEI: [Operation Epic Fury: What Comes Next?](https://www.youtube.com/live/YemEawWNxFo) — Votel and Young assessments (March 8, 2026)
 - Middle East Eye: IRGC strait closure declaration (February 28, 2026)
 - FGE: disruption estimates (March 2, 2026)
+- Robin J. Brooks: [The Blockade of the Straits of Hormuz](https://robinjbrooks.substack.com/p/the-blockade-of-the-straits-of-hormuz) (March 9, 2026)
+- Robin J. Brooks: [Oil Tanker Traffic in the Straits of Hormuz](https://robinjbrooks.substack.com/p/oil-tanker-traffic-in-the-straits) (March 8, 2026)
