@@ -160,10 +160,17 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 - Secretary of War [[Pete Hegseth]]: "Today will be our most intense day of strikes inside Iran." Also said Iran is "badly losing."
 - General Dan Caine confirmed US military has "started looking at ways to potentially escort ships through the Strait of Hormuz, should it be ordered to do so."
 
+**IEA record SPR release proposal:**
+- IEA proposed the **largest coordinated release of strategic oil reserves in history** — exceeding the 182M barrels released in 2022 after Russia's Ukraine invasion (WSJ, confirmed by Reuters).
+- Proposed at emergency meeting of 32 IEA member states. Decision expected Wednesday — adopted unless any country objects.
+- G7 energy ministers stopped short of agreeing, asked IEA to "assess" first. French Finance Minister Lescure: "We need to be ready to act at any moment."
+- **Critique:** SPR releases address price, not the physical blockade. The strait is closed; reserves don't reopen shipping lanes. Bypass capacity (Saudi/UAE pipelines) can cover ~3-5M bbl/day at best against a 9M+ bbl/day gap. Depleting strategic reserves while the underlying crisis persists risks leaving nations exposed if the conflict widens or extends.
+- European Commission chief [[Ursula von der Leyen]]: "The reduction in nuclear energy had been a strategic mistake in Europe." EIB committed €75B over three years for energy infrastructure.
+
 **Oil market impact:**
 - WTI dropped ~12% to settle at $83.45/barrel (from ~$95+ the prior day). Brent dropped ~11% to $87.80.
-- Wright's false post was one factor alongside IEA emergency reserve signals, Trump de-escalation comments, and Hegseth's "badly losing" assessment.
-- When the denial came and CBS reported mine deployments, oil bounced off lows and stocks pulled off highs.
+- Multiple bearish signals converged: IEA reserve proposal, Wright's false escort post, Trump de-escalation comments, Hegseth's "badly losing" assessment.
+- When the Wright denial came and CBS reported mine deployments, oil bounced off lows and stocks pulled off highs.
 
 ---
 

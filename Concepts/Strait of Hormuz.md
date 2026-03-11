@@ -86,7 +86,27 @@ The most consequential unforced error of the conflict so far. At ~1:02 PM ET, En
 
 The mine warfare threat aligns with Gen. [[Joseph Votel]]'s assessment (March 8): mines are "the biggest concern" at the strait. Iran appears to be acting on this asymmetric advantage even as its conventional navy is destroyed.
 
-*Sources: Al Jazeera, Reuters, CNBC, gCaptain, The Hill, Politico — all March 10, 2026*
+### IEA record SPR release proposal (March 10, 2026)
+
+The IEA proposed the **largest coordinated release of strategic oil reserves in history** — exceeding the 182M barrels released across two rounds in 2022 after Russia's invasion of Ukraine. The proposal was circulated at an emergency meeting of 32 IEA member states on Tuesday. Decision expected Wednesday — adopted unless any country objects. WSJ first reported; Reuters confirmed.
+
+G7 energy ministers stopped short of agreeing, asking the IEA to "assess the situation" first. French Finance Minister Roland Lescure: "We have asked the IEA to elaborate scenarios for a potential oil stock release, we need to be ready to act at any moment."
+
+**Why SPR releases misdiagnose the Hormuz crisis:**
+
+The 2022 Russia release worked because Russian oil was still physically flowing — it was a **price problem**. Hormuz is a **logistics blockade**:
+
+- ~14M bbl/day of physical supply is blocked. The strait is functionally closed — [[Robin J. Brooks]]'s AIS data shows traffic has essentially ceased since February 28.
+- SPR releases don't reopen shipping lanes. You can dump 200M barrels onto the market and the strait is still mined, still unescorted, still closed.
+- Bypass capacity is inadequate: [[Karen Young]] (MEI) assessed Saudi East-West pipeline at ~3M bbl/day loading capacity, UAE Fujairah pipeline at 400K bpd — against a gap of 9M+ bbl/day if Gulf shut-ins reach full scale.
+- SPR drawdowns deplete the strategic cushion for a longer or wider conflict — the reserves exist precisely for a scenario like this, and burning them on a price signal while the physical blockade persists is spending insurance premiums before the house stops burning.
+- The 2022 precedent is misleading: Russia's invasion disrupted pricing and rerouted flows, but oil still moved. Hormuz is a physical chokepoint closure — a fundamentally different problem.
+
+The SPR release is a political tool: it signals "we're doing something" and briefly suppresses prices. But it treats the symptom (price) not the disease (blocked strait). If the strait stays closed for weeks, no reserve release prevents a structural energy crisis.
+
+**European context:** European Commission chief [[Ursula von der Leyen]] said "the reduction in nuclear energy had been a strategic mistake in Europe." EU Energy Commissioner Dan Jorgensen claimed Europe is "much better prepared than in February 2022" — citing diversified supply (Norway and US replacing Russian gas). European Investment Bank committed €75B over three years for energy infrastructure.
+
+*Sources: WSJ (first reported), Reuters, Al Jazeera, CNBC, gCaptain, The Hill, Politico — all March 10, 2026*
 
 ---
 
