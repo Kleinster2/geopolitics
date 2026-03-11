@@ -133,6 +133,38 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 - Starmer-Trump phone call (March 8) discussed RAF base usage for "collective self-defense." No word on naval support.
 - Lord Peter Ricketts (former UK NSA) on Channel 4: UK shouldn't follow blindly; noted double standard — Gulf countries fired more Patriot interceptors in days than Ukraine received in four years. Putin supplying intelligence to Iran; Zelensky offering anti-drone tech to Gulf states.
 
+### March 9 — Hormuz blockade data
+
+- [[Robin J. Brooks]] published AIS vessel tracking data showing the blockade's full scope: normal traffic ~100 vessels/day has essentially ceased across all vessel types since February 28. Oil prices continued surging — Brent up 28% from pre-war levels.
+- US Navy "refused" near-daily requests from the shipping industry for military escorts through the Strait (Reuters, citing sources).
+
+### March 10 — Wright information warfare debacle, mine warfare escalation
+
+**The Chris Wright post:**
+- At ~1:02 PM ET, Energy Secretary [[Chris Wright]] posted on his official X account: "The U.S. Navy successfully escorted an oil tanker through the Strait of Hormuz to ensure oil remains flowing to global markets."
+- Post deleted within ~30 minutes. No immediate explanation.
+- WH Press Secretary [[Karoline Leavitt]] confirmed at briefing: "I can confirm that the US Navy has not escorted a tanker or a vessel at this time."
+- DOE blamed "Department of Energy staff" for "incorrectly captioning" a video clip.
+- Iranian FM [[Abbas Araghchi]]: "U.S. officials are posting fake news to manipulate markets. Markets are facing biggest shortfall in HISTORY: bigger than Arab Oil Embargo, Iran's Islamic Revolution and the Kuwait invasion COMBINED."
+- IRGC spokesperson Ali Mohammad Naini: "Any movement of the U.S. fleet and its allies will be stopped by our missiles and drones."
+- The incident confirmed to adversaries and allies alike that no escort operations have begun — the blockade holds. See [[Strait of Hormuz]] for full analysis.
+
+**Mine warfare:**
+- CBS News reported Iran is moving toward deploying mines in the Strait.
+- Trump warned Iran on Truth Social to remove any mines "IMMEDIATELY" or face military consequences.
+- CENTCOM announced it had "eliminated" **16 Iranian mine-laying vessels** near the Strait.
+- Pentagon confirmed strikes on mine-laying vessels and mine storage facilities.
+- Trump said the US was using the same technology deployed against drug trafficking boats in the Caribbean/Pacific.
+
+**Military operations:**
+- Secretary of War [[Pete Hegseth]]: "Today will be our most intense day of strikes inside Iran." Also said Iran is "badly losing."
+- General Dan Caine confirmed US military has "started looking at ways to potentially escort ships through the Strait of Hormuz, should it be ordered to do so."
+
+**Oil market impact:**
+- WTI dropped ~12% to settle at $83.45/barrel (from ~$95+ the prior day). Brent dropped ~11% to $87.80.
+- Wright's false post was one factor alongside IEA emergency reserve signals, Trump de-escalation comments, and Hegseth's "badly losing" assessment.
+- When the denial came and CBS reported mine deployments, oil bounced off lows and stocks pulled off highs.
+
 ---
 
 ## Casualties (as of March 8)
@@ -252,6 +284,9 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Karen Young]] — MEI energy economist, GCC existential threat framing
 - [[Ali Vaez]] — Crisis Group Iran director, war of attrition logic, succession analysis
 - [[Peter Ricketts]] — former UK NSA, Ukraine double standard, UK-US dynamics
+- [[Chris Wright]] — Energy Secretary, Hormuz false escort post
+- [[Abbas Araghchi]] — Iranian FM, "fake news to manipulate markets" response
+- [[Robin J. Brooks]] — Brookings, AIS blockade data
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid
@@ -710,3 +745,8 @@ Reports functional successor government but notes it has never been tested again
 - Hengaw Organisation for Human Rights: [2,400+ killed by Day 6](https://hengaw.net/en/reports-and-statistics-1/2026/03/article-3)
 - France24/IAEA: [No indication nuclear installations hit — but localized radioactive/chemical release confirmed](https://www.france24.com/en/live-news/20260302-no-indication-iran-nuclear-installations-hit-iaea) (March 2, 2026)
 - Naval News: [Iranian warship sunk in Indian Ocean by US Navy submarine](https://www.navalnews.com/naval-news/2026/03/iranian-warship-sunk-in-indian-ocean-by-us-navy-submarine-over-80-dead/) (March 4, 2026)
+- Robin J. Brooks: [The Blockade of the Straits of Hormuz](https://robinjbrooks.substack.com/p/the-blockade-of-the-straits-of-hormuz) (March 9, 2026)
+- Reuters: [US destroys mine-laying vessels as Trump warns Iran over Strait of Hormuz](https://www.reuters.com/world/middle-east/us-energy-secretary-deletes-post-about-navy-escorting-vessel-through-strait-2026-03-10/) (March 10, 2026)
+- Al Jazeera: [White House denies US military escorted tanker in Hormuz](https://www.aljazeera.com/news/2026/3/10/energy-secretary-deletes-claim-us-military-escorted-tanker-through-hormuz) (March 10, 2026)
+- gCaptain: [Energy Secretary deletes post claiming Navy escorted tanker](https://gcaptain.com/energy-secretary-deletes-post-claiming-u-s-navy-escorted-oil-tanker-through-strait-of-hormuz/) (March 10, 2026)
+- CNBC: [S&P 500 ends volatile day as Iran conflict keeps traders on edge](https://www.cnbc.com/2026/03/09/stock-market-today-live-updates.html) (March 10, 2026)

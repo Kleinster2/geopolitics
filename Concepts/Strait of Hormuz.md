@@ -62,6 +62,34 @@ Dr. [[Karen Young]] (MEI/Columbia) assessed the alternatives as inadequate:
 
 Young raised the politically loaded question of tanker escorts: "Whose tankers are you escorting? Are we doing this as a favor to the Chinese?" — noting 80% of strait LNG goes to Asian markets. This frames a core tension: the US bears military costs for protecting energy flows that primarily benefit Asian economies.
 
+### Wright information warfare debacle (March 10, 2026)
+
+The most consequential unforced error of the conflict so far. At ~1:02 PM ET, Energy Secretary [[Chris Wright]] posted on his official X account: "The U.S. Navy successfully escorted an oil tanker through the Strait of Hormuz to ensure oil remains flowing to global markets." The post was accompanied by a video clip and praised the Trump administration for "maintaining stability of global energy."
+
+**The post was deleted within ~30 minutes.** No explanation was given initially. White House Press Secretary [[Karoline Leavitt]] then confirmed at a briefing: "I can confirm that the US Navy has not escorted a tanker or a vessel at this time." DOE blamed "Department of Energy staff" for "incorrectly captioning" a video clip — the "intern" defense.
+
+**Why this is an information warfare defeat:**
+
+1. **Confirmed the blockade is holding.** The US government effectively admitted that no commercial tanker has transited the strait under escort. Iran now has official confirmation that its closure strategy is working.
+2. **Revealed the US Navy can't yet provide escorts.** Reuters reported the same day that the Navy has "refused near-daily requests from the shipping industry for military escorts." General Dan Caine said only that they are "looking at a range of options." The gap between political rhetoric ("we will escort tankers as soon as possible" — Trump, March 3) and operational reality is now public.
+3. **Gave Iran a propaganda win.** Iranian FM [[Abbas Araghchi]] responded immediately: "U.S. officials are posting fake news to manipulate markets. Markets are facing biggest shortfall in HISTORY: bigger than Arab Oil Embargo, Iran's Islamic Revolution and the Kuwait invasion COMBINED."
+4. **IRGC escalated its deterrent messaging.** Spokesperson Ali Mohammad Naini: "Any movement of the U.S. fleet and its allies will be stopped by our missiles and drones."
+5. **Moved oil markets on false information.** WTI dropped ~12% on the day — Wright's post was one factor. When the denial came, oil bounced off lows and stocks pulled off highs, demonstrating how fragile market confidence is.
+6. **Undermined future credibility.** The next time the US announces a successful escort, markets and adversaries will question whether it's real.
+
+**Same-day mine warfare developments:**
+- CBS News reported Iran is moving toward deploying mines in the strait
+- Trump warned Iran on Truth Social to remove any mines "IMMEDIATELY" or face consequences
+- CENTCOM announced it had "eliminated" **16 Iranian mine-laying vessels** near the strait (Trump had earlier claimed 10)
+- Pentagon confirmed strikes on mine-laying vessels and mine storage facilities
+- Trump said the US was using the same technology deployed against drug trafficking boats in the Caribbean to "permanently eliminate any boat or ship attempting to mine the Hormuz Strait"
+
+The mine warfare threat aligns with Gen. [[Joseph Votel]]'s assessment (March 8): mines are "the biggest concern" at the strait. Iran appears to be acting on this asymmetric advantage even as its conventional navy is destroyed.
+
+*Sources: Al Jazeera, Reuters, CNBC, gCaptain, The Hill, Politico — all March 10, 2026*
+
+---
+
 ## Historical precedents
 
 ### Tanker War (1984-1988)
