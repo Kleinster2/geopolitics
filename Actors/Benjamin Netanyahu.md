@@ -8,7 +8,7 @@ tags: [actor, decision-maker, israel]
 # Benjamin Netanyahu
 
 ## Overview
-Prime Minister of Israel (2022-present; previously 1996-1999, 2009-2021). Longest-serving Israeli PM. Central figure in [[Gaza Conflict]], [[Iran-Israel Shadow War]], and [[Board of Peace]] dynamics.
+Prime Minister of Israel (2022-present; previously 1996-1999, 2009-2021). Longest-serving Israeli PM. Central figure in [[Gaza Conflict]], [[Israel-Iran Escalation]], and [[Board of Peace]] dynamics.
 
 ## Positions
 
@@ -28,13 +28,13 @@ Initially objected: makeup of Gaza committee "not coordinated with Israel and ru
 
 ## Vault Relevance
 - [[Gaza Conflict]] - Wartime PM
-- [[Iran-Israel Shadow War]] - Long-standing Iran hawk
+- [[Israel-Iran Escalation]] - Long-standing Iran hawk
 - [[Iran Nuclear Program]] - Opposed JCPOA, advocated military option
 - [[Board of Peace]] - Initial objection then joined
 
 ## Related Notes
 - [[Israel]]
 - [[Gaza Conflict]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Board of Peace]]
 - [[Donald Trump]]

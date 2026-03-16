@@ -125,7 +125,7 @@ This buildup culminated in the [[2026 Iran conflict]] — joint US-Israeli strik
 - [[Iran]]
 - [[Iran Protests 2025-2026]]
 - [[Iran Nuclear Program]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[United States]]
 - [[Donald Trump]]
 - [[Middle East]]

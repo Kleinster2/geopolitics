@@ -26,7 +26,7 @@ Ongoing geopolitical developments and analysis.
 - [[Iran Nuclear Program]] — IAEA: no weapons program; strikes hit facilities anyway
 - [[JCPOA]] - Nuclear deal status
 - [[2024 Damascus consulate strike]] — Israeli strike on Iranian consulate in Damascus; triggered first-ever direct Iran-Israel exchange
-- [[Iran-Israel Shadow War]] — escalated to open war Feb 28
+- [[Israel-Iran Escalation]] — escalated to open war Feb 28
 - [[Iran-Saudi Rivalry]]
 - [[Iran Protests 2025-2026]] - Regime crisis, 6,800+ dead; war overtook protest dynamics
 - [[2026 US Military Buildup Against Iran]] - Largest US deployment to Middle East in decades; 2 carrier strike groups, 160+ airlift flights, THAAD/Patriot
@@ -82,7 +82,7 @@ Ongoing geopolitical developments and analysis.
 ### Middle East
 - [[Gaza Conflict]]
 - [[Iran Nuclear Program]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Abraham Accords]] - Israel-Arab normalization (2020-)
 
 ### Europe

@@ -196,4 +196,4 @@ Iran's most powerful and capable proxy, functioning as both Lebanon's dominant p
 - [[Axis of Resistance]]
 - [[Lebanon]]
 - [[Israel]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]

@@ -80,7 +80,7 @@ Major escalation of Israeli-Palestinian conflict following Hamas's October 7, 20
 - Israeli counter-strike
 - First direct Iran-Israel exchange
 - Deterrence recalibration
-- See: [[Iran-Israel Shadow War]]
+- See: [[Israel-Iran Escalation]]
 
 ## International Responses
 
@@ -238,4 +238,4 @@ Major escalation of Israeli-Palestinian conflict following Hamas's October 7, 20
 - [[Axis of Resistance]]
 - [[Middle East]]
 - [[United States]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]

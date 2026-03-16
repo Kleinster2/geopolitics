@@ -168,5 +168,5 @@ This signals Israel already looking beyond Iran to Turkey, Qatar, Pakistan, and 
 - [[Nuclear Proliferation]]
 - [[Palestinian Conflict]]
 - [[2026 Iran conflict]] — ongoing joint war with US
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Iran Protests 2025-2026]]

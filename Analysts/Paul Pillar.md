@@ -128,7 +128,7 @@ Published during the Twelve-Day War (Operation Rising Lion). Key arguments:
 
 ## Related Notes
 - [[2026 Iran conflict]]
-- [[Iran-Israel Shadow War]] — the escalation chain his analysis tracks
+- [[Israel-Iran Escalation]] — the escalation chain his analysis tracks
 - [[Trita Parsi]] — allied perspective, more focused on Iranian strategic thinking
 - [[Ali Vaez]] — allied perspective from Crisis Group, more focused on diplomatic mechanics
 - [[Fred Kagan]] — opposing perspective (AEI)

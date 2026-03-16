@@ -41,7 +41,7 @@ Running log of vault changes by session.
 - edited [[Iran]] (Actors) — Khamenei killed, Interim Leadership Council, war section, internal dynamics updated
 - edited [[Israel]] (Actors) — Joint war section, Israeli role, Rubio admission, Hezbollah front, casualties
 - edited [[IRGC]] (Actors) — War section: resilience, redundancy structures, no defections, analyst assessments
-- edited [[Iran-Israel Shadow War]] (Events) — Shadow war became open war; diplomacy section, Omani proposal, Rubio admission
+- edited [[Israel-Iran Escalation]] (Events) — Shadow war became open war; diplomacy section, Omani proposal, Rubio admission
 - edited [[Iran Protests 2025-2026]] (Events) — War overtaking protests, rally-around-flag, pragmatist survival risk
 - edited [[Marco Rubio]] (Actors) — Capitol Hill admissions: Israel drove decision, missile objectives, walkback
 - edited [[Iran Nuclear Program]] (Events) — Trump 2.0 negotiations, strikes on facilities, Grossi assessment, breakout risk

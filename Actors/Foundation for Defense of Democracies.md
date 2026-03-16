@@ -66,7 +66,7 @@ Revenue of $23.9 million (2023). Early donors (2001-2004, revealed via Form 990 
 - [[Iran Sanctions]] — Primary policy focus
 - [[JCPOA]] — Led opposition campaign
 - [[Iran Nuclear Program]] — Central threat assessment
-- [[Iran-Israel Shadow War]] — Analytical focus area
+- [[Israel-Iran Escalation]] — Analytical focus area
 - [[Cyber Warfare]] — Through CCTI program
 - [[Israel]] — Founding mission and ongoing alignment
 - [[China]] — Growing program under Pottinger

@@ -45,7 +45,7 @@ Comprehensive knowledge base covering international relations, geopolitical anal
 - [[Iran]] → [[IRGC]] → [[Quds Force]]
 - [[Artesh]] - Regular army (secular, may not defend regime)
 - [[Axis of Resistance]]: [[Hezbollah]], [[Houthis]], [[Hamas]]
-- [[Iran Nuclear Program]] | [[JCPOA]] | [[Iran-Israel Shadow War]]
+- [[Iran Nuclear Program]] | [[JCPOA]] | [[Israel-Iran Escalation]]
 - [[Iran Protests 2025-2026]] - Regime at weakest since 1979
 
 ## Getting Started

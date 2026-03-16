@@ -55,7 +55,7 @@ Bohl has appeared multiple times on the channel throughout 2025-2026, tracking t
 - [[Iran]]
 - [[2026 Iran conflict]]
 - [[Iran Protests 2025-2026]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 
 ## Sources
 

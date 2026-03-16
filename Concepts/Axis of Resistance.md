@@ -193,4 +193,4 @@ Iran-led network of state and non-state actors united by opposition to Israel an
 - [[Houthis]]
 - [[Hamas]]
 - [[Proxy Wars]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]

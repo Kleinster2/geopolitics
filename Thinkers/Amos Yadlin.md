@@ -57,7 +57,7 @@ Yadlin has argued that Israel restored deterrence against Iran through the June 
 Yadlin's analytical weight derives from unique operational experience: he personally executed the 1981 Osirak strike, oversaw intelligence during the 2007 Syria reactor strike, and has spent decades planning Israel's preemptive operations against nuclear threats. When he warns about an Iranian preemptive strike, he is applying firsthand knowledge of how the other side of this equation works.
 
 ## Related Notes
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Iran Nuclear Program]]
 - [[Israel]]
 - [[Iran]]

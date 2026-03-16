@@ -469,7 +469,7 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[2026 US Military Buildup Against Iran]] — pre-strike force disposition
 - [[Iran Nuclear Program]] — underlying casus belli
 - [[Iran Protests 2025-2026]] — domestic context
-- [[Iran-Israel Shadow War]] — escalation ladder
+- [[Israel-Iran Escalation]] — escalation ladder
 - [[Ali Khamenei]] — assassinated leader
 - [[Donald Trump]] — ordered Operation Epic Fury
 - [[Benjamin Netanyahu]]

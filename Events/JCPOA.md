@@ -189,4 +189,4 @@ The Joint Comprehensive Plan of Action, negotiated 2013-2015 between Iran and P5
 - [[United States]]
 - [[Nuclear Proliferation]]
 - [[Sanctions]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]

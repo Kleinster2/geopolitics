@@ -107,7 +107,7 @@ Long-range precision strike no longer US/Russia monopoly:
 ## Related Notes
 - [[Ukraine Crisis]]
 - [[Taiwan]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Deterrence]]
 - [[Anti-Access Area Denial]]
 - [[Escalation]]

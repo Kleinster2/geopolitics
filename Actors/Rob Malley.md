@@ -59,7 +59,7 @@ Co-authored with Hussein Agha (St. Antony's College, Oxford; Palestinian negotia
 - [[JCPOA]]
 - [[Ali Vaez]] — Malley was his boss at Crisis Group; recommended the book
 - [[Trita Parsi]] — cited Malley's assessment of the Omani proposal
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 
 ## Sources
 - State Department Inspector General report ESP-24-01 (September 2024)

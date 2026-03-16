@@ -3,13 +3,14 @@ type: flashpoint
 region: Middle East
 actors: [Iran, Israel]
 risk-level: critical
-tags: [flashpoint, iran, israel, shadow-war, covert]
+aliases: [Iran-Israel Shadow War]
+tags: [flashpoint, iran, israel, shadow-war, escalation]
 ---
 
-# Iran-Israel Shadow War
+# Israel-Iran Escalation
 
 ## Overview
-Decades-long covert conflict between Iran and Israel fought through assassinations, sabotage, cyber attacks, and proxy warfare. Occasionally breaks into direct confrontation. Escalated dramatically in 2024 with unprecedented direct attacks between the two states.
+Decades-long conflict between Israel and Iran, evolving from covert operations, assassinations, sabotage, and proxy warfare into direct confrontation (2024) and full-scale war (2025-2026). Israel conducted the overwhelming majority of offensive operations; Iran's direct military actions were exclusively retaliatory. The escalation accelerated sharply after October 7, 2023, when Israel shifted from avoiding IRGC casualties to systematically killing senior commanders — 18 in six months — culminating in the Damascus consulate strike and the chain of wars that followed.
 
 ## Nature of Conflict
 

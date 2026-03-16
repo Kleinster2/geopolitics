@@ -420,7 +420,7 @@ The protest movement's trajectory was overtaken by the US-Israeli strikes on Feb
 - [[Iran]]
 - [[IRGC]]
 - [[Artesh]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Axis of Resistance]]
 - [[Basij]]
 - [[Sanctions]]

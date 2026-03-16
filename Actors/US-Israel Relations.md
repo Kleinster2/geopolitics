@@ -160,7 +160,7 @@ Often described as America's most important Middle East relationship. Characteri
 - [[United States]]
 - [[Israel]]
 - [[Iran]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Abraham Accords]]
 - [[AIPAC]]
 - [[Iran Protests 2025-2026]]

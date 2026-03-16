@@ -154,7 +154,7 @@ On February 28, 2026, the US and Israel launched joint strikes that killed Supre
 
 ### Conflict
 - [[2026 Iran conflict]] — ongoing US-Israeli war (Operation Epic Fury)
-- [[Iran-Israel Shadow War]] - Covert and direct conflict, escalated to open war Feb 2026
+- [[Israel-Iran Escalation]] - Covert and direct conflict, escalated to open war Feb 2026
 - [[Israel]]
 - [[Proxy Wars]]
 

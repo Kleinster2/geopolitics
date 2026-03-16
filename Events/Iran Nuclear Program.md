@@ -201,5 +201,5 @@ US-Israeli Operation Epic Fury directly targeted nuclear infrastructure (confirm
 - [[IAEA]]
 - [[Rafael Grossi]] — IAEA head, no weapons program
 - [[Sanctions]]
-- [[Iran-Israel Shadow War]]
+- [[Israel-Iran Escalation]]
 - [[Marco Rubio]] — real objective was missiles, not nukes

@@ -10,7 +10,7 @@ tags: [event, israel, iran, shadow-war, escalation, diplomatic-compound]
 
 ## Overview
 
-On April 1, 2024, Israel struck the Iranian consular compound adjacent to the Iranian embassy in Damascus, Syria, killing Brigadier General Mohammad Reza Zahedi, commander of the IRGC Quds Force in Syria and Lebanon, his deputy Brigadier General Mohammad Hadi Haji Rahimi, and at least five other IRGC officers. The strike is widely regarded as the single most consequential escalation in the [[Iran-Israel Shadow War]], breaking a 45-year pattern of avoiding direct attacks on diplomatic facilities and triggering Iran's first-ever direct military strike on Israeli territory.
+On April 1, 2024, Israel struck the Iranian consular compound adjacent to the Iranian embassy in Damascus, Syria, killing Brigadier General Mohammad Reza Zahedi, commander of the IRGC Quds Force in Syria and Lebanon, his deputy Brigadier General Mohammad Hadi Haji Rahimi, and at least five other IRGC officers. The strike is widely regarded as the single most consequential escalation in the [[Israel-Iran Escalation]], breaking a 45-year pattern of avoiding direct attacks on diplomatic facilities and triggering Iran's first-ever direct military strike on Israeli territory.
 
 ## The Strike
 
@@ -108,7 +108,7 @@ Responsible Statecraft argued the strike put Israel in a win-win: cost-free if I
 Crisis Group noted that some in Tehran recognized "an escalatory trap, whereby an attack in retaliation for the consulate strike could see the Islamic Republic squaring off against not only Israel, but also the U.S." Iran responded anyway because the cost of not responding — loss of deterrence credibility — was judged worse.
 
 ## Related Notes
-- [[Iran-Israel Shadow War]] — the broader conflict this event transformed
+- [[Israel-Iran Escalation]] — the broader conflict this event transformed
 - [[2026 Iran conflict]] — the war this escalation chain produced
 - [[Ali Vaez]] — retrospective analysis of the escalation chain
 - [[Trita Parsi]] — Israeli escalation thesis
@@ -121,7 +121,7 @@ Crisis Group noted that some in Tehran recognized "an escalatory trap, whereby a
 ## Sources
 - UN Secretary-General statement on Damascus strike (April 2024)
 - Carnegie Endowment: "The Israeli-Iranian Shadow War Is Over" (April 2024)
-- Crisis Group: "Iran-Israel Shadow War Risks Spinning Out of Control" (April 2024)
+- Crisis Group: "Israel-Iran Escalation Risks Spinning Out of Control" (April 2024)
 - Paul Pillar, "Biden is letting Israel trap the US into war with Iran," *Responsible Statecraft* (October 7, 2024)
 - Ali Vaez, *The Ezra Klein Show* interview (March 14, 2026) — retrospective on escalation chain
 - Trita Parsi, *Newsweek 1600* interview (March 4, 2026)
