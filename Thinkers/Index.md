@@ -9,11 +9,14 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 ## Geoeconomics & Economic Statecraft
 - [[Edward Fishman]] - CFR, sanctions architect, *Chokepoints*, economic warfare
 
+## Iran / Middle East
+- [[Roy Mottahedeh]] - Harvard (d. 2024), *The Mantle of the Prophet*, Iranian political culture and Shi'ite intellectual history
+- [[Vali Nasr]] - Johns Hopkins SAIS, Iran/Middle East, former Obama State Dept
+
 ## Strategists
 - [[Hal Brands]] - Johns Hopkins SAIS, liberal order, US grand strategy
 - [[Peter Zeihan]] - Demographics, deglobalization, geographic determinism
 - [[George Friedman]] - Geopolitical Futures, long-range forecasting, technology cycles
-- [[Vali Nasr]] - Johns Hopkins SAIS, Iran/Middle East, former Obama State Dept
 - [[Robert Kaplan]] - CNAS, geographic determinism, *Revenge of Geography*
 - [[Andrew Krepinevich]] - CSBA founder, A2/AD, competitive strategies
 - [[Rush Doshi]] - Brookings, China grand strategy, *The Long Game*

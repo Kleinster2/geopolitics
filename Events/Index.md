@@ -25,6 +25,7 @@ Ongoing geopolitical developments and analysis.
 - **[[2026 Iran conflict]]** - US-Israeli war (Operation Epic Fury, Feb 28-). Khamenei killed. Iran retaliating across Gulf. Strait of Hormuz closed. CIA arming Kurds. Day 4+.
 - [[Iran Nuclear Program]] — IAEA: no weapons program; strikes hit facilities anyway
 - [[JCPOA]] - Nuclear deal status
+- [[2024 Damascus consulate strike]] — Israeli strike on Iranian consulate in Damascus; triggered first-ever direct Iran-Israel exchange
 - [[Iran-Israel Shadow War]] — escalated to open war Feb 28
 - [[Iran-Saudi Rivalry]]
 - [[Iran Protests 2025-2026]] - Regime crisis, 6,800+ dead; war overtook protest dynamics

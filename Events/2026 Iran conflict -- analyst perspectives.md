@@ -604,3 +604,91 @@ Reports functional successor government but notes it has never been tested again
 - Syria warning: "Planners may be tempted to look to Syria as a reference point. A popular, non-violent uprising against the regime eventually led to the toppling of President Bashar al-Assad... But between point A and B in Syria lay 13 brutal years that included a multisided civil war and the emergence of armed radical groups."
 
 **Assessment**: Farmanfarmaian's January piece is analytically distinctive because it was written in the exact window between the protest crisis and the war — mapping the conditions, incentives, and escalation dynamics that produced the strikes six weeks later. Her framework reads as a near-blueprint for what followed: regime legitimacy thinning, external intervention framing hardening repression, US credibility trapped by its own rhetoric. Her insistence that "collapse" is the wrong frame and that transition within security/intelligence institutions is more likely aligns with Vaez's Larijani/Ghalibaf analysis and challenges Kagan's conditional regime-change support. Ozcelik's "Goldilocks" framing captures the strategic ambiguity that Vakil argues will drift into containment and strategic limbo. Together they represent the most institutionally grounded UK analysis (RUSI is the UK defence establishment's primary think tank).
+
+---
+
+### Paul Pillar (Georgetown / Quincy Institute) — June 2025 & October 2024
+
+**Sources**: "Israel is luring the US into a trap," *Responsible Statecraft* (June 20, 2025); "Biden is letting Israel trap the US into war with Iran," *Responsible Statecraft* (October 7, 2024). Pillar is a retired CIA senior analyst (28-year career, National Intelligence Officer for Near East/South Asia) now at Georgetown and the Quincy Institute.
+
+**The entrapment thesis:**
+- Israel has systematically escalated confrontation with Iran through a pattern of provocations designed to draw the US into military conflict
+- Iran "does not want war and has been remarkably restrained in trying to avoid it, in the face of repeated Israeli provocations"
+- The Damascus consulate strike (April 2024) elicited a response only because Israel attacked a diplomatic compound; even then, Iran's response was "designed and telegraphed in a way to make a show of defiance but — with most of the projectiles certain to be shot down — to cause minimal damage"
+- After the Haniyeh assassination in Tehran (July 2024), Iran waited months before responding — only acting after Nasrallah's killing
+
+**On Israeli motivations beyond security:**
+- "The nuclear issue was not the main motivation behind Israel's attack" — the target list went far beyond nuclear facilities
+- Israeli objectives include sabotaging US-Iran diplomacy, diverting attention from the occupation, and maintaining Israel's regional nuclear monopoly
+- Israel "probably would be satisfied with a Libya-type situation of chaos and weakness"
+- "One of the last things the Netanyahu government would want to see emerge in Iran is a stable, moderate democracy that enjoys good relations with the United States"
+
+**On nuclear counterproductivity:**
+- "No event is more likely to lead Iranian policymakers to take the decision they had not so far taken — to build a nuclear weapon — than an armed attack on their sovereign territory"
+- Centrifuge cascades can be reconstructed; the war derails inspections; Iran's nuclear activities will move out of view
+- The goal is not keeping nuclear weapons out of the Middle East but maintaining Israel's regional nuclear monopoly
+
+**On the US as enabler:**
+- Biden's bear-hug strategy "emboldened Israel to escalate" rather than restraining it
+- Israel is "the strongest military power in the Middle East... drunk on the use of force and stumbling into still more use of it with little or no apparent attention to any long-term strategy"
+- Each tactical success "only seems to deepen the inebriation"
+- Even DoD recognized the policy was "counterproductive by emboldening Israel to escalate"
+
+**On regime change folly:**
+- US regime change record is "miserable" — Iraq, Libya, Iran 1953
+- Any political change from the war "at least as likely to strengthen regime hardliners" — possibly producing a military dictatorship led by IRGC officers favoring nuclear weapons development
+
+**Assessment**: Pillar brings intelligence community credibility (28-year CIA career, NIO for the region) to the restrainer position. His "entrapment" framework is the most structurally developed version of the argument that Parsi makes more polemically and Vaez approaches more diplomatically. His most distinctive contribution is the nuclear counterproductivity argument: the war makes an Iranian bomb more likely, not less, because it provides the strongest possible motivation while eliminating the inspection regime. His analysis of Israeli motivations goes further than most in arguing Israel actively prefers Iranian chaos over Iranian moderation — a claim about intent that is analysis, not confirmed intelligence. Compare with Kagan's opposing view that the war creates an opportunity for favorable regime change.
+
+---
+
+### J Street Conference Debate — March 1, 2026
+
+**Source**: Connor Echols, "Did the US only attack Iran because of Israel?", *Responsible Statecraft* (March 1, 2026). Panel at J Street conference, Day 2 of Operation Epic Fury.
+
+**Harrison Berger (American Conservative):**
+- "There's nothing about this that was done on behalf of the United States. This was all on behalf of Israel."
+- Iranian missiles pose no direct threat to the US; multiple non-nuclear states have civilian enrichment programs but only Iran faces demands to end it entirely
+- "The only reason we hear that Iran's nuclear program is a threat to the United States is to provide a pretext for the war"
+- Pro-Israel media figures and megadonors (Miriam Adelson) pushed Trump toward war
+- Washington Post reported Israeli and Saudi officials led "a weeks-long lobbying effort" to persuade Trump
+
+**Matt Duss (Center for International Policy, former Sanders adviser):**
+- Acknowledged Israel's missile concern was "the proximate cause for the attack" — "They don't threaten the U.S.; they threaten Israel"
+- But "just putting it all on Israel is analytically wrong" — it lets the US off the hook
+- The real driver is "a faction in the United States and in Israel that share a vision of a U.S.-Israel relationship that supports continuing U.S. military hegemony in the Middle East"
+- This faction "sees Israel as essentially the U.S.'s sheriff in the region"
+
+**Amy Rutkin (former adviser to Rep. Nadler):**
+- Democrats are right to oppose the war but "it is super dangerous for anybody to suggest that Iran didn't present a material threat"
+- "We are deeply vulnerable to Republican attacks when we don't talk about that"
+
+**Sen. Chris Van Hollen (D-Md.):**
+- "We should not be sending Americans to war for the political ambitions of Prime Minister Netanyahu and the Saudi crown prince"
+- "President Trump put American lives at risk and lost American lives on this huge roll of the dice"
+
+**Netanyahu's own framing:**
+- Told press that Trump, by attacking Iran, had helped accomplish "what I have yearned to do for 40 years" (confirmed, multiple outlets)
+
+**Assessment**: The J Street panel crystallizes the core debate about war causation. Berger makes the maximalist "Israel drove it" case; Duss offers the more nuanced structural argument (shared US-Israeli hegemonic faction, not Israeli puppeteering). Rutkin represents the Democratic political calculation that acknowledging the war was unjustified creates electoral vulnerability. Netanyahu's own statement — 40 years of yearning — is the strongest evidence for the Berger/Parsi thesis, coming from its alleged architect. The Duss correction is analytically important: attributing the war solely to Israeli influence obscures the American domestic coalition (donors, media, neoconservative policy infrastructure) that wanted this war independently.
+
+---
+
+### Trita Parsi (Quincy Institute) — "Escalation Ladder" (March 12, 2026)
+
+**Source**: *New Left Review Sidecar* essay. Parsi's most complete unified treatment of the Israel-as-primary-escalator thesis.
+
+**On Iranian survival logic:**
+- Iran fears surrender more than warfare: "They believe they can survive the war. They believe they can survive even if they lose the war. They cannot survive surrender."
+- The regime's founding mythology of safeguarding independence means capitulation would alienate even its remaining core constituency
+
+**On Israel as primary beneficiary:**
+- Israel's goal transcends regime change — it seeks regional power rebalancing through permanent Iranian degradation
+- Israel would accept "good enough" outcomes: severe weakening without complete defeat, plus foreclosure of US-Iran rapprochement for another decade
+- While Trump seeks an exit strategy, Israel prefers sustained military degradation regardless of outcome
+
+**On remaining escalation rungs:**
+- Iran has not fully deployed available options: direct targeting of GCC banking systems, actual ship strikes in the Strait, sustained missile strikes requiring continued US intervention
+- Each step increases pressure on the US but raises Iran's exposure
+
+**Assessment**: This is Parsi's thesis-level argument, more structured than his media appearances. The key analytical move: separating Israeli and American objectives to show that Israel benefits from prolonged conflict that the US does not. Compare with Pillar's "entrapment" framing (which emphasizes the mechanism of how Israel draws the US in) — Parsi's "escalation ladder" framing emphasizes why Israel has no incentive to let the US find an exit. Together they form the most complete restrainer-realist critique of the war.

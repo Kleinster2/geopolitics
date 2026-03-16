@@ -114,6 +114,9 @@ Decades-long covert conflict between Iran and Israel fought through assassinatio
 ## 2024 Escalation
 
 ### April 2024: Iran Direct Attack
+
+**See [[2024 Damascus consulate strike]] for detailed analysis of the threshold event.**
+
 - First direct Iranian attack on Israel
 - 300+ missiles/drones launched
 - Most intercepted
@@ -309,8 +312,10 @@ On February 28, the US and Israel launched Operation Epic Fury — joint strikes
 - [[Mossad]]
 - [[Amos Yadlin]]
 - [[Iran Protests 2025-2026]]
-- [[Trita Parsi]] — Israeli pressure on Trump analysis
+- [[Trita Parsi]] — Israeli pressure on Trump analysis; "Escalation Ladder" thesis
+- [[Paul Pillar]] — entrapment thesis (Georgetown/Quincy)
 - [[Marco Rubio]] — confirmed Israel drove the decision
+- [[2024 Damascus consulate strike]] — the threshold event that ended the shadow war's rules
 
 ## Sources
 - [The Yeshiva World - Former Intel Chief Warns of Iran Surprise Attack (Jan 2026)](https://www.theyeshivaworld.com/news/israel-news/2506765/former-idf-intel-chief-warns-irans-jihadi-logic-may-result-in-surprise-attack-on-israel.html)

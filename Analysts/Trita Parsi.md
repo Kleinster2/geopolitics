@@ -122,6 +122,32 @@ From Newsweek's The 1600 with Carlo Versano, March 4, 2026 (Day 4 of the [[2026 
 ### Fox News accusations
 - Accused of being a "mouthpiece for the Iranian regime." Response: father was imprisoned under both the Shah and the Islamic Republic. Cannot travel to Iran. "I have been a mouthpiece for diplomacy, for avoiding unnecessary, idiotic wars."
 
+## Analysis: "Escalation Ladder" (New Left Review Sidecar, March 12, 2026)
+
+Parsi's most complete unified treatment of the Israel-as-primary-escalator thesis. Key arguments:
+
+### On Iranian survival logic
+- Iran fears surrender more than warfare itself: "They believe they can survive the war. They believe they can survive even if they lose the war. They cannot survive surrender."
+- The Islamic Republic's founding mythology is safeguarding independence — capitulation would alienate even its remaining 5-10% core constituency
+
+### On Israel as primary beneficiary
+- Israel's goal transcends regime change — it seeks regional power rebalancing through Iranian degradation
+- Israel would accept "good enough" outcomes: severe weakening without complete defeat, plus foreclosure of US-Iran rapprochement for another decade
+- While Trump seeks an exit, Israel prefers sustained military degradation of Iranian capabilities regardless of outcome
+
+### On remaining escalation rungs
+- Iran has not yet fully deployed: direct targeting of GCC banking systems, actual ship strikes in the Strait of Hormuz, sustained missile strikes requiring continued US intervention
+- Each step increases pressure on the US but also raises Iran's exposure
+
+### On Gulf consequences
+- Gulf monarchies face "absolute disaster" if conflict persists — prosperity depends on insulation from instability
+
+## Analysis: Foreign Policy Debate vs. Kroenig (March 12, 2026)
+
+Debated Matthew Kroenig (Atlantic Council) on the war:
+- "The United States should only go to war when it is faced with an imminent threat and when all other options have been exhausted. In this case, no such evidence has been put forward."
+- Framed the war as "utterly clear" to be "unjustified" — a war of choice, not necessity
+
 ## Caveats
 - Quincy Institute is restrainer-oriented, institutionally skeptical of military intervention
 - NIAC background - some critics view him as sympathetic to Iranian government
@@ -139,3 +165,7 @@ From Newsweek's The 1600 with Carlo Versano, March 4, 2026 (Day 4 of the [[2026 
 ## Sources
 - Al Jazeera interview, February 2, 2026
 - Newsweek, The 1600 with Carlo Versano, March 4, 2026
+- "Escalation Ladder," *New Left Review Sidecar* (March 12, 2026)
+- Foreign Policy debate vs. Matthew Kroenig (March 12, 2026)
+- "The Hidden Influences Behind the Pointless War in Iran," *Current Affairs* interview
+- Democracy Now! appearances (February 18, February 28, 2026)

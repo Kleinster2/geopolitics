@@ -32,6 +32,7 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Karen Young]] - MEI Senior Fellow / Columbia professor, energy economics, GCC political economy
 - [[Ken Pollack]] - MEI, former CIA analyst, Middle East military affairs, Iran
 - [[Marc Lynch]] - GWU professor, Gulf politics, Arab media, US Middle East policy
+- [[Paul Pillar]] - Georgetown/Quincy, ex-CIA NIO, Israel-Iran entrapment thesis, intelligence critique
 
 ## Tags
 - #analyst
