@@ -111,6 +111,87 @@ Decades-long covert conflict between Iran and Israel fought through assassinatio
 - Data theft
 - Influence operations
 
+## Escalation Ledger: Who Drove the Conflict?
+
+The shadow war was structurally asymmetric. Israel conducted far more offensive operations against Iran than Iran conducted against Israel — and Iran's direct operations were overwhelmingly retaliatory. This section compiles the full record.
+
+### Full chronological ledger
+
+| Date | Actor | Action | Type |
+|------|-------|--------|------|
+| 1992 | Iran (attributed) | Buenos Aires embassy bombing | Offensive |
+| 1994 | Iran (attributed) | AMIA bombing, Buenos Aires (85 killed) | Offensive |
+| 2006 | Israel | Lebanon war against Hezbollah | Offensive/defensive |
+| 2008 | Israel | Imad Mughniyeh assassination (Damascus) | Offensive |
+| 2010 | Israel + US | Stuxnet deployed against Natanz centrifuges | Offensive (cyber) |
+| 2010-12 | Israel (attributed) | Four nuclear scientists assassinated inside Iran | Offensive |
+| 2012 | Iran (attributed) | Attacks on Israeli diplomats (India, Georgia, Thailand) | Retaliatory |
+| 2013-2023 | Israel | "Campaign Between Wars" — hundreds of strikes on Iranian targets in Syria, 100+ annually | Offensive (sustained) |
+| 2015 | Multilateral | JCPOA signed — Iran accepts nuclear restrictions | Diplomatic |
+| 2018 | Israel (lobbying) | Netanyahu campaigns for US JCPOA withdrawal; Trump withdraws | Political escalation |
+| 2018 | Israel | Netanyahu reveals Iranian "nuclear archive" (Mossad operation) | Intelligence/political |
+| 2020 Jan | US | Soleimani assassination (Baghdad) — removed the coordinator of Iran's proxy network | Offensive |
+| 2020 Nov | Israel (attributed) | Mohsen Fakhrizadeh assassination (remote weapon, Iran) | Offensive |
+| 2020-21 | Israel (attributed) | Natanz sabotage operations (explosions) | Offensive |
+| 2023 Dec | Israel | Razi Mousavi (IRGC) killed in Damascus — shift to targeting senior personnel post-Oct 7 | Offensive |
+| 2024 Jan-Mar | Israel | 5+ additional IRGC commanders killed in Syria | Offensive (accelerated) |
+| **2024 Apr 1** | **Israel** | **[[2024 Damascus consulate strike]] — diplomatic compound attacked** | **Offensive (threshold)** |
+| 2024 Apr 13-14 | Iran | Operation True Promise — first-ever direct attack on Israel (300+ weapons, telegraphed, minimal damage) | **Retaliatory** |
+| 2024 Apr 19 | Israel | Limited strike near Isfahan (air defense battery) | Retaliatory/de-escalation |
+| 2024 Jul 31 | Israel | Ismail Haniyeh assassinated in Tehran (government guest house) | Offensive |
+| 2024 Jul 31 | Israel | Fuad Shukr killed in Beirut | Offensive |
+| 2024 Sep 27 | Israel | Hassan Nasrallah killed in Beirut | Offensive |
+| 2024 Oct 1 | Iran | Operation True Promise II (~180 ballistic missiles at Israel) | Retaliatory |
+| 2024 Oct 26 | Israel | Operation Days of Repentance — first Israeli strikes on Iranian soil | Retaliatory/offensive |
+| 2024 Dec | — | Assad regime falls; Iran loses Syria as ally | Strategic loss (Iran) |
+| 2025 Jun 13 | Israel + US | Twelve-Day War (Operation Rising Lion) — nuclear sites, military infrastructure, B-2 strikes | Offensive |
+| 2026 Feb 28 | US + Israel | Operation Epic Fury — Khamenei killed, 6,000+ targets struck | Offensive |
+| 2026 Feb 28+ | Iran | Retaliation across 9 countries, Hormuz closed | Retaliatory/existential |
+
+### The pattern
+
+**Israeli offensive actions**: ~25+ major operations (assassinations, sabotage, cyber, air campaigns, wars) across 16 years, mostly initiated without a proximate Iranian provocation.
+
+**Iranian direct actions against Israel**: 3 total (True Promise I, True Promise II, 2026 retaliation) — all explicitly retaliatory. Iran's two 2024 attacks were responses to the consulate strike and the Nasrallah/Haniyeh killings respectively.
+
+**Iranian proxy operations**: Sustained (Hezbollah, Hamas, Houthis, Iraqi militias), but these were part of the "ring of fire" deterrence architecture — a structure Israel systematically dismantled.
+
+### Analytical framing
+
+**Paul Pillar** (Georgetown/Quincy, ex-CIA NIO): Makes the broadest version of this case. Israel is "the strongest military power in the Middle East... drunk on the use of force." The question of "who is responding to whom could go back farther than" October 7. Iran "does not want war and has been remarkably restrained in trying to avoid it, in the face of repeated Israeli provocations." Israeli operations are "designed at least in part to goad Iran into entering a wider war, preferably one that also involves the United States." (Responsible Statecraft, October 2024, June 2025)
+
+**Trita Parsi** (Quincy Institute): Traces the escalation through multiple nodes — JCPOA withdrawal (2018), Soleimani assassination (2020), Damascus consulate (2024), rejected Omani proposal (2026). Israeli security doctrine requires "for Israel to feel secure, everyone else has to be defenseless against Israel." If the US accepts this framing, "it will make sure that the United States is always at war." (Newsweek, March 2026; NLR Sidecar, March 2026)
+
+**Ali Vaez** (Crisis Group): After Israel escalated in Syria — killing IRGC commanders, then hitting the Damascus consulate — Khamenei launched the first-ever direct attack. But he telegraphed it in advance to minimize casualties, "signaling willingness to cross a red line without signaling strength." Result: "opened direct confrontation with a far superior military, leading to the chain that killed him." Vaez also documents the trust destruction chain: JCPOA withdrawal (2018), bombing during negotiations (2025), bombing during negotiations again (2026). (Ezra Klein Show, March 2026)
+
+**Farah Jan** (War on the Rocks, March 2026): Formalized the 1914 analogy — Israel's position vis-a-vis the US parallels Austria-Hungary's "blank check" from Germany. "Washington chose war over diplomacy not because diplomacy failed, but because the junior partner's objectives required more than any deal could deliver."
+
+**Responsible Statecraft**: "The compilation of events shows an asymmetrical pattern of Israel initiating most of the violence and Iran mostly responding." (Aggregate analysis across multiple articles, 2024-2026)
+
+### The counter-argument
+
+Israel's position — shared by hawkish analysts like [[Fred Kagan]] (AEI) — is that:
+- Iran's proxy network constitutes a permanent offensive threat: Hezbollah's 150,000+ rockets, Hamas's October 7 attack, Houthi shipping attacks, Iraqi militia strikes on US forces
+- Israeli operations in Syria were defensive — preventing weapons transfers that would shift the balance
+- The nuclear program, even without a weapons decision, creates a latent capability that must be preempted
+- Iran's rhetoric ("wipe Israel off the map") makes deterrence insufficient; degradation is necessary
+- October 7 proved that threats left unaddressed become catastrophic
+
+This framing treats the shadow war as a necessary holding action against a state that has declared Israel's destruction as policy. The escalation pattern, in this view, reflects Israeli preemption — not aggression.
+
+### Assessment
+
+The ledger is lopsided: Israel conducted the overwhelming majority of offensive operations across 16 years. Iran's direct military actions against Israel were exclusively retaliatory. But this framing has limits:
+
+1. **Iran's proxy operations** (Hezbollah, Hamas, Houthis) were genuine threats that imposed costs on Israel and its allies — not merely defensive
+2. **October 7** was the product of Iran-backed Hamas, even if Sinwar freelanced the timing (per Vaez's Soleimani-gap analysis)
+3. **Rhetoric vs. action**: Iran's stated policy of Israel's destruction is a standing provocation, even if operationally Iran showed restraint
+4. **The nuclear latency question**: Iran's enrichment to 60% created a threshold capability that Israel viewed as existential regardless of whether a weapons decision had been taken
+
+The most defensible synthesis: Israel drove the kinetic escalation; Iran provided the strategic threat environment that Israeli hawks used to justify each step. Neither side is solely responsible, but the escalation initiative was overwhelmingly Israeli — and the chain from the Damascus consulate strike through Operation Epic Fury is a direct, traceable sequence of Israeli-initiated actions and Iranian retaliations.
+
+---
+
 ## 2024 Escalation
 
 ### April 2024: Iran Direct Attack
@@ -253,38 +334,25 @@ On February 28, the US and Israel launched Operation Epic Fury — joint strikes
 
 ## Key Events Timeline
 
-| Year | Event |
-|------|-------|
-| 1992 | Argentina embassy bombing |
-| 1994 | AMIA bombing (Buenos Aires) |
-| 2008 | Imad Mughniyeh assassination |
-| 2010 | Stuxnet deployed |
-| 2010-12 | Nuclear scientist assassinations |
-| 2012 | Attacks on Israeli diplomats |
-| 2018 | Netanyahu reveals nuclear archive |
-| 2020 | Fakhrizadeh assassination |
-| 2024 | Direct attacks both directions |
+See **Escalation Ledger** above for the full chronological record with attribution of initiative.
 
-## Escalation Risks
-
-### Triggers
-- Nuclear threshold crossing
-- Major proxy success
-- Leadership assassination
-- Miscalculation
-- Third party actions
-
-### Scenarios
-- Limited exchange (current)
-- Broader regional war
-- Israeli strike on nuclear sites
-- Iranian closure of Hormuz
-
-### Constraints
-- US involvement questions
-- Economic costs
-- Mutual deterrence
-- Regional stability interests
+| Year | Event | Initiative |
+|------|-------|-----------|
+| 1992 | Argentina embassy bombing | Iran (attributed) |
+| 1994 | AMIA bombing (Buenos Aires) | Iran (attributed) |
+| 2006 | Lebanon war | Israel |
+| 2008 | Mughniyeh assassination | Israel |
+| 2010 | Stuxnet | Israel + US |
+| 2010-12 | Nuclear scientist assassinations | Israel |
+| 2013-23 | Campaign Between Wars (Syria) | Israel |
+| 2015 | JCPOA signed | Multilateral |
+| 2018 | US JCPOA withdrawal (Netanyahu lobbied) | Israel/US |
+| 2020 | Soleimani assassination | US |
+| 2020 | Fakhrizadeh assassination | Israel |
+| 2024 Apr | Damascus consulate strike → True Promise | Israel → Iran retaliatory |
+| 2024 Jul-Oct | Haniyeh/Nasrallah killed → True Promise II | Israel → Iran retaliatory |
+| 2025 Jun | Twelve-Day War | Israel + US |
+| 2026 Feb | Operation Epic Fury | US + Israel |
 
 ## International Involvement
 
