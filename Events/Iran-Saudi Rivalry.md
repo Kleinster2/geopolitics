@@ -2,7 +2,7 @@
 type: current-event
 region: Middle East
 actors: [Iran, Saudi Arabia]
-status: thawing
+status: shattered by 2026 war
 tags: [rivalry, iran, saudi-arabia, middle-east, sectarian]
 ---
 
@@ -179,6 +179,16 @@ The defining regional rivalry of the Middle East, pitting Shia Iran against Sunn
 - Bloc formation
 - Unlikely near-term
 
+## 2026 Iran War — Rapprochement Shattered
+
+The US-Israeli regime-change war on Iran (Operation Epic Fury, February 28, 2026) destroyed the 2023 rapprochement. Iran struck Saudi energy infrastructure, including direct hits on Riyadh (March 1, confirmed). Two Iranian drones were intercepted near Saudi Arabia's Ras Tanura refinery (March 2, confirmed).
+
+[[Marc Lynch]] (GWU, *Foreign Policy*, March 5, 2026) argues a different strategic logic applied this time. During the June 2025 Twelve-Day War, both sides had incentive for restraint — the Gulf stayed on the sidelines, Iran held back. With a clear regime-change war, "the benefits offered by the rapprochement with Saudi Arabia were already gone." Iran calculated the residual benefits of restraint evaporated because it wasn't rewarded for holding back the last time.
+
+Saudi Arabia has been cautious about direct military involvement. Lynch notes Saudi Arabia "seems keen to avoid taking the bait" of open warfare with Iran, even as it absorbs strikes. The GCC issued a joint statement asserting the "right to take all necessary measures" (March 2), but Saudi leadership appears focused on avoiding the escalation that full belligerency would entail.
+
+The rapprochement may be permanently broken regardless of war outcome: if the Iranian regime survives, it will remember the coercive power of attacking the Gulf. If it collapses, Saudi Arabia faces refugee flows, armed spillover, and instability from a neighboring state of 90 million.
+
 ## Related Notes
 - [[Iran]]
 - [[Saudi Arabia]]
@@ -188,3 +198,5 @@ The defining regional rivalry of the Middle East, pitting Shia Iran against Sunn
 - [[Middle East]]
 - [[OPEC]]
 - [[China]]
+- [[2026 Iran conflict]]
+- [[Marc Lynch]]

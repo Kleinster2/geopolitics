@@ -144,10 +144,33 @@ Series of normalization agreements between Israel and Arab states, brokered by t
 - Some Arab publics: Oppose despite government positions
 - October 7 partly response to normalization momentum
 
+## 2026 Iran War Impact
+
+The US-Israeli war on Iran (Operation Epic Fury, February 28, 2026) forced the Abraham Accords framework into its most consequential test. [[Marc Lynch]] (GWU, *Foreign Policy*) framed it as the paradoxical culmination: Washington always wanted Arab-Israeli cooperation against Iran without resolving the Palestinian issue — "Here it is. It would be no small irony if America's Middle East reached its apotheosis just as the entire region collapsed into the abyss."
+
+### Forced cooperation
+
+Iran's targeting of all Gulf states — not just the UAE and Bahrain — pushed the Accords states into open military cooperation with Israel. The GCC issued its strongest collective statement asserting the right to "take all necessary measures" (March 2). Gulf air defense systems (including US-supplied Patriots and Israeli Barak) actively intercepted Iranian drones and missiles.
+
+### Underlying tensions
+
+Despite operational cooperation, the war exposed deep fissures:
+- Gulf states believe the US and Israel launched a war directly threatening their survival **without serious consultation** (Lynch).
+- Gulf leaders wanted a short war producing pragmatic autocrats in Tehran — not the destruction of Iranian state institutions, which guarantees refugee flows, instability, and regional chaos.
+- The Saudi-Emirati split — Saudi Arabia building a rival alliance with Turkey, Qatar, Egypt, and Pakistan — was underway before the war. Lynch: had Iran targeted only the UAE and Bahrain, "Saudi Arabia and its new partners might well have thrown the Abraham Accords states to the wolves."
+- [[Vali Nasr]] (Johns Hopkins SAIS) warned that Netanyahu's "radical Sunni axis" statement (February 22, 2026) and Bennett's "Turkey is the new Iran" framing signal Israel already has "its sight set on the next set of rivals — Turkey, Qatar, Pakistan, and perhaps Saudi Arabia."
+
+### Post-war outlook
+
+- Arab regimes that feared Israel's expanding military operations "will not be reassured watching its destruction of Iran. They will worry that they could be next" (Lynch).
+- [[Fred Kagan]] (AEI) argued the "habit of cooperation" may sustain itself, but acknowledged the risk once the Iranian threat — the Accords' original glue — is removed.
+- The Accords may survive as government-to-government frameworks while the broader US-led Middle East order they were designed to anchor erodes beneath them.
+
 ## Durability
 
 ### Stress Tests
 - October 7, 2023 and Gaza war
+- 2026 Iran war — forced open cooperation but exposed structural fragility
 - Regional conflicts
 - Leadership changes
 - Public opinion shifts
@@ -155,8 +178,9 @@ Series of normalization agreements between Israel and Arab states, brokered by t
 ### Assessment
 - Government-to-government ties remain
 - Some cooling of visible cooperation during Gaza operations
-- Structural interests persist
-- Likely to survive but depth uncertain
+- 2026 war forced operational alignment but deepened underlying distrust
+- Structural interests persist but the Iran threat that drove them may be permanently altered
+- Likely to survive in form but the underlying order is shifting
 
 ## Related Notes
 - [[Israel]]
@@ -171,3 +195,4 @@ Series of normalization agreements between Israel and Arab states, brokered by t
 ## Sources
 - State Department announcements (2020)
 - Regional coverage and analysis
+- Lynch, Marc. "The United States Could Lose the Gulf." *Foreign Policy*, March 5, 2026.

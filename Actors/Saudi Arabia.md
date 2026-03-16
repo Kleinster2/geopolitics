@@ -90,6 +90,25 @@ Massive economic/social transformation:
 - US reliability concerns
 - Demographic pressures
 
+## 2026 Iran War
+
+### Direct impact
+Saudi Arabia absorbed direct Iranian strikes on energy infrastructure and Riyadh beginning March 1. Two Iranian drones intercepted near Ras Tanura refinery (~500K bbl/day capacity) on March 2 — debris caused fire, no casualties (confirmed, CNN). Saudi oil refineries shut down even without further direct attacks, due to risk environment (Lynch, *Foreign Policy*).
+
+### Strategic position
+Saudi Arabia has been cautious about direct military involvement — [[Marc Lynch]] notes the kingdom "seems keen to avoid taking the bait" despite absorbing strikes. The GCC issued a joint statement on March 2, but Saudi leadership appears focused on calibrating its response to avoid full belligerency.
+
+### Pre-war Saudi-Emirati split (paused)
+Before the war, Saudi Arabia was building a new strategic alliance incorporating Turkey, Qatar, Egypt, and Pakistan while pushing back against the UAE and, by proxy, Israel — the most significant reshuffling of regional order in years (Lynch). Iran's attacks on all Gulf states (not just the UAE and Bahrain) froze this realignment by reunifying the Gulf under existential threat. But the underlying issues — fears of Israeli ambitions, UAE-Israel defense entanglement, divergent post-war preferences — remain unresolved.
+
+### Divergent post-war preferences
+- **Saudi Arabia** wants a united, predictable Iran under stable government — even the Islamic Republic is acceptable if predictable. Chaos threatens the eastern province Shia population and risks reigniting Iraqi civil war ([[Ryan Bohl]], RANE).
+- **UAE/Israel** prefer a weakened Iran. Chaos benefits minor powers seeking to climb the geopolitical ladder (Bohl).
+- This cleavage will play out over 1-5 years post-war.
+
+### US relationship under strain
+Lynch argues the sense of betrayal is acute because Gulf leaders believed they had better relations with Trump than any previous US administration. Specific grievances: war launched without consultation, US impotence at protecting oil installations, inability to resupply interceptors rapidly, and US bases becoming "a source of threat rather than security."
+
 ## Related Notes
 - [[Middle East]]
 - [[Iran]]
@@ -97,3 +116,6 @@ Massive economic/social transformation:
 - [[Energy Security]]
 - [[Abraham Accords]]
 - [[OPEC]]
+- [[2026 Iran conflict]]
+- [[Iran-Saudi Rivalry]]
+- [[Marc Lynch]]

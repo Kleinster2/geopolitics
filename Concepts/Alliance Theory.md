@@ -192,6 +192,43 @@ Extended deterrence requires allies to believe:
 - Avoids alliance commitments
 - Flexibility preference
 
+## Network shapes: commitment type vs. structure
+
+Two independent dimensions define how states organize security relationships: the *commitment type* (alliance vs. partnership) and the *network shape* (how connections are structured).
+
+### Commitment type
+
+| Model | Mechanism | Example |
+|-------|-----------|---------|
+| Alliance | Binding mutual defense obligation — attack on one triggers response from the other | [[NATO]] Article 5, US-Japan treaty |
+| Partnership | Flexible cooperation without defense commitment — graduated diplomatic closeness, zero obligation to fight | [[China]]'s tiered partnerships |
+
+### Network shape
+
+| Shape | Structure | Example |
+|-------|-----------|---------|
+| Hub-and-spoke | One central power with bilateral connections radiating outward; spokes don't connect to each other | US in Asia (separate treaties with Japan, South Korea, Australia, Philippines, Thailand — Tokyo and Seoul not bound to each other) |
+| Multilateral | All members bound to all others through a single framework | NATO (30+ members, collective defense) |
+| Concentric circles | Tiered rings of closeness radiating from center; no defense obligations at any layer, only graduated diplomatic signals | China's partnership hierarchy (Russia innermost → comprehensive strategic partners → strategic partners → cooperative partners) |
+
+### How they combine
+
+| | Alliance | Non-alliance |
+|---|---|---|
+| Hub-and-spoke | US in Asia | — |
+| Multilateral | NATO; ANZUS | BRICS, SCO (loose coordination) |
+| Concentric circles | — | China's partnership tiers |
+
+The US uses *both* hub-and-spoke (Asia) and multilateral (NATO). China uses neither shape for alliances because it doesn't do alliances (North Korea excepted). Its network is the concentric circle model — everyone gets a partnership label signaling proximity to the center, but no one gets a defense commitment.
+
+### 2026 Iran conflict: shape as entrapment vector
+
+The [[2026 Iran conflict]] exposed how network shape creates distinct entrapment dynamics:
+
+- **US hub-and-spoke**: Iran's retaliation struck multiple US spokes simultaneously — [[Bahrain]] (basing), [[Kuwait]] (basing), [[Qatar]] (Al Udeid), [[Saudi Arabia]] (Aramco HQ threatened). Each spoke being attacked pulled Washington deeper into the conflict. The hub-and-spoke structure meant the US couldn't stand back from any single spoke without undermining credibility across all of them.
+
+- **China's concentric circles**: Beijing had partnerships with both sides — [[Iran]] and the Gulf states ([[Saudi Arabia]], [[UAE]], [[Oman]]). Since no ring carries a defense obligation, China could express concern about attacks on all parties, send a mediator, and protect its economic assets (CNOC in Iraq, solar farms across the Gulf) without being pulled in. The concentric model generated diplomatic optionality where the hub-and-spoke model generated escalation pressure. See [[Partnership Diplomacy#Case study 2026 Iran conflict]].
+
 ## Alliance Dynamics Today
 
 ### US Alliances
@@ -219,3 +256,5 @@ Extended deterrence requires allies to believe:
 - [[Bandwagoning]]
 - [[Collective Security]]
 - [[United States]]
+- [[Partnership Diplomacy]] — China's alternative to alliances
+- [[2026 Iran conflict]] — case study of entrapment dynamics across network shapes

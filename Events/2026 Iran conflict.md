@@ -172,35 +172,148 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 - Multiple bearish signals converged: IEA reserve proposal, Wright's false escort post, Trump de-escalation comments, Hegseth's "badly losing" assessment.
 - When the Wright denial came and CBS reported mine deployments, oil bounced off lows and stocks pulled off highs.
 
+### March 11 — IEA record release, maritime escalation
+
+**IEA SPR release approved:**
+- 32 IEA member countries unanimously approved the **largest emergency stock release in IEA history** — 400 million barrels. US contributing 172M barrels. Delivery timeline: ~120 days at planned discharge rates (confirmed, CNBC, Reuters).
+- Market reaction skeptical — Brent still surged past $100/bbl the following day.
+- G7 agreed to "look into the possibility of escorting ships through the strait" — no commitment (confirmed).
+
+**Maritime campaign expands:**
+- Iran confirmed to have laid "a few dozen" mines in the Strait (confirmed, CNN, Fortune).
+- A large wave of attacks on ships damaged at least 3 vessels. 20 crew of the Thailand-flagged Mayuree Naree rescued by Oman's navy; 3 missing (confirmed, Al Jazeera).
+- **Sea drone struck the oil tanker Sonangol Namibe near Mubarak Al Kabeer Port in Kuwait** — 800 km from the Strait of Hormuz — representing a significant geographic expansion of Iran's maritime campaign beyond the chokepoint itself (confirmed, Al Jazeera).
+- US Navy had decommissioned its last four dedicated minesweepers in the Gulf in September 2025, leaving limited specialized minesweeping capacity (reported, USNI News). Pentagon reportedly weighing "Operation Epic Escort" for escorted transits.
+
+### March 12 — Mojtaba Khamenei's first address, new attacks
+
+**Supreme leader succession confirmed:**
+- [[Mojtaba Khamenei]] elected new Supreme Leader by the Assembly of Experts (vote reportedly March 8, announced March 9). IRGC reportedly applied "repeated contacts and psychological and political pressure" on Assembly members starting March 3 (reported, Washington Post, NPR).
+- Ali Khamenei had previously said in 2024 his son should be excluded from succession consideration.
+
+**First public address (March 12):**
+- Vowed the [[Strait of Hormuz]] will remain closed until the war ends.
+- Attacks on [[Israel]] and US military assets will continue unless regional US bases are closed.
+
+**New wave of attacks:**
+- Al Jazeera reported fresh wave of Iranian missiles and drones targeting Gulf nations. Oil prices surged — Brent closed at $100.46/bbl (confirmed, Al Jazeera, CNBC).
+
+### March 13 — Kharg Island strikes, KC-135 crash, Lebanon escalation
+
+**Kharg Island:**
+- Trump announced the US "totally obliterated every military target" on [[Kharg Island]] — Iran's primary oil export hub handling ~90% of its crude exports. Targets included air defenses, a naval base, and airport facilities (confirmed, Washington Post, CNBC).
+- Trump stated he "chose NOT to wipe out the oil infrastructure."
+- Iran's armed forces warned any strike on oil/energy infrastructure would trigger retaliatory strikes on oil facilities cooperating with the US in the region (confirmed).
+
+**KC-135 crash:**
+- All 6 US airmen confirmed dead in a KC-135 refueling plane crash in western Iraq. CENTCOM stated it was "not due to hostile fire or friendly fire" (confirmed, NPR).
+
+**Campaign-wide attrition:**
+- ~6,000 targets struck in Iran total by Day 14 (confirmed, CNN).
+- Over 90 Iranian vessels destroyed or damaged, including 30+ mine-laying ships (confirmed, Pentagon).
+- Hegseth: Iranian drone assaults "down 95%" (confirmed, DefenseScoop). Hudson Institute analyst Can Kasapoglu assessed missile and drone salvos declined 70-85% from Day 1 levels.
+
+**DOE initiates SPR emergency exchange:**
+- DOE announced first tranche of the US contribution: **86 million barrels** via emergency exchange from Bryan Mound, West Hackberry, and Bayou Choctaw sites (confirmed, DOE).
+- Mechanism is an **exchange, not a drawdown** — companies borrow oil and return it later with additional barrels as premium. DOE framed it as "no cost to American taxpayers" and claimed it "strengthens the reserve long-term."
+- SPR holds ~415 million barrels (up from ~395M a year ago). RFP deadline: March 17, 5:00 PM CT.
+- Kyle Haustveit (Assistant Secretary, Hydrocarbons and Geothermal Energy Office): participating in "coordinated international release" to "ensure that supply remains reliable during a period of heightened global uncertainty" (confirmed, DOE).
+- **Exchange mechanism critique:** The same swap/exchange mechanism was used for the Clinton-era 30M barrel SPR release in September 2000, which OIES analyst [[Paul Horsnell]] dissected in "The Strategic Petroleum Blunder?" — showing that the contango structure allowed traders to lock in ~$93M in risk-free profits by hedging the time spread between receiving and returning oil. The exchange mechanism hides the true discount to taxpayers. Horsnell's four objections apply with equal force to the 2026 release: (1) operationally clumsy execution risks, (2) hidden financial transfer to traders via the time spread, (3) inability to achieve the stated objective — SPR crude releases cannot fix a physical supply disruption when the chokepoint is blocked, just as in 2000 they could not fix heating oil shortages when refineries were already at 97.5% capacity, and (4) premature use for price management blunts the SPR's effectiveness for genuine supply emergencies. In 2000, the SPR release moved prices down $4.90 and the effect evaporated within three weeks. The 1990 release during the Gulf War moved prices down $15 and held — because it addressed a real supply disruption. The 2026 release faces the same structural problem as 2000: the strait is physically closed; reserves address price, not flow.
+
+**CSIS cost estimate:**
+- First 100 hours of conflict cost approximately $3.7 billion (reported, CSIS via NPR).
+
+**NATO/Turkey:**
+- Third Iranian ballistic missile intercepted by NATO air defenses over Turkish airspace (previous intercepts March 4 and March 9). This missile reportedly targeted [[Incirlik Air Base]] (confirmed, Al Jazeera, Bloomberg). Iran denies firing at Turkey.
+
+**Lebanon:**
+- Israel destroyed the Zrarieh bridge over the Litani River that [[Hezbollah]] was using as a passageway (confirmed, Al Jazeera). Israel threatened "Gaza-scale devastation."
+- Lebanon casualties: 680-773 killed, 800,000 displaced since conflict began (reported, Soufan Center, multiple sources).
+
+### March 14 — Embassy strike, Iran threatens UAE ports, diplomacy dead
+
+**US Embassy Baghdad struck:**
+- Iranian missile hit a helipad inside the US Embassy compound in Baghdad. Embassy issued immediate evacuation order for all US citizens in Iraq (confirmed, Fox News, US News).
+
+**Iran threatens UAE civilian infrastructure:**
+- For the first time, Iran openly threatened non-US civilian assets — warning civilians to evacuate **Jebel Ali** (busiest port in the Middle East) and two other UAE ports. This crosses a significant line from targeting US military assets on Gulf soil to threatening Gulf states' economic infrastructure directly (confirmed, US News, Washington Post).
+
+**Prince Sultan Air Base struck:**
+- 5 US Air Force refueling tankers struck and damaged on the ground at Prince Sultan Air Base in [[Saudi Arabia]] by Iranian strikes. Tankers being repaired, not destroyed (confirmed, NBC News).
+
+**31st MEU deploying:**
+- USS Tripoli (amphibious assault ship) and 2,500 additional Marines from the 31st Marine Expeditionary Unit ordered to the Middle East (confirmed, RealClearDefense).
+
+**Lebanon — trigger for massive ground operation:**
+- Hezbollah launched 200+ missiles coordinated with Iranian salvos on March 12, triggering Israel's decision to plan largest ground operation since 2006. Senior Israeli official: "Before this attack we were ready for a ceasefire in Lebanon, but after it there is no way back from a massive operation" (reported, Axios, Times of Israel).
+- IDF 7th Armored Brigade conducting targeted raids, dismantling weapons depots and command centers.
+- 12 medics killed by Israel in southern Lebanon attack (confirmed, Al Jazeera, March 14).
+- Lebanon casualties updated: 773-826 killed, 850,000 displaced since March 2 (Lebanese Ministry of Health).
+
+**Mojtaba Khamenei — "likely disfigured":**
+- Has NOT appeared publicly. His March 12 statement was text-only via state media. CNN sources report he suffered a fractured foot, bruised left eye, and minor facial lacerations from Day 1 bombardment (reported, CNN, NBC News).
+- IRGC pledged allegiance to Mojtaba. Security bodies directing wartime strategy regardless of his physical presence.
+- Tehran urging Middle Eastern countries to "expel" US military from their territory.
+
+**Diplomacy dead:**
+- Trump actively rejecting ceasefire talks. Omani officials repeatedly attempted to establish preliminary discussions; White House signaled no interest. Senior US official confirmed the administration believes military pressure should continue to further weaken Iran's strategic capabilities (confirmed, Newsmax).
+- President [[Masoud Pezeshkian]] laid out ceasefire conditions: recognition of Iran's "legitimate rights," payment of reparations, and international guarantees against future aggression (confirmed, Al Jazeera).
+- FM stated "no room for ceasefire talks while military attacks continue" (confirmed, Iran International).
+- UN Secretary-General called for de-escalation and immediate cessation of hostilities. No Security Council resolution movement.
+
+**Gulf interceptor battle continues:**
+- UAE intercepted 9 ballistic missiles and 33 drones. Fujairah bunkering hub fire from intercepted drone debris; some oil-loading operations suspended.
+- Saudi Arabia intercepted 6 ballistic missiles aimed at al-Kharj governorate.
+- Qatar intercepted 4 ballistic missiles and several drones — all successfully.
+
+**Oil markets:**
+- Brent closed at $103.14/bbl (+2.67%). WTI settled at $98.71 (+3.11%). Above $100 two consecutive days.
+- Brent up ~10% for the week, after 27.9% rise prior week (biggest weekly gain since 2020).
+- US gas national average $3.58-3.63/gallon, up ~60 cents since Feb 28. California at $5.34. Analysts expect $4 national average soon.
+- Trump called on China, France, Japan, Korea, and UK to send warships to help reopen Hormuz.
+
+**US domestic — polling (Quinnipiac, March 9):**
+- 56% oppose the military action. 59% say Trump should have sought Congressional approval. 54% disapprove of Trump's handling of Iran. 74% oppose sending ground troops.
+- Democrats hold 6-point midterm edge in generic ballot (NBC poll), with Iran, gas prices, and immigration dragging Trump numbers.
+
+**Houthis:**
+- Restraint holding as of March 14 despite solidarity rhetoric. Leader al-Houthi: "our hands are on the trigger whenever developments require it" but has not resumed Red Sea attacks. The 2025 US-Houthi ceasefire appears to be constraining them (reported, Long War Journal).
+
 ---
 
-## Casualties (as of March 8)
+## Casualties (as of March 14)
 
 ### Coalition
 
 | Party | Killed | Injured | Equipment lost |
 |-------|--------|---------|----------------|
-| United States | 4 service members | 18 | 3 F-15Es (friendly fire by Kuwait) |
-| Israel | 12 | 777 | — |
-| **Total** | **16** | **795** | |
+| United States | 13 service members (7 enemy fire, 6 KC-135 crash) | ~200 | 3 F-15Es (friendly fire by Kuwait), 1 KC-135, 5 tankers damaged (Prince Sultan AB) |
+| Israel | 15+ | 2,000+ | — |
+| **Total** | **28+** | **~2,200** | |
 
 ### Iran
 
 | Category | Detail |
 |----------|--------|
 | Leadership | 48 officials killed (per US) |
-| Military | 9 warships sunk (per US); IRIS Dena torpedoed off Sri Lanka (87 killed); at least 1 F-4, 2 F-5s, 1 Yak-130 destroyed; navy "almost completely decimated" (Votel) |
-| Casualties | **2,400+ killed** by Day 6 (Hengaw Organisation for Human Rights); **1,300+ killed** over first week (Iranian government, March 8); earlier: 555 killed, 747 injured (Iranian Red Crescent, March 2) |
+| Military | 90+ vessels destroyed or damaged including 30+ mine-laying ships; IRIS Dena torpedoed off Sri Lanka (87 killed); at least 1 F-4, 2 F-5s, 1 Yak-130 destroyed; navy "almost completely decimated" (Votel); ~6,000 targets struck total by Day 14 |
+| Casualties | **4,300+ killed** including 390 civilians in first 10 days (Hengaw); **1,444 killed / 18,551 injured** (Iran Health Ministry, March 13); earlier: 2,400+ killed by Day 6 (Hengaw); 1,300+ killed over first week (Iranian government, March 8); 555 killed, 747 injured (Iranian Red Crescent, March 2) |
 | Civilian dead | 148-180 in Minab girls' school airstrike (disputed; 148 per Hengaw, 165 per Al Jazeera, 168 per Iranian officials, 153 per MEE); 20 at Niloofar Square |
+| Attrition | Drone assaults down 95% (Hegseth, March 13); missile/drone salvos declined 70-85% from Day 1 (Kasapoglu, Hudson Institute) |
 
 ### Regional
 
 | Party | Killed | Injured | Intercepted |
 |-------|--------|---------|-------------|
-| Hezbollah | 4 fighters | 3 | — |
-| UAE | — | — | 174 ballistic missiles, 689 drones, 8 cruise missiles |
+| Lebanon | 773-826 | — | — |
+| UAE | — | — | 183+ ballistic missiles, 722+ drones (cumulative through March 14) |
+| Saudi Arabia | — | — | 6 ballistic missiles (March 14 alone) |
+| Qatar | — | — | 4 ballistic missiles + drones (March 14 alone) |
 | Kuwait | 3 | 58 | 234 missiles, 422 drones (8-day tally) |
-| Gulf states total (Bahrain, Kuwait, Oman, UAE) | 31 | 149 | — |
+| Gulf states total (Bahrain, Kuwait, Oman, UAE) | 31+ | 149+ | — |
+| Lebanon displaced | 850,000 | | |
+| Iraq | US Embassy compound struck (helipad) | | |
+| Lebanon displaced | 800,000 | | |
 
 ---
 
@@ -219,6 +332,82 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 48 total leaders killed per US military. Iranian FM Araghchi acknowledged but downplayed losses: "not such a big problem."
 
 After Khamenei's death confirmed, an **Interim Leadership Council** was established.
+
+### Supreme leader succession
+
+**[[Mojtaba Khamenei]]** (Ali Khamenei's son) elected new Supreme Leader by the Assembly of Experts. Vote reportedly held March 8, announced March 9. IRGC applied pressure on Assembly members starting March 3. Ali Khamenei had previously stated in 2024 that his son should be excluded from consideration.
+
+First public address (March 12): vowed Hormuz closure will continue until the war ends; demanded closure of all regional US bases as a condition for halting attacks.
+
+Operational power concentrated in **Ali Larijani** (national security adviser — day-to-day state affairs) and **Mohammad Bagher Ghalibaf** (parliament speaker — war effort), both former IRGC commanders (per Vaez, Channel 4).
+
+---
+
+### March 15 — Kharg Island oil infrastructure spared, Trump demands allied warships
+
+**Kharg Island — explicit restraint:**
+- US bombed military targets on [[Kharg Island]] — air defenses, naval base, airport facilities (confirmed, Trump statement).
+- Trump explicitly stated he "chose NOT to wipe out the oil infrastructure on the island."
+- Threatened to "immediately reconsider" if Iran interferes with Strait of Hormuz passage.
+- [[Robin Mills]] (Qamar Energy, The National, March 15): the strike "smells of improvisation" — Trump had advocated seizing Kharg since 1988, but attacking the island risks further Iranian retaliation against regional energy systems. If Iran cannot export oil, "why should anyone else?"
+
+**Trump demands allied warships:**
+- Called on [[China]], [[France]], [[Japan]], [[South Korea]], and [[UK]] to send warships to help reopen Hormuz.
+- Energy Secretary [[Chris Wright]] acknowledged energy prices could remain high.
+- After previously dismissing NATO allies' contributions, the call for help signals the administration recognizes it cannot reopen the strait alone.
+
+**Iran-to-China oil flows — selective blockade confirmed:**
+- Since March 5, [[IRGC]] declared Hormuz closed **only to US, Israeli, and Western-allied ships** — Iranian shadow fleet tankers keep transiting freely.
+- Iran has exported 13.7–16.5M barrels since Feb 28, 100% to [[China]] (confirmed, CNBC/Reuters citing TankerTrackers and [[Kpler]], March 11).
+- Iranian tankers sail within Iran's exclusive economic zone for protection. AIS transponders off.
+- US has not interdicted Iranian tankers — unlike the [[Venezuela]] naval blockade. Logic: seizing Iranian tankers removes Iran's incentive to keep Hormuz even partially open.
+- The blockade is weaponized against Gulf neighbors' exports while Iran's own revenue keeps flowing.
+
+---
+
+## US planning and preparedness failures
+
+### Heritage Foundation wargame (2007) — predicted this exact scenario
+
+A 2007 Heritage Foundation wargame mapped how a conflict with Iran would unfold and its economic consequences. The scenario: Iran closes Hormuz after US strikes on nuclear facilities. Tanker sunk by mine. Oil prices surge.
+
+Economists and analysts calculated WTI would reach $150/bbl (vs $65 baseline), GDP would drop nine-tenths of a point, and a million jobs would be lost in six months. Disposable income would fall ~$531B (current prices) — over $4,500 per household.
+
+Bill Beach (former Bureau of Labor Statistics commissioner, who ran the numbers): *"We've been stuck in this Groundhog Day with Iran for the past 20 years. It's a cycle of rinse and repeat."*
+
+**Recommended mitigation package:**
+1. Deploy forces to maintain freedom of navigation in the Strait of Hormuz
+2. Relax clean air regulations for power plants
+3. Release Strategic Petroleum Reserve supplies
+4. Congress to pass emergency supplemental defense appropriation of $30B
+5. Increase Low-Income Home Energy Assistance Program funding
+
+When mitigation measures were modeled, oil dropped near baseline, unemployment rose only ~1 percentage point, GDP held, and disposable income grew at non-crisis rates.
+
+**Beach's assessment (March 2026):** US is "nowhere near" taking the full recommended steps. SPR release was done (172M bbl), but the rest — tax legislation, regulatory relief, consumer assistance, freedom of navigation — has not materialized. The kicker: *"It would have been nice if someone had run these wargames more recently than almost 20 years ago."*
+
+*Source: Washington Examiner (March 12, 2026)*
+
+### CNN: Pentagon and NSC "significantly underestimated" (March 12)
+
+Multiple sources told CNN the Pentagon and National Security Council **significantly underestimated Iran's willingness to close the Strait of Hormuz** while planning Operation Epic Fury. The easy success of seizing Venezuela's Maduro may have led to overconfidence that Iran operations would be similarly quick and decisive (confirmed, CNN, March 12).
+
+### Operational gaps
+
+[[Robin Mills]] (Qamar Energy CEO, The National, March 15) catalogued specific failures:
+
+| Failure | Detail |
+|---------|--------|
+| **Minesweeper decommissioning** | In January 2026 — weeks before strikes — the US Navy decommissioned its only 4 purpose-built minesweepers stationed in Bahrain for the entire post-Cold War period. Replacement is untested. |
+| **Interceptor drones** | Not dispatched until 2 weeks into the war, despite 4 years of evidence from Ukraine demonstrating drone effectiveness against energy targets |
+| **Marine reinforcements** | 31st MEU ordered from Japan — 2 weeks to arrive for a war planned to last 5-6 weeks. Mills: "turning up later than the Dead Men of Dunharrow in Lord of the Rings" |
+| **Drone-era warfare** | Plans focused on sea mines and small boats — did not account for how drones changed the threat calculus. Iran's use of drones against Saudi/Iraqi oilfields since 2019 and Ukraine war precedent were not integrated |
+| **SPR depletion** | US ran down reserves in 2022 for Ukraine crisis, refilled less than 10%. Now at ~415M bbl (of 714M capacity) — barely half full. 172M bbl release leaves enough for only one more such action |
+| **Helium gap** | US sold off helium reserve (completed June 2024). Qatar produces ~36% of world's helium — now cut off. Helium is critical for chip manufacturing. Trump's "Project Vault" ($12B critical minerals) doesn't cover helium |
+
+**Contrast with Gulf states:** UAE and Saudi Arabia had activated bypass pipeline plans, built protected underground strategic stocks, provided oil from overseas storage, and built air defenses that performed well. They were prepared; the US was not.
+
+*Sources: CNN (March 12), Washington Examiner (March 12), The National (March 15), USNI News (March 10)*
 
 ---
 
@@ -253,6 +442,12 @@ Mixed Congressional reaction:
 
 Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple sources).
 
+**War powers votes (March 4-5):**
+- Senate rejected Kaine-Paul war powers resolution 47-53 (confirmed, CFR).
+- House rejected similar resolution 219-212 (confirmed, Al Jazeera).
+- Trump administration refuses to formally call it a "war" or seek a declaration of war (confirmed, CNN).
+- Nearly half of Congress voted to require authorization — a significant minority but insufficient.
+
 ---
 
 ## International reactions (selected)
@@ -264,6 +459,7 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Venezuela]]: Initially condemned strikes, then removed statement after Khamenei death confirmed.
 - [[Japan]]: PM Takaichi urged Iran to cease hostilities; Defence Ministry preparing to evacuate expats.
 - [[Kazakhstan]]: President Tokayev ordered Security Council to ensure domestic stability; condemned Iranian retaliatory actions.
+- [[China]]: Issued statement expressing concern — described by observers as "the kind of thing you would expect from Brussels" (confirmed, Bloomberg Odd Lots, Downs). Separately expressed concern over attacks on the [[UAE]], which has significant Chinese economic interests. Sent special envoy to the region for mediation (confirmed, Beijing announcement, ~Mar 4). China has no formal treaty allies in the region and has historically walked a tightrope between [[Iran]] and [[Saudi Arabia]]/[[UAE]]/[[Oman]]. No military involvement — Beijing has no interest in getting drawn into a regional conflict. Motivations are primarily economic: [[CNPC]]/[[CNOOC]] upstream oil assets in [[Iraq]], Chinese firms operating renewable energy facilities (especially solar farms) across the Gulf, and Chinese workers on the ground. See [[China energy security strategy]] for the structural energy exposure.
 - [[UN Security Council]]: Emergency session convened.
 
 ---
@@ -294,6 +490,18 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Chris Wright]] — Energy Secretary, Hormuz false escort post
 - [[Abbas Araghchi]] — Iranian FM, "fake news to manipulate markets" response
 - [[Robin J. Brooks]] — Brookings, AIS blockade data
+- [[Marc Lynch]] — GWU, Gulf states' betrayal, Saudi-Emirati split, Iran's rational targeting strategy
+- [[Mojtaba Khamenei]] — new Supreme Leader, elected by Assembly of Experts March 8-9
+- [[Masoud Pezeshkian]] — Iranian president, ceasefire conditions (March 14)
+- [[Can Kasapoglu]] — Hudson Institute, Iranian attrition assessment
+- [[Paul Horsnell]] — OIES, SPR exchange mechanism critique (2000, applicable to 2026)
+- [[Michal Meidan]] — OIES, China's Gulf energy exposure
+- [[Erica Downs]] — Columbia CGEP, China teapot refineries, energy security, SPR, LNG vulnerability
+- [[Sanam Vakil]] — Chatham House MENA director, Iraq 1991 parallel, containment-to-war cycle
+- [[Roxane Farmanfarmaian]] — RUSI/Cambridge, pre-war protest-to-war conditions, regime collapse vs. transition, US credibility trap
+- [[Burcu Ozcelik]] — RUSI, "Goldilocks" near-collapse gamble, Syria parallel
+- [[Robin Mills]] — Qamar Energy CEO, planning failures critique, Kharg improvisation
+- [[Bill Beach]] — Heritage Foundation 2007 wargame economist, "Groundhog Day" assessment
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid
@@ -303,424 +511,7 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 
 ## Analyst perspectives
 
-### Ryan Bohl (RANE) — March 1, 2026
-
-**Source**: [Thoughtful Money interview](https://www.youtube.com/live/vTlW011fx9Q) with Adam Taggart
-
-**On the operation's design:**
-- Joint US-Israeli mission from the start — different from June 2025 where Israel led and the US delivered the final blow on nuclear sites. This was coordinated from day one.
-- Decapitation was deliberate: kill as many top officials as possible to disrupt command and control. Massive cyber attack accompanied kinetic strikes.
-- US and Israel planning for up to 30 days of strikes, though duration depends on off-ramps.
-- Air superiority nearly achieved already — Iran's air defenses were "more or less decimated," already weakened from the June 2025 war.
-- The real target is Iran's ballistic missile arsenal — scattered across the country, estimated ~2,000 of their most capable weapons pre-war. Unclear if US/Israeli intelligence can locate all of them.
-
-**On Iranian regime resilience:**
-- Iran is **not** a personalized dictatorship like Saddam's Iraq or Assad's Syria. It's structured more like a network — succession processes exist, local IRGC commanders have standing orders to operate autonomously.
-- "Top-down assassinations aren't going to disrupt Iran's ability to carry out retaliations at scale." Evidence: Abu Dhabi and Dubai still getting hit after Khamenei's death.
-- Emergency government is functional. Succession is working. No defections from IRGC, Artesh, or Basij. No indigenous uprising. Regime is "rattled but united."
-- Pro-regime crowds flooding public spaces in Tehran and Isfahan — only need 10-20% of population as true believers to dominate opposition.
-- Rally-around-the-flag effect: many Iranians glad Khamenei is dead but resent it being done by Israel and the US.
-
-**On intelligence:**
-- Israeli/US intelligence inside Iran is "prodigious." Iran has structural disadvantages: corruption makes penetration easier, leadership still using trackable technology despite knowing the risk.
-- Khamenei was "a man of habit" — behavior patterns from June 2025 war likely fed targeting decisions.
-- Long Mossad track record: Haniyeh assassination in Tehran hotel (2024), pager attacks on Hezbollah, etc.
-
-**On Iran's response — weaker than feared:**
-- Bohl draws parallel to Russia's army pre-Ukraine invasion: "10-foot-tall perception" that didn't match reality.
-- Gulf air defenses performing well: UAE has multi-layered systems (Russian Pantsirs, South Korean KM-SAM, American Patriots/THAAD, Israeli Barak). ~85-90% interception rates reported.
-- Similar to Hezbollah's overhyped "thousand rockets an hour on Haifa" that never materialized.
-- **Caveat**: Iran hasn't used its most sophisticated missiles in coordinated swarms yet. May deescalate before that happens. Too early to write definitive assessment.
-
-**On regional dynamics:**
-- Iran's strikes on GCC countries are **galvanizing the region against it**. Saudis and Emiratis threatening direct counterattacks. Muhammad bin Zayed and Muhammad bin Salman patching up their differences.
-- But post-war divergence will emerge:
-  - **Saudi Arabia** wants a united, predictable Iran under a stable government (even Islamic Republic is fine if predictable). Chaos could spread to Saudi eastern province Shia population, reignite Iraqi civil war.
-  - **UAE/Israel** prefer a broken, weakened Iran they can exploit. Chaos benefits minor powers seeking to climb the geopolitical ladder.
-  - **Turkey, Qatar, Egypt** also want stability.
-- This Saudi-UAE cleavage won't surface during the war but will play out over 1-5 years.
-
-**On why Trump struck now:**
-- Iran's deterrence peeled away since Oct 7, 2023: Hamas decimated, Hezbollah decimated, Assad fallen, Houthis contained, Iraqi militias restrained.
-- January protests created "wishful thinking" that regime could be toppled easily.
-- Venezuela operation fed confidence: use of force without political consequences.
-- Legacy issue: "second-term president, never has to win an election again." Wants definitive resolution with Iran.
-- Nuclear surrender was the demand — gut all 40+ years of Iran's nuclear progress. Far beyond JCPOA constraints.
-- Trump's threshold: unless there's a major energy shock, he'll continue. "He's a gambler."
-- Domestic support is **weak** — "far less popular than Bush invading Iraq in 2003." Narrative is money should be spent at home, war is on behalf of Israel.
-
-**On scenarios for post-war Iran:**
-
-1. **Hezbollah model** (baseline-ish): Iran becomes less aggressive, not because of ideological change but because costs of confrontation are now too high. Gives up proxy strategy, reduces missile use. Could actually strengthen hardliners diplomatically if US/Israel keep attacking a passive Iran — makes them look like victims.
-
-2. **Houthi model**: Deemphasize Palestinian cause, focus on actual neighbors (Iraq, Afghanistan/Pakistan). Less friction with Israel/US. Nuclear program unresolved but less confrontational posture.
-
-3. **Saddam model** (risk): Hunker down, double down, endure strikes cycle after cycle. Calculate US/Israel won't invade. Could culminate in eventual ground invasion years later — the only way to resolve a hardened recalcitrant.
-
-4. **Reformist path** (best case): Iranian Gorbachev emerges from reformist ranks. Slow move toward reconciliation, liberalized elections, Turkey-style trajectory. "Several years" timeline at minimum.
-
-5. **Nuclear breakout** (danger): New leadership concludes "America and Israel attacked anyway, so why not get the bomb?" Hardliners now have a viable argument they lacked before June 2025.
-
-**On regime change prospects:**
-- Only viable if security force defections + Israeli/US air campaign on behalf of rebels. Nothing like that is happening.
-- Opposition deeply divided on what post-Islamic Republic Iran should look like.
-- Shah's son (Pahlavi) has "very little support outside the exile community."
-- Cuba/Venezuela parallel: regime can be incompetent, losing population to emigration, and still endure. "It relies on force rather than legitimacy."
-- Spontaneous revolution won't happen without organized civic movement or external rebel force. Medium-term (2-5-10 years) more viable than near-term.
-
-**On energy risk:**
-- Worst case: Iran declares war on Gulf energy infrastructure — refineries, platforms, LNG, pipelines. Environmental disaster + global recession. **Bohl doesn't think they'll go there** — no ground invasion means this isn't truly existential for the regime yet.
-- More likely: price squeeze, selective energy targets, market rattling. Gouging at US gas pumps within days.
-- Not Russia-Ukraine scale shock (permanent supply removal). Iran can only do temporary disruptions.
-- Compounding factor for inflation and global growth slowdown in 2026.
-
-**On Gulf Arab economic implications:**
-- Gulf sovereign wealth funds may shift capital home for reconstruction, rehabilitation, and restoring their "safe haven" brand.
-- Tourist sector will need expensive subsidies to recover.
-- Companies will demand better terms (lower taxes, cheaper visas) given new security risk.
-- Saudi pledges to invest $1T in the US may slow — "priorities will be shifting closer to Gulf Arab homelands."
-
-**On World War III risk:**
-- **No mutual defense treaties** between Russia/China and Iran. Never have been.
-- "Iran is a nice-to-have for Russia and China, not a must-have."
-- Russia also opposes nuclear proliferation — diverges from Iran on nuclear issue.
-- BRICS is "very incoherent and not very good at that kind of organization."
-- **No mechanism for escalation to world war.** "There is no reason for the big powers to come to Iran's rescue because they've never promised to."
-
-**Assessment**: Bohl is a Middle East specialist at RANE (risk consultancy). His analysis is operationally detailed and tracks well with observable facts. Key framing: this is a war of choice driven by Trump's legacy ambitions and Israeli post-Oct 7 hawkishness, against a weakened but resilient adversary. His caution on regime change prospects and emphasis on post-war regional divergence (Saudi vs UAE/Israel) is analytically distinctive.
-
-### Trita Parsi (Quincy Institute) — March 4, 2026
-
-**Source**: Newsweek's The 1600 with Carlo Versano, Day 4 of the conflict
-
-**On Plan A failure:**
-- Parsi argues Trump's original plan did not survive 2.5 days. The administration expected killing Khamenei would cause quick regime implosion — "by Sunday evening it would be settled."
-- Trump reached out to Iran through Italy proposing a ceasefire; rejected (confirmed, Ynetnews/Pravda citing Yediot Ahronot, CNN, Argus Media).
-- Expected markets to be fine by Monday morning. "That's not where we are."
-- Compares unfavorably to Iraq: "We didn't get to this point until after August of 2003... For the first five months, the war actually looked like a massive success."
-
-**On Israeli influence over the decision:**
-- Parsi argues Israel "very effectively, very skillfully played [Trump's] psychology" — telling him Iran was at its weakest, that a small push would cause collapse.
-- "All of the people who said that you couldn't move the embassy, you couldn't recognize the Golan, you couldn't take out Soleimani... have been proven wrong. You're going to be right on this one as well."
-- Trump was on "the mother of all sugar highs" after Venezuela.
-
-**On the rejected diplomatic proposal:**
-- Iran put forward a proposal through the Omani foreign minister. Omani FM Badr Albusaidi laid out the deal framework on CBS's *Face the Nation* (February 28) — Iran agreed never to stockpile enriched uranium, existing stockpiles blended down and converted to fuel irreversibly, full IAEA access (confirmed, CBS transcript, Al Jazeera, Common Dreams). Albusaidi said "peace deal is within our reach" — hours before the strikes began.
-- Parsi states Rob Malley (Biden's JCPOA lead negotiator) confirmed the proposal would have been easy for Trump to claim as "a stronger deal than the JCPOA." Malley's public statements are consistent with this (partially verified — specific webinar not independently located).
-- Parsi: Trump's expectation was total capitulation, not compromise. "So he didn't accept it. He could have declared victory. Instead, he declared war."
-- Asserts Trump went to negotiations unprepared, only to check: "Are you guys ready to surrender?"
-
-**On Rubio's admissions (Capitol Hill presser, March 2):**
-- Rubio stated Israel was going to attack Iran, and the US went preemptively to avoid being caught in the crossfire: "if we waited for them to hit us first after they were attacked by someone else... we would suffer more casualties" (confirmed, State Dept transcript, Axios, The Intercept). Rubio partially walked this back the next day, insisting "this had to happen anyway" (reported, Jewish Insider).
-- Rubio also said the real objective was ballistic missile capabilities and manufacturing, plus naval threat to shipping — **not the nuclear program**: "Our mission and our focus is the destruction of their ballistic missile capabilities" (confirmed, State Dept transcript, UPI, Military.com).
-- Parsi's reading: missiles were the Israeli priority. IAEA head Grossi stated post-strike (March 3-4) that Iran had no structured program to build a nuclear weapon — "There wasn't to be a bomb tomorrow or the day after tomorrow" (confirmed, CNN, IAEA). Note: Grossi was characterizing the pre-strike state of Iran's program.
-- "When Rubio first says the Israelis were going to go... and then he says missiles — that is exactly what the Israelis were talking about."
-
-**On Israel's security doctrine:**
-- Parsi argues Israeli security doctrine requires that "for Israel to feel secure, everyone else has to be defenseless against Israel."
-- If the US accepts this framing, "it will make sure that the United States is always at war." After the nuclear program, missiles. After missiles, "at some point, kitchen knives in Iran are an existential threat."
-- Notes Trump has shown he can say no to Israel. "Tell the Israelis not to attack because they're endangering US troops. That should have been the policy."
-
-**On Iran's strategic response:**
-- Iran's attacks on all GCC states (UAE, Bahrain, Kuwait) were faster and broader than Parsi expected. He anticipated a more gradual escalation ladder.
-- Interprets this as Iran treating the war as existential from day one: "no red lines at this point."
-- Iran's survival strategy: "expand the theater as much as possible," ensure the US doesn't control the geography, and make the war so costly "that not only does the US opt to end the war, the conclusion will be it was a mistake to start the war."
-- Iran fears a premature end — "if it's not been costly enough, they believe, and they're probably right, the United States will bomb them again in another 6 months."
-
-**On IRGC resilience:**
-- The Islamic Republic was "built to withstand a counterrevolution" — redundancies and duplications precisely for this scenario.
-- IRGC itself is the redundancy: created because revolutionaries didn't trust the Iranian army, now far more powerful and better funded than the Artesh.
-- After the June 2025 war, "they defined every person who would replace top officials about five rows deep."
-
-**On Kurdish escalation:**
-- CIA working to arm Kurdish forces to spark an uprising in Iran (confirmed, CNN). Trump personally called Kurdish leaders including Mustafa Hijri (KDPI president) and Iraqi Kurdish leaders Masoud Barzani and Bafel Talabani (confirmed, Axios). Five dissident Kurdish groups formed the "Coalition of Political Forces of Iranian Kurdistan" six days before the war began. Haaretz reported Kurds expected to launch ground offensive after receiving US arms.
-- Turkey's foreign minister [[Hakan Fidan]] spoke with Nechirvan Barzani (KRG president) and later with Kurdistan PM Masrour Barzani (confirmed, Turkish Minute, Middle East Eye). Fidan monitoring whether PJAK (PKK-affiliated) might launch insurgency affecting Turkey's PKK talks.
-- Parsi frames this as improvisation: "feeling very angry that his first bid didn't work out... just throwing everything he has at the wall."
-- **Caveat**: US intelligence reportedly assesses Iranian Kurds "don't currently have the influence or resources to bolster a successful uprising" (reported). Groups are fractured.
-
-**On three scenarios:**
-1. **Regime implodes** — Trump declares victory, walks away. Acknowledges risk: "the worst case would be we do this and then somebody takes over who's as bad as the previous person" (Trump quote).
-2. **Low-grade war** — market/energy destabilization pressures Trump to seek off-ramp.
-3. **Both sides return to negotiating table** — Parsi considers this **least likely** because Iran calculates ending too quickly invites another attack in 6 months.
-
-**On diplomatic credibility:**
-- If the narrative takes hold that the pre-war talks were a ruse, "this would be truly killing any credibility left of America's diplomatic standing."
-- Argues this serves Israeli interests: "if America's adversaries refuse to talk to the United States... [Israel] wouldn't need to spend resources preventing and sabotaging diplomacy."
-
-**On Fox News accusations:**
-- Parsi has been accused of being a "mouthpiece for the Iranian regime" by Fox News. His response: his father was imprisoned under both the Shah and the Islamic Republic. He cannot travel to Iran. "I have been a mouthpiece for diplomacy, for avoiding unnecessary, idiotic wars."
-
-**Assessment**: Parsi is the leading restrainer voice on Iran — his Quincy Institute affiliation and NIAC founding make his perspective predictable but analytically coherent. His Iraq 2003 parallel (Plan A failing faster than Iraq's did) is his most distinctive framing. His claim about the Omani proposal, if verified through the CBS interview and Malley's webinar, is significant — it would mean Trump rejected a deal better than the JCPOA in favor of war. His characterization of Iranian strategic thinking is analysis, not confirmed intelligence, but aligns with observable Iranian behavior (immediate GCC-wide retaliation). Contrast with [[Fred Kagan]]'s analysis in the same period: Kagan sees opportunity in regime collapse; Parsi sees a trap with no exit.
-
----
-
-
-## Fred Kagan analysis (AEI Critical Threats Project, March 3)
-
-Source: School of War podcast, Ep. 282 ([YouTube](https://youtu.be/Vt6Mvxnf_TI)). [[Fred Kagan]], senior fellow at AEI and director of the Critical Threats Project, assessed the military and political situation on Day 4.
-
-### Military situation
-
-**Air superiority achieved.** The US-Israeli coalition has established sufficient air superiority to operate less stealthy aircraft (B-1 bombers, F-15s) over Iran. Israel reported operating directly over Tehran, dropping ordnance rather than relying on standoff munitions. This expands the target set significantly.
-
-**Iranian retaliation — adapted but not succeeding.** Iran shifted strategy from the failed April 2024 approach: instead of flying drones 1,000 km to Israel, focusing on closer Gulf state targets to reduce interception time. The UAE reported intercepting all ballistic missiles (confirmed by UAE); the main challenge is drones due to volume. Scale comparable to peak Russian nightly drone attacks on Ukraine.
-
-**Strike-intercept race.** The coalition is actively destroying drone/missile storage, production sites, and C2 infrastructure — not just intercepting incoming fire. Kagan: "We're not just letting the Iranians fire drones and missiles and trying to intercept them all." This is a critical difference from Ukraine, where Kyiv cannot strike Russian production/storage sites. The coalition aims to exhaust Iranian launch capability before running short of interceptors.
-
-**Interceptor depletion — a Pentagon accountability problem.** Kagan was blunt: "Why are we short of interceptors four years into supporting Ukraine fighting an air missile war?" Called for Hegseth to make mass interceptor production his top priority, comparing it to Robert Gates's MRAPs push in Iraq. The production gap is not just an Iran problem — it undermines credibility of deterring China over Taiwan.
-
-### Ukraine connection
-
-Kagan flagged a significant mutual benefit opportunity:
-- Ukraine has developed cost-effective drone-on-drone interception (FPV drones against Shaheds, mobile fire teams, Eric Schmidt's Mirov interceptor drones)
-- Gulf states need this expertise immediately as interceptor stocks deplete
-- Gulf states have cash that Ukraine desperately needs to scale production
-- Zelensky already called MBZ offering technical assistance
-
-### Regime change prospects
-
-Kagan notably revised his longstanding caution on regime change. His ~2017-2018 *Commentary* argument was that Iran is "more like China before Tiananmen" — rulers willing to kill their way out. Updated assessment:
-
-**Factors favoring collapse:**
-- Islamic Republic weaker than at any point since 1979
-- Axis of resistance stripped away
-- Upper echelon of IRGC and political leadership eliminated
-- No supreme leader for first time since 1989
-- Coalition targeting organs of internal suppression (LEC headquarters, gendarmerie bases, Basij facilities)
-- Population has repeatedly demonstrated willingness to protest at scale
-
-**Key variable: security force defection.** Kagan argued the fastest path to resistance capability is Basij or IRGC elements defecting, bringing weapons and armory access. Parallel to 1979: the Shah's army decided it wouldn't fight. "If security forces start to break, they'll bring capabilities. If they don't, you're probably not going to be able to drop enough weapons in to make a difference."
-
-**Internet as critical enabler.** Iran at 1% internet connectivity (NetBlock data). Kagan: restoring communications is "absolutely essential" for organized resistance. Called for prioritizing Starlink terminal insertion and destroying Iranian GPS jammers.
-
-**"Pragmatist" survival scenario — the real danger.** The coalition has killed the hardline ideologues. Surviving leaders (Larijani, Qalibaf, Bezeshkian, Rouhani) are "smarter" and "more likely to take steps that would stabilize the Islamic Republic" — including writing off the nuclear program, making deals, getting sanctions relief. If the US accepts an off-ramp deal with these pragmatists, it could actually restabilize the regime for years. Kagan framed this as potentially worse than the risks of regime collapse.
-
-### Civil war risk
-
-Kagan was explicit: "The likeliest outcome of collapse of this regime is a large-scale civil war in a country with a population of 90 million people." The US has never had enough forces to conduct counterinsurgency in a country this large. But he weighed this against "the certainty of continued instability, violence, terrorism, chaos in the region if this regime in almost any form continues to exist."
-
-### Post-Islamic Republic order
-
-**If regime falls:** The fundamental threat that has defined regional relationships for decades — Iranian missiles, nuclear program, Hormuz closure threat — would be removed. Arab states would need to fundamentally recalibrate toward Israel, each other, the US, Russia, China.
-
-**Abraham Accords without Iran glue:** Kagan acknowledged the risk but argued the "habit of cooperation" between Arab states and Israel has grown enough to sustain itself, especially with US leadership.
-
-**Turkey as the next concern:** Erdogan is "not a positive player," a threat to Israel, and a spoiler for US priorities in Syria. Kagan envisioned a possible Israel-Arab coalition oriented on containing Turkey and the Muslim Brotherhood.
-
-**IRGC remnants:** "Bitter-enders" — Quds Force networks across the region will conduct terrorism and attempt reconstitution for years.
-
-**Assessment**: Kagan brings deep Iran expertise and an analytical framework that balances regime-change enthusiasm with clear-eyed risk acknowledgment. His shift from 2017 caution to 2026 conditional support for regime change is significant — he's not a Johnny-come-lately to the position. The "pragmatist survival" warning is his most distinctive contribution: the greatest risk may not be chaos from regime collapse, but accidental restabilization of the Islamic Republic under smarter leadership.
-
----
-
-### Vali Nasr (Johns Hopkins SAIS) — March 4, 2026
-
-**Source**: Al Jazeera's The Bottom Line with Steve Clemons
-
-**On the diplomacy being performative:**
-- Nasr argues the war was predictable despite the negotiations: "He was very clear that he had no agenda for the negotiations. He was asking for maximal things. He was sending his two envoys there for a two-hour meeting unprepared with no details, no real offers."
-- Omani FM Albusaidi visited Washington on February 27 and met only VP [[JD Vance]] — Trump was in Corpus Christi, Texas (confirmed, Al Jazeera, NPR). Nasr: this was "an act of desperation... a last act to salvage the situation and avoid war." Trump said that day he was "not happy" with Iran. Strikes began ~24 hours later. Albusaidi was reportedly "dismayed" when strikes commenced (MEE).
-- One day Trump wanted to intervene militarily to support protesters; the next day he demanded an immediate nuclear deal. Meanwhile he'd already declared in June 2025 that Iran's nuclear program was "obliterated."
-- Nasr: "We ultimately learned that actually the planning for the war had been done much earlier between Israel and the United States and the diplomacy was just performative."
-
-**On Rubio's admission:**
-- Nasr calls Rubio's statement "baffling": "It's not like Israel can go to war without the United States approving it."
-- Reframes: "The dangerous imminent threat was actually the Israeli attack on Iran, which then would lead to an Iranian attack on the US. All of which was preventable."
-- Argues the constantly shifting justifications suggest "President Trump made a decision, who wants to go to war, and ultimately everybody else including Secretary Rubio now has to provide an explanation after the fact."
-- Notes the war started without consulting Congress, international organizations, or making a case during the State of the Union.
-
-**On US loss of control:**
-- "The United States has lost control of this war. It has been surprised by Iran — not only in terms of Iran's will to fight back, the fact that the system did not collapse, that the Revolutionary Guards are not begging for a deal."
-- Trump's assumptions: killing the Supreme Leader would cause a IRGC faction to take over and, "because they are corrupt and have economic interest, they will make a deal." He "didn't quite understand what he was biting into."
-- Iran has "decided it's not going to define the battlefield to what America and Israel wants" — instead weaponizing global energy prices and casting "a shadow of risk over the Gulf."
-- Trump "had not calculated that the price of oil would be going up, that the stock market could collapse, that nobody in Europe, in the global markets, in the Gulf has any trust in the fact that the United States knows what it's doing."
-
-**On Hegseth's "this is not Iraq" claim:**
-- Nasr: the claim may age badly. "Once you step into a war that you lose control of, that ultimately ends up being longer, costlier, then this statement can age very quickly."
-- "Pretty soon it may not matter whether you stated at the beginning that this was for democracy building or nation building. What would matter is that the price of gas... is going to get higher."
-
-**On Israel's vs. America's war goals:**
-- "Making Iran essentially powerless makes sense for Israel as a war goal... But it's not clear to me why these are America's goals."
-- If Trump already "obliterated" the nuclear program in June, if Iran's missiles can't reach the US, if proxies are defanged, "what is so urgent about Iran that required this risky, expensive war?"
-- "We're marketing what are Israel's war objectives essentially as urgent national security issues for the United States."
-- The real question: "What is America's threshold of pain in order to achieve that goal?"
-
-**On Netanyahu's "radical Sunni axis" statement:**
-- Netanyahu stated at a cabinet meeting (February 22, 2026): "The intention is to create an axis of nations against the radical axes, both the radical Shia axis, which we have struck very hard, and the emerging radical Sunni axis" (confirmed, Al Jazeera, MEE). Proposed a "hexagon of alliances" including India, Cyprus, Greece.
-- Nasr: this "made major indigestion across the Middle East" because it signals Israel already has "its sight set on the next set of rivals — Turkey, Qatar, Pakistan, and perhaps Saudi Arabia."
-- Israel sees itself as a military superpower post-Gaza and "wants basically to shape the Middle East in the way that it wants and it doesn't want any rivals."
-- Former PM Naftali Bennett at Conference of Presidents (February 17, 2026): "Turkey is the new Iran... Erdogan is a cunning and dangerous rival who wants to encircle Israel" (confirmed, The Media Line, Israel National News).
-- Nasr's warning: "When you hear Secretary Rubio say that the reason we went to war with Iran is because Israel wanted to... that actually makes the region very nervous because if Israel decides now that it wants to pick a fight with Pakistan or Turkey or Saudi Arabia, the United States is going to follow Israel's lead."
-
-**On Iran's strategic calculus:**
-- Iran "doesn't want to play that role" of a Delcy Rodriguez-style regime change that keeps the system intact.
-- "They want to exact costs from America on the battlefield so that this will not be a clear victory for Trump."
-- If there's a ceasefire and negotiation, "it would be also on their terms, not on Trump's terms."
-
-**On the decapitation norm:**
-- Warns this sets a dangerous precedent: "Every country can vilify an opponent... Russia can say Zelensky is a Nazi terrorist. Why don't we decapitate him?"
-- "When decapitation of this kind becomes routinized as an instrument of war... you have to worry about what it means for the international order going forward."
-
-**On China and Russia:**
-- Iran is "alone in this" — China and Russia help quietly but won't intervene openly.
-- Both have "deep equities in the Gulf" and won't antagonize UAE or Saudi Arabia.
-- Their calculus: "Why get involved? Why not stand back and let America boil in its own stew?"
-- But "they're not doing anything to restrain Iran's attack on the Gulf" — understanding it's existential for Iran.
-
-**On regime survival:**
-- "The only alternative to this regime at this moment is total chaos, a Libya scenario. There's not really another regime there."
-- Consistent with his January 2026 PBS analysis: the Islamic Republic is "designed to survive, not be popular."
-
-**Assessment**: Nasr is one of the most credentialed Iran scholars alive — his Johns Hopkins SAIS position, CSIS advisory role, and Obama-era government experience give him both academic and policy authority. His January 2026 analysis (PBS) predicted regime resilience and warned against assuming military success equals strategic success — the war has vindicated this framing. His most distinctive contribution here is the Netanyahu "Sunni axis" analysis: if Israel's next horizon is Turkey/Qatar/Pakistan/Saudi Arabia, then the US is signing up for permanent regional warfare as Israel's enforcer. Contrast with Kagan, who sees Turkey as a concern but frames it as manageable; Nasr sees it as evidence of an insatiable Israeli agenda. Contrast with Parsi, who focuses on Israeli manipulation of Trump's psychology; Nasr focuses on the structural logic driving Israel's ambitions regardless of who is president.
-
----
-
-### Gen. Joseph Votel & Dr. Karen Young (MEI) — March 8, 2026
-
-**Source**: [MEI virtual briefing — "Operation Epic Fury: What Comes Next?"](https://www.youtube.com/live/YemEawWNxFo), moderated by [[Ken Pollack]] ([[Middle East Institute|MEI]]). Speakers: Gen. [[Joseph Votel]] (former CENTCOM/SOCOM commander, MEI Distinguished Military Fellow) and Dr. [[Karen Young]] (MEI Senior Fellow, Columbia University professor — energy/economics).
-
-#### US military objectives — Votel's three thrusts
-
-1. **Paralyze Iranian C2** — Votel describes the opening Saturday strikes as decapitation strikes, designed to disrupt civilian and military security leadership and prevent a coherent response.
-2. **Destroy means of retaliation** — ballistic missiles, ships, drone sites, carriers. Per Admiral Cooper, 80-90% of Iran's retaliatory capability has been degraded, but 10% remains operational. Votel notes small volleys of drones and missiles are continuing even a week into the conflict.
-3. **Degrade regime's ability to control population** — Votel states targeting has expanded to provinces, disrupting communications and suppressing the regime's ability to quash uprisings.
-
-#### Iranian response strategy
-
-Votel identifies two pillars of Iran's counter-strategy:
-
-- **Broaden retaliation geographically** — 12 countries struck, with Iran hoping those countries will pressure the US. Votel assesses this is "not working as hoped."
-- **Extend operations in time** — exploiting the US public's limited patience for protracted conflict.
-- Votel notes the Iranian president apologized publicly on March 8 while drones were simultaneously en route to targets — signaling the disconnect between diplomatic signaling and operational reality.
-- "Iran only has to be right a couple times" — even 10% residual capability is dangerous. Votel compares remaining Iranian capability to IEDs in Iraq/Afghanistan: suppressible but nearly impossible to eliminate completely.
-- Votel's assessment: if remnants of the regime survive and can still operate, Iran will view it as a win.
-
-#### Strait of Hormuz — Votel's assessment
-
-- US targeting has focused on southern Iran near the strait — specifically shore-based anti-ship missile systems.
-- Iranian Navy "almost completely decimated" per Votel, but small boats remain a threat.
-- **Mines are the biggest concern.** Votel states Iran has studied mine warfare for decades. A single mine shut down the strait 40 years ago (referring to the 1988 USS Samuel B. Roberts incident). The strait is approximately 12 miles across — advantage to the attacker.
-- US mine-sweeping capability is limited: "we don't have endless amounts of mine sweepers."
-- Current US maritime forces are focused on offensive operations — diverting assets to escort and mine-clearing duties would reduce combat capacity.
-- Votel outlines the process needed before tanker transit can resume: suppression of threats, escorts, and area clearance.
-
-#### Munitions and alliance sustainability
-
-- Votel warns the strain is not just on US stocks — UAE, Saudi Arabia, Bahrain, and Kuwait all use US-supplied interceptors. "There's a lot of pressure on this system" — all Gulf allies are dependent on the same supply chain.
-- The US likely surged munitions into theater but is depleting magazine depth elsewhere. Industry meetings are ongoing to accelerate resupply.
-- Broader readiness costs: carrier maintenance is being deferred, air assets are rotating from other theaters. Two carrier strike groups in the Middle East were not projected to be there — flexible but costly.
-- "There's no free chicken" — resources dedicated to the Middle East come from somewhere else. Votel assesses the US can sustain operations for months with rotations, but deferred maintenance costs come due eventually.
-- **Binding constraints**: munitions supply and American public patience.
-- Votel flags impact on Ukraine support and other contingencies.
-
-#### Opposition forces and unconventional warfare
-
-- Discussion of arming Iranian Kurds — Votel acknowledges they are good fighters but notes Kurdish involvement would cause Turkish sensitivity.
-- Opposition exists but is "not coherent, not unified enough to overthrow the regime."
-- Votel emphasizes building effective unconventional warfare capability takes months to years, not weeks. Required sequence: identify partner, train/equip in sanctuary, dedicate US forces (Green Berets/CIA), decide level of support (intelligence, fire support, medevac, resupply).
-- Distinguishes tactical operations (raids/disruption) from strategic regime-change forces — regime change is ultimately a political objective, not military.
-
-#### Three likely outcomes — Votel's ranking
-
-1. **Theocratic succession** — process already underway (3-person council, assembly of experts). Votel considers this most likely.
-2. **Military/IRGC-led takeover** — plausible; they control the instruments of state control.
-3. **Popular opposition takeover** — improbable at this point.
-- Votel flags the risk of "lingering" between these options without a clear resolution.
-
-#### Russia and China — Votel's assessment
-
-- Russia is providing targeting intelligence to Iran — Votel states this "directly goes after protection of our forces." He considers it not unexpected, calling it payback for US support to Ukraine. Deep military exchange between Russia and Iran (Iran was a major drone supplier to Russia).
-- China's relationship with Iran is more of a client/market dynamic — political and information support, but not overt military capability.
-- China is watching the US get tied down: "another way we have taken our eye off Asia-Pacific."
-- Both China and Russia are studying US operations as models for their own future actions (Votel draws a Venezuela parallel).
-
-#### Energy and economic consequences — Young's assessment
-
-**Gulf energy disruption:**
-- Young notes Iraq has already shut in more than 1.5 million barrels per day, with Kuwait following.
-- If Gulf shutins reach 9 mb/d, that represents over 10% of global supply.
-- Saudi East-West pipeline bottleneck: 5 mb/d capacity, but Yanbu can only load approximately 3 mb/d.
-- UAE Fujairah pipeline handles only 400,000 bpd, and tankers are reluctant because Fujairah was itself an Iranian target.
-
-**Russia benefiting from the conflict:**
-- Young reports the US relaxed sanctions on Russian crude exports to India in the last 48 hours to ensure Indian supply — a direct consequence of Gulf disruption. Russia is also squeezing Europe harder on gas.
-
-**Asian hoarding and European pressure:**
-- Asian governments (South Korea, Taiwan, Japan, China) are hoarding fuel — banning refined fuel exports and keeping supply domestic.
-- European LNG spot prices spiking, already under pressure from loss of Russian pipeline gas.
-
-**Tanker escort politics:**
-- Young raises the politically loaded question: "Whose tankers are you escorting? Are we doing this as a favor to the Chinese?" — noting that 80% of strait LNG goes to Asia.
-- The DFC announced a $20 billion political risk insurance facility — Young assesses this is probably insufficient.
-- Energy diversification will be the top priority for 5+ years — not just sources but renewables and domestic production.
-
-**GCC existential threat:**
-- Data centers in UAE and Bahrain targeted by Iranian strikes — threatens the tech/AI hub model these countries have built.
-- Airport disruptions are the most psychologically damaging for expat populations. 90% of UAE/Qatar populations are non-nationals.
-- Young characterizes this as "the greatest threat... really existential that the Gulf states are facing" — a fundamental challenge to their identity as international business and finance hubs.
-
-**US domestic politics:**
-- US gasoline still approximately $3/gallon (same as a year ago) — not yet alarming. Jet fuel and diesel are more price-sensitive than gasoline.
-- "We started this conflict" — Young notes the timing will be politically debated.
-- Midterm election implications unclear but risk of inflationary pressure.
-
-**Assessment**: This briefing pairs a former CENTCOM commander's operational perspective with an energy economist's structural analysis. Votel's mine warfare concern and munitions sustainability warning are operationally specific in ways other analysts have not addressed — particularly his point that US mine-sweeping assets are limited and current forces cannot simultaneously conduct offensive operations and protect commercial shipping. Young's framing of the GCC existential threat and the tanker escort politics ("whose tankers?") adds a dimension absent from military-focused analyses. Compare Votel's three-outcome framework with [[Ryan Bohl]]'s five scenarios and [[Fred Kagan]]'s "pragmatist survival" warning — Votel is more conservative, ranking theocratic succession as most likely rather than exploring more transformative possibilities. Young's energy analysis complements Bohl's energy risk assessment but adds more granular pipeline/capacity data.
-
-### Ali Vaez (International Crisis Group) — March 8, 2026
-
-**Source**: Channel 4 News interview, Day 8 of the conflict
-
-**On supreme leader succession:**
-- Assembly of Experts reportedly near a decision, with Mojtaba Khamenei (son) as expected choice.
-- Vaez: whoever comes in "is not going to be supreme." New leader will be "highly reliant on the Revolutionary Guards, who are running the country right now." Likely to be in a bunker, not operationally present.
-- Power has gravitated to two figures: **Ali Larijani** (national security adviser — running day-to-day state affairs and strategic direction) and **Mohammad Bagher Ghalibaf** (parliament speaker — responsible for the war effort). Both former IRGC commanders, both "statesmen with long experience of governance."
-- Division of labor will continue regardless of who takes the title. Status quo governance for the foreseeable future.
-
-**On the war of attrition logic:**
-- Both sides believe they can force the other to blink first — "very hard to be optimistic about any exit ramps."
-- **Iran's calculus**: pace operations for attrition. Global economic pressure, energy market disruption, and pressure on Gulf neighbors will accumulate. After approximately two weeks, Trump will want an exit ramp. "If the regime is still standing in Iran, that is a victory for them."
-- **Trump's calculus**: significantly degrading retaliatory capacity, and by targeting infrastructure, weakening the regime to the point of collapse.
-- Neither side taking a step back under these circumstances.
-
-**On infrastructure escalation — water and oil:**
-- "In this region, there are two very important things — water and oil. If you start going after those resources, then this war would escalate very quickly."
-- Iran can target desalination plants in Israel and throughout the region, but is also vulnerable to the same attacks.
-- Oil infrastructure has not yet been damaged in ways requiring months/years to recover — current disruption is primarily to shipments, not production.
-- "If we enter into that category, we're basically going to end up with a scorched earth at the end of this crisis."
-
-**On civilian casualties:**
-- Draws "really terrible parallel" with Gaza — same arguments about human shields being used.
-- Iran has 92 million people and few shelters for the population.
-- "Whatever the outcome the US is able to achieve, it is going to have a generational impact."
-- Historical parallel: "There was a straight line between the 1953 coup... and the 1979 revolution, which from the perspective of the Iranians was revenge for what the US did to them in 1953. And so if now the US commits significant crimes against Iranian people, unarmed Iranian people, I think this will come back to haunt the US for years to come."
-
-**Assessment**: Vaez directs Crisis Group's Iran project from Geneva — a track-two diplomacy practitioner with direct access to Iranian officials and Western policymakers. His framing centers on the war of attrition dynamics: Iran believes time is on its side if the regime survives, while Trump believes infrastructure degradation will cause collapse. His most distinctive contribution is the infrastructure escalation warning — the distinction between disrupting oil/water *shipments* (current) versus destroying *production capacity* (which would create a scorched-earth outcome requiring years to recover). His succession analysis is operationally specific: the new supreme leader is functionally irrelevant; Larijani and Ghalibaf are the actual decision-makers. Compare with Kagan, who sees pragmatist survival (under leaders like Larijani) as the greatest risk; Vaez presents the same power structure but doesn't frame it as a threat — he sees functional governance as the status quo. Compare with Parsi's attrition framing: both see Iran betting on time, but Vaez adds the specific ~2-week timeline for when Iran expects Trump to seek an exit.
-
-### Vizier Report — March 5, 2026
-
-**Source**: [After the Ayatollah: The Endgame for Iran and the Middle East](https://vizier.report/p/endgame-iran-middleeast) (~9,000 words, open-source analysis)
-
-**Six-dimension framework:**
-
-1. **Iran's existential crisis is self-made.** Decades of sectarian overreach ($30-50B on Assad regime alone), nuclear brinkmanship, and economic mismanagement produced conditions for destruction. Air defenses were already severely degraded from the June 2025 Twelve-Day War and never recovered. The economy couldn't sustain even basic defense when the moment came. "Iran set the strategic scene for its own destruction. That does not make what followed just."
-
-2. **Israel seeks state collapse, not regime change.** Applying centrifugal force along ethnic fault lines (Kurds, Baloch, Azeris, Arabs). The article argues reconstruction of a destroyed state has become "near-impossible" in the modern era — citing Syria, Libya, Iraq, Yemen as evidence. Catastrophic spillover risks for Pakistan (Baloch), Turkey (Kurds), Gulf (refugees/instability), and Europe (migration).
-
-3. **Gulf monarchies face failure of US-Israeli security architecture.** Their cities absorb Iranian missiles from a war they refused to join. Washington stonewalls interceptor resupply. UAE's deep defense-industrial entanglement with Israel "has compromised Gulf security more thoroughly than Iranian subversion ever managed." The Vizier Report frames this as a fundamental betrayal: the GCC made defense bets on the US-Israeli axis, and those bets failed when tested.
-
-4. **Turkey's dual threat and nuclear ambiguity.** Confronts both disintegrating Iran (Kurdish insurgency risk) and Israel already positioning Ankara as next adversary (citing Netanyahu's "radical Sunni axis" statement and Bennett's "Turkey is the new Iran"). Driving military-industrial acceleration and nuclear ambiguity "without precedent in the Muslim world."
-
-5. **Holdout regimes collapsing simultaneously.** Iran, Venezuela, Cuba — the 20th century's revolutionary states failing at the same time. Russia unable to support allies. China positioning as principal beneficiary of American overextension. The article frames this as a structural shift rather than coincidence.
-
-6. **Rules-based international order collapse and European irrelevance.** The war validates the case for a Turkey-Levant-Gulf integration corridor while simultaneously threatening it materially.
-
-**On the IRIS Dena sinking:**
-The article highlights the diplomatic absurdity: an Iranian warship sunk by American torpedo while returning from a joint exercise with India. "It maintained relationships it assumed would offer at least informal protection, and they offered nothing." Encapsulates Iran's foreign policy failure.
-
-**On the three-member leadership council:**
-Reports functional successor government but notes it has never been tested against this level of attack. "Whether the system collapses into factional infighting, consolidates around the IRGC as a garrison state, or manages a genuine constitutional succession is unknowable."
-
-**Assessment**: The Vizier Report is a Substack-based analytical publication. This assessment is comprehensive and well-sourced (400+ hyperlinks to primary/institutional sources including IAEA, Carnegie, CSIS, Arms Control Association, Atlantic Council, House of Commons Library). Its six-dimension framework is the article's distinctive contribution — moving beyond the military-political binary to address Gulf security architecture failure, Turkish nuclear ambiguity, and the simultaneous collapse of holdout regimes as interconnected phenomena. The framing of UAE defense-industrial entanglement with Israel as a security liability rather than an asset is analytically distinctive — none of the other analysts in this note frame it that way. Compare with Nasr's Israeli agenda analysis (Netanyahu's "Sunni axis"): both identify Turkey as the next flashpoint, but the Vizier Report integrates it into a broader structural argument about regional order rather than attributing it to Israeli ambition alone.
+See **[[2026 Iran conflict -- analyst perspectives]]** for full analyst assessments (Bohl, Parsi, Kagan, Nasr, Votel/Young, Vaez, Lynch, Vizier Report, Meidan, Vakil, Farmanfarmaian/Ozcelik).
 
 ---
 
@@ -753,7 +544,48 @@ Reports functional successor government but notes it has never been tested again
 - France24/IAEA: [No indication nuclear installations hit — but localized radioactive/chemical release confirmed](https://www.france24.com/en/live-news/20260302-no-indication-iran-nuclear-installations-hit-iaea) (March 2, 2026)
 - Naval News: [Iranian warship sunk in Indian Ocean by US Navy submarine](https://www.navalnews.com/naval-news/2026/03/iranian-warship-sunk-in-indian-ocean-by-us-navy-submarine-over-80-dead/) (March 4, 2026)
 - Robin J. Brooks: [The Blockade of the Straits of Hormuz](https://robinjbrooks.substack.com/p/the-blockade-of-the-straits-of-hormuz) (March 9, 2026)
+- Marc Lynch: "The United States Could Lose the Gulf," *Foreign Policy* (March 5, 2026)
 - Reuters: [US destroys mine-laying vessels as Trump warns Iran over Strait of Hormuz](https://www.reuters.com/world/middle-east/us-energy-secretary-deletes-post-about-navy-escorting-vessel-through-strait-2026-03-10/) (March 10, 2026)
 - Al Jazeera: [White House denies US military escorted tanker in Hormuz](https://www.aljazeera.com/news/2026/3/10/energy-secretary-deletes-claim-us-military-escorted-tanker-through-hormuz) (March 10, 2026)
 - gCaptain: [Energy Secretary deletes post claiming Navy escorted tanker](https://gcaptain.com/energy-secretary-deletes-post-claiming-u-s-navy-escorted-oil-tanker-through-strait-of-hormuz/) (March 10, 2026)
 - CNBC: [S&P 500 ends volatile day as Iran conflict keeps traders on edge](https://www.cnbc.com/2026/03/09/stock-market-today-live-updates.html) (March 10, 2026)
+- CNBC: [IEA oil reserves release](https://www.cnbc.com/2026/03/11/iea-oil-reserves-crude-prices-iran-g7-energy.html) (March 11, 2026)
+- CNN: [Iran mining the Strait of Hormuz](https://www.cnn.com/2026/03/11/middleeast/iran-mine-strait-of-hormuz-intl) (March 11, 2026)
+- USNI News: [Operation Epic Escort](https://news.usni.org/2026/03/10/operation-epic-escort) (March 10, 2026)
+- Washington Post: [Mojtaba Khamenei chosen as supreme leader](https://www.washingtonpost.com/world/2026/03/08/iran-supreme-leader-ali-khamenei-son-mojtaba/) (March 8, 2026)
+- NPR: [Iran's new leader first address](https://www.npr.org/2026/03/12/nx-s1-5745689/iran-war-israel-us) (March 12, 2026)
+- Washington Post: [Trump says US bombed Kharg Island](https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/) (March 13, 2026)
+- CNBC: [Trump on Kharg Island](https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html) (March 13, 2026)
+- NPR: [Iran war cost and deaths two weeks in](https://www.npr.org/2026/03/14/nx-s1-5746623/iran-war-cost-deaths) (March 14, 2026)
+- Hengaw Organisation for Human Rights: [4,300+ killed in first 10 days](https://hengaw.net/en/reports-and-statistics-1/2026/03/article-5) (March 2026)
+- DefenseScoop: [Hegseth on drone attacks down 95%](https://defensescoop.com/2026/03/13/iranian-attack-drones-hegseth-gen-caine-operation-epic-fury/) (March 13, 2026)
+- Al Jazeera: [NATO intercepts third Iranian missile at Turkey](https://www.aljazeera.com/news/2026/3/13/turkiye-says-nato-defences-intercepted-third-missile-from-iran) (March 13, 2026)
+- Axios: [Israel planning massive ground invasion of Lebanon](https://www.axios.com/2026/03/14/israel-lebanon-ground-invasion-hezbollah) (March 14, 2026)
+- Al Jazeera: [Iran's president sets terms to end the war](https://www.aljazeera.com/news/2026/3/12/irans-president-sets-terms-to-end-the-war-is-an-off-ramp-in-sight) (March 12, 2026)
+- CFR: [Congress declines to demand a say in the Iran war](https://www.cfr.org/articles/congress-declines-to-demand-a-say-in-the-iran-war) (March 2026)
+- Al Jazeera: [House narrowly rejects resolution to end Trump's Iran war](https://www.aljazeera.com/news/2026/3/5/us-house-narrowly-rejects-resolution-to-end-trumps-iran-war) (March 5, 2026)
+- Fortune: [Iran's simplest weapon holding economy hostage](https://fortune.com/2026/03/13/iran-war-sea-mines-strait-of-hormuz-crude-oil/) (March 13, 2026)
+- Foreign Affairs: [The Hormuz Minefield](https://www.foreignaffairs.com/iran/hormuz-minefield) (March 2026)
+- Columbia CGEP: [What it will take to open Hormuz](https://www.energypolicy.columbia.edu/iran-conflict-brief-what-it-will-take-to-open-up-the-strait-of-hormuz/) (March 2026)
+- Long War Journal: [Houthis express solidarity but do not attack](https://www.longwarjournal.org/archives/2026/03/houthis-express-solidarity-with-iran-but-do-not-launch-retaliatory-attacks-yet.php) (March 2026)
+- DOE: [Energy Department Initiates Strategic Petroleum Reserve Emergency Exchange](https://www.energy.gov/hgeo/articles/energy-department-initiates-strategic-petroleum-reserve-emergency-exchange-stabilize) (March 13, 2026)
+- Paul Horsnell, OIES: [The Strategic Petroleum Blunder?](https://www.oxfordenergy.org/publications/the-strategic-petroleum-blunder/) (October 2000) — critique of SPR exchange mechanism applicable to 2026 release
+- Michal Meidan, OIES: [Disruption in the Strait of Hormuz: Implications for China's Energy Markets and Policies](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2026/03/Comment-Turmoil-in-the-Middle-East.pdf) (March 2026)
+- Sanam Vakil, Chatham House: "The war on Iran is heading for an Iraq-style stalemate," *Financial Times* (March 14, 2026)
+- Roxane Farmanfarmaian and Burcu Ozcelik, RUSI: [Is Iran at a Tipping Point? Protest, Military Escalation and Regime Survival](https://www.rusi.org/explore-our-research/publications/commentary/iran-tipping-point-protest-military-escalation-and-regime-survival) (January 19, 2026)
+- Burcu Ozcelik, RUSI/Observer: [Bringing Iran to 'Goldilocks' point underpins the rationale behind this war](https://www.rusi.org/news-and-comment/in-the-news/bringing-iran-goldilocks-point-underpins-rationale-behind-war) (March 8, 2026)
+- Fox News: [Missile hits US Embassy Baghdad](https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-14-live-updates) (March 14, 2026)
+- NBC News: [KC-135 crash, Mojtaba "likely disfigured"](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-threat-oil-refueling-plane-israel-gulf-rcna263302) (March 14, 2026)
+- Al Jazeera: [Iran war Day 15 live updates](https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran) (March 14, 2026)
+- CNN: [Mojtaba Khamenei has yet to appear](https://www.cnn.com/2026/03/14/middleeast/iran-israel-us-mojtaba-supreme-leader) (March 14, 2026)
+- CNBC: [Brent closes above $100 second day](https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html) (March 13, 2026)
+- Quinnipiac University Poll: [56% oppose military action](https://poll.qu.edu/poll-release?releaseid=3952) (March 9, 2026)
+- Al Jazeera: [Israel kills 12 medics in southern Lebanon](https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on) (March 14, 2026)
+- Washington Post: [Iran strikes back after Kharg bombing](https://www.washingtonpost.com/world/2026/03/14/iran-iraq-us-trump-march-14-2026-oil-prices/) (March 14, 2026)
+- Fortune: [Trump calls on countries to send warships to Hormuz](https://fortune.com/2026/03/14/trump-iran-war-china-france-japan-korea-uk-warships-strait-hormuz/) (March 14, 2026)
+- Bloomberg Odd Lots: "What War in Iran Means for Teapot Oil Refineries of China" (March 13, 2026, recorded March 4) — [[Erica Downs]], [[Columbia Center on Global Energy Policy]]. China's energy exposure, teapot refineries, SPR, LNG vulnerability, diplomatic response
+- CNN: [Pentagon and NSC underestimated Iran's willingness to close Hormuz](https://www.cnn.com/2026/03/12/politics/hormuz-trump-administration-underestimated-iran) (March 12, 2026)
+- Washington Examiner: [He war gamed an Iranian blockade of the Strait of Hormuz](https://www.washingtonexaminer.com/news/washington-secrets/4489446/wargame-iran-blockade-strait-of-hormuz/) (March 12, 2026) — Bill Beach, Heritage Foundation 2007 wargame
+- The National: [US response to the Strait of Hormuz closure is becoming a farce](https://www.thenationalnews.com/business/energy/2026/03/15/did-the-us-account-for-strait-of-hormuz-closure-in-its-iran-war-plan/) (March 15, 2026) — Robin Mills, Qamar Energy
+- CNBC: [Iran sends millions of oil barrels to China through Strait of Hormuz](https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html) (March 11, 2026)
+- Reuters: [Iranian oil flows through Strait of Hormuz even as Gulf neighbors' exports shut](https://www.reuters.com/business/energy/iranian-oil-flows-through-strait-hormuz-even-gulf-neighbors-exports-shut-2026-03-11/) (March 11, 2026)

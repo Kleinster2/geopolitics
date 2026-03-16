@@ -25,10 +25,13 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Firas Maksad]] - Eurasia Group MD (MENA), Middle East Institute, Iran/GCC
 - [[Behnam Ben Taleblu]] - FDD Iran Program Senior Director, Iranian military/nuclear
 - [[Robin Wright]] - New Yorker columnist, Iran/Middle East veteran correspondent
+- [[Roxane Farmanfarmaian]] - RUSI/Cambridge, Iran regime dynamics, protest-to-war conditions, security force transition
+- [[Sanam Vakil]] - Chatham House MENA Programme director, Iran, Gulf states, UK foreign policy
 - [[Trita Parsi]] - Quincy Institute EVP, Iran diplomacy, restrainer perspective
 - [[Heng He]] - Epoch Times columnist, CCP elite politics, Chinese military
 - [[Karen Young]] - MEI Senior Fellow / Columbia professor, energy economics, GCC political economy
 - [[Ken Pollack]] - MEI, former CIA analyst, Middle East military affairs, Iran
+- [[Marc Lynch]] - GWU professor, Gulf politics, Arab media, US Middle East policy
 
 ## Tags
 - #analyst

@@ -157,6 +157,14 @@ Iran's ideological military force, parallel to the regular armed forces but more
 - Sanctions pressure
 - Generational questions
 
+## Ring of Fire Concept
+
+Iran's strategic concept for simultaneous multi-front pressure on Israel — Hezbollah from Lebanon, Hamas from Gaza, Houthis from Yemen, Iraqi militias from the east. Theory: Israel could handle any single front but not all four at once. Tested April 2023; Iran concluded **not ready** — proxies insufficiently coordinated.
+
+**Critical gap**: Soleimani's 2020 assassination removed the only person with personal authority and relationships to coordinate proxy timing. His successor Qaani lacked the charisma and standing. Result: Hamas's Sinwar launched October 7th on his own timeline, before the system was operational. Iran was pulled into consequences it hadn't authorized and couldn't respond to coherently.
+
+Ali Vaez (ICG): "Iran subcontracted its regional foreign policy to non-state actors with fundamentally different interests." **(confirmed by pattern)** — see [[2026 Iran conflict -- analyst perspectives#Ali Vaez (International Crisis Group) — March 14, 2026]].
+
 ## 2024-2025 Crisis: Leadership Decapitation
 **Unprecedented degradation of IRGC command structure:**
 - 12 senior commanders killed (mostly by Israeli strikes in June 2025)

@@ -123,6 +123,16 @@ Tier upgrades/downgrades signal:
 - Avoids alliance commitments that could entrap
 - Soft balancing without hard balancing risks
 
+## Case study: 2026 Iran conflict
+
+The [[2026 Iran conflict]] demonstrated the partnership model's crisis-time advantages. China maintains partnerships with both [[Iran]] and the Gulf states ([[Saudi Arabia]], [[UAE]], [[Oman]]) — a tightrope that a treaty-based system would make impossible, since mutual defense obligations to one side would automatically alienate the other.
+
+When the US and Israel struck Iran on February 28, China's response was calibrated non-commitment: a statement observers compared to "the kind of thing you would expect from Brussels" (Downs, Columbia CGEP), concern for attacks on the UAE (where China has economic assets), and a special envoy dispatched for mediation. No military involvement, no arms shipments, no public backing of either side. China's interests in the region — [[CNPC]]/[[CNOOC]] upstream assets in [[Iraq]], Chinese-built solar farms across the Gulf, and Chinese workers on the ground — required protecting relationships with both the target and the retaliators simultaneously.
+
+The contrast with the US alliance model is instructive. Washington's basing agreements with [[Bahrain]] and [[Kuwait]], its security commitments to [[Saudi Arabia]] and the UAE, and [[NATO]] Article 5 exposure (Iranian missiles hitting [[Cyprus]], triggering Greek military deployments) all created escalation vectors. China's partnership structure generated no such obligations — it could advocate restraint from all parties without being accused of abandoning an ally. The flexibility that [[Alliance Theory]] identifies as partnerships' core advantage over alliances played out exactly as the theory predicts: lower entrapment risk at the cost of lower credibility as a security guarantor. In this crisis, flexibility was the more valuable currency.
+
+See [[China energy security strategy]] for the energy exposure that shaped China's diplomatic calculus.
+
 ## Related Notes
 - [[Comprehensive Strategic Partnership]]
 - [[Community with a Shared Future]]
@@ -131,7 +141,10 @@ Tier upgrades/downgrades signal:
 - [[Alliance Theory]]
 - [[Belt and Road Initiative]]
 - [[Non-Alignment]]
+- [[2026 Iran conflict]] — case study of partnership flexibility in crisis
+- [[China energy security strategy]] — energy interests shaping diplomatic calculus
 
 ## Sources
 - Strüver, Georg. "China's Partnership Diplomacy" (2017)
 - State Council/Foreign Ministry partnership announcements
+- Bloomberg Odd Lots: "What War in Iran Means for Teapot Oil Refineries of China" (March 13, 2026) — Erica Downs on China's diplomatic positioning

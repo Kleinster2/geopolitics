@@ -4,6 +4,26 @@ Running log of vault changes by session.
 
 ---
 
+## 2026-03-14
+
+- edited [[2026 Iran conflict]] (Events) — March 11-14 timeline: IEA 400M barrel SPR release, Mojtaba Khamenei succession/first address, Kharg Island military strikes, KC-135 crash (6 US killed), Lebanon Litani bridge/ground expansion, 3 NATO intercepts over Turkey, Pezeshkian ceasefire terms, Houthi restraint, maritime campaign expansion (Kuwait sea drone), war powers votes failed; updated casualties to Day 15; added succession section; 20 new sources
+- created [[Daily/2026-03-14]] (Daily) — Day 15 catch-up session
+- edited [[2026 Iran conflict]] (Events) — DOE SPR emergency exchange (86M barrels, exchange mechanism, March 13); Horsnell (OIES 2000) exchange mechanism critique; Meidan (OIES March 2026) China Gulf energy exposure analysis; Vakil (Chatham House, FT) Iraq 1991 parallel; 4 new sources
+- created [[Sanam Vakil]] (Analysts) — Chatham House MENA director; Iraq 1991 parallel, containment-to-war cycle
+- edited [[Analysts/Index]] — Added Vakil, Farmanfarmaian
+- edited [[2026 Iran conflict]] (Events) — Farmanfarmaian/Ozcelik (RUSI) analyst perspective: pre-war protest-to-war conditions, collapse vs. transition, "Goldilocks" gamble; 2 new sources
+- created [[Roxane Farmanfarmaian]] (Analysts) — RUSI/Cambridge; pre-war structural stress test, collapse vs. transition framework, US credibility trap
+- edited [[2026 Iran conflict]] (Events) — March 14 breaking: US Embassy Baghdad struck, Iran threatens UAE ports (Jebel Ali), Prince Sultan AB hit, 31st MEU deploying, Mojtaba "likely disfigured," Trump rejects ceasefire, Brent $103, polling 56% oppose, Lebanon ground op trigger; updated casualties; 10 new sources
+
+## 2026-03-12
+
+- created [[Marc Lynch]] (Analysts) — GWU professor; Gulf politics, Arab media; "The United States Could Lose the Gulf" (*Foreign Policy*, March 5, 2026)
+- edited [[2026 Iran conflict]] (Events) — Added Lynch analyst perspective: Iran's three-level Gulf strategy, Gulf betrayal, Saudi-Emirati split; added to Related and Sources
+- edited [[Abraham Accords]] (Events) — Added 2026 Iran War Impact section: forced cooperation, underlying tensions, post-war outlook
+- edited [[Iran-Saudi Rivalry]] (Events) — Status updated from "thawing" to "shattered by 2026 war"; added war section
+- edited [[Saudi Arabia]] (Actors) — Added 2026 Iran War section: direct impact, strategic caution, Saudi-Emirati split, US relationship strain
+- edited [[Analysts/Index]] — Added Lynch
+
 ## 2026-03-08
 
 - created [[Edward Fishman]] (Thinkers) — CFR Center for Geoeconomic Studies director; sanctions architect (Obama-era Russia/Iran); *Chokepoints* (2025)

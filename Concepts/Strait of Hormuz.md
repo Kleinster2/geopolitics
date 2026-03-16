@@ -110,6 +110,40 @@ The SPR release is a political tool: it signals "we're doing something" and brie
 
 ---
 
+### Selective blockade — Iran-to-China flows (March 11)
+
+The blockade is selective by design. On March 5, [[IRGC]] declared Hormuz closed only to US, Israeli, and Western-allied ships. Iranian shadow fleet tankers keep transiting freely, all bound for [[China]].
+
+- Iran exported 13.7–16.5M barrels of crude since Feb 28 (TankerTrackers / [[Kpler]])
+- Export rate ~1.1–1.5M bbl/day wartime vs 2.17M pre-war
+- 100% of exports to China
+- Tankers sail within Iranian EEZ (12-24 nm), AIS transponders off
+- US has not interdicted — unlike [[Venezuela]] naval blockade (Jan 2026)
+
+The non-interdiction is a deliberate US strategic choice: seizing Iranian tankers would remove Iran's incentive to keep Hormuz even partially open. The blockade devastates Gulf neighbors' exports while Iran maintains revenue — the strait is weaponized as a competitive tool.
+
+*Sources: CNBC, Reuters (March 11, 2026)*
+
+### US planning and preparedness (March 12-15)
+
+CNN reported (March 12) that the Pentagon and NSC **significantly underestimated Iran's willingness to close the strait** while planning Operation Epic Fury.
+
+A 2007 Heritage Foundation wargame had predicted this exact scenario — Iran closes Hormuz, tanker sunk by mine, oil to $150 — and recommended a mitigation package (freedom of navigation, SPR release, regulatory relief, emergency defense appropriation, consumer assistance). Bill Beach (Heritage): *"We've been stuck in this Groundhog Day with Iran for the past 20 years."*
+
+Specific operational gaps identified by [[Robin Mills]] (Qamar Energy, The National, March 15):
+
+- In January 2026 — weeks before strikes — the US decommissioned its only 4 purpose-built minesweepers in Bahrain. Replacement untested.
+- Interceptor drones not dispatched until 2 weeks into the war
+- 31st MEU ordered from Japan — 2 weeks to arrive (Mills: "the Dead Men of Dunharrow")
+- SPR at ~415M of 714M bbl capacity (barely half full)
+- No plans for helium disruption (Qatar produces ~36% of global supply, critical for chip manufacturing)
+
+Contrast: Gulf states (UAE, Saudi Arabia) had bypass pipelines activated, protected underground strategic stocks, and air defenses performing well. The region prepared; the US did not.
+
+*Sources: CNN (March 12), Washington Examiner (March 12), The National (March 15)*
+
+---
+
 ## Historical precedents
 
 ### Tanker War (1984-1988)
@@ -134,3 +168,8 @@ Iran and Iraq attacked commercial shipping during the Iran-Iraq War. The US cond
 - FGE: disruption estimates (March 2, 2026)
 - Robin J. Brooks: [The Blockade of the Straits of Hormuz](https://robinjbrooks.substack.com/p/the-blockade-of-the-straits-of-hormuz) (March 9, 2026)
 - Robin J. Brooks: [Oil Tanker Traffic in the Straits of Hormuz](https://robinjbrooks.substack.com/p/oil-tanker-traffic-in-the-straits) (March 8, 2026)
+- CNN: [Pentagon and NSC underestimated Hormuz closure](https://www.cnn.com/2026/03/12/politics/hormuz-trump-administration-underestimated-iran) (March 12, 2026)
+- Washington Examiner: [Heritage Foundation 2007 wargame](https://www.washingtonexaminer.com/news/washington-secrets/4489446/wargame-iran-blockade-strait-of-hormuz/) (March 12, 2026)
+- The National: [US response becoming a farce — Robin Mills](https://www.thenationalnews.com/business/energy/2026/03/15/did-the-us-account-for-strait-of-hormuz-closure-in-its-iran-war-plan/) (March 15, 2026)
+- CNBC: [Iran ships oil to China through closed Hormuz](https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html) (March 11, 2026)
+- Reuters: [Iranian oil flows while neighbors' exports shut](https://www.reuters.com/business/energy/iranian-oil-flows-through-strait-hormuz-even-gulf-neighbors-exports-shut-2026-03-11/) (March 11, 2026)
