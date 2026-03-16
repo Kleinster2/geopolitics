@@ -126,16 +126,25 @@ The shadow war was structurally asymmetric. Israel conducted far more offensive 
 | 2010 | Israel + US | Stuxnet deployed against Natanz centrifuges | Offensive (cyber) |
 | 2010-12 | Israel (attributed) | Four nuclear scientists assassinated inside Iran | Offensive |
 | 2012 | Iran (attributed) | Attacks on Israeli diplomats (India, Georgia, Thailand) | Retaliatory |
-| 2013-2023 | Israel | "Campaign Between Wars" — hundreds of strikes on Iranian targets in Syria, 100+ annually | Offensive (sustained) |
+| 2013-2023 | Israel | "Campaign Between Wars" — hundreds of strikes on Iranian targets in Syria, 100+ annually. **Deliberately avoided killing IRGC personnel** — considered a red line that could spark wider war. | Offensive (sustained, restrained) |
 | 2015 | Multilateral | JCPOA signed — Iran accepts nuclear restrictions | Diplomatic |
 | 2018 | Israel (lobbying) | Netanyahu campaigns for US JCPOA withdrawal; Trump withdraws | Political escalation |
 | 2018 | Israel | Netanyahu reveals Iranian "nuclear archive" (Mossad operation) | Intelligence/political |
 | 2020 Jan | US | Soleimani assassination (Baghdad) — removed the coordinator of Iran's proxy network | Offensive |
 | 2020 Nov | Israel (attributed) | Mohsen Fakhrizadeh assassination (remote weapon, Iran) | Offensive |
 | 2020-21 | Israel (attributed) | Natanz sabotage operations (explosions) | Offensive |
-| 2023 Dec | Israel | Razi Mousavi (IRGC) killed in Damascus — shift to targeting senior personnel post-Oct 7 | Offensive |
-| 2024 Jan-Mar | Israel | 5+ additional IRGC commanders killed in Syria | Offensive (accelerated) |
-| **2024 Apr 1** | **Israel** | **[[2024 Damascus consulate strike]] — diplomatic compound attacked** | **Offensive (threshold)** |
+| **2023 Oct 7** | **Hamas** | **Al-Aqsa Flood — 1,200 Israelis killed, ~250 hostages. Iran's role disputed: WSJ reported Iranian green light; US intelligence initially assessed Iran was surprised; Iran denied planning role. Long-term Iranian funding/training confirmed.** | **Offensive (proxy)** |
+| 2023 Oct 8 | Hezbollah | Opens northern front — rockets/shells at Shebaa Farms "in solidarity with Palestinians." Sustained campaign: 10,200+ cross-border attacks total through July 2024. | Offensive (proxy/solidarity) |
+| 2023 Oct 19 | Houthis | First major intervention — USS Carney intercepts 4 cruise missiles and 15 drones aimed at Israel. Attacks escalate to near-daily by December. | Offensive (proxy/solidarity) |
+| 2023 Oct 17+ | Iraqi militias | "Islamic Resistance in Iraq" initiates 170+ attacks on US bases in Syria, Iraq, Jordan over 4 months. Tower 22 attack (Jan 28, 2024) kills 3 US service members. | Offensive (proxy) |
+| | | **--- QUALITATIVE SHIFT: Israel moves from targeting infrastructure to targeting IRGC personnel by name. Times of Israel (Feb 27, 2024): "no longer afraid of sparking war, Israel takes gloves off against IRGC in Syria." Iran International: 18 IRGC commanders killed in ~6 months vs. pre-Oct 7 norm of zero. ---** | |
+| 2023 Dec 2 | Israel | BG Panah Taghizadeh and BG Mohammad Ali Ataei killed (Sayyidah Zaynab, Damascus) | Offensive (new pattern) |
+| 2023 Dec 25 | Israel | **Razi Mousavi** killed — senior Quds Force logistics coordinator, longtime Soleimani associate, coordinated Iran-Syria-Hezbollah arms pipeline since 1980s | Offensive (escalation) |
+| 2024 Jan 2 | Israel | **Saleh al-Arouri** killed (Beirut) — Hamas deputy political leader, killed in Hezbollah's Dahieh stronghold by drone strike. First Israeli strike in Beirut since 2006. Nasrallah had warned Israel against targeting Hamas leaders there. | Offensive (geographic escalation) |
+| 2024 Jan 8 | Israel | **Wissam al-Tawil** killed — deputy commander, Hezbollah's elite Radwan Force (south Lebanon) | Offensive |
+| 2024 Jan 20 | Israel | **Hojjatollah Omidvar** killed — deputy intelligence chief of Quds Force in Syria, one of Soleimani's deputies. 4 additional IRGC officers killed alongside. | Offensive (up the chain) |
+| 2024 Feb-Mar | Israel | Additional IRGC "advisers" killed: Saeed Alidadi (Feb 2), Reza Zarei (Mar 1, Syrian coast — geographic expansion), Col. Behrouz Wahedi + 16 IRGC forces (Mar 26, Deir ez-Zor) | Offensive (sustained) |
+| **2024 Apr 1** | **Israel** | **[[2024 Damascus consulate strike]] — BG Zahedi (Quds Force commander for Lebanon/Syria, only Iranian on Hezbollah's Shura Council) + 7 IRGC officers killed in consular compound** | **Offensive (threshold)** |
 | 2024 Apr 13-14 | Iran | Operation True Promise — first-ever direct attack on Israel (300+ weapons, telegraphed, minimal damage) | **Retaliatory** |
 | 2024 Apr 19 | Israel | Limited strike near Isfahan (air defense battery) | Retaliatory/de-escalation |
 | 2024 Jul 31 | Israel | Ismail Haniyeh assassinated in Tehran (government guest house) | Offensive |
@@ -150,11 +159,13 @@ The shadow war was structurally asymmetric. Israel conducted far more offensive 
 
 ### The pattern
 
-**Israeli offensive actions**: ~25+ major operations (assassinations, sabotage, cyber, air campaigns, wars) across 16 years, mostly initiated without a proximate Iranian provocation.
+**Israeli offensive actions**: ~30+ major operations (assassinations, sabotage, cyber, air campaigns, wars) across 16 years. Post-October 7, the targeting shifted qualitatively from infrastructure to named IRGC personnel — 18 commanders killed in ~6 months against a baseline of deliberately avoiding IRGC casualties.
+
+**The post-October 7 escalation ladder** moved systematically up the chain: mid-level brigadier generals (December 2) → senior Quds Force coordinator (December 25) → deputy intelligence chief (January 20) → the commander of all Quds Force operations in Lebanon/Syria (April 1). Simultaneously, geographic boundaries were crossed: Beirut (Arouri, January 2 — first Israeli strike there since 2006), the Syrian coast (Baniyas, March 1), eastern Syria (Deir ez-Zor, March 26), and finally sovereign diplomatic territory (the consulate, April 1).
 
 **Iranian direct actions against Israel**: 3 total (True Promise I, True Promise II, 2026 retaliation) — all explicitly retaliatory. Iran's two 2024 attacks were responses to the consulate strike and the Nasrallah/Haniyeh killings respectively.
 
-**Iranian proxy operations**: Sustained (Hezbollah, Hamas, Houthis, Iraqi militias), but these were part of the "ring of fire" deterrence architecture — a structure Israel systematically dismantled.
+**Iranian proxy operations**: Hezbollah, Houthis, and Iraqi militias all activated in solidarity with Gaza after October 7 — a genuine threat but framed as a support front, not an independent offensive. Hamas's October 7 itself was the most consequential Iranian-backed operation, though Iran's direct planning role remains disputed.
 
 ### Analytical framing
 
@@ -188,7 +199,9 @@ The ledger is lopsided: Israel conducted the overwhelming majority of offensive 
 3. **Rhetoric vs. action**: Iran's stated policy of Israel's destruction is a standing provocation, even if operationally Iran showed restraint
 4. **The nuclear latency question**: Iran's enrichment to 60% created a threshold capability that Israel viewed as existential regardless of whether a weapons decision had been taken
 
-The most defensible synthesis: Israel drove the kinetic escalation; Iran provided the strategic threat environment that Israeli hawks used to justify each step. Neither side is solely responsible, but the escalation initiative was overwhelmingly Israeli — and the chain from the Damascus consulate strike through Operation Epic Fury is a direct, traceable sequence of Israeli-initiated actions and Iranian retaliations.
+The most defensible synthesis: Israel drove the kinetic escalation; Iran provided the strategic threat environment that Israeli hawks used to justify each step. Neither side is solely responsible, but the escalation initiative was overwhelmingly Israeli. The post-October 7 period is particularly revealing: Israel moved from a decade-long policy of *deliberately avoiding* IRGC casualties to killing 18 IRGC commanders in six months, systematically ascending the seniority chain until it struck the consular compound itself. Each step broke a previous taboo — and each Iranian response was retaliatory, calibrated, and often telegraphed.
+
+The chain from the Damascus consulate strike through Operation Epic Fury is a direct, traceable sequence: Israeli-initiated actions → Iranian retaliations → Israeli escalation to the next level → Iranian retaliations at greater scale → full war.
 
 ---
 
@@ -344,11 +357,14 @@ See **Escalation Ledger** above for the full chronological record with attributi
 | 2008 | Mughniyeh assassination | Israel |
 | 2010 | Stuxnet | Israel + US |
 | 2010-12 | Nuclear scientist assassinations | Israel |
-| 2013-23 | Campaign Between Wars (Syria) | Israel |
+| 2013-23 | Campaign Between Wars (Syria, avoided IRGC kills) | Israel |
 | 2015 | JCPOA signed | Multilateral |
 | 2018 | US JCPOA withdrawal (Netanyahu lobbied) | Israel/US |
 | 2020 | Soleimani assassination | US |
 | 2020 | Fakhrizadeh assassination | Israel |
+| 2023 Oct 7 | Hamas Al-Aqsa Flood; proxies activate across region | Iran-backed (planning role disputed) |
+| 2023 Oct-2024 Mar | **18 IRGC commanders killed in Syria** (vs. zero baseline) | Israel (qualitative shift) |
+| 2024 Jan 2 | Arouri killed in Beirut (first strike there since 2006) | Israel |
 | 2024 Apr | Damascus consulate strike → True Promise | Israel → Iran retaliatory |
 | 2024 Jul-Oct | Haniyeh/Nasrallah killed → True Promise II | Israel → Iran retaliatory |
 | 2025 Jun | Twelve-Day War | Israel + US |
@@ -393,3 +409,12 @@ See **Escalation Ledger** above for the full chronological record with attributi
 - [RAND - The Israel-Iran Detente Won't Last (Jan 2026)](https://www.rand.org/pubs/commentary/2026/01/the-israel-iran-detente-wont-last.html)
 - [Geopolitical Monitor - High-Risk Equilibria (Jan 2026)](https://www.geopoliticalmonitor.com/israel-strike-prospects-on-iran-in-2026-high-risk-equilibria/)
 - CNN interview with FM Abbas Araghchi (Feb 2026)
+- [Times of Israel - Israel takes gloves off against IRGC in Syria (Feb 27, 2024)](https://www.timesofisrael.com/no-longer-afraid-of-sparking-war-israel-takes-gloves-off-against-irgc-in-syria/)
+- [Iran International - 18 IRGC Commanders Killed Since October 7 (Apr 4, 2024)](https://www.iranintl.com/en/202404041741)
+- [Carnegie Endowment - Israel Has Killed Senior IRGC Quds Force Officials (Apr 2024)](https://carnegieendowment.org/middle-east/diwan/2024/04/israel-has-killed-senior-irgc-quds-force-officials-in-damascus)
+- [Al Jazeera - Senior Hamas official killed in Beirut suburb (Jan 2, 2024)](https://www.aljazeera.com/news/2024/1/2/top-hamas-official-saleh-al-arouri-killed-in-beirut-suburb)
+- [Al Jazeera - Israeli air strike kills top Iranian military adviser (Dec 25, 2023)](https://www.aljazeera.com/news/2023/12/25/israeli-air-strike-in-syria-kills-top-iranian-general)
+- Paul Pillar, "Biden is letting Israel trap the US into war with Iran," *Responsible Statecraft* (Oct 7, 2024)
+- Paul Pillar, "Israel is luring the US into a trap," *Responsible Statecraft* (Jun 20, 2025)
+- Trita Parsi, "Escalation Ladder," *New Left Review Sidecar* (Mar 12, 2026)
+- Farah Jan, "The Blank Check for Israel and the War with Iran," *War on the Rocks* (Mar 12, 2026)
