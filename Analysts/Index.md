@@ -37,6 +37,12 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 ## Diplomacy / Intelligence
 - [[Simon Gass]] - Former UK ambassador to Iran, JIC chair, JCPOA lead negotiator; Iran power structure, Hormuz trigger thesis
 
+## Defense / Strategy
+- [[Emile Hokayem]] - IISS director of regional security; Iran war phase analysis, sustainment burden, cruise missile reserve thesis
+
+## Maritime / Institutional
+- [[Arsenio Dominguez]] - IMO secretary-general, escorts unsustainable, shipping lane geometry, stranded ships humanitarian crisis
+
 ## Military / Naval
 - [[Farzin Nadimi]] - Washington Institute, Iran naval forces, mine warfare
 - [[Tom Shugart]] - CNAS, former submarine commander, naval strategy

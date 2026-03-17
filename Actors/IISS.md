@@ -200,6 +200,9 @@ London-based think tank focused on defense, security, and strategic affairs. Kno
 
 ## Notable Analysis
 
+### 2026 Iran conflict (March 2026)
+[[Emile Hokayem]] (director of regional security) published assessment arguing that despite stunning operational metrics (13,000+ strikes), the US-Israel campaign has not produced strategic success. Iran retains advantages of geography, time, and "superior pain tolerance." Identified the cruise missile reserve theory — Iran may have held back cruise missiles for close combat at the Strait of Hormuz.
+
 ### Northwood Declaration (2025)
 IISS Strategic Comments (September 2025) described UK-France nuclear agreement as "most far-reaching step yet in UK-France nuclear cooperation." Significant given IISS's measured, non-hyperbolic tone.
 

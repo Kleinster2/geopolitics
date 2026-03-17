@@ -218,7 +218,7 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 - All 6 US airmen confirmed dead in a KC-135 refueling plane crash in western Iraq. CENTCOM stated it was "not due to hostile fire or friendly fire" (confirmed, NPR).
 
 **Campaign-wide attrition:**
-- ~6,000 targets struck in Iran total by Day 14 (confirmed, CNN).
+- ~6,000 targets struck in Iran total by Day 14 (confirmed, CNN). Hokayem (IISS) counted over 13,000 individual strikes in two weeks — the higher figure counts multiple strikes per target.
 - Over 90 Iranian vessels destroyed or damaged, including 30+ mine-laying ships (confirmed, Pentagon).
 - Hegseth: Iranian drone assaults "down 95%" (confirmed, DefenseScoop). Hudson Institute analyst Can Kasapoglu assessed missile and drone salvos declined 70-85% from Day 1 levels.
 
@@ -250,8 +250,9 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 **Prince Sultan Air Base struck:**
 - 5 US Air Force refueling tankers struck and damaged on the ground at Prince Sultan Air Base in [[Saudi Arabia]] by Iranian strikes. Tankers being repaired, not destroyed (confirmed, NBC News).
 
-**31st MEU deploying:**
-- USS Tripoli (amphibious assault ship) and 2,500 additional Marines from the 31st Marine Expeditionary Unit ordered to the Middle East (confirmed, RealClearDefense).
+**31st MEU deploying; force posture strains:**
+- USS Tripoli (amphibious assault ship) and 2,500 additional Marines from the 31st Marine Expeditionary Unit ordered from Okinawa to the Middle East (confirmed, RealClearDefense).
+- Air defense systems redeployed from the Korean peninsula (reported, Hokayem/IISS). Combined with MEU rush and warship requests to allied/non-allied navies, Hokayem assessed these as "not indicators of sound forecasting and well-thought-through planning."
 
 **Lebanon — trigger for massive ground operation:**
 - Hezbollah launched 200+ missiles coordinated with Iranian salvos on March 12, triggering Israel's decision to plan largest ground operation since 2006. Senior Israeli official: "Before this attack we were ready for a ceasefire in Lebanon, but after it there is no way back from a massive operation" (reported, Axios, Times of Israel).
@@ -390,6 +391,32 @@ Operational power concentrated in **Ali Larijani** (national security adviser �
 - US has not interdicted Iranian tankers — unlike the [[Venezuela]] naval blockade. Logic: seizing Iranian tankers removes Iran's incentive to keep Hormuz even partially open.
 - The blockade is weaponized against Gulf neighbors' exports while Iran's own revenue keeps flowing.
 
+### March 16 — Fujairah struck, vessels stranded
+
+**Fujairah port:**
+- Satellite imagery (NASA/Reuters) showed smoke billowing from Fujairah port in [[UAE]] — one of the region's key bunkering hubs and terminus of the Habshan-Fujairah oil bypass pipeline.
+
+**Vessel count:**
+- Iran has struck at least **18 vessels** in the Gulf region since February 28 (confirmed, FT).
+- Only **47 cargo vessels and tankers** transited the [[Strait of Hormuz]] between March 2-14 (UK Maritime Trade Operations) — approximately 4% of normal traffic. Several belong to Greek shipowner [[George Prokopiou]]; two delivering oil to [[India]].
+
+**Stranded ships:**
+- IMO raised alarm over ships stuck in the Gulf running out of food, water, and fuel. Port access limited because port facilities are being targeted.
+- IMO asking shipping companies to report supply levels to identify ships most in need with aid.
+
+### March 17 — Trump FT interview, IMO rejects escort solution
+
+**Trump FT interview (March 17):**
+- Threatened a "very bad future" for [[NATO]] if European allies did not join the US escort effort (confirmed, FT).
+- Reiterated he would delay the planned [[Xi Jinping]] summit if [[China]] did not provide assistance.
+- Argued Europe and China are far more reliant on Gulf oil than the US.
+
+**IMO secretary-general assessment:**
+- [[Arsenio Dominguez]] (IMO): naval escorts will "not 100 per cent guarantee" safety of ships; military protection "not a long-term or sustainable solution" (FT, March 17).
+- Called on shipowners "not to sail and not to put seafarers at risk" until de-escalation.
+- "We are collateral damage of a conflict when the root causes have nothing to do with shipping."
+- IMO extraordinary council scheduled March 19-20.
+
 ---
 
 ## US planning and preparedness failures
@@ -477,6 +504,15 @@ Rachman (FT, March 16): "A conflict with Iran that started with vague war aims n
 
 Iran's faster retaliation compared to the Twelve-Day War indicates pre-positioned assets or delegation of launch authority. The geographic spread — hitting Israel, Bahrain, Saudi Arabia, Kuwait, Qatar, Oman, and Cyprus — shows a "maximum pain" doctrine: if the regime falls, damage as many regional adversaries as possible. The Strait of Hormuz closure (if confirmed) is the most consequential escalation mechanism.
 
+**Deliberate targeting prioritization** (Hokayem, IISS): Iran's targeting is strategic, not indiscriminate. Tehran chose cost-imposition over territorial defense, prioritizing GCC targets over Israel:
+- **UAE**: bore the brunt of retaliation
+- **Kuwait and Bahrain**: secondary targets
+- **Saudi Arabia**: comparatively spared — but one-third of drones fired at the kingdom targeted the **Shaybah** oil site
+- **Israel**: deprioritized — depleted missile stocks cannot achieve decisive effect against a better-protected country with a hardened population
+- **Energy infrastructure** systematically targeted across categories: production, refining, loading, and transport
+
+**Cruise missile reserve** (Hokayem): Iran has fired relatively few cruise missiles — a mystery given their arsenal. The likelier explanation: held back "as a particularly useful capability for close combat in the Strait of Hormuz." This suggests phase 2 escalation at the strait could be considerably more dangerous.
+
 ### Escalation risks
 
 - Strait of Hormuz closure: ~14 million bbl/day transits this chokepoint, roughly one-third of global seaborne crude. Prolonged closure would constitute the most significant oil supply disruption since the 1973 embargo.
@@ -544,7 +580,7 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Fred Kagan]] — hawkish analyst perspective
 - [[Rafael Grossi]] — IAEA, no evidence of nuclear weapons program
 - [[Marco Rubio]] — admitted Israel driving force, missiles as objective
-- [[Vali Nasr]] — Johns Hopkins SAIS, performative diplomacy thesis, Israel's "Sunni axis" ambitions
+- [[Vali Nasr]] — Johns Hopkins SAIS, performative diplomacy thesis, Israel's "Sunni axis" ambitions, "last war" thesis
 - [[Pete Hegseth]] — "this is not Iraq" claim
 - [[Joseph Votel]] — former CENTCOM commander, mine warfare/munitions sustainability assessment
 - [[Karen Young]] — MEI energy economist, GCC existential threat framing
@@ -567,6 +603,7 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Bill Beach]] — Heritage Foundation 2007 wargame economist, "Groundhog Day" assessment
 - [[Mark Kelly]] — Sen. (D-AZ), former Navy combat pilot, cost asymmetry critique ("the math doesn't work")
 - [[Simon Gass]] — Former UK ambassador to Iran, JIC chair, JCPOA lead negotiator; existential trigger thesis, three-failures diplomacy framework, fatwa lapsing
+- [[Emile Hokayem]] — IISS director of regional security; phase analysis, sustainment burden, cruise missile reserve thesis, Iran's deliberate GCC targeting prioritization
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid
@@ -597,6 +634,7 @@ See **[[2026 Iran conflict -- analyst perspectives]]** for full analyst assessme
 - CNN: [CIA arming Kurdish forces](https://www.cnn.com/2026/03/03/politics/cia-arming-kurds-iran) (March 3, 2026)
 - Washington Times: [State Dept tells Americans it can't evacuate](https://www.washingtontimes.com/news/2026/mar/4/state-department-tells-americans-middle-east-cant-evacuate-amid-iran/) (March 4, 2026)
 - Al Jazeera, The Bottom Line: [Vali Nasr — Iran war: Redrawing the map of the Middle East, Israeli style?](https://www.aljazeera.com/video/the-bottom-line/2026/3/4/iran-war-redrawing-the-map-of-the-middle-east-israeli-style) (March 4, 2026)
+- Bloomberg, The Mishal Husain Show: Vali Nasr interview — "last war" thesis, Mojtaba Khamenei, nuclear/India-Pakistan model, maximum pressure radicalization (March 17, 2026)
 - Al Jazeera: [Netanyahu says Israel will forge regional alliance to rival 'radical axes'](https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis) (February 22, 2026)
 - The Media Line: [Bennett warns of emerging axis at Conference of Presidents](https://themedialine.org/headlines/the-new-iran-bennett-warns-of-emerging-axis-at-conference-of-presidents/) (February 17, 2026)
 - Salon: [Hegseth denies US attack on Iran is another forever war](https://www.salon.com/2026/03/02/this-is-not-iraq-hegseth-denies-that-us-attack-on-iran-is-another-forever-war/) (March 2, 2026)

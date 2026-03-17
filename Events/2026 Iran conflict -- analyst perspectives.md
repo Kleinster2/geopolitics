@@ -752,3 +752,102 @@ Reports functional successor government but notes it has never been tested again
 - Abraham Accords: some in UAE and Bahrain "will be saying, was it right for us to enter the Abraham Accords... not looking quite such a good bet"
 
 **Assessment**: Gass is the most credentialed Western analyst on Iranian decision-making in the vault — direct diplomatic experience, intelligence oversight, and JCPOA negotiation. His "existential trigger" thesis (Trump's Day 1 regime-change rhetoric activated Hormuz) is the clearest causal explanation for why Iran deployed its ultimate deterrent. His three-failures diplomacy framework explains why the IRGC sees no path to talks. Compare with Bohl's structural resilience argument (regime is a network, not a hierarchy) — Gass adds the motivational layer: the system doesn't just survive because of structure, but because defiance is its founding ideology. His fatwa observation — that the religious prohibition on nuclear weapons died with Ali Khamenei — is a significant detail for the post-war nuclear landscape.
+
+---
+
+### Emile Hokayem (IISS) — March 17, 2026
+
+**Source**: FT, "Who is winning the Middle East war?" (March 17, 2026)
+
+[[Emile Hokayem]] (director of regional security, [[IISS]]) argues that despite stunning operational metrics, the US-Israel campaign has not produced strategic success — and Iran retains structural advantages that metrics cannot capture.
+
+**On the military balance:**
+- First phase — "pre-planned, highly scripted and methodical" — appears to be closing
+- Over 13,000 strikes in two weeks; Iran's leadership and infrastructure losses "staggering"
+- But "pure metrics and technological supremacy don't tell the whole story about a war's trajectory"
+- "For every gung-ho retired general on television, there is another quiet one shaking his head"
+
+**On US force posture strains:**
+- MEU rushed from Okinawa, air defense systems redeployed from Korean peninsula
+- Washington urging navies "from ambivalent if not unfriendly countries" to deploy
+- "Not indicators of sound forecasting and well-thought-through planning"
+- Sustainment burden: How many ships for tanker escorts? How many aircraft kept airborne? How many interceptors consumed?
+
+**On Iran's deliberate targeting strategy:**
+- Tehran chose cost-imposition over territorial defense
+- **Prioritization sequence**: UAE (bore the brunt) → Kuwait and Bahrain → Israel (deprioritized — depleted missile stocks cannot achieve decisive effect against a hardened population)
+- **Energy infrastructure** systematically targeted: production, refining, loading, transport
+- Saudi Arabia comparatively spared — but one-third of drones fired at the kingdom targeted the Shaybah oil site
+- Hormuz paralysis "defied expectations that the US had gamed this war out"
+- Interception rate graphs hide interceptor consumption and whether Iranian targeting has improved
+
+**On phase 2:**
+- Israel: continued military destruction plus targeting of IRGC and Basij coercive apparatus
+- US: restore maritime traffic, improve Arab partner defense, adapt to Iran's adaptations
+- Iran: may deploy weapons not yet seen — the **cruise missile mystery**: Iran has fired relatively few cruise missiles. The optimistic interpretation: destroyed on the ground. The likelier one: "held back as they are a particularly useful capability for close combat in the Strait of Hormuz"
+
+**On Iran's structural advantages:**
+- **Geography**: can target more countries and areas from more positions
+- **Time**: the longer the war, the greater the cost to everyone else
+- **Asymmetry**: can impose disproportionate costs
+- **Pain tolerance**: "superior pain tolerance" — "when survival is the goal, anything goes"
+
+**Ukraine parallel:**
+- Russia-Ukraine lessons apply: faulty assumptions deny victory to the stronger force; no single weapons system is decisive; adaptation gives temporary advantage before being matched; social resilience underpins military power
+
+**Assessment**: Hokayem represents the IISS institutional view — technically grounded, data-informed, but skeptical of equating operational metrics with strategic success. His framework complements Gass's "existential trigger" thesis (why Iran deployed Hormuz) by adding the sustainment dimension (why the US can't sustain its response). His cruise missile reserve theory is significant: if Iran has held back cruise missiles for close-combat at Hormuz, phase 2 escalation could be considerably more dangerous than phase 1. His deliberate targeting prioritization analysis — UAE first, Israel deprioritized — challenges the assumption that Israel was the primary target.
+
+---
+
+### Vali Nasr (Johns Hopkins SAIS) — March 17, 2026
+
+**Source**: Bloomberg, *The Mishal Husain Show* — interview with Mishal Husain
+
+[[Vali Nasr]] (Johns Hopkins SAIS, former Obama State Dept) argues Iran has committed to what he calls a "last war" strategy: either Iran permanently changes the US cost calculus, or the Islamic Republic collapses. There is no middle ground.
+
+**On the "last war" thesis:**
+- Iran is "not ready to quit. They've put their teeth into the United States and they're not ready to let go."
+- "This has to be the last war. Either they go down or the United States and Israel will abandon the idea that they could go into Iran and have a war every six months or at will."
+- Pain threshold: "They think the United States and Israel can dash a lot faster, but they're not really long-distance runners."
+- Iran's specific war aims: sanctions lifted, Israel out of Lebanon, US bases out of the region.
+- Gulf strategy: convincing Gulf states that "the US bases are not really there to protect them; they're there to wage war against Iran and invite war on the Gulf."
+
+**On Mojtaba Khamenei:**
+- "Very intimately involved in the whole process of shaping the Revolutionary Guard over the past 25 years. He's very tight with them."
+- Earned legitimacy through suffering: "He replicates Shia saints or mythical Iranian heroes."
+- A new generation of younger IRGC commanders has risen — "who fought against the US and ISIS in Syria and Iraq," not the Iran-Iraq War generation. Different operational culture.
+- The Supreme Leader office has been "metamorphosing" away from pure theological credentials: "Neither had his father."
+
+**On rally-around-flag vs. anti-regime sentiment:**
+- War has created a new political binary: **"Are you for war or are you against war?" replacing "Are you for the regime or against the regime?"**
+- "Increasingly, anti-regime Iranians are saying: At this particular moment, it's not the time to have our internal fight over politics, but to support the country."
+- Outside the West, Iran enjoys "huge amounts of support for standing up to Donald Trump."
+- No quick uprising: "If he was looking for a quick political uprising in Iran, it won't happen until the dust of this war settles."
+
+**On nuclear weapons:**
+- "The door is open." Khamenei's fatwa against nuclear weapons "is no longer valid" — Shia followers don't follow dead ayatollahs.
+- Iran's 20-year strategy of maintaining an open, IAEA-monitored civilian program "was a mistake. They should have followed in the India-Pakistan model."
+- Future is either abandonment (unlikely) or "much more military and secret" development.
+
+**On maximum pressure as radicalizer:**
+- From *Iran's Grand Strategy* (2025): 14% contraction in per capita income (2018-2022), 11% rise in poverty.
+- JCPOA counterfactual: Rouhani estimated 35% middle class growth if the deal lasted 10 years. Instead, "20% of Iran's middle class within the first two years fell under the poverty belt."
+- Thesis: "A poorer society under economic pressure becomes more authoritarian and more radical."
+- "The more hardline, hard-headed leadership rose to the helm."
+
+**On Iran's "global guerrilla strategy":**
+- "They cannot fight this in a conventional way. Nobody will help them."
+- Build militias far from borders, help Russia for UN vetoes, needle Arab countries to raise costs of supporting the US.
+- "It has often backfired. It won them the enmity of the Arab world."
+
+**On Reza Pahlavi:**
+- Popularity but "he never invested in building a ground game in Iran — an actual organization and movement."
+- Alliance with Israel and US "runs against the grain of Iranian nationalism."
+- Two poles of Iranian power since the 1500s: monarchy and clergy. When one fails, the other becomes the alternative.
+
+**On territorial integrity fears:**
+- Trump's threats about Iran's borders "not being the same" unify even regime opponents.
+- "They are really worried at the price that the country itself might pay."
+- If the state collapses and neighbors + US + Israel support separatist groups, fragmentation is possible.
+
+**Assessment**: Nasr's third interview in the vault on this war, and his framing has sharpened from structural analysis (January: regime is resilient) to loss-of-control critique (March 4: US lost control, Israel's war goals marketed as America's) to what may be his most consequential contribution — the "last war" thesis. If correct, Iran is not simply enduring strikes or waiting for a ceasefire; it is actively seeking to permanently change the cost calculus of future US intervention. This reframes the war from a military campaign with a definable endpoint to a test of which side's political will breaks first. His maximum pressure radicalization argument complements this: the very policy designed to moderate Iran created the hardened leadership now executing the "last war" strategy. The JCPOA counterfactual — middle class growth as constituency for change vs. impoverishment as constituency for radicalism — is his most politically loaded argument, essentially attributing the current war to Trump's 2018 JCPOA withdrawal. Compare with Gass (existential trigger/Hormuz), Hokayem (sustainment burden), and Bohl (structural resilience) — Nasr adds the motivational and historical layer: why Iran is fighting this way, rooted in 47 years of revolutionary ideology and centuries of foreign intervention.

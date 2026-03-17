@@ -9,17 +9,17 @@ tags: [concept, chokepoint, energy, maritime, middle-east, iran]
 
 ## Overview
 
-The Strait of Hormuz is the narrow waterway connecting the Persian Gulf to the Gulf of Oman and the Arabian Sea. Approximately 21 miles wide at its narrowest point, with shipping lanes only about 12 miles across, it is the world's most important oil chokepoint. Roughly one-third of global seaborne crude oil and significant LNG volumes transit the strait daily.
+The Strait of Hormuz is the narrow waterway connecting the Persian Gulf to the Gulf of Oman and the Arabian Sea. Approximately 33km (~21 miles) wide at its narrowest point, with deep-water shipping lanes just 2 nautical miles per direction, it is the world's most important oil chokepoint. Roughly one-third of global seaborne crude oil and significant LNG volumes transit the strait daily.
 
 ## Key Facts
-- **Width**: ~21 miles at narrowest (shipping lanes ~12 miles)
+- **Width**: ~33km (~21 miles) at narrowest; deep-water shipping lanes just **2 nautical miles (~4km) per direction** ([[Arsenio Dominguez]], IMO secretary-general, FT, March 17)
 - **Oil transit**: ~14 million barrels/day (approximately one-third of global seaborne crude)
 - **LNG transit**: ~80% goes to Asian markets (per [[Karen Young]], MEI)
 - **Bordering states**: [[Iran]] (north), [[Oman]] (south), [[UAE]] (southwest)
 
 ## Strategic significance
 
-Control or disruption of the strait affects global energy markets disproportionately. The geography favors the attacker: Iran's coastline runs along the northern shore, providing positions for shore-based anti-ship missiles, small boat attacks, and — critically — mine warfare.
+Control or disruption of the strait affects global energy markets disproportionately. The geography favors the attacker: Iran's coastline runs along the northern shore, backed by mountains that allow strikes "from on high with little notice" (Dominguez, IMO, FT March 2026). This provides positions for shore-based anti-ship missiles, small boat attacks, and — critically — [[Mine Warfare|mine warfare]].
 
 ## Mine warfare threat
 
@@ -221,6 +221,44 @@ Specific operational gaps identified by [[Robin Mills]] (Qamar Energy, The Natio
 Contrast: Gulf states (UAE, Saudi Arabia) had bypass pipelines activated, protected underground strategic stocks, and air defenses performing well. The region prepared; the US did not.
 
 *Sources: CNN (March 12), Washington Examiner (March 12), The National (March 15)*
+
+### IMO assessment — escorts unsustainable (March 17, 2026)
+
+[[Arsenio Dominguez]] (IMO secretary-general) told the FT that naval escorts will "not 100 per cent guarantee" the safety of ships and that military protection is "not a long-term or sustainable solution." Called on shipowners "not to sail and not to put seafarers at risk" until de-escalation (FT, March 17, 2026).
+
+**Transit data (UK Maritime Trade Operations):** Only **47 cargo vessels and tankers** transited the strait between March 2 and 14 — approximately **4% of normal traffic** (~100 vessels/day, ~1,200 expected in 12 days). Several belong to Greek shipowner [[George Prokopiou]]; two are delivering oil to [[India]].
+
+**Stranded ships — humanitarian crisis:** IMO raised alarm over ships stuck in the Gulf running out of food, water, and fuel. Port access limited because facilities are being targeted. IMO asking shipping companies to report supply levels to identify ships most in need. "We are collateral damage of a conflict when the root causes have nothing to do with shipping" (Dominguez).
+
+IMO extraordinary council scheduled March 19-20 to discuss operational risks and de-escalation.
+
+**Vessel strikes:** Iran has struck at least **18 vessels** in the Gulf region since February 28 (FT, operational data).
+
+*Source: FT, "Naval escorts will not guarantee safe passage," March 17, 2026*
+
+### Kpler supply gap analysis confirms blockade math (March 16, 2026)
+
+[[Kpler]]'s [[Matt Smith]] provided the most detailed supply/demand breakdown for the Hormuz closure, revealing why Iran's gatekeeper strategy is strategically effective despite military setbacks.
+
+**The arithmetic of closure:** 8-10M bbl/day of crude effectively off market from Hormuz disruption. Available alternatives total ~8.5M bbl/day:
+- IEA SPR releases: ~2M bbl/day drip rate (physically constrained)
+- Saudi east-west + UAE Fujairah pipelines: ~5.5M bbl/day capacity  
+- Shadow fleet: ~1M bbl/day
+
+**Still leaves 1.5M+ bbl/day unfilled gap** that compounds daily. Market "not coming to terms with this fact."
+
+**Iran's gatekeeper advantage:** Iran NOT blocking entirely — it IS the gatekeeper. Iranian VLCCs continue transiting (half dozen this month), all bound for Asia, while denying access to Western-allied shipping. [[JASP terminal]] (outside strait) loaded for first time, but 90%+ of Iranian exports still flow Kharg → Hormuz. Iran maintains revenue while devastating Gulf neighbors' exports.
+
+**Marines mission speculation:** 2,500 US Marines arriving ~2 weeks aim to secure southern Iran coast, degrading drone/missile launch capability rather than seizing [[Kharg Island]]. Strait won't reopen with just naval escorts — requires Iran "degraded enough" that no risk to tankers.
+
+**China dependency exposed:** Middle East sends 5M bbl/day to China (45% of seaborne flows) — massive vulnerability. China has 1.2B barrel onshore storage (~80 days at 15M bbl/day consumption) but will likely cut refinery runs rather than buy at elevated prices.
+
+**Physical vs psychological SPR impact:** Releases keep prices "in check" psychologically but take weeks to reach market physically. Countries keep SPR oil domestically — doesn't help Asian markets where shortage is most acute.
+
+**"Oh dear" moment ahead:** Pre-conflict cargoes (loaded before Feb 28) masking supply loss. Saudi Arabia and Iran likely ramped exports in February anticipating disruption. Physical shortage hits "over the coming weeks" when in-transit deliveries fail to arrive and aren't replaced.
+
+*Source: Kpler (Matt Smith) on CNBC International, March 16, 2026*  
+*URL: https://youtu.be/kBAXJzvuEeU*
 
 ---
 

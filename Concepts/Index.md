@@ -35,6 +35,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[G-Zero]]
 - [[Alliance Theory]]
 - [[Alliance Entrapment (US-Israel)]] - Snyder entrapment framework applied to 2026 Iran war
+- [[Strategic Backfire (2026 Iran War)]] - War to neutralize Iran instead elevated it to global chokepoint power
 - [[Grand Strategy]]
 - [[Spheres of Influence]]
 - [[Gunboat Diplomacy]]
@@ -103,6 +104,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Island Chains]]
 - [[First Island Chain]] - Pacific containment barrier from Japan through Taiwan to Philippines
 - [[Chokepoints]]
+- [[Chokepoint Power]] - Strategic leverage from geographic bottleneck control; 2026 Iran as defining case
 - [[Arctic Geopolitics]]
 - [[Strait of Hormuz]] - World's most important oil chokepoint; mine warfare vulnerability; 2026 closure
 - [[Space Geopolitics]]

@@ -143,6 +143,15 @@ Regardless of the fatwa's true weight, its absence removes one of the talking po
 
 Gass believes Iran had "decided to approach threshold status — close enough that it could produce a nuclear weapon at time of need" — citing the fates of Gaddafi's Libya (gave up program, fell) and Ukraine (gave up weapons, invaded).
 
+### "India-Pakistan model" argument (Nasr, March 2026)
+
+[[Vali Nasr]] (Johns Hopkins SAIS, Bloomberg interview, March 17, 2026) argues the war has settled the internal Iranian debate in favor of weaponization:
+
+- "National security imperatives now suggest that Iran will go towards nuclear weapons — that their strategy over 20 years of trying to have an open nuclear program that could be monitored by the IAEA was a mistake."
+- **India-Pakistan model**: "They should have followed in the India-Pakistan model. They should have gone for a bomb, rather than a program." Both India and Pakistan developed weapons in secret — India's first test (Smiling Buddha, 1974), then both countries' 1998 tests — before presenting the world with a fait accompli.
+- Nasr adds a Shia jurisprudential detail to the fatwa debate: "The Shias don't follow dead ayatollahs, so that fatwa is no longer valid." This is consistent with Gass's assessment but framed as a doctrinal principle rather than an institutional one.
+- Future trajectory: "Either give up the program altogether — which I don't think is likely — or the program would essentially become much more military and secret."
+
 ## Military Strike Options
 
 ### Israeli Options

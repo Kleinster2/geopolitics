@@ -175,6 +175,10 @@ States, organizations, and decision-makers in geopolitics.
 - [[Elbridge Colby]] - Under Secretary of Defense for Policy, China prioritization strategist
 - [[Joseph Votel]] - Gen. (ret.), former CENTCOM/SOCOM commander, MEI Distinguished Military Fellow
 
+### Iran (Current)
+- [[Mojtaba Khamenei]] - Supreme Leader (March 2026-), son of Ali Khamenei, dynastic succession
+- [[Masoud Pezeshkian]] - President, weakest of three power centers (Vaez)
+
 ### Heads of State/Government
 - [[Xi Jinping]] - Chinese President/CCP General Secretary, assertive foreign policy
 - [[Vladimir Putin]] - Russian President, Ukraine war, Alaska Summit, Board of Peace controversy

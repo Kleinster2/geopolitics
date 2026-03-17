@@ -426,6 +426,15 @@ Sir [[Simon Gass]] (former UK ambassador to Iran, former JIC chair), citing cont
 
 This aligns with Bohl's earlier assessment of rally-around-the-flag effects but adds on-the-ground reporting from regime-adjacent contacts.
 
+### Nasr: war-vs-regime binary (March 17, 2026)
+
+[[Vali Nasr]] (Johns Hopkins SAIS, Bloomberg interview) sharpened the rally-around-flag thesis into a distinct political dynamic:
+
+- The war has replaced the political binary: **"Are you for war or are you against war?"** has displaced **"Are you for the regime or against the regime?"**
+- "Increasingly, anti-regime Iranians are saying: At this particular moment, it's not the time to have our internal fight over politics, but to support the country."
+- Nasr argues the war reversed what maximum-pressure sanctions had achieved: before the war, the middle class was the constituency for change (35% growth projected under JCPOA). But war shifts the frame from economic grievance to national survival.
+- "If he was looking for a quick political uprising in Iran, it won't happen until the dust of this war settles."
+
 ## Related Notes
 - [[2026 Iran conflict]] — war that overtook the protest dynamic
 - [[Iran]]
