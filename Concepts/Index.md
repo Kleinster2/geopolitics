@@ -68,6 +68,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Nuclear Triad]] - Land/sea/air delivery systems, survivability, who has what
 - [[Nuclear Command and Control]] - C2 systems, AI/cyber risks, emerging tech challenges
 - [[Anti-Access Area Denial]]
+- [[Mine Warfare]] - Naval mines, asymmetric advantage, US countermeasures crisis
 - [[Long-Range Strike]] - Deep strike capability, precision missiles, escalation politics
 - [[European Air Defense]]
 - [[Golden Dome]] - Trump's Arctic missile defense concept

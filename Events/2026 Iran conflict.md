@@ -367,10 +367,21 @@ Operational power concentrated in **Ali Larijani** (national security adviser �
 - Threatened to "immediately reconsider" if Iran interferes with Strait of Hormuz passage.
 - [[Robin Mills]] (Qamar Energy, The National, March 15): the strike "smells of improvisation" — Trump had advocated seizing Kharg since 1988, but attacking the island risks further Iranian retaliation against regional energy systems. If Iran cannot export oil, "why should anyone else?"
 
-**Trump demands allied warships:**
+**Trump demands allied warships (March 14-15):**
 - Called on [[China]], [[France]], [[Japan]], [[South Korea]], and [[UK]] to send warships to help reopen Hormuz.
 - Energy Secretary [[Chris Wright]] acknowledged energy prices could remain high.
 - After previously dismissing NATO allies' contributions, the call for help signals the administration recognizes it cannot reopen the strait alone.
+- Specifically requested **minesweepers** from Japan — which has advanced MCM capability but faces pacifist constitutional constraints on deploying during conflict. PM [[Sanae Takaichi]] visiting White House Thursday (March 20); the request will dominate.
+- China refused. Global Times ridiculed the request: "Is this really about 'sharing responsibility' — or is it about sharing the risk of a war that Washington started and can't finish?" FM [[Wang Yi]] called for return to negotiations: "One thousand warships cannot achieve what one negotiating table can." [[Evan Feigenbaum]] (Carnegie): "bizarro world where the president actually appears to be begging Beijing for an expeditionary naval deployment."
+
+**Trump threatens to delay Beijing summit:**
+- Told FT (March 15) he "may delay" his planned visit to [[Xi Jinping]] in Beijing (~late March) — the first concrete diplomatic casualty of the war on US-China relations. Xi invited Trump in Busan, South Korea, in October.
+- Appeared to link summit to China's willingness to help reopen Hormuz. China rejected the linkage.
+- Treasury Secretary [[Scott Bessent]] met [[He Lifeng]] in Paris to work on summit details. Bessent framed any delay as "logistics" — not policy disagreement (CNBC).
+- [[Sarah Beran]] (Macro Advisory Partners, former senior US diplomat): Beijing would "breathe a sigh of relief" at postponement — "not forced to take a position or put on the spot." But: "If Washington thinks postponing would give the US leverage to press Beijing for a more active role in mediation, then I think Washington will be disappointed."
+- [[Dennis Wilder]] (former White House Asia official): "serious consideration of the optics of being received with great fanfare in Beijing while American forces are in harm's way." Also noted Beijing "has cut its own deal with the Iranians on tanker movements in the Strait of Hormuz and has not condemned Iran for its widening of the conflict."
+
+*Source: FT, "Donald Trump throws US-China reboot off course" (March 15-16, 2026)*
 
 **Iran-to-China oil flows — selective blockade confirmed:**
 - Since March 5, [[IRGC]] declared Hormuz closed **only to US, Israeli, and Western-allied ships** — Iranian shadow fleet tankers keep transiting freely.
@@ -628,6 +639,7 @@ See **[[2026 Iran conflict -- analyst perspectives]]** for full analyst assessme
 - Sanam Vakil, Chatham House: "The war on Iran is heading for an Iraq-style stalemate," *Financial Times* (March 14, 2026)
 - FT, The Rachman Review: [Formidable US firepower fails to unseat Iran's regime](https://www.ft.com/content/cba7352f-aac0-4a6a-8919-c0597bc94c43) — Sir Simon Gass interview with Gideon Rachman (March 12, 2026)
 - Gideon Rachman, FT: [Why Hormuz will haunt us long after this war ends](https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1) — Hormuz as permanent non-nuclear deterrent; war aims collapsed to one objective; Trump warned pre-war (March 16, 2026)
+- FT: [Donald Trump throws US-China reboot off course with threat to delay Xi Jinping summit](https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9) — summit delay threat, Bessent-He Lifeng Paris talks, China/Japan warship refusal, minesweeper request (March 15-16, 2026)
 - Roxane Farmanfarmaian and Burcu Ozcelik, RUSI: [Is Iran at a Tipping Point? Protest, Military Escalation and Regime Survival](https://www.rusi.org/explore-our-research/publications/commentary/iran-tipping-point-protest-military-escalation-and-regime-survival) (January 19, 2026)
 - Burcu Ozcelik, RUSI/Observer: [Bringing Iran to 'Goldilocks' point underpins the rationale behind this war](https://www.rusi.org/news-and-comment/in-the-news/bringing-iran-goldilocks-point-underpins-rationale-behind-war) (March 8, 2026)
 - Fox News: [Missile hits US Embassy Baghdad](https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-14-live-updates) (March 14, 2026)

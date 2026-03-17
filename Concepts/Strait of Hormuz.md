@@ -23,80 +23,39 @@ Control or disruption of the strait affects global energy markets disproportiona
 
 ## Mine warfare threat
 
-The strait's vulnerability to mining is a central concern in any Iran conflict scenario. Gen. [[Joseph Votel]] (former CENTCOM commander) assessed in March 2026 that mines are "the biggest concern" at the strait:
+The strait's vulnerability to [[Mine Warfare|mining]] is a central concern in any Iran conflict scenario — see [[Mine Warfare]] for the doctrinal framework, mine types, and historical record.
+
+Gen. [[Joseph Votel]] (former CENTCOM commander) assessed in March 2026 that mines are "the biggest concern" at the strait:
 
 - Iran has studied mine warfare for decades (Votel, MEI briefing, March 8, 2026).
-- A single mine shut down operations approximately 40 years ago — referring to the April 1988 mining of the USS Samuel B. Roberts during the Tanker War.
-- The narrow geography gives advantage to the attacker.
+- The narrow geography gives maximum advantage to the attacker.
 - US mine-sweeping capability is limited: "we don't have endless amounts of mine sweepers" (Votel).
 - Resuming tanker transit requires a three-step process: suppression of threats, escorts, and area clearance (Votel).
 
-### Pre-positioned seabed mines
+### Iran's mine threat
 
-[[Farzin Nadimi]] (Washington Institute for Near East Policy, Iran naval forces specialist) assessed pre-positioned seabed mine devices in the strait as "almost certain": "They are waiting to be activated." Activation would use cables attached to shore installations or acoustic signals (FT, March 2026).
+Iran maintains a stockpile of **more than 6,000 naval mines** including modern designs that detonate only in response to specific ship signatures (FT, March 2026).
 
-US officials separately told media that Iran may have positioned up to a dozen mines in the Gulf prior to the conflict (reported, FT citing US media).
+**Pre-positioned seabed mines:** [[Farzin Nadimi]] (Washington Institute, Iran naval forces specialist) assessed pre-positioned seabed devices in the strait as "almost certain": "They are waiting to be activated." Activation would use cables attached to shore installations or acoustic signals (FT, March 2026). US officials separately reported Iran may have positioned up to a dozen mines prior to the conflict. This is distinct from the "few dozen" mines confirmed deployed during the war itself (CNN/Fortune, March 11).
 
-This represents a distinct threat layer from the "few dozen" mines confirmed deployed during the war itself (CNN/Fortune, March 11) — these are dormant devices that could be activated remotely.
+**Deployment resilience:** Even with 30+ mine-laying vessels destroyed by March 13, Iran retains deployment capability via surviving vessels, submarines (torpedo tubes), trawlers, cargo ships, wooden dhows, and speedboats (for limpet mines).
 
-### Iran's mine arsenal
+### Gulf conditions
 
-Iran maintains a stockpile of **more than 6,000 naval mines** (FT, March 2026). Types include:
-
-| Type | Method | Detection difficulty |
-|------|--------|---------------------|
-| **Seabed (bottom-lying)** | Sits on seabed at 10-50m; detonates via magnetic, acoustic, and pressure sensors matching specific ship signatures | Hardest — requires examining detailed seabed imagery for slight anomalies |
-| **Moored** | Anchored to seabed by cable; detonates via sensors or contact | Moderate — cable can be cut by minesweeper |
-| **Floating (contact)** | Buoyant at 1-3m depth; detonates on hull contact | Moderate — visible but easily confused with debris |
-| **Limpet** | Attached by magnets or divers to passing vessels from speedboats; timer or remote detonation | High — placed directly on targets |
-
-Modern designs can detonate only in response to specific acoustic, magnetic, and pressure signatures — allowing selective targeting by vessel class.
-
-### Deployment resilience
-
-Even with 30+ mine-laying vessels destroyed by the US by March 13, Iran retains multiple deployment methods:
-
-- Surviving attack vessels and submarines (mines fired from torpedo tubes)
-- Trawlers, cargo ships, and wooden dhows — mines rolled overboard; detection requires listening for loud splashes in the vessel's wake
-- Speedboats — for limpet mine attachment to transiting tankers
-
-[[Tom Shugart]] (former submarine commander, CNAS): "There is a huge asymmetry between mine laying and mine clearing, because one is much easier than the other" (FT, March 2026).
-
-### US mine countermeasures crisis
-
-The US has allowed its mine warfare capabilities to atrophy for decades despite mines' historical lethality:
-
-- **Budget**: Less than 1% of the naval budget dedicated to mine warfare — despite mines being responsible for approximately **80% of US warships sunk or disabled since 1945** and over **75% of US naval casualties since 1950** (FT, March 2026).
-- **Avenger-class retirement**: The Navy's wooden-hulled Avenger-class ships — the last dedicated minesweepers — are being retired. The four Avengers in Bahrain were decommissioned in September 2025, weeks before Operation Epic Fury ([[Robin Mills]], The National, March 15).
-- **LCS replacements**: Three littoral combat ships in the region have assumed the minesweeping role. Unlike the Avengers, which could move into minefields, the LCS ships work mine-by-mine using helicopter-mounted lasers and unmanned vehicles with sonar. [[Steven Wills]] (former US minesweeper officer, Center for Maritime Strategy): "It will be a slow and laborious process" (FT, March 2026).
-- **European superiority**: European nations now have more developed mine-warfare capabilities than the US (FT assessment).
-
-### Gulf conditions compound the problem
-
-The Gulf's geography is the worst-case environment for mine countermeasures:
+The Persian Gulf is the worst-case environment for [[Mine Warfare#Detection and clearance|mine countermeasures]]:
 
 - **Shore vulnerability**: Tight spaces put mine-hunting vessels within range of Iran's shore-based weapons
-- **Sonar degradation**: Underwater cacophony of ship engines, infrastructure, and marine life degrades sonar effectiveness
-- **Seabed mine detection**: Bottom-lying mines — the type Iran likely pre-positioned — create fast-rising bubbles that punch holes in hulls or snap smaller vessels' keels. Finding them requires examining detailed seabed images for slight anomalies
-- **Surface mine confusion**: Even floating mines are hard to spot. Wills noted that dead sheep discarded by livestock ships, whose legs protrude when they bloat, are sometimes mistaken for mines by lookouts
+- **Sonar degradation**: Underwater cacophony of ship engines, infrastructure, and marine life — worse here than in open ocean
+- **Seabed mine detection**: Bottom-lying mines — the type Iran likely pre-positioned — require examining detailed seabed images for slight anomalies
+- Swept routes force vessels to move slowly and predictably — easy targets for Iranian missiles and drones
 
-### Clearance under fire — first time since Korea
+### Clearance under fire
 
-This is the first time the US has faced mine clearance at sea under active fire since the Korean War (1950-53).
+This is the first time the US has faced [[Mine Warfare#Clearance under fire|mine clearance at sea under active fire]] since the Korean War (1950-53). [[Caitlin Talmadge]] (MIT): "It is hard to imagine effective or safe mine clearance operations while the larger war is going on. This is not a mission you want to be doing in the middle of a shooting war" (FT, March 2026).
 
-[[Caitlin Talmadge]] (MIT): "It is hard to imagine effective or safe mine clearance operations while the larger war is going on. This is not a mission you want to be doing in the middle of a shooting war" (FT, March 2026).
+A determined Iranian mining effort could pressure Washington to end the war quickly or deploy special forces to eliminate shore-based threats (Talmadge, FT).
 
-A determined Iranian mining effort could pressure Washington to:
-1. End the war quickly — to permit safe clearance operations
-2. Deploy special forces to eliminate shore-based threats to mine-hunting and escort vessels (Talmadge, FT)
-
-Vessels clearing or subsequently using swept routes move slowly and predictably along them — making them easy targets for Iranian missiles and drones ([[Scott Savitz]], Rand, FT).
-
-### Perception as deterrence
-
-Savitz (senior engineer, Rand; former US mine warfare adviser): "You can have an effective minefield with zero mines, if others perceive it as posing a substantial threat" (FT, March 2026).
-
-The mine threat operates as an **information problem**: even a small number of deployed mines — or credible claims of deployment — forces commercial and military traffic to calculate acceptable risk. The psychological deterrent can exceed the physical threat, which is why the Chris Wright false escort post (March 10) was so damaging — it revealed the US cannot yet guarantee safe passage.
+The [[Mine Warfare#US mine warfare capability|US mine countermeasures crisis]] — decades of underinvestment, Avenger minesweeper retirement weeks before the war, slow LCS replacements — compounds the problem. Even the [[Mine Warfare#Perception as deterrence|perception]] of mines in the water creates deterrence: the Chris Wright false escort post (March 10) confirmed the US cannot yet guarantee safe passage, validating Iran's strategy.
 
 ## Iran's "existential trigger" — why Hormuz was deployed
 
@@ -137,10 +96,14 @@ This creates an unresolvable dilemma for the US and Gulf states: accommodate the
 - Trump was specifically warned of the danger to the strait as America and Israel prepared to attack but "waved away these concerns, predicting instead that the Islamic republic would swiftly capitulate"
 - The closure is "one of the most foreseen 'unforeseen problems' in history"
 
-**Allied reluctance:**
-- Trump is asking allies (UK, EU, China) to send navies to break the chokehold
-- "A year of tariffs, threats and insults from the Trump administration towards its European allies has also burned through goodwill towards Washington"
-- Allies "understandably reluctant to put their own forces at risk to solve a problem that they did not create and that the US navy cannot fix on its own"
+**Allied reluctance — specific country responses (as of March 16):**
+- Trump is asking allies (UK, EU, China, Japan, South Korea, France) to send navies to break the chokehold
+- "A year of tariffs, threats and insults from the Trump administration towards its European allies has also burned through goodwill towards Washington" (Rachman)
+- Allies "understandably reluctant to put their own forces at risk to solve a problem that they did not create and that the US navy cannot fix on its own" (Rachman)
+- **China**: Refused. Global Times ridiculed the request: "Is this really about 'sharing responsibility' — or is it about sharing the risk of a war that Washington started and can't finish?" FM [[Wang Yi]] called for negotiations: "One thousand warships cannot achieve what one negotiating table can." [[Evan Feigenbaum]] (Carnegie): "bizarro world where the president actually appears to be begging Beijing for an expeditionary naval deployment." China has cut its own deal with Iran on tanker movements — see [[Strait of Hormuz#Selective blockade|selective blockade section]]. In the short term, "Hormuz is not China's problem — it is Trump's problem" (Feigenbaum) (FT, March 15).
+- **Japan**: Trump specifically requested **minesweepers** — Japan has advanced mine countermeasures capability. But PM [[Sanae Takaichi]] faces constitutional constraints on deploying military assets during a conflict under Japan's pacifist constitution. Takaichi visiting White House Thursday (March 20) — the request will dominate the meeting (FT, March 15).
+- **UK**: Zero naval presence in the Gulf at war start (see [[2026 Iran conflict#UK military absence]]). Government ruled out deploying HMS Prince of Wales carrier. Contributions limited to RAF defensive missions and basing access.
+- Trump threatened to delay his planned Beijing summit with [[Xi Jinping]] (~end of March) partly as leverage to pressure China on warships. [[Sarah Beran]] (Macro Advisory Partners, former senior US diplomat): "If Washington thinks postponing would give the US leverage to press Beijing for a more active role in mediation, then I think Washington will be disappointed" (FT, March 15).
 
 **Escalation options under consideration (Rachman, March 16):**
 - US occupation of [[Kharg Island]] (mooted) — would threaten Iran's oil exports but doesn't directly solve Hormuz
@@ -267,6 +230,7 @@ Contrast: Gulf states (UAE, Saudi Arabia) had bypass pipelines activated, protec
 Iran and Iraq attacked commercial shipping during the Iran-Iraq War. The US conducted Operation Earnest Will (1987-1988) to escort reflagged Kuwaiti tankers. The USS Samuel B. Roberts struck an Iranian mine in April 1988, leading to Operation Praying Mantis — the largest US naval engagement since World War II.
 
 ## Related
+- [[Mine Warfare]]
 - [[Chokepoints]]
 - [[Energy Security]]
 - [[2026 Iran conflict]]
