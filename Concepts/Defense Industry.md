@@ -145,6 +145,36 @@ The industrial base that designs, develops, and produces military equipment. A s
 - Long-lead item bottlenecks
 - Alliance production coordination
 
+### 2026 Iran War — Munitions Depletion
+
+The [[2026 Iran conflict]] exposed the gap between US weapons consumption rates in a high-intensity campaign and the [[Defense Industry]]'s production capacity.
+
+**Tomahawk cruise missiles:**
+- CSIS estimated 168 Tomahawks used in first 100 hours (reported, CSIS via FT).
+- US Navy bought only 322 Tomahawks in past 5 years; 57 earmarked for FY2026 ($206.6 million). Unit cost: $3.6 million each ([[RTX]]).
+- Additionally, 124 used against Houthis and Iranian targets in 2024-2025.
+- Pentagon officials told senators the US burned through "years" of critical munitions by Day 12. "The navy will be feeling this expenditure for several years" (reported, FT, March 12, 2026).
+
+**Cost asymmetry problem:**
+
+| System | Unit cost | Role |
+|--------|-----------|------|
+| Tomahawk cruise missile | $3.6 million | Offensive strike |
+| Patriot interceptor (PAC-3 MSE) | ~$4 million | Air defense |
+| THAAD interceptor | ~$12 million | Ballistic missile defense |
+| Iranian Shahed drone | ~$30,000 | Attack (US intelligence estimate) |
+
+Sen. Mark Kelly (D-AZ, former Navy combat pilot): "The math on this doesn't work."
+
+**Cost and supplemental request:**
+- War cost >$11 billion in first 6 days — overwhelmingly munitions (reported, FT citing Pentagon officials briefing senators).
+- Pentagon preparing supplemental request of up to $50 billion (reported, FT, March 12, 2026).
+
+**Strategic readiness implications:**
+- Rapid depletion raises concerns about US ability to confront future conflicts with [[Russia]] or [[China]].
+- Production rates far below wartime consumption: the Tomahawk production pipeline cannot replace in years what was expended in days.
+- Validates pre-war warnings from defense analysts that US surge capacity had atrophied.
+
 ## 2025-2026: European Rearmament Boom
 
 ### Scale of Investment

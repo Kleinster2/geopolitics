@@ -183,6 +183,21 @@ The Joint Comprehensive Plan of Action, negotiated 2013-2015 between Iran and P5
 - Economic benefits insufficient
 - US domestic politics
 
+## 2026 — Lead Negotiator's Verdict
+
+Sir [[Simon Gass]], who **led the British JCPOA negotiating team**, assessed in March 2026 (FT, *Rachman Review*):
+
+"Although the deal was not perfect, it was actually a very good way of ensuring that Iran did not make dangerous progress in its nuclear ambitions for a long period of time. I think that if we had stuck with that agreement and President Trump hadn't withdrawn from it in 2018, we would be in a much better position."
+
+On the caricature that shaped the decision to abandon the deal: "Many people who comment on Iran who try to make out that the Iranians are fundamentally untrustworthy, that nothing they say is worth any value, that they are just hysterically opposed to the United States and are determined to bring its downfall. And that is just an oversimplistic view of a very complex and in some ways quite sophisticated country."
+
+Gass framed the JCPOA's collapse as part of a three-failure sequence that has killed any prospect of US-Iran diplomacy:
+1. **JCPOA (2015)** → Trump withdrew 2018; "the United States had never filled its obligations"
+2. **Pre-June 2025 talks** → interrupted by Israeli/US attack
+3. **Pre-February 2026 talks** → US attacked "without warning"
+
+"The hardliners are the ones making the decisions in Iran at the moment. It is the IRGC that is in the driving seat and I do not think that they will want to sit down with the United States."
+
 ## Related Notes
 - [[Iran Nuclear Program]]
 - [[Iran]]
@@ -190,3 +205,5 @@ The Joint Comprehensive Plan of Action, negotiated 2013-2015 between Iran and P5
 - [[Nuclear Proliferation]]
 - [[Sanctions]]
 - [[Israel-Iran Escalation]]
+- [[Simon Gass]]
+- [[2026 Iran conflict]]

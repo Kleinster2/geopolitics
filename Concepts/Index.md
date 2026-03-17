@@ -34,6 +34,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Multipolarity]]
 - [[G-Zero]]
 - [[Alliance Theory]]
+- [[Alliance Entrapment (US-Israel)]] - Snyder entrapment framework applied to 2026 Iran war
 - [[Grand Strategy]]
 - [[Spheres of Influence]]
 - [[Gunboat Diplomacy]]

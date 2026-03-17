@@ -692,3 +692,63 @@ Reports functional successor government but notes it has never been tested again
 - Each step increases pressure on the US but raises Iran's exposure
 
 **Assessment**: This is Parsi's thesis-level argument, more structured than his media appearances. The key analytical move: separating Israeli and American objectives to show that Israel benefits from prolonged conflict that the US does not. Compare with Pillar's "entrapment" framing (which emphasizes the mechanism of how Israel draws the US in) — Parsi's "escalation ladder" framing emphasizes why Israel has no incentive to let the US find an exit. Together they form the most complete restrainer-realist critique of the war.
+
+---
+
+### Simon Gass (former UK ambassador to Iran, JIC chair) — March 12, 2026
+
+**Source**: FT, *The Rachman Review* podcast — [Formidable US firepower fails to unseat Iran's regime](https://www.ft.com/content/cba7352f-aac0-4a6a-8919-c0597bc94c43). Gideon Rachman interview.
+
+**Background**: Sir [[Simon Gass]] served as British ambassador to Iran (2009-2011), **led the British JCPOA negotiating team** (2013-2015), and chaired the **Joint Intelligence Committee**. Now senior adviser at SC Strategy. One of the most credentialed Western voices on Iranian decision-making.
+
+**On decapitation failure:**
+- "Much more surprised that the Americans might have thought" it would work — "defies pretty much everything which people who have studied Iran over many years have come to understand about their system"
+- System "built on a concept of defiance and opposition to the United States" with a "long history of resistance and sacrifice" rooted in the Iran-Iraq war
+- Iran "absolutely saw this coming" — pre-positioned succession plans and deep bunkers
+- On Ali Khamenei not being in a bunker: speculates "a man aged 86 who saw his time coming to the end and felt that the risk of death was less than the value of being seen as a martyr"
+
+**On Iran's three power centers:**
+- Supreme Leader's office (patronage, appointments, wealth) — strongest but new leader untested
+- IRGC (military + economic, oil exploitation) — "in the driving seat" during war
+- Civilian government under Pezeshkian — weakest, "not held in great weight by the other two"
+
+**On the Hormuz trigger:**
+- Iran had three asymmetric retaliation means: proxies (weakened), ballistic missiles (degraded), Strait of Hormuz (reserved for existential threats)
+- **Critical causal claim**: "Once President Trump comes out on day one of the conflict and says, we are going to free the Iranian people... I think that is the moment at which the regime concludes that this is potentially a fight to the death"
+- Methods: mining, drones, limpet mines, ballistic missiles, RIBs — "all sorts of ways"
+- "You don't need to physically close the strait, you simply need to be in a position to deter ship owners"
+
+**On war duration:**
+- Doesn't expect long war. Military leaders will tell Trump: "We've attacked pretty much all of our primary targets... Boss, if you want us to keep going, we'll keep going. But we are not honestly sure that it's gonna have a great deal of additional effect"
+- War "not popular with the MAGA base"; midterm elections in November
+
+**On Iran's war aims:**
+1. Regime survival
+2. Narrative: "We as a small nation took on the combined might of the United States and they could not bring us to our knees"
+3. Demonstrated Hormuz capability as future deterrent
+4. After US ceasefire, may fire drones "another 24, 36 hours... to show they are ending the war on their terms"
+
+**On nuclear program:**
+- Pre-June 2025: Iran could produce HEU for weapons in "a few days, a small number of weeks" — but weaponization was "a very complicated piece of physics" and Iran was "quite a long way away"
+- Believes Iran had "decided to approach threshold status" — citing Libya and Ukraine as cautionary tales
+- **Ali Khamenei's anti-nuclear fatwa has lapsed with his death** — "no longer enforced." (Note: this is a simplification. The fatwa lost institutional authority, but the Atlantic Council argues it was never a proper fatwa at all. Mojtaba's first public letter made no reference to the nuclear file. See [[Iran Nuclear Program]] for the full debate.)
+- Reconstitution would face "massive intelligence capability" from Israel, US, and others
+
+**On diplomacy being dead — three sequential failures:**
+1. JCPOA negotiated 2015 → Trump withdrew 2018 ("US had never filled its obligations")
+2. Pre-June 2025 talks → interrupted by Israeli/US attack
+3. Pre-February 2026 talks → US attacked "without warning"
+- "The hardliners are the ones making the decisions... the IRGC is in the driving seat and I do not think that they will want to sit down with the United States"
+
+**On nationalist backlash:**
+- "Hearing from people in Tehran" that even regime opponents are angry: "If this is the help that President Trump was promising us in January, we are seeing bombs landing around our residencies"
+- "Even if we detest the regime, there is a rise in a tide of anti-Americanism"
+- Risk of "nationalist bond": "we don't like the ayatollahs, but frankly, we would rather them than have our future being determined by President Trump"
+
+**On Gulf states post-war:**
+- "Extraordinarily angry at Iran" for attacks on energy/civilian infrastructure and desalination plants
+- But also angry at Israel and US — including Israeli strikes on Qatar
+- Questioning "what is the value of a US security blanket if it can't actually protect you"
+- Abraham Accords: some in UAE and Bahrain "will be saying, was it right for us to enter the Abraham Accords... not looking quite such a good bet"
+
+**Assessment**: Gass is the most credentialed Western analyst on Iranian decision-making in the vault — direct diplomatic experience, intelligence oversight, and JCPOA negotiation. His "existential trigger" thesis (Trump's Day 1 regime-change rhetoric activated Hormuz) is the clearest causal explanation for why Iran deployed its ultimate deterrent. His three-failures diplomacy framework explains why the IRGC sees no path to talks. Compare with Bohl's structural resilience argument (regime is a network, not a hierarchy) — Gass adds the motivational layer: the system doesn't just survive because of structure, but because defiance is its founding ideology. His fatwa observation — that the religious prohibition on nuclear weapons died with Ali Khamenei — is a significant detail for the post-war nuclear landscape.

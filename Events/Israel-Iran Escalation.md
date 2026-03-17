@@ -399,6 +399,7 @@ See **Escalation Ledger** above for the full chronological record with attributi
 - [[Iran Protests 2025-2026]]
 - [[Trita Parsi]] — Israeli pressure on Trump analysis; "Escalation Ladder" thesis
 - [[Paul Pillar]] — entrapment thesis (Georgetown/Quincy)
+- [[Alliance Entrapment (US-Israel)]] — concept note on the entrapment framework
 - [[Marco Rubio]] — confirmed Israel drove the decision
 - [[2024 Damascus consulate strike]] — the threshold event that ended the shadow war's rules
 

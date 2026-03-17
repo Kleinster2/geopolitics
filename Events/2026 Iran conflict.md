@@ -198,6 +198,15 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 **New wave of attacks:**
 - Al Jazeera reported fresh wave of Iranian missiles and drones targeting Gulf nations. Oil prices surged — Brent closed at $100.46/bbl (confirmed, Al Jazeera, CNBC).
 
+**Munitions depletion revealed:**
+- Pentagon officials told senators the war cost >$11 billion in first 6 days — "overwhelmingly" for munitions (reported, FT citing three people familiar with the matter).
+- US burned through "years" of critical munitions including advanced long-range Tomahawk cruise missiles (reported, FT citing three people familiar). A person familiar with military munitions use: "a massive expenditure of Tomahawks. The navy will be feeling this expenditure for several years."
+- CSIS estimated US used 168 Tomahawks in first 100 hours of the war (reported, CSIS via FT).
+- Tomahawk inventory context: US Navy bought only 322 Tomahawks in past 5 years; 57 earmarked for FY2026 at $206.6 million total. Unit cost: $3.6 million each ([[RTX]] manufacturer). Additionally, 124 Tomahawks used against Houthis and Iranian nuclear facilities in 2024-2025 — including 24+ on Isfahan alone (confirmed, Gen. Dan Caine).
+- Cost asymmetry: Sen. [[Mark Kelly]] (D-AZ, former Navy combat pilot): Patriot and THAAD rounds cost millions of dollars each while Iranians "are firing cheap drones" — Shaheds at ~$30,000 per unit (US intelligence estimate). "The math on this doesn't work."
+- Hegseth: "We've got no shortage of munitions. Our stockpiles of defensive and offensive weapons allow us to sustain this campaign as long as we need to." White House press secretary [[Karoline Leavitt]]: US military has "more than enough munitions, ammo and weapons stockpiles."
+- Pentagon expected to submit request to White House and Congress for up to $50 billion in supplemental military spending "in the coming days" (reported, FT).
+
 ### March 13 — Kharg Island strikes, KC-135 crash, Lebanon escalation
 
 **Kharg Island:**
@@ -335,7 +344,14 @@ After Khamenei's death confirmed, an **Interim Leadership Council** was establis
 
 ### Supreme leader succession
 
-**[[Mojtaba Khamenei]]** (Ali Khamenei's son) elected new Supreme Leader by the Assembly of Experts. Vote reportedly held March 8, announced March 9. IRGC applied pressure on Assembly members starting March 3. Ali Khamenei had previously stated in 2024 that his son should be excluded from consideration.
+**[[Mojtaba Khamenei]]** (Ali Khamenei's son) elected new Supreme Leader by the Assembly of Experts (88 senior clerics). Vote reportedly held March 8, announced March 9. The process was heavily contested:
+
+- IRGC intelligence "threatened experts and their families" to secure Mojtaba's selection (reported, IranWire exclusive)
+- At least **8 members boycotted** in protest against "heavy pressure" from the Guards (reported, IranWire)
+- Critics objected that Mojtaba lacked the necessary clerical/jurisprudential standing and that "hereditary leadership" amounted to a monarchical structure — anathema to the Islamic Republic's founding ideology
+- One member told Assembly leadership that "Ayatollah Ali Khamenei was not pleased with the idea of his son's leadership and never allowed this issue to be raised during his lifetime"
+- Despite boycotts and documented threats, the Assembly announced a "unanimous vote" (claimed — strains credibility)
+- IRGC pressure began March 3 (confirmed, Iran International)
 
 First public address (March 12): vowed Hormuz closure will continue until the war ends; demanded closure of all regional US bases as a condition for halting attacks.
 
@@ -407,6 +423,24 @@ Multiple sources told CNN the Pentagon and National Security Council **significa
 
 **Contrast with Gulf states:** UAE and Saudi Arabia had activated bypass pipeline plans, built protected underground strategic stocks, provided oil from overseas storage, and built air defenses that performed well. They were prepared; the US was not.
 
+### UK military absence — zero Gulf presence at war start
+
+Sir [[Simon Gass]] (former JIC chair) noted that British armed forces are so depleted after "at least 15 years of underfunding" that the UK had "so few platforms to deploy to the Gulf in time of need" (FT, March 12). Research confirms the picture is worse than that:
+
+- **HMS Lancaster** (frigate) — decommissioned December 2025
+- **HMS Middleton** (minesweeper, last crewed RN vessel at HMS Jufair in Bahrain) — left the Gulf the week before strikes began
+- **Operation Kipion** (RN's standing Gulf security mission) — effectively suspended
+- **Result: zero Royal Navy presence** in the Gulf when Operation Epic Fury began
+
+Post-strike response:
+- HMS Prince of Wales (carrier) placed on 5-day notice March 7, but government **ruled out deploying it** to the Middle East despite US criticism — it was earmarked for Operation Firecrest (North Atlantic, Russian deterrence)
+- HMS Dragon (Type 45 destroyer) ordered to deploy from Portsmouth toward Cyprus — still days from leaving Britain 10 days into the war
+- UK contributions limited to RAF defensive missions protecting allies and basing access (RAF Fairford for B-52s/B-1s, Diego Garcia for "specific defensive operations")
+
+The Royal Navy's total escort force has shrunk to ~13 vessels. Gulf-assigned ship count dropped from 20 in 2014 to 6 in 2023 to zero by early 2026. No new frigates were ordered between 1997 and 2017.
+
+*Sources: UK Defence First, Forces News, Navy Lookout, The Conversation, Army Recognition (March 2026)*
+
 *Sources: CNN (March 12), Washington Examiner (March 12), The National (March 15), USNI News (March 10)*
 
 ---
@@ -416,6 +450,17 @@ Multiple sources told CNN the Pentagon and National Security Council **significa
 ### Operation design
 
 The simultaneous targeting of political leadership, military command, nuclear infrastructure, air defenses, and naval assets suggests a campaign designed for decapitation — not a limited strike but an attempt to collapse the regime's capacity to govern and fight simultaneously. NYT analysis noted that Khamenei and top military/intelligence leaders were gathered together at national security council offices the morning of the attack, calling it "a mistake" — but how US/Israeli intelligence knew their location remains unknown.
+
+**Trump was warned about Hormuz**: [[Gideon Rachman]] (FT, March 16) reported Trump was specifically warned of the danger to the strait as America and Israel prepared to attack but "waved away these concerns, predicting instead that the Islamic republic would swiftly capitulate."
+
+### War aims collapse
+
+Rachman (FT, March 16): "A conflict with Iran that started with vague war aims now has one clear and overriding objective: reopen the Strait of Hormuz. Ironically and infuriatingly, the only reason the strait is closed is because the US and Israel went to war in the first place."
+
+**Escalation options under consideration (as of March 16):**
+- **Kharg Island occupation** (mooted) — would threaten Iran's oil exports but doesn't directly solve Hormuz
+- **Ground troops** to secure coasts near the strait — "would inevitably mean higher American casualties and would not guarantee even the limited objective"
+- **Allied navies** — Trump asking UK, EU, China to send warships. Response limited by "a year of tariffs, threats and insults" that "burned through goodwill towards Washington" (Rachman)
 
 ### Iran's response
 
@@ -447,6 +492,13 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - House rejected similar resolution 219-212 (confirmed, Al Jazeera).
 - Trump administration refuses to formally call it a "war" or seek a declaration of war (confirmed, CNN).
 - Nearly half of Congress voted to require authorization — a significant minority but insufficient.
+
+**Supplemental spending battle (as of March 12):**
+- Pentagon preparing formal request to White House and Congress for up to $50 billion in additional military spending (reported, FT). This dwarfs the $30 billion the Heritage Foundation wargame recommended in 2007 for a similar scenario.
+- Sen. Lisa Murkowski (R-AK, Senate Appropriations): warned against expectation of a "blank cheque." Demanded Pentagon "engage" Congress with "information, as requested, justification." Also noted the US had told Ukraine and European allies it couldn't do more because "we don't have the stockpiles" — and now the Iran war is burning through reserves at an even faster rate.
+- Former Senate Majority Leader Mitch McConnell (R-KY): urged colleagues to approve the supplemental regardless of position on the war, calling it an "overdue opportunity to invest in urgent and strategic defence priorities." "Weakness invites challenge."
+- Sen. Ron Wyden (D-OR, Senate Finance ranking member): called costs "astronomical" — "the cost of it goes up practically as we talk."
+- Political obstacles: House Republicans control by razor-thin margin; fiscal conservatives likely to resist large outlay. White House may attempt to attach additional items (tariff relief for farmers) to the military package. Democrats who oppose the war as illegal (no congressional authorization) unlikely to vote for more funding.
 
 ---
 
@@ -502,6 +554,8 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Burcu Ozcelik]] — RUSI, "Goldilocks" near-collapse gamble, Syria parallel
 - [[Robin Mills]] — Qamar Energy CEO, planning failures critique, Kharg improvisation
 - [[Bill Beach]] — Heritage Foundation 2007 wargame economist, "Groundhog Day" assessment
+- [[Mark Kelly]] — Sen. (D-AZ), former Navy combat pilot, cost asymmetry critique ("the math doesn't work")
+- [[Simon Gass]] — Former UK ambassador to Iran, JIC chair, JCPOA lead negotiator; existential trigger thesis, three-failures diplomacy framework, fatwa lapsing
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid
@@ -572,6 +626,8 @@ See **[[2026 Iran conflict -- analyst perspectives]]** for full analyst assessme
 - Paul Horsnell, OIES: [The Strategic Petroleum Blunder?](https://www.oxfordenergy.org/publications/the-strategic-petroleum-blunder/) (October 2000) — critique of SPR exchange mechanism applicable to 2026 release
 - Michal Meidan, OIES: [Disruption in the Strait of Hormuz: Implications for China's Energy Markets and Policies](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2026/03/Comment-Turmoil-in-the-Middle-East.pdf) (March 2026)
 - Sanam Vakil, Chatham House: "The war on Iran is heading for an Iraq-style stalemate," *Financial Times* (March 14, 2026)
+- FT, The Rachman Review: [Formidable US firepower fails to unseat Iran's regime](https://www.ft.com/content/cba7352f-aac0-4a6a-8919-c0597bc94c43) — Sir Simon Gass interview with Gideon Rachman (March 12, 2026)
+- Gideon Rachman, FT: [Why Hormuz will haunt us long after this war ends](https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1) — Hormuz as permanent non-nuclear deterrent; war aims collapsed to one objective; Trump warned pre-war (March 16, 2026)
 - Roxane Farmanfarmaian and Burcu Ozcelik, RUSI: [Is Iran at a Tipping Point? Protest, Military Escalation and Regime Survival](https://www.rusi.org/explore-our-research/publications/commentary/iran-tipping-point-protest-military-escalation-and-regime-survival) (January 19, 2026)
 - Burcu Ozcelik, RUSI/Observer: [Bringing Iran to 'Goldilocks' point underpins the rationale behind this war](https://www.rusi.org/news-and-comment/in-the-news/bringing-iran-goldilocks-point-underpins-rationale-behind-war) (March 8, 2026)
 - Fox News: [Missile hits US Embassy Baghdad](https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-14-live-updates) (March 14, 2026)
@@ -581,6 +637,7 @@ See **[[2026 Iran conflict -- analyst perspectives]]** for full analyst assessme
 - CNBC: [Brent closes above $100 second day](https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html) (March 13, 2026)
 - Quinnipiac University Poll: [56% oppose military action](https://poll.qu.edu/poll-release?releaseid=3952) (March 9, 2026)
 - Al Jazeera: [Israel kills 12 medics in southern Lebanon](https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on) (March 14, 2026)
+- Financial Times: [US has burned through 'years' of munitions since start of Iran war](https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5) (March 12, 2026)
 - Washington Post: [Iran strikes back after Kharg bombing](https://www.washingtonpost.com/world/2026/03/14/iran-iraq-us-trump-march-14-2026-oil-prices/) (March 14, 2026)
 - Fortune: [Trump calls on countries to send warships to Hormuz](https://fortune.com/2026/03/14/trump-iran-war-china-france-japan-korea-uk-warships-strait-hormuz/) (March 14, 2026)
 - Bloomberg Odd Lots: "What War in Iran Means for Teapot Oil Refineries of China" (March 13, 2026, recorded March 4) — [[Erica Downs]], [[Columbia Center on Global Energy Policy]]. China's energy exposure, teapot refineries, SPR, LNG vulnerability, diplomatic response

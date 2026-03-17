@@ -119,12 +119,29 @@ Weapons-grade (90%+ - bomb material)
 ## Why Iran Hasn't Built Bomb
 
 ### Possible Reasons
-1. Supreme Leader fatwa (claimed prohibition)
+1. Supreme Leader fatwa (claimed prohibition) — **see fatwa lapsing below**
 2. Fear of Israeli/US strike
 3. Strategic calculation (threshold better)
 4. Internal debates
 5. Technical gaps
 6. Regime survival calculus
+
+### Fatwa lapsing (March 2026)
+
+Sir [[Simon Gass]] (former UK ambassador to Iran, former JIC chair, JCPOA lead negotiator) assessed on March 12, 2026 that Ali Khamenei's religious ruling (fatwa) against nuclear weapons was "not insignificant" as a constraint — but noted critically: **"That fatwa lapses on his death, so it is no longer enforced."**
+
+Ali Khamenei was killed on February 28, 2026. His successor [[Mojtaba Khamenei]] has not issued a replacement fatwa. Mojtaba's first public letter (five days after his appointment) made no reference to the nuclear file, the nuclear program, or his father's fatwa (reported, IranWire).
+
+**The fatwa's status is debated among analysts:**
+- Gass's framing ("lapses on death") is a simplification. In Shia jurisprudence, the fatwa lost its *institutional* authority — the state has no obligation to observe it, and a new Supreme Leader would need to reaffirm it. Followers already emulating Khamenei could theoretically continue observing it individually, but this has no governmental force.
+- The **Atlantic Council** has argued the fatwa was never a proper fatwa at all — what Iranian diplomats cited during JCPOA negotiations was not a formal religious ruling.
+- **Mehdi Khalaji** (Washington Institute): "Fatwas are issued in response to specific circumstances and can be altered in response to changing conditions." Iran's national security decisions are guided by interests, not ideology.
+- The **Washington Institute** argued Mojtaba "may decide that Iran must move quickly to obtain nuclear weapons in order to forestall future US and Israeli attacks."
+- Skeptics view the fatwa as a political tool that served diplomatic purposes during JCPOA negotiations, not a genuine religious constraint.
+
+Regardless of the fatwa's true weight, its absence removes one of the talking points that constrained the debate. Gass assessed that "there will certainly be people in the system who will be arguing" for weapons development, though reconstitution faces "formidable" obstacles: centrifuges "pretty much trashed" in June 2025, and "massive intelligence capability" directed at detecting any reconstitution attempt.
+
+Gass believes Iran had "decided to approach threshold status — close enough that it could produce a nuclear weapon at time of need" — citing the fates of Gaddafi's Libya (gave up program, fell) and Ukraine (gave up weapons, invaded).
 
 ## Military Strike Options
 

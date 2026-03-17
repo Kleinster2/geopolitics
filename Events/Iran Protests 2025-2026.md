@@ -415,6 +415,17 @@ The protest movement's trajectory was overtaken by the US-Israeli strikes on Feb
 
 **Key question**: Did the war help or hurt the protest movement? The protests weakened the regime from within; the war gave it an external enemy to rally against. [[Fred Kagan]] (AEI) warns the surviving "pragmatist" leaders (Larijani, Qalibaf, Bezeshkian, Rouhani) may stabilize the regime more effectively than the hardline ideologues the strikes killed.
 
+### Nationalist backlash — Gass assessment (March 12)
+
+Sir [[Simon Gass]] (former UK ambassador to Iran, former JIC chair), citing contacts in Tehran (FT, *Rachman Review*, March 12, 2026):
+
+- "A lot of people in Iran are saying to themselves, frankly, if this is the help that President Trump was promising us in January, we are seeing bombs landing around our residencies, we're seeing attacks on infrastructure... even if we detest the regime, there is a rise in a tide of anti-Americanism in Iran"
+- This may form "more of a nationalist bond which says, OK, we don't like the ayatollahs, but frankly, we would rather them than have our future being determined by President Trump and the White House"
+- More protests expected post-war, but "fundamentally more economic than anything else" — driven by war damage to an already failing economy
+- Core obstacle to regime change: "No connective tissue between demonstrations on the street and regime change. There is no charismatic leader in Iran around which opposition can coalesce — largely because, of course, they've all been dealt with by the regime over the years"
+
+This aligns with Bohl's earlier assessment of rally-around-the-flag effects but adds on-the-ground reporting from regime-adjacent contacts.
+
 ## Related Notes
 - [[2026 Iran conflict]] — war that overtook the protest dynamic
 - [[Iran]]

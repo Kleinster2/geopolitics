@@ -1,7 +1,7 @@
 ---
 type: person
 role: political scientist
-affiliation: Georgetown University
+affiliation: Massachusetts Institute of Technology
 focus: [nuclear strategy, conventional-nuclear escalation, US-China]
 tags: [person, thinker, nuclear, strategy, escalation]
 ---
@@ -9,7 +9,7 @@ tags: [person, thinker, nuclear, strategy, escalation]
 # Caitlin Talmadge
 
 ## Overview
-Georgetown University political scientist specializing in nuclear strategy, military operations, and inadvertent escalation. Her work on how conventional military operations could trigger nuclear use is central to contemporary debates about US-China conflict, particularly over Taiwan.
+MIT political scientist specializing in nuclear strategy, military operations, and inadvertent escalation. Her work on how conventional military operations could trigger nuclear use is central to contemporary debates about US-China conflict, particularly over Taiwan.
 
 ## Key Contributions
 
@@ -36,6 +36,12 @@ Also studies what makes militaries effective:
 - Coup-proofing vs. combat effectiveness tradeoffs
 - Applied to understanding adversary military performance
 
+### 2026 Iran Conflict — Mine Warfare
+
+Assessed that mine clearance operations in the [[Strait of Hormuz]] during active combat are essentially impractical: "It is hard to imagine effective or safe mine clearance operations while the larger war is going on. This is not a mission you want to be doing in the middle of a shooting war" (FT, March 2026).
+
+A determined Iranian mining effort could pressure Washington to end the war quickly or deploy special forces to eliminate shore-based threats to mine-hunting and escort vessels. This represents the first US mine clearance under fire since the Korean War.
+
 ## Policy Relevance
 
 ### Taiwan Debates
@@ -53,9 +59,11 @@ Informs debates on:
 - Crisis management
 
 ## Academic Position
-- Associate Professor, Georgetown University Security Studies Program
-- Non-resident Senior Fellow, Brookings Institution
+- Raphael Dorman-Helen Starbuck Associate Professor of Political Science, MIT
+- Member, MIT Security Studies Program
+- Senior Non-Resident Fellow, Brookings Institution
 - Council on Foreign Relations member
+- Previously Associate Professor, Georgetown University (2018-2023)
 - PhD from MIT
 
 ## Key Works
@@ -71,6 +79,8 @@ Informs debates on:
 - [[China]]
 - [[United States]]
 - [[Deterrence]]
+- [[Strait of Hormuz]]
+- [[2026 Iran conflict]]
 
 ## Sources
 - Georgetown faculty profile

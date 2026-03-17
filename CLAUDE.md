@@ -381,7 +381,7 @@ When a note has a meaningful counterpart in the other vault, add clickable `obsi
 ## Current Context (March 2026)
 
 Major ongoing situations:
-- **[[2026 Iran conflict]]** - US-Israeli war on Iran (Operation Epic Fury, started Feb 28). Day 15. Khamenei killed; son Mojtaba Khamenei elected successor (March 8-9). ~6,000 targets struck. Iran retaliating across GCC. Strait of Hormuz closed, mines laid. Kharg Island military targets struck March 13. IEA approved record 400M barrel SPR release. Brent ~$100/bbl. Israel planning massive Lebanon ground operation south of Litani. War powers resolutions failed in Congress. Iran setting ceasefire conditions.
+- **[[2026 Iran conflict]]** - US-Israeli war on Iran (Operation Epic Fury, started Feb 28). Day 18. Khamenei killed; son Mojtaba Khamenei elected successor (March 8-9). ~6,000 targets struck. Iran retaliating across GCC. Strait of Hormuz closed, mines laid. Kharg Island military targets struck March 13. IEA approved record 400M barrel SPR release. Brent ~$100/bbl. Israel planning massive Lebanon ground operation south of Litani. War powers resolutions failed in Congress. Iran setting ceasefire conditions.
 - Trump 2.0 reshaping international order
 - [[New START Expiration]] - Last US-Russia nuclear treaty expired Feb 5
 - [[Greenland Crisis]] - US threatening NATO ally, Golden Dome connection

@@ -34,6 +34,15 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Marc Lynch]] - GWU professor, Gulf politics, Arab media, US Middle East policy
 - [[Paul Pillar]] - Georgetown/Quincy, ex-CIA NIO, Israel-Iran entrapment thesis, intelligence critique
 
+## Diplomacy / Intelligence
+- [[Simon Gass]] - Former UK ambassador to Iran, JIC chair, JCPOA lead negotiator; Iran power structure, Hormuz trigger thesis
+
+## Military / Naval
+- [[Farzin Nadimi]] - Washington Institute, Iran naval forces, mine warfare
+- [[Tom Shugart]] - CNAS, former submarine commander, naval strategy
+- [[Steven Wills]] - Center for Maritime Strategy, former minesweeper officer, mine countermeasures
+- [[Scott Savitz]] - RAND, mine warfare adviser, naval engineering
+
 ## Tags
 - #analyst
 - #commentator

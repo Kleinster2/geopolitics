@@ -257,4 +257,5 @@ The [[2026 Iran conflict]] exposed how network shape creates distinct entrapment
 - [[Collective Security]]
 - [[United States]]
 - [[Partnership Diplomacy]] — China's alternative to alliances
+- [[Alliance Entrapment (US-Israel)]] — Snyder entrapment applied to the 2026 Iran war
 - [[2026 Iran conflict]] — case study of entrapment dynamics across network shapes
