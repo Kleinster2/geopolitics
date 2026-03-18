@@ -254,6 +254,32 @@ Regime change or repression
 - 2011: Arab Spring (bread prices)
 - 2022: Sri Lanka collapse
 
+## The Nitrogen Trap — Hormuz 2026
+
+The March 2026 [[Strait of Hormuz]] closure exposed what may be the most consequential oversight in modern statecraft: the absence of strategic fertilizer reserves. The world built Strategic Petroleum Reserves after the 1973 oil shock. No equivalent exists for fertilizer — despite ~48% of the global population depending on synthetic nitrogen (the Haber-Bosch process) for food.
+
+The [[Strait of Hormuz]] carries ~49% of global urea exports, ~30% of ammonia exports, and ~50% of sulfur trade. Its closure simultaneously disrupted all three primary nutrient complexes (nitrogen, phosphorus, potassium-adjacent via sulfur) — the first such event since industrial fertilizer production was established.
+
+The crisis exposes a fundamental asymmetry in statecraft preparedness:
+
+| Domain | Reserve architecture | Doctrine |
+|--------|---------------------|----------|
+| Energy (oil) | SPR, IEA coordination, 400M bbl release | Mature since 1970s |
+| Food (fertilizer) | None | No doctrine, no stockpiles, no institutional framework |
+
+The vulnerability was predicted: a 2007 Heritage Foundation wargame modeled this exact scenario and recommended mitigation measures. Most were not implemented.
+
+Countries most exposed: [[India]] (17.7M mt stockpiles but 60% capacity, monsoon risk), [[Bangladesh]] (4-5 urea factories shut, Boro rice season at risk), [[Egypt]] (triple vulnerability: wheat imports + N production + sovereign debt), [[Sudan]] (confirmed famine + 54% Gulf fertilizer dependency), and Sub-Saharan Africa broadly (~$90B 2026 debt wall, no fiscal space for emergency procurement).
+
+The nonlinear yield response curve (quadratic, not linear) means the damage concentrates where it is least absorbable — Global South farming systems operating on the steep ascending portion of the response curve, where every kilogram of fertilizer reduction produces disproportionate yield destruction. The marginal tonne flows to the highest bidder, not the most calorie-sensitive system.
+
+WFP estimates 318M people already face crisis-level hunger globally. The Hormuz closure could push 100-200M more into acute food insecurity within 6-12 months.
+
+*Source: [The Nitrogen Trap](https://shanakaanslemperera.substack.com/p/the-nitrogen-trap), Shanaka Anslem Perera, March 16, 2026*
+
+### Cross-vault
+- [Investing: Nitrogen Trap](obsidian://open?vault=investing&file=Concepts%2FNitrogen%20Trap) — full 14-channel cascading framework, equity positioning, market mispricing analysis
+
 ## Related Concepts
 - [[Climate Change]]
 - [[Water Security]]
@@ -262,3 +288,4 @@ Regime change or repression
 - [[Africa]]
 - [[Middle East]]
 - [[Supply Chains]]
+- [[Strait of Hormuz]]
