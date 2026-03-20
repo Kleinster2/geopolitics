@@ -59,6 +59,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Power Projection]]
 
 ## Warfare & Security
+- [[AI Warfare]] - Autonomous weapons, Project Maven, drone swarms, Pentagon-Silicon Valley dynamics
 - [[Hybrid Warfare]]
 - [[Gray Zone]]
 - [[Cyber Warfare]]

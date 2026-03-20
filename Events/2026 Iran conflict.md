@@ -16,7 +16,7 @@ tags:
 
 # 2026 Iran conflict
 
-On February 28, 2026, the [[United States]] and [[Israel]] launched joint military strikes against [[Iran]] in what the US designated **Operation Epic Fury**. The strikes killed Supreme Leader [[Ali Khamenei]] and at least 47 other senior military and intelligence officials, effectively decapitating the Iranian state. Iran retaliated with missile and drone attacks across the [[Persian Gulf]], hitting targets in [[Israel]], [[Bahrain]], [[Saudi Arabia]], [[Kuwait]], [[Qatar]], [[Oman]], and [[Cyprus]]. The [[IRGC]] allegedly closed the [[Strait of Hormuz]]. On March 2, the conflict widened when [[Hezbollah]] and Israel exchanged strikes.
+On February 28, 2026, the [[United States]] and [[Israel]] launched joint military strikes against [[Iran]] in what the US designated **Operation Epic Fury**. The strikes killed Supreme Leader [[Ali Khamenei]] and at least 47 other senior military and intelligence officials, effectively decapitating the Iranian state. Iran retaliated with missile and drone attacks across the [[Persian Gulf]], hitting targets in [[Israel]], [[Bahrain]], [[Saudi Arabia]], [[Kuwait]], [[Qatar]], [[Oman]], [[UAE]] (including Dubai International Airport), and [[Cyprus]]. The [[IRGC]] closed the [[Strait of Hormuz]]. On March 2, the conflict widened when [[Hezbollah]] and Israel exchanged strikes. As of Day 19, the Pentagon reports ~8,000 US targets struck; Israel says it launched a similar number. Iran's drone/missile capacity is assessed down 90%+, but the IRGC has adopted partisan warfare tactics and daily salvos continue. Iran's ceasefire terms: guarantees against future attack and sanctions relief.
 
 ---
 
@@ -27,7 +27,7 @@ On February 28, 2026, the [[United States]] and [[Israel]] launched joint milita
 - Shortly before midnight local time, US and Israeli forces launched coordinated strikes across Iran (confirmed, multiple sources).
 - Targets: Supreme Leader's office in Tehran, presidential office, nuclear and ballistic missile facilities, IRGC installations, naval vessels.
 - Cities hit: Tehran (University Street, Jomhouri area, Seyed Khandan), Qom, Kermanshah, Isfahan, Karaj (confirmed, Fars News Agency, CNN, BBC).
-- Weapons: B-2 stealth bombers with 2,000-lb bombs on hardened missile facilities, F/A-18s, F-35s, Tomahawk cruise missiles, Lucas drones (confirmed, CENTCOM).
+- Weapons: B-2 stealth bombers with 2,000-lb bombs on hardened missile facilities, F/A-18s, F-35s, Tomahawk cruise missiles, Precision Strike Missiles and ATACMS from HIMARS truck launchers, Lucas drones (confirmed, CENTCOM; WSJ, March 18).
 - Iranian air defenses: HQ-9B system around Tehran inactivated (confirmed, IDF).
 - Iranian naval vessels targeted; US later claimed 9 warships sunk (claimed, US military).
 - Near-total internet blackout across Tehran (confirmed, Netblocks).
@@ -297,7 +297,7 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 
 | Party | Killed | Injured | Equipment lost |
 |-------|--------|---------|----------------|
-| United States | 13 service members (7 enemy fire, 6 KC-135 crash) | ~200 | 3 F-15Es (friendly fire by Kuwait), 1 KC-135, 5 tankers damaged (Prince Sultan AB) |
+| United States | 13 service members (7 enemy fire, 6 KC-135 crash) | ~200 | 3 F-15Es (friendly fire by Kuwait), 1 KC-135, 5 tankers damaged (Prince Sultan AB), THAAD radar damaged (Jordan — first combat loss; 8 globally), early warning radar destroyed (Qatar), 11+ MQ-9 Reapers (~$330M+) |
 | Israel | 15+ | 2,000+ | — |
 | **Total** | **28+** | **~2,200** | |
 
@@ -306,7 +306,7 @@ Iran responded within hours — a faster response than the Twelve-Day War, sugge
 | Category | Detail |
 |----------|--------|
 | Leadership | 48 officials killed (per US) |
-| Military | 90+ vessels destroyed or damaged including 30+ mine-laying ships; IRIS Dena torpedoed off Sri Lanka (87 killed); at least 1 F-4, 2 F-5s, 1 Yak-130 destroyed; navy "almost completely decimated" (Votel); ~6,000 targets struck total by Day 14 |
+| Military | **100+ vessels** severely damaged, destroyed, or sunk — 4 Soleimani-class corvettes, 30+ minelayers, a drone carrier, a submarine in port (ATACMS), IRIS Dena torpedoed off Sri Lanka (87 killed); at least 1 F-4, 2 F-5s, 1 Yak-130 destroyed, 2 Su-24s shot down by Qatar; navy "almost completely decimated" (Votel); ~8,000 US targets struck by Day 19 + "similar number" by Israel; drone/missile capacity down 90%+ |
 | Casualties | **4,300+ killed** including 390 civilians in first 10 days (Hengaw); **1,444 killed / 18,551 injured** (Iran Health Ministry, March 13); earlier: 2,400+ killed by Day 6 (Hengaw); 1,300+ killed over first week (Iranian government, March 8); 555 killed, 747 injured (Iranian Red Crescent, March 2) |
 | Civilian dead | 148-180 in Minab girls' school airstrike (disputed; 148 per Hengaw, 165 per Al Jazeera, 168 per Iranian officials, 153 per MEE); 20 at Niloofar Square |
 | Attrition | Drone assaults down 95% (Hegseth, March 13); missile/drone salvos declined 70-85% from Day 1 (Kasapoglu, Hudson Institute) |
@@ -356,7 +356,7 @@ After Khamenei's death confirmed, an **Interim Leadership Council** was establis
 
 First public address (March 12): vowed Hormuz closure will continue until the war ends; demanded closure of all regional US bases as a condition for halting attacks.
 
-Operational power concentrated in **Ali Larijani** (national security adviser — day-to-day state affairs) and **Mohammad Bagher Ghalibaf** (parliament speaker — war effort), both former IRGC commanders (per Vaez, Channel 4).
+Operational power initially concentrated in **Ali Larijani** (national security adviser — day-to-day state affairs) and **Mohammad Bagher Ghalibaf** (parliament speaker — war effort), both former IRGC commanders (per Vaez, Channel 4). **Larijani killed by Israeli strike March 18** — eliminates the regime's most pragmatic senior interlocutor. Ghalibaf now the dominant civilian war leader.
 
 ---
 
@@ -416,6 +416,66 @@ Operational power concentrated in **Ali Larijani** (national security adviser �
 - Called on shipowners "not to sail and not to put seafarers at risk" until de-escalation.
 - "We are collateral damage of a conflict when the root causes have nothing to do with shipping."
 - IMO extraordinary council scheduled March 19-20.
+
+### March 18 — Larijani killed, Dubai airport struck, Iran's war terms crystallize
+
+**Larijani assassination:**
+- Israel killed **[[Ali Larijani]]** (national security adviser, conservative pragmatist, former IRGC commander). Previously identified as one of two figures holding operational power alongside [[Mohammad Bagher Ghalibaf]] (per Vaez, Channel 4).
+- A regional diplomat assessed Larijani "would have been integral to any diplomatic process" — his death is expected to further set back talks (FT, March 19).
+- Eliminates the regime's most prominent pragmatic interlocutor while Ghalibaf (closer to the IRGC hardline) remains.
+
+**Dubai airport struck:**
+- Iranian strike hit Dubai International Airport (confirmed, FT photo). Thick black smoke visible. One of the highest-profile civilian infrastructure hits of the war — UAE's main commercial hub.
+
+**Iran's ceasefire terms crystallize:**
+- Ghalibaf (parliament speaker, close to IRGC): "There must be no threat of war anymore" before Iran stops. "This is our clear and definite demand. We don't accept a ceasefire and then go back to war in five months' time" (state TV, confirmed, FT).
+- [[Sanam Vakil]] (Chatham House): Iran won't stop without guarantees against future attack **and** sanctions relief — "both very hard outcomes."
+- [[Rob Malley]] (former Biden Iran envoy): Iran has two calculations — (1) end the war due to massive infrastructure/military costs, but (2) "wants to make sure the US and the world economy pay a sufficient price so they will think twice about resuming the war."
+- FM [[Abbas Araghchi]] called claims Iran wanted a truce "delusional"; denied reopening a channel with US envoy [[Steve Witkoff]], saying the claim was designed to calm energy markets.
+- Regional officials report no diplomatic movement from either side.
+
+**IRGC partisan warfare pivot:**
+- An Iranian close to the regime described the IRGC as "behaving more like a militant group" — abandoning bases, scattering to reduce targeting risk while launching retaliatory attacks. Comparing tactics to Hezbollah and Houthis: "you cannot defeat partisans with air strikes."
+- Iran claims it is still producing missiles and launchers at hidden locations, often deep underground, and is calibrating rate of fire to sustain a "long war."
+- Western official: "It's not surprising Iran is lashing out, what's more surprising is they kept going... We know more about Iran's capability than we did, and it's better. I wouldn't say earth-shatteringly better, but it's better."
+
+**Updated strike count:**
+- Pentagon: ~8,000 US targets struck (up from ~6,000 at Day 14). Israel says it launched "a similar number of strikes."
+- US and Israel claim drone/missile capacity down 90%+ from start of conflict.
+
+**Land-based missiles — Gulf launch points revealed (WSJ, March 18):**
+- In the opening hours, the US fired **Precision Strike Missiles** and **ATACMS** from mobile HIMARS truck launchers, striking targets in Iran. Gen. Dan Caine (JCS chairman): the strikes "made history."
+- ATACMS subsequently hit and sunk Iranian navy vessels and a submarine in port.
+- Videos verified by Storyful indicate launches came from **[[Bahrain]]** — 125 miles across the Gulf from Iran. NYT separately reported HIMARS firing from Bahrain.
+- FM [[Abbas Araghchi]] accused the US of using HIMARS to fire at [[Kharg Island]] from the **[[UAE]]**. UAE foreign-policy adviser Anwar Gargash: the UAE "has the right to self-defense" — did not directly deny.
+- No Gulf country has admitted allowing its territory for strikes on Iran. Bahrain's spokesman: "Bahrain's armed forces have not conducted strikes against Iran."
+- Pentagon accelerated PrSM operational readiness by delaying some testing (2025 GAO report): "Army officials acknowledge that they may discover deficiencies during testing that require modifications."
+- **Pacific signaling:** These are the same missile types the US plans to deploy to Philippines and Pacific islands to counter a Chinese invasion or blockade of [[Taiwan]]. [[Grant Rumley]] (Washington Institute, former Pentagon): use against Iran "will give Chinese military planners another wrinkle to consider."
+
+**Updated naval losses:**
+- **100+ Iranian naval vessels** severely damaged, destroyed, or sunk — including 4 Soleimani-class corvettes, 30+ minelayers, and a drone carrier (confirmed, US officials via WSJ). Up from 90+ previously reported.
+
+**Gulf complicity dynamics:**
+- [[Alex Vatanka]] (MEI): "If the Americans could show them a way to finish off the regime, then they would be more likely to take risks in terms of openly siding against the regime than they are today. At the same time, they aren't going to say no to the U.S. in the midst of a shooting war."
+- [[William Wechsler]] ([[Atlantic Council]], former senior Pentagon official): "No country can indefinitely take attacks without any response... Over time, the Gulf countries will be under more pressure to respond militarily. But before they get to that point, they can allow the U.S. to use their territory."
+- [[Frank McKenzie]] (former CENTCOM commander): "This has been planned for a long time. You are optimizing your weapons."
+- [[Thomas Karako]] (CSIS): Reflects Pentagon desire to integrate Army ground-based missiles with Air Force/Navy systems; also "a bit of an operational test" for the PrSM.
+
+*Source: David S. Cloud, "The Land-Based Missiles That Are Crucial to America's Air War on Iran," WSJ (March 18, 2026)*
+
+**Gabbard testimony (March 19):**
+- DNI [[Tulsi Gabbard]] told Senate Intelligence Committee: "Iran and its proxies remain capable of and continue to attack US and allied interests." If the regime survives, "it will seek to begin a years-long effort to rebuild its missiles and [drone] forces."
+
+**Iranian domestic dynamics:**
+- Western official: the key factor determining Iran's future may be "the dynamic between the regime and its people" — "that dog is not barking at the moment — the Iranian people are absolutely keeping out of this."
+- Contrast with pre-war [[Iran Protests 2025-2026]]: the population is not rallying to the regime, but not opposing it during wartime either.
+
+**Conditional diplomacy:**
+- A regional diplomat assessed that Iran would likely stop attacks on US targets if Trump withdrew, enabling Tehran to claim it forced America's retreat. But Iran would continue hitting Israel, which it blames for the war.
+- Risk of "partially weaponised" Hormuz continuing post-ceasefire — Iran determining which ships pass (diplomat, FT).
+- The diplomat did not expect Iran would agree to a temporary ceasefire of the Hamas-Israel type, after which military operations continued.
+
+*Source: Andrew England and Najmeh Bozorgmehr, "Iran sets its price to end the war," FT (March 19, 2026)*
 
 ---
 
@@ -480,6 +540,114 @@ The Royal Navy's total escort force has shrunk to ~13 vessels. Gulf-assigned shi
 *Sources: UK Defence First, Forces News, Navy Lookout, The Conversation, Army Recognition (March 2026)*
 
 *Sources: CNN (March 12), Washington Examiner (March 12), The National (March 15), USNI News (March 10)*
+
+---
+
+## AI-Enabled Targeting
+
+The Iran campaign was the largest operational test of [[AI Warfare]] technology to date. The US used Palantir's **Maven Smart System** -- an AI-enabled mission control built under [[Project Maven|the Pentagon's Project Maven]] -- to identify and strike targets at unprecedented speed.
+
+- ~1,000 targets struck in the first 24 hours -- approximately twice the scale of shock-and-awe in Iraq in 2003 (confirmed, CENTCOM via Bloomberg).
+- 5,000 targets struck within 10 days (confirmed, CENTCOM).
+- Military goal: reach the point of identifying and selecting 1,000 targets in a single hour (reported, Bloomberg citing person familiar with the campaign).
+- **First US combat use of cheap, semiautonomous drones.** The CENTCOM commander described the devices as "indispensable" (confirmed, Bloomberg).
+- Anthropic's LLMs are still being used for intelligence analysis and speeding up the administrative process involved in strikes, despite the company's blacklisting on February 27 (reported, Bloomberg citing people familiar).
+
+Timothy Hawkins (CENTCOM spokesperson): AI tools generate "points of interest" and help personnel make decisions. "Bottom line, these tools help leaders -- humans -- make smarter decisions faster."
+
+**Civilian casualty question:** Over 1,300 civilians killed as of March 12 (Iranian officials), including 175+ at a girls' school. News reports attributed the school strike to a Tomahawk missile relying on outdated intelligence. The Pentagon has not said whether AI was involved in any civilian casualty incidents.
+
+**Israeli AI targeting systems**: Israel's **Lavender** (marks individuals for targeting) and **Gospel/Habsora** (marks buildings) AI systems, first used in Gaza, were deployed at their largest-ever scale in Operation Epic Fury (reported, Asia Times). Reports indicate 20-second human verification windows before authorizing AI-identified strikes.
+
+"Iran is an amazing precursor to what could happen with China over Taiwan" (person familiar with US operations, Bloomberg).
+
+*Sources: Katrina Manson, "How the Pentagon Got Hooked on AI War Machines," Bloomberg Businessweek (March 12, 2026); Asia Times, "Israel unleashes its Gaza-tested AI killing machine on Iran" (March 2026)*
+
+---
+
+## Munitions and Interceptor Attrition
+
+The Iran campaign exposed the structural gap between US weapons consumption rates in high-intensity conflict and the [[Defense Industry]]'s production capacity. Iran's combination of cheap mass-produced drones and sophisticated ballistic missiles — perfected with designs and technology from [[China]], [[Russia]], and [[North Korea]] — forced the US and its allies into an economically unsustainable interceptor battle.
+
+### Iranian pre-war arsenal
+
+| Category | Estimated pre-war stockpile | Fired (as of March 11) | Status |
+|----------|---------------------------|------------------------|--------|
+| Ballistic missiles | ~2,500 (ranges from hundreds to 2,000+ km) | ~700 | Could be exhausted in weeks; launchers heavily degraded (Israel claims 2/3 destroyed) |
+| Shahed one-way attack drones | Unknown (estimates vary widely) | 2,100+ | Stockpiles remain; manufacturing requires no complex components |
+
+Shahed cost estimates: $20,000-$50,000 per unit. The weapons are "basically a fiberglass body with a motor, basic guidance, and explosives" — assemblable at facilities as simple as a speedboat-repair shop (Bloomberg, citing person familiar with Iranian drone manufacturing). A senior European official said strikes have disrupted the organization needed for large-scale manufacturing, but small-scale production can continue indefinitely.
+
+### Interceptor consumption
+
+US and partners in the Gulf most likely burned through **well over 1,000 PAC-3 interceptors** in the war's opening days — nearly twice the annual production of the weapon and more than the US and all allies supplied to [[Ukraine]] over four years (Bloomberg).
+
+In the [[UAE]] alone, over 1,000 Shaheds attacked in the first 6 days, compared with ~200 ballistic missiles. Air defense doctrine requires more than one interceptor per target.
+
+**Rheinmetall AG** estimated $4 billion in munitions used in first 72 hours — ~400 cruise missiles and ~800 air defense interceptors. Washington Post separately estimated $5.6 billion in munitions for the first 2 days alone.
+
+[[Mark Cancian]] (CSIS): "It's a race to see will our inventories get low before the Iranian missile inventories get low."
+
+### Production capacity vs. wartime consumption
+
+| System | Current production | Target | Gap |
+|--------|-------------------|--------|-----|
+| PAC-3 (Lockheed Martin) | ~650/year | 2,000+/year (by 2030) | >1,000 consumed in opening days — nearly 2x annual output |
+| SM-6/SM-3 (RTX/Raytheon) | 96/year | 360/year (years away) | $93M allocated for 10 SM-6 replacements |
+| Tomahawk (RTX) | <100/year | — | ~168 used in first 100 hours (CSIS) |
+
+$225 million set aside to increase SM-6/SM-3 production, but not all funding approved by Congress. [[Elaine McCusker]] (former Pentagon deputy comptroller, first Trump administration): "high-demand, low-density" precision munitions have a "history of production challenges."
+
+### Equipment losses
+
+| Equipment | Location | Status | Significance |
+|-----------|----------|--------|-------------|
+| THAAD battery radar | Jordan | Damaged | First THAAD combat loss; US has only 8 systems globally |
+| Early warning radar | Qatar | Destroyed | "Rare and expensive" — sensor gap |
+| Fifth Fleet HQ | Bahrain | Struck by ballistic missiles and Shaheds | Rare attack on major US naval command |
+| MQ-9 Reapers | Iran/Gulf | 7+ lost (Bloomberg, March 11); 11+ by mid-March (confirmed, Eurasian Times, ABC News) | ~$30M each; designed for permissive environments, vulnerable to Iranian SAMs including 358 |
+
+[[William Alberque]] (Pacific Forum): The THAAD radar loss is "very expensive, very high end... in terms of global capabilities that's a huge blow to us."
+
+### Iran's 358 surface-to-air missile
+
+Iran's **358 SAM** (also designated **Saqr 358**) — described as unlike anything in Western arsenals — has posed an unexpected threat to US aircraft:
+
+- **Jet-powered loitering interceptor**: can patrol designated airspace autonomously until fuel depletion, then engage targets — not a traditional fire-and-forget SAM
+- Infrared-guided seeker with proximity fuse (no radar emission — aircraft receive **no warning** until missile launch)
+- Effective to altitudes of 25,000 feet
+- Small, mobile launcher — road-mobile, can "pop up" from concealed positions
+- Entered Iranian service in 2019; publicly unveiled 2023-2024; supplied to proxies
+- Known threat during the 2025 Yemen campaign; deployed at larger scale in Iran
+- Contributing to the US's inability to achieve air supremacy
+- Primary threat to MQ-9 Reapers and other ISR platforms designed for permissive environments
+
+US officials say they achieved only **"air superiority"** — not the total "air supremacy" enjoyed in Iraq 2003, Afghanistan, or Libya — and then only in some areas. This is a first for modern US warfare. Hegseth stated air supremacy was expected "within days" during the first week; as of March 11, it had not been achieved.
+
+### Standoff-to-JDAM transition
+
+Unable to fully control the skies, the US initially relied heavily on expensive standoff weapons:
+- **Tomahawk** cruise missiles (hundreds used in first 100 hours)
+- **JASSM** cruise missiles (stealthy, air-launched)
+- **Precision Strike Missile** (Lockheed Martin) — range ~500km, launched from HIMARS, GPS-guided; **used in combat for the first time** (confirmed, CENTCOM, March 4)
+
+As Iran's air defenses degraded, the US shifted to cheaper air-dropped **JDAMs** (Joint Direct Attack Munitions) — tens of thousands per bomb vs. $1M+ for cruise missiles, with 500,000+ in the US arsenal. The tradeoff: standoff weapons require less pilot exposure but depend on intelligence for targeting without direct observation.
+
+### Allied support
+
+- **Australia**: Supplying advanced air-to-air missiles to [[UAE]] (useful for downing Shaheds) and deploying an E-7A Wedgetail surveillance aircraft for early warning
+- **Ukraine**: Offered drone-defense systems to help protect US forces — drawing on four years of experience countering Russian drones
+- **South Korea**: President sought to reassure defenses remain strong amid unconfirmed reports the US was pulling anti-missile systems from the Korean Peninsula
+
+### Assessments
+
+[[Kelly Grieco]] (Stimson Center): "The United States led the long-range precision strike revolution, and this is the first war where we're seeing the adversary have that kind of capability. It's putting stress on the system that we haven't seen before."
+
+[[Ankit Panda]] (Carnegie Endowment): "The US appears to have underestimated Iran's tolerance for pain and its ability to inflict it in return. There's still tremendous uncertainty about how this progresses from here."
+
+[[Jeffrey Lewis]] (James Martin Center for Nonproliferation Studies): "I think the regime will continue to conduct infrequent but steady missile and especially drone attacks. And then the Trump people are going to have a big choice. Do they escalate by getting involved on the ground? Or do they negotiate a settlement that allows them to declare victory?"
+
+*Source: Gerry Doyle, Jen Judson, Courtney McBride, and Becca Wasser, "Iran's Cheap, Plentiful Weaponry Puts US Military Under Unprecedented Strain," Bloomberg (March 10-11, 2026)*
 
 ---
 
@@ -563,6 +731,54 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 
 ---
 
+## China-Iran support architecture
+
+[[China]] has been Iran's most critical external partner through decades of [[Sanctions|sanctions]] and international isolation, providing oil revenue, financial infrastructure, and military-relevant technology. The war has intensified the significance of this relationship.
+
+### Oil revenue
+- ~90% of Iran's 1.6 million bbl/day crude exports go to China — tens of billions of dollars annually
+- Iranian crude makes up ~12% of China's total oil imports
+- Purchased primarily by small "teapot" refineries whose import quotas Beijing regulates — deliberately shielded from US sanctions exposure (see [[China energy security strategy]])
+- China does not accept the legitimacy of US sanctions but maintains plausible deniability by routing purchases through companies unconnected to international financial markets
+- During the war, Iranian tankers continued exporting through the selective Hormuz blockade — see March 15 timeline entry
+
+### Shadow banking
+Iran manages a clandestine shadow-banking network facilitated by China (US officials allege):
+- Chinese teapot refiners pay in **yuan**
+- Some revenue used to buy Chinese products shipped to Iran
+- Oil revenue also funds barter arrangements: Chinese companies build Iranian infrastructure in exchange
+- Money moves through **front companies → Chinese financial institutions → Hong Kong** → conversion to other currencies
+- Cash from oil sales remains in bank accounts abroad — **Hong Kong, Dubai, and Singapore**
+- Iranian importers/exporters trade foreign currency among front companies on ledgers maintained inside Iran
+
+### Military-relevant supply
+Chinese companies have been critical suppliers of dual-use goods with military applications (US officials; WSJ):
+
+| Category | Detail |
+|----------|--------|
+| Drone motors | Motors used in Iran's Shahed drones |
+| Rocket fuel | Chemicals for solid propellants |
+| Electronics | Components for weapons systems |
+| Satellite intelligence | Chinese commercial satellite firms participated in business exchanges with the [[IRGC]] (Pentagon, December 2025) |
+
+**Solid propellant shipments:**
+- In 2025, two ships linked to IRISL (Islamic Republic of Iran Shipping Lines) left China loaded with **1,000 tons** of material for solid propellant of ~260 midrange missiles (reported, WSJ).
+- In mid-2025, Iran ordered **thousands of tons** of additional missile fuel ingredients from China (reported, WSJ).
+- **Days after the Feb 28 strikes**, two more IRISL-connected ships left a Chinese port (confirmed, MarineTraffic via Washington Post). Cargo unconfirmed but raises concerns about continued resupply during the war.
+- Chinese government: "unaware of specific orders" but maintains "strict control" on dual-use items.
+
+### Nuclear history
+China helped develop Iran's Isfahan facility — Iran's largest nuclear-research complex — in the 1980s (Nuclear Threat Initiative). In recent decades, China has not directly supported the nuclear program but has sold missile components and facilitated sanctions evasion for dual-use goods (US-China Economic and Security Review Commission, November 2025).
+
+### Diplomatic support
+- Negotiated the 2023 [[Saudi Arabia]]-[[Iran]] détente — now "deeply frayed" by Iran's attacks on Saudi Arabia during the war
+- Lobbied for Iran's admission to [[BRICS]] (2024) and the Shanghai Cooperation Organization (2023)
+- Iran hosted SCO counterterrorism exercises with Chinese and Russian troops in December 2025
+
+*Source: Austin Ramzy and Rory Jones, "How China Is Quietly Helping an Isolated Iran Survive," WSJ (March 18, 2026)*
+
+---
+
 ## Related
 
 - [[2026 US Military Buildup Against Iran]] — pre-strike force disposition
@@ -582,6 +798,8 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Marco Rubio]] — admitted Israel driving force, missiles as objective
 - [[Vali Nasr]] — Johns Hopkins SAIS, performative diplomacy thesis, Israel's "Sunni axis" ambitions, "last war" thesis
 - [[Pete Hegseth]] — "this is not Iraq" claim
+- [[AI Warfare]] — Maven Smart System targeting, first semiautonomous drone combat, 1,000 targets/24 hours
+- [[Long-Range Strike]] — PrSM/ATACMS first combat use from HIMARS, Gulf launch points, Pacific signaling
 - [[Joseph Votel]] — former CENTCOM commander, mine warfare/munitions sustainability assessment
 - [[Karen Young]] — MEI energy economist, GCC existential threat framing
 - [[Ali Vaez]] — Crisis Group Iran director, war of attrition logic, succession analysis
@@ -596,7 +814,7 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Paul Horsnell]] — OIES, SPR exchange mechanism critique (2000, applicable to 2026)
 - [[Michal Meidan]] — OIES, China's Gulf energy exposure
 - [[Erica Downs]] — Columbia CGEP, China teapot refineries, energy security, SPR, LNG vulnerability
-- [[Sanam Vakil]] — Chatham House MENA director, Iraq 1991 parallel, containment-to-war cycle
+- [[Sanam Vakil]] — Chatham House MENA director, Iraq 1991 parallel, containment-to-war cycle; guarantees + sanctions relief as Iran's price
 - [[Roxane Farmanfarmaian]] — RUSI/Cambridge, pre-war protest-to-war conditions, regime collapse vs. transition, US credibility trap
 - [[Burcu Ozcelik]] — RUSI, "Goldilocks" near-collapse gamble, Syria parallel
 - [[Robin Mills]] — Qamar Energy CEO, planning failures critique, Kharg improvisation
@@ -604,6 +822,21 @@ Democrats "tended to be more withdrawn" (reported, Wikipedia summary of multiple
 - [[Mark Kelly]] — Sen. (D-AZ), former Navy combat pilot, cost asymmetry critique ("the math doesn't work")
 - [[Simon Gass]] — Former UK ambassador to Iran, JIC chair, JCPOA lead negotiator; existential trigger thesis, three-failures diplomacy framework, fatwa lapsing
 - [[Emile Hokayem]] — IISS director of regional security; phase analysis, sustainment burden, cruise missile reserve thesis, Iran's deliberate GCC targeting prioritization
+- [[Rob Malley]] — former Biden Iran envoy; Iran's dual calculation (end costs vs. make adversaries pay enough to deter future attacks)
+- [[Mohammad Bagher Ghalibaf]] — parliament speaker, IRGC-aligned; "no threat of war anymore" demand
+- [[Tulsi Gabbard]] — DNI; Iran "remains capable," regime will rebuild if it survives
+- [[Ali Larijani]] — national security adviser (killed March 18); would have been integral to diplomatic process
+- [[Kelly Grieco]] — Stimson Center, "first war" with adversary precision strike capability
+- [[Mark Cancian]] — CSIS, munitions inventory race assessment
+- [[Jeffrey Lewis]] — James Martin CNS, escalate-or-negotiate choice
+- [[Ankit Panda]] — Carnegie, underestimated Iran's pain tolerance and retaliatory capability
+- [[William Alberque]] — Pacific Forum, THAAD radar loss as global capability blow
+- [[Elaine McCusker]] — former Pentagon comptroller, production challenges
+- [[Frank McKenzie]] — former CENTCOM commander, land-based missile planning ("optimizing your weapons")
+- [[Thomas Karako]] — CSIS, multi-domain integration, PrSM operational test
+- [[Grant Rumley]] — Washington Institute, Pacific signaling to China
+- [[Alex Vatanka]] — MEI, Gulf complicity dynamics
+- [[William Wechsler]] — Atlantic Council, Gulf escalation pressure and territorial access
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid
@@ -691,8 +924,13 @@ See **[[2026 Iran conflict -- analyst perspectives]]** for full analyst assessme
 - Washington Post: [Iran strikes back after Kharg bombing](https://www.washingtonpost.com/world/2026/03/14/iran-iraq-us-trump-march-14-2026-oil-prices/) (March 14, 2026)
 - Fortune: [Trump calls on countries to send warships to Hormuz](https://fortune.com/2026/03/14/trump-iran-war-china-france-japan-korea-uk-warships-strait-hormuz/) (March 14, 2026)
 - Bloomberg Odd Lots: "What War in Iran Means for Teapot Oil Refineries of China" (March 13, 2026, recorded March 4) — [[Erica Downs]], [[Columbia Center on Global Energy Policy]]. China's energy exposure, teapot refineries, SPR, LNG vulnerability, diplomatic response
+- Katrina Manson, "How the Pentagon Got Hooked on AI War Machines," *Bloomberg Businessweek* (March 12, 2026). Adapted from *Project Maven* (W.W. Norton, forthcoming). Maven Smart System targeting data, semiautonomous drones, Anthropic blacklisting
+- Gerry Doyle, Jen Judson, Courtney McBride, and Becca Wasser, "Iran's Cheap, Plentiful Weaponry Puts US Military Under Unprecedented Strain," *Bloomberg* (March 10-11, 2026). Iranian arsenal inventory, interceptor burn rate, 358 SAM, air superiority gap, production constraints, equipment losses, allied support
+- David S. Cloud, "The Land-Based Missiles That Are Crucial to America's Air War on Iran," *WSJ* (March 18, 2026). PrSM/ATACMS first combat use, HIMARS launches from Bahrain (video verified) and UAE (Iran accusation), 100+ naval vessels destroyed, Gulf complicity dynamics, Pacific signaling
+- Austin Ramzy and Rory Jones, "How China Is Quietly Helping an Isolated Iran Survive," *WSJ* (March 18, 2026). China-Iran oil (~90% of 1.6M bbl/day exports), shadow banking network, military dual-use supply (drone motors, rocket fuel, electronics), IRISL solid propellant shipments, post-war resupply concerns
 - CNN: [Pentagon and NSC underestimated Iran's willingness to close Hormuz](https://www.cnn.com/2026/03/12/politics/hormuz-trump-administration-underestimated-iran) (March 12, 2026)
 - Washington Examiner: [He war gamed an Iranian blockade of the Strait of Hormuz](https://www.washingtonexaminer.com/news/washington-secrets/4489446/wargame-iran-blockade-strait-of-hormuz/) (March 12, 2026) — Bill Beach, Heritage Foundation 2007 wargame
 - The National: [US response to the Strait of Hormuz closure is becoming a farce](https://www.thenationalnews.com/business/energy/2026/03/15/did-the-us-account-for-strait-of-hormuz-closure-in-its-iran-war-plan/) (March 15, 2026) — Robin Mills, Qamar Energy
 - CNBC: [Iran sends millions of oil barrels to China through Strait of Hormuz](https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html) (March 11, 2026)
 - Reuters: [Iranian oil flows through Strait of Hormuz even as Gulf neighbors' exports shut](https://www.reuters.com/business/energy/iranian-oil-flows-through-strait-hormuz-even-gulf-neighbors-exports-shut-2026-03-11/) (March 11, 2026)
+- Andrew England and Najmeh Bozorgmehr, "Iran sets its price to end the war," FT (March 19, 2026) — Larijani killed, IRGC partisan warfare pivot, ceasefire terms (guarantees + sanctions relief), Dubai airport struck

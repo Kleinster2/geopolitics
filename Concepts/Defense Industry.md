@@ -170,10 +170,31 @@ Sen. Mark Kelly (D-AZ, former Navy combat pilot): "The math on this doesn't work
 - War cost >$11 billion in first 6 days — overwhelmingly munitions (reported, FT citing Pentagon officials briefing senators).
 - Pentagon preparing supplemental request of up to $50 billion (reported, FT, March 12, 2026).
 
+**Interceptor consumption (Bloomberg, March 10-11):**
+- US and Gulf partners burned through **well over 1,000 PAC-3 interceptors** in the opening days — nearly 2x annual production and more than all allies supplied to [[Ukraine]] over four years.
+- Rheinmetall AG estimated $4 billion in munitions used in first 72 hours — ~400 cruise missiles and ~800 air defense interceptors.
+- Washington Post estimated $5.6 billion in munitions in the first 2 days alone.
+- Air defense doctrine requires more than one interceptor per target — amplifying the cost asymmetry against cheap Shaheds.
+
+**Production rate gap:**
+
+| System | Current production | Target | Timeline |
+|--------|-------------------|--------|----------|
+| PAC-3 (Lockheed Martin) | ~650/year | 2,000+/year | By 2030 |
+| SM-6/SM-3 (RTX/Raytheon) | 96/year | 360/year | Years away; $225M allocated |
+| Tomahawk (RTX) | <100/year | — | Years to replace expenditure |
+| JDAM | Plentiful (~500,000+ in arsenal) | — | Adequate; used as substitute as Iranian air defenses degrade |
+
+Pentagon spending $93 million to replace up to 10 SM-6 missiles. Not all funding for increased production has been approved by Congress (Bloomberg, March 11).
+
+**Standoff-to-JDAM transition:** Unable to fully control Iranian airspace early in the campaign (only "air superiority," not "air supremacy" — a first for modern US warfare), the US relied heavily on expensive standoff weapons — Tomahawks, JASSM cruise missiles, and the Precision Strike Missile (first combat use). As Iran's air defenses degraded, the shift to cheaper JDAMs ($10K-40K per bomb vs. $1M+ for cruise missiles) began to ease the munitions burden.
+
 **Strategic readiness implications:**
 - Rapid depletion raises concerns about US ability to confront future conflicts with [[Russia]] or [[China]].
 - Production rates far below wartime consumption: the Tomahawk production pipeline cannot replace in years what was expended in days.
 - Validates pre-war warnings from defense analysts that US surge capacity had atrophied.
+- Kelly Grieco (Stimson Center): "The United States led the long-range precision strike revolution, and this is the first war where we're seeing the adversary have that kind of capability."
+- Reports that US was pulling anti-missile systems from South Korea raised alarm about force posture in Asia (Bloomberg, March 10).
 
 ## 2025-2026: European Rearmament Boom
 
@@ -208,13 +229,26 @@ Sen. Mark Kelly (D-AZ, former Navy combat pilot): "The math on this doesn't work
 - Supply chain bottlenecks
 - National preference vs. integration
 
+## Defense Technology Companies
+
+A new tier of military-focused technology companies has emerged alongside the traditional defense primes, specializing in AI, autonomous systems, and software-defined warfare. See [[AI Warfare]] for full analysis.
+
+| Company | Country | Valuation/Revenue | Focus |
+|---------|---------|-------------------|-------|
+| **Palantir** | US | ~$250B market cap | Data analytics; built Maven Smart System used by all US commands and NATO |
+| **Anduril** | US | $60B target valuation (previous: $30.5B); $20B US Army contract (March 2026) | Autonomous systems; maritime drone software |
+| **SpaceX** | US | ~$350B (private) | Launch, satellites; participant in Pentagon drone swarm challenge |
+| **L3Harris** | US | ~$20B revenue | Autonomous navigation systems; traditional prime expanding into AI |
+| **AeroVironment** | US | ~$7B market cap | Drone manufacturer; AI target recognition |
+
+These companies represent a shift from hardware-centric to software-centric defense contracting. The [[2026 Iran conflict]] demonstrated the operational impact: Palantir's Maven Smart System enabled ~1,000 targets struck in the first 24 hours -- approximately twice the scale of Iraq 2003 shock-and-awe.
+
 ## Technology Frontiers
 
 ### Emerging Areas
-- Autonomous systems
+- [[AI Warfare]] -- autonomous targeting, drone swarms, LLM-powered mission control
 - Hypersonics
 - Directed energy (lasers)
-- AI/machine learning
 - Space capabilities
 - Quantum sensing
 
@@ -223,6 +257,7 @@ Sen. Mark Kelly (D-AZ, former Navy combat pilot): "The math on this doesn't work
 - Commercial tech adoption
 - Space industry revolution
 - Software importance
+- **Silicon Valley tensions**: Google withdrew from Project Maven (2018); Anthropic blacklisted for refusing autonomous weapons (2026); OpenAI stepped in as replacement
 
 ## Policy Debates
 
@@ -245,9 +280,10 @@ Sen. Mark Kelly (D-AZ, former Navy combat pilot): "The math on this doesn't work
 - Technology sharing
 
 ## Related Concepts
+- [[AI Warfare]] -- autonomous weapons, Maven Smart System, Pentagon-Silicon Valley dynamics
 - [[Arms Trade]]
 - [[Military Power]]
-- [[Technology]]
+- [[Technology Competition]]
 - [[Supply Chains]]
 - [[United States]]
 - [[China]]

@@ -56,7 +56,42 @@ Range restrictions on Western weapons transfers illustrate how military capabili
 - Taiwan's counter-strike capability debated—hit mainland bases or purely defensive?
 - US faces same range/escalation calculus as Ukraine: what Taiwan can strike shapes deterrence and escalation risk
 
-### Iran-Israel
+### 2026 Iran War — Land-Based Missiles as Warfighting Tool
+
+The [[2026 Iran conflict]] marked the first combat use of the US Army's **Precision Strike Missile** (PrSM) and revived **ATACMS** as ship-killers — demonstrating that land-based precision strike has become a core warfighting dimension, not just an adjunct to air and naval power.
+
+**Key developments:**
+- PrSM and ATACMS fired from **HIMARS truck launchers** in the war's opening hours, hitting targets across the Persian Gulf from Gulf state territory (confirmed, WSJ citing Gen. Dan Caine, JCS chairman)
+- ATACMS struck and sunk Iranian naval vessels and a submarine in port — first use of tactical ballistic missiles as anti-ship weapons in this conflict
+- Videos verified launches from [[Bahrain]] (125 miles from Iran); Iran accused the US of firing from [[UAE]] at [[Kharg Island]]
+- No Gulf state admitted to hosting launches — careful line between military cooperation and political deniability
+- Pentagon accelerated PrSM operational readiness by delaying some testing (2025 GAO report)
+
+**PrSM specifications:**
+
+| Feature | Detail |
+|---------|--------|
+| Range | ~310 miles (500 km); future models up to ~620 miles (1,000 km) |
+| Guidance | GPS + inertial navigation; future seeker modes for moving targets |
+| Platform | HIMARS (2 per pod) or MLRS |
+| Manufacturer | Lockheed Martin |
+| First combat use | February 28, 2026 (confirmed, CENTCOM) |
+
+**Strategic significance:**
+- Multi-axis attack: land-based missiles add a trajectory dimension that complicates Iranian air defense alongside air-launched and sea-launched strikes
+- Shoot-and-move: HIMARS mobile launchers are less vulnerable to counter-strike than fixed naval vessels or airbases — critical in an era of drone warfare
+- Frees air assets: ground-based precision strike handles stationary targets, freeing fighters for moving targets and bombers for hardened facilities
+
+**Pacific signaling:**
+The Pentagon deliberately used Iran to demonstrate capabilities planned for the [[Taiwan]] contingency. The same PrSM/ATACMS/HIMARS systems are being deployed to Philippines and Pacific island bases to threaten Chinese naval forces in the [[First Island Chain]].
+
+- [[Grant Rumley]] (Washington Institute): use against Iran "will give Chinese military planners another wrinkle to consider"
+- [[Thomas Karako]] (CSIS): the decision to use land-based missiles early reflected Pentagon desire to validate the multi-domain integration concept under combat conditions
+- [[Frank McKenzie]] (former CENTCOM commander): "This has been planned for a long time. You are optimizing your weapons."
+
+*Source: David S. Cloud, "The Land-Based Missiles That Are Crucial to America's Air War on Iran," WSJ (March 18, 2026)*
+
+### Iran-Israel (pre-war)
 - Israel demonstrated deep strike into Iran (2025)
 - Iran's ballistic missiles reach Israel but lack precision
 - Houthis using long-range drones/missiles against Red Sea shipping

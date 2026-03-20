@@ -154,11 +154,55 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - Third-country transshipment
 - Parallel financial systems
 
+## Multipolarization of Economic Coercion (2025-2026)
+
+[[Nicholas Mulder]] (Cornell, author of *The Economic Weapon*) argues that the post-Cold War US monopoly on major sanctions has ended. Two developments mark the shift (FT, March 17, 2026):
+
+### China's Rare Earth Retaliation
+
+When the US escalated export controls, Beijing imposed controls on refined [[Critical Minerals|rare earth]] exports, striking US defense, aerospace, and automobile manufacturers. The disruption contributed to the US-China de-escalation — the Trump-Xi Busan meeting (October 2025) and January 2026 trade truce amounted to what Mulder calls a "Sino-American truce in economic coercion."
+
+### Iran's Chokepoint Weapon
+
+Iran's [[Strait of Hormuz]] blockade replicated the structural logic of US sanctions: weaponizing a chokepoint in the global economy to compel de-escalation. Mulder: Iran "turned a key chokepoint in the world economy into a weapon to compel its adversary to de-escalate." The closure cut ~20% of global oil and gas flows and one-third of global fertilizer trade.
+
+### Cascading Effects
+
+The Iran energy shock forced the US to ease Russian oil sanctions. On March 12, 2026, OFAC issued **General License 134** — a 30-day authorization for delivery and sale of Russian crude loaded on stranded tankers, releasing an estimated 124 million barrels. Treasury Secretary [[Scott Bessent]] framed it as stabilizing energy markets disrupted by the Hormuz closure. The license covers sanctioned vessels and ancillary services (insurance, mooring, pilotage).
+
+EU reaction was sharply negative: von der Leyen said now was not the time to relax Russia sanctions; Macron said the Hormuz closure "in no way" justifies lifting sanctions on Russia.
+
+Mulder's framing: "warding off the energy weapon used by Tehran has thus necessitated a dialling down of the economic war on Moscow" (FT, March 17, 2026). The EU, which had been pursuing decoupling from Russian gas, may need to continue purchasing Russian energy to avoid economic damage.
+
+### Diminishing Returns
+
+Mulder argues sustained economic coercion increasingly prompts diversification:
+- Russia reoriented trade to Asian economies after 2022
+- Chinese companies shifted production abroad and accelerated domestic chip innovation
+- "In today's sanctions-clogged world economy, more pressure can mean diminishing returns"
+
+### Non-US Sanctions Failures
+
+The multipolarization of economic coercion has not made sanctions more effective for other actors:
+
+| Actor | Target | Period | Outcome |
+|-------|--------|--------|---------|
+| Gulf states | Qatar | 2017-2021 | Failed |
+| ECOWAS | Mali/Burkina Faso/Niger | 2020s | Failed to reverse coups |
+| China (rare earths) | Japan | 2010 | Made Tokyo more antagonistic |
+| China (coal ban) | Australia | 2020-2023 | Made Canberra more antagonistic |
+
+### Sanctions-to-War Pipeline
+
+Mulder challenges the traditional argument that sanctions are a preferable alternative to military action: "Instead of averting military action, sanctions are now just as frequently paving the way to violent escalation." The [[2026 Iran conflict]] — where the US moved from "maximum pressure" sanctions to open war — exemplifies this pattern.
+
 ## Related Concepts
 - [[Geoeconomics]]
 - [[Economic Statecraft]]
 - [[Coercive Diplomacy]]
 - [[Hard Power]]
+- [[Chokepoint Power]] — geographic analog of financial sanctions leverage
+- [[Weaponized Interdependence]]
 - [[Iran]]
 - [[Russia]]
 - [[North Korea]]
@@ -166,6 +210,7 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 - [[Dollar Dominance]]
 - [[Chile-China Cable Sanctions]] — visa sanctions on allied officials over telecom infrastructure (February 2026)
 - [[Digital Sovereignty]] — infrastructure control as geopolitical lever
+- [[Nicholas Mulder]] — historian of economic coercion, end-of-monopoly thesis
 
 ### Cross-vault
 - [Investing: US Sanctions](obsidian://open?vault=investing&file=Concepts%2FUS%20Sanctions) — market impact, tariff-based sanctions, company exposure
@@ -173,3 +218,7 @@ Economic penalties imposed by one or more countries on a target (state, entity, 
 ## Further Reading
 - Hufbauer et al., *Economic Sanctions Reconsidered* (2007)
 - Drezner, *The Sanctions Paradox* (1999)
+- Mulder, *The Economic Weapon: The Rise of Sanctions as a Tool of Modern War* (2022)
+
+## Sources
+- Nicholas Mulder, "The era of US dominance in economic warfare is over," FT (March 17, 2026)

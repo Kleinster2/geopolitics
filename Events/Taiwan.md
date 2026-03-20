@@ -157,6 +157,21 @@ First confirmed PLA violation of Taiwan-controlled airspace:
 - Economic headwinds limit China's risk appetite
 - "Fourth Taiwan Strait Crisis" framing gaining traction (Aug 2022 to present as continuous crisis)
 
+## US Autonomous Weapons Development for Taiwan
+
+The Pentagon's [[AI Warfare]] programs are primarily oriented toward a potential Taiwan conflict. Starting in 2022, the Project Maven team began systematically collecting imagery of Chinese vessels in the Pacific to train AI targeting algorithms.
+
+- Senior defense officials -- including the chairman of the Joint Chiefs -- were shown videos of AI models automatically identifying Chinese destroyers (summer 2025)
+- "We're basically watching the PLA all the time now to get AI training data" (defense official, Bloomberg)
+- The Pentagon is building AI that can operate entirely on self-flying drones, identifying and hitting targets without human intervention -- critical for the jammed communications environments expected near China
+- **Replicator** (2023-2025) aimed to deploy thousands of autonomous air and maritime drones by 2027, the year US officials say China could take Taiwan. Fell short of goals but delivered hundreds of drones.
+- **DAWG** (Defense Autonomous Warfare Group, 2025-) refocused on simpler drones specifically for Taiwan defense
+- January 2026: Pentagon launched $100 million prize challenge for LLM-powered drone swarm control; contestants include OpenAI, Palantir, and SpaceX
+
+**Readiness assessment:** A UK national security official reported that US officials assure allies the US would be ready for a Chinese invasion of Taiwan, then "drop their voices and confess: 'We're not ready'" (reported, Bloomberg, March 2026).
+
+*Source: Katrina Manson, "How the Pentagon Got Hooked on AI War Machines," Bloomberg Businessweek (March 12, 2026)*
+
 ## Key Variables
 1. Xi Jinping's risk tolerance
 2. US commitment credibility
@@ -189,6 +204,7 @@ First confirmed PLA violation of Taiwan-controlled airspace:
 - [[Deterrence]]
 - [[First Island Chain]]
 - [[China Nuclear Program]]
+- [[AI Warfare]] -- autonomous weapons programs oriented toward Taiwan scenario
 
 ## Sources
 - [Global Taiwan Institute - PLA Justice Mission 2025](https://globaltaiwan.org/2026/01/pla-justice-mission-2025/)

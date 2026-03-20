@@ -18,6 +18,7 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Martin Plaut]] - University of London (Institute of Commonwealth Studies), Eritrea/Ethiopia
 
 ## International
+- [[Alex Vatanka]] - MEI, Iran, Gulf states, US-Iran relations; Gulf complicity calculus
 - [[Ali Vaez]] - Crisis Group Iran Project Director, nuclear diplomacy, sanctions, track-two practitioner
 - [[Brandon Weichert]] - Author "The Shadow War," Iran/space policy, conservative commentator
 - [[Christopher Garman]] - Eurasia Group executive director, political risk, Latin America
@@ -39,9 +40,21 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 
 ## Defense / Strategy
 - [[Emile Hokayem]] - IISS director of regional security; Iran war phase analysis, sustainment burden, cruise missile reserve thesis
+- [[Kelly Grieco]] - Stimson Center, military alliances, force posture; "first war" with adversary precision strike
+- [[Mark Cancian]] - CSIS, Pentagon budget, force structure, munitions sustainability; inventory race
+- [[William Alberque]] - Pacific Forum, arms control, missile defense; THAAD global capability blow
+- [[Elaine McCusker]] - Former Pentagon comptroller, defense budget; production constraints
+- [[Frank McKenzie]] - Former CENTCOM commander, land-based missile integration planning
+- [[Thomas Karako]] - CSIS Missile Defense Project, multi-domain integration, PrSM operational test
+- [[Grant Rumley]] - Washington Institute, former Pentagon, Pacific signaling through Iran
+- [[William Wechsler]] - Atlantic Council, former Pentagon, Gulf escalation ladder and territorial access
 
 ## Maritime / Institutional
 - [[Arsenio Dominguez]] - IMO secretary-general, escorts unsustainable, shipping lane geometry, stranded ships humanitarian crisis
+
+## Nuclear / Arms Control
+- [[Jeffrey Lewis]] - James Martin CNS/Middlebury, nuclear weapons, OSINT, missile proliferation; escalate-or-negotiate assessment
+- [[Ankit Panda]] - Carnegie Endowment, nuclear strategy, arms control, North Korea; underestimated Iran thesis
 
 ## Military / Naval
 - [[Farzin Nadimi]] - Washington Institute, Iran naval forces, mine warfare

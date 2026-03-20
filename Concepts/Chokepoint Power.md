@@ -48,7 +48,7 @@ This parallels nuclear deterrence logic: the value of the weapon is in the credi
 
 ## Physical vs. financial chokepoints
 
-Chokepoint power is the geographic original of what [[Edward Fishman]] (*Chokepoints*, 2025) and Farrell & Newman ([[Weaponized Interdependence]]) describe for financial and digital networks:
+Chokepoint power is the geographic original of what [[Edward Fishman]] (*Chokepoints*, 2025) and Farrell & Newman ([[Weaponized Interdependence]]) describe for financial and digital networks. [[Nicholas Mulder]] (Cornell) inverts the comparison: Iran's Hormuz closure "replicated a tactic that America has long practised in its use of sanctions" — the same logic of chokepoint leverage, applied through geography rather than financial architecture (FT, March 17, 2026).
 
 | Type | Example | Mechanism |
 |------|---------|-----------|
@@ -118,3 +118,4 @@ Any energy infrastructure dependent on a single chokepoint is structurally vulne
 - FT: Arsenio Dominguez / IMO assessment (March 17, 2026) — escorts unsustainable
 - Henry Farrell & Abraham Newman, "Weaponized Interdependence" (*International Security*, 2019) — financial chokepoint framework
 - Edward Fishman, *Chokepoints* (2025) — economic chokepoint architecture
+- Nicholas Mulder, "The era of US dominance in economic warfare is over," FT (March 17, 2026) — Iran replicating US sanctions logic through geography

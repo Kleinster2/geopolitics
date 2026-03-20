@@ -44,6 +44,8 @@ Great power rivalry is increasingly fought in the technology domain. Control ove
 
 **Stakes**: AI will reshape economy, warfare, society
 
+**Military dimension**: See [[AI Warfare]] for the Pentagon's AI programs (Project Maven, Maven Smart System, Replicator/DAWG). The [[2026 Iran conflict]] was the first large-scale test -- ~1,000 AI-identified targets struck in 24 hours. Development is now focused on autonomous drone swarms for a potential [[Taiwan]] scenario.
+
 ### Semiconductors
 See: [[Semiconductors]]
 - US controls design, equipment

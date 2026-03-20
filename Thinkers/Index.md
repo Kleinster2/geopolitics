@@ -8,6 +8,7 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 
 ## Geoeconomics & Economic Statecraft
 - [[Edward Fishman]] - CFR, sanctions architect, *Chokepoints*, economic warfare
+- [[Nicholas Mulder]] - Cornell, *The Economic Weapon*, sanctions history, end of US coercion monopoly
 
 ## Iran / Middle East
 - [[Roy Mottahedeh]] - Harvard (d. 2024), *The Mantle of the Prophet*, Iranian political culture and Shi'ite intellectual history
