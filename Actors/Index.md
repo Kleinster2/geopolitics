@@ -34,7 +34,9 @@ States, organizations, and decision-makers in geopolitics.
 - [[Israel]]
 - [[Turkey]]
 - [[Egypt]]
+- [[Qatar]]
 - [[Syria]]
+- [[Bahrain]]
 
 ### Europe
 - [[European Union]]
