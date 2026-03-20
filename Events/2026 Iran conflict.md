@@ -477,6 +477,45 @@ Operational power initially concentrated in **Ali Larijani** (national security 
 
 *Source: Andrew England and Najmeh Bozorgmehr, "Iran sets its price to end the war," FT (March 19, 2026)*
 
+### March 19 — Netanyahu press conference, South Pars halt, pipeline pitch
+
+**Netanyahu's second press conference since war start** (45 minutes, Jerusalem):
+
+**South Pars halt:**
+- Confirmed Israel struck South Pars alone (without US operational participation in the strike itself).
+- "President Trump asked us to hold off on future attacks" on South Pars — first public acknowledgment of US-Israeli friction over energy targeting.
+- The South Pars strike was the first targeted attack on Iranian fossil fuel *production* (as opposed to military/nuclear targets) since the war began.
+
+**Uranium enrichment claims (contested):**
+- Netanyahu: "Iran today does not have the ability to enrich uranium and no possibility to produce missiles" (20 days into the war). Provided no evidence.
+- IAEA Director General [[Rafael Grossi]] directly contradicted this on CBS the same day: "A lot has survived" of Iran's enrichment capacity. "They have the capabilities, they have the knowledge, they have the industrial ability to do that."
+- Netanyahu did not address Tehran's stockpile of highly enriched uranium, believed to be buried under the Isfahan nuclear site following US strikes in June 2025.
+
+**Pipeline bypass proposal:**
+- Pitched building oil and gas pipelines "going west through the Arabian Peninsula, right up to Israel, right up to our Mediterranean ports" to bypass [[Strait of Hormuz]] and [[Bab el-Mandeb]] permanently.
+- "I see that as a real change that will follow this war."
+- Essentially proposing Israel as the post-war energy transit hub for Gulf hydrocarbons — a revival/expansion of the Eilat-Ashkelon Pipeline concept (built 1968 for Iranian Shah-era oil, Red Sea → Mediterranean).
+- Political feasibility: near-zero in current conditions. Gulf states whose infrastructure was just destroyed by Iranian retaliation *triggered by Israel's South Pars strike* are not rushing to build critical infrastructure terminating in Israel. Any Saudi pipeline route requires MBS agreement, which remains contingent on Palestinian statehood — a non-starter for Netanyahu's coalition.
+
+**Ground component hint:**
+- "It's up to the Iranian people to show that, to choose the moment and to rise to the moment" (on regime change).
+- Acknowledged air strikes alone cannot overthrow the government: "There has to be a ground component as well. There are many possibilities for this ground component, and I take the liberty of not sharing with you all those possibilities."
+- Could indicate special forces operations, proxy activation (MEK, Kurdish groups), or deliberate ambiguity for deterrence. Saying it publicly at a press conference is escalatory regardless of operational intent.
+
+**Regional context on Mar 18-19:**
+- Iranian retaliation for South Pars hit Gulf energy infrastructure across four countries:
+  - [[Qatar]]: "Extensive damage" to [[Ras Laffan]] LNG facility (world's largest LNG hub). European gas prices jumped 35%.
+  - [[UAE]]: Shah gasfield suspended (1.28 bcf/day capacity, ~20% of UAE gas supply, 5% of world granulated sulphur). [[Dubai International Airport]] struck.
+  - [[Saudi Arabia]]: Red Sea oil refinery hit by drones.
+  - [[Kuwait]]: Fires at two refineries from Iranian drones.
+- Emmanuel Macron called the tit-for-tat strikes a "reckless escalation."
+- Germany's economy minister Katherina Reiche warned of potential global recession.
+- Iran listed prominent Gulf oil/gas sites (Saudi, UAE, Qatar) as "direct and legitimate targets" demanding evacuation.
+- Prince [[Faisal bin Farhan]] (Saudi FM): "What little trust" built with Iran "has been shattered on multiple levels" — accused Iran of striking Riyadh during a meeting of regional diplomats.
+- Qatar blamed Israel (without mentioning US) for the South Pars attack, calling it "dangerous and irresponsible."
+
+*Sources: Reuters (March 19, 2026); AP (March 19, 2026); NYT (March 19, 2026); Guardian (March 18, 2026); CBS News (March 19, 2026)*
+
 ---
 
 ## US planning and preparedness failures
@@ -934,3 +973,10 @@ See **[[2026 Iran conflict -- analyst perspectives]]** for full analyst assessme
 - CNBC: [Iran sends millions of oil barrels to China through Strait of Hormuz](https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html) (March 11, 2026)
 - Reuters: [Iranian oil flows through Strait of Hormuz even as Gulf neighbors' exports shut](https://www.reuters.com/business/energy/iranian-oil-flows-through-strait-hormuz-even-gulf-neighbors-exports-shut-2026-03-11/) (March 11, 2026)
 - Andrew England and Najmeh Bozorgmehr, "Iran sets its price to end the war," FT (March 19, 2026) — Larijani killed, IRGC partisan warfare pivot, ceasefire terms (guarantees + sanctions relief), Dubai airport struck
+- Reuters: [Netanyahu wants oil, gas to flow through Israel post-Iran war](https://www.reuters.com/world/middle-east/netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity-2026-03-19/) (March 19, 2026) — pipeline pitch, uranium claims, ground component hint, Trump asked halt to gas attacks
+- Guardian: [Why tit-for-tat attacks on gasfields are a major escalation](https://www.theguardian.com/world/2026/mar/18/middle-east-war-why-attacks-gasfield-south-pars-are-a-major-escalation) (March 18, 2026) — Shah field, Ras Laffan, Saudi/Kuwait strikes, Iraq repair precedent, Gulf social settlements
+- NYT: [Israeli Officials Said U.S. Was Told About South Pars Attack](https://www.nytimes.com/2026/03/19/world/middleeast/israel-iran-south-pars-gas-field-trump.html) (March 19, 2026) — three Israeli officials say strike coordinated in advance despite Trump's denial
+- AP: [Israel hits Tehran on Persian New Year as war jolts energy markets](https://apnews.com/article/iran-iraq-us-israel-trump-march-19-2026-52e94398f2432b3aba9b02b51fbe5000) (March 19-20, 2026)
+- CBS News: [Iran war escalates after Israeli strike on South Pars](https://www.cbsnews.com/live-updates/iran-war-israel-strike-south-pars-gas-field-trump-threat-oil-gas-prices/) (March 19, 2026) — Grossi contradicts Netanyahu on enrichment
+- CNN: [What is the South Pars gas field](https://www.cnn.com/2026/03/19/middleeast/iran-qatar-south-pars-gas-field-explainer-intl) (March 19, 2026)
+- Al Jazeera: [Iran threatens to strike Gulf energy facilities](https://www.aljazeera.com/news/2026/3/18/iran-threatens-to-strike-gulf-energy-facilities-after-south-pars-attack) (March 18, 2026)

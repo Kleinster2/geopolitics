@@ -32,9 +32,25 @@ Initially objected: makeup of Gaza committee "not coordinated with Israel and ru
 - [[Iran Nuclear Program]] - Opposed JCPOA, advocated military option
 - [[Board of Peace]] - Initial objection then joined
 
+## 2026 Iran War — Key Positions
+
+### South Pars strike & pipeline pitch (March 19)
+Second press conference since war began. Confirmed Israel struck Iran's [[South Pars]] gas field alone; said Trump asked Israel to halt future gas field attacks. Pitched post-war oil/gas pipelines "west through the Arabian Peninsula, right up to Israel, right up to our Mediterranean ports" to bypass [[Strait of Hormuz]] — positioning Israel as the indispensable post-war energy transit hub. See [[2026 Iran conflict#March 19]].
+
+### Enrichment claims
+Claimed Iran "no longer has the ability to enrich uranium" (Day 20). IAEA's [[Rafael Grossi]] directly contradicted on CBS same day: "A lot has survived." Netanyahu provided no evidence.
+
+### Ground component
+Hinted at potential ground operations in Iran: "There has to be a ground component as well. There are many possibilities for this ground component." Acknowledged air strikes alone cannot achieve regime change. Did not elaborate.
+
+### Regime change framing
+Called on Iranian people to "choose the moment and to rise to the moment" — echoing Trump's Feb 28 call for Iranians to "cast off the yoke of tyranny."
+
 ## Related Notes
 - [[Israel]]
 - [[Gaza Conflict]]
 - [[Israel-Iran Escalation]]
 - [[Board of Peace]]
 - [[Donald Trump]]
+- [[2026 Iran conflict]]
+- [[Strait of Hormuz]]
