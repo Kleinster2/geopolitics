@@ -138,6 +138,27 @@ On February 28, 2026, the US and Israel launched joint strikes that killed Supre
 ## Key Figures
 - [[Qasem Soleimani]] - Legendary Quds Force commander (killed 2020)
 
+## Post-war strategic position (Mulroy assessment, March 20)
+
+[[Mick Mulroy]] (former Deputy ASD Middle East, MEI panel, March 20, 2026) provided an assessment of Iran's post-war position that emphasizes the asymmetric advantages the regime retains despite catastrophic military losses:
+
+**Pain tolerance asymmetry:** Iran endured 6-7 years of maximum pressure campaign. "They don't really care, but also the Iranian people. They've endured a lot and they can keep enduring it." Their biggest leverage: "they can cause similar pain to the rest of the world" — and "they probably believe that the rest of the world does not want to endure it." The US has a democracy with midterm elections; Iran does not. Iran can wait out American political cycles.
+
+**Escalation options retained:** Even with its conventional navy destroyed, Iran retains:
+- 5,000 naval mines (deployable in hours via small speedboats)
+- ~1,000-mile coastline with dispersed missile/drone/suicide boat positions — "like the entire coast of the United States"
+- Ability to further attack Gulf energy infrastructure (Qatar, Kuwait, UAE, Saudi Arabia)
+- [[Houthis]] activation for Red Sea disruption
+- The strait closure itself as a proven, repeatable capability
+
+**"They just need to not lose to win"** (Kissinger paraphrase). Iran's war aim is survival plus demonstrated leverage, not military victory in the conventional sense.
+
+**Gulf hosts may view US basing as liability:** Countries that hosted US military assets to feel safer now see hosting as what made them targets — not just military bases but civilian economy, hotels, high-rises, energy infrastructure. "Even if they're not saying it to us, I'm sure they're thinking it."
+
+**The "pause" scenario:** Since regime change won't happen, Mulroy assesses any ceasefire may be "simply a pause in a long-term conflict" — the regime will restart its nuclear program, reconstitute what it can, and both sides will be "thinking about where they sit for the next round."
+
+*Source: MEI panel, March 20, 2026*
+
 ## Related Notes
 
 ### Regional Strategy

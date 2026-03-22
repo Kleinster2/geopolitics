@@ -218,6 +218,27 @@ US-Israeli Operation Epic Fury directly targeted nuclear infrastructure (confirm
 
 **Post-war nuclear risk:** [[Fred Kagan]] (AEI) and [[Ryan Bohl]] (RANE) both flag the danger that surviving Iranian leaders may now conclude "America and Israel attacked anyway, so why not get the bomb?" — hardliners now have a viable argument they lacked before June 2025.
 
+### Mulroy assessment — nuclear sprint incentive (March 20, 2026)
+
+[[Mick Mulroy]] (former Deputy ASD Middle East, MEI panel, March 20) provided the most structurally detailed post-war nuclear analysis:
+
+**The restraint was the Supreme Leader — now he's gone:** "It's largely believed that the former Supreme Leader was the one that did not want to get to a point where they had a nuclear weapon and that it was the IRGC that was pushing him. Well, he's gone." The hardliners who remain are those the IRGC favored.
+
+**North Korea vs. Libya calculus:** The post-war "I told you so" argument inside the regime: "If we had a nuclear weapon, we'd be in a situation like North Korea rather than a situation like Libya." This is the dominant internal logic — the war proved that nuclear deterrence is the only guaranteed protection against US preemptive strikes.
+
+**Material status:** ~1,000 lbs (441 kg) of up to 60% enriched uranium, enough for ~10 weapons. But Mulroy emphasizes that possession is not capability: "They have to turn it into a core. They have to come up with a triggering mechanism. They have to come up with the delivery mechanism."
+
+**HEU recovery operation — enormous operational risk:**
+- Elite forces ([[JSOC]]) train for nuclear material recovery. But the US dropped massive ordnance penetrators on the facilities — they are "collapsed, demolished." Forces "trained on intact facilities, not collapsed, demolished facilities."
+- May require earth movers, construction of airfields for fixed-wing extraction, extended ground presence under potential Iranian army counterattack.
+- Would require "the majority of that force plus a lot of air assets and potentially even more ground elements that would be able to cordon off the area."
+- "Not a pinpoint operation like catching Maduro." Even bigger decision than seizing [[Kharg Island]].
+- The destruction the US inflicted on these facilities paradoxically makes recovering the HEU harder — the very success of the bombing campaign creates the operational obstacle.
+
+**Assessment**: Mulroy's analysis adds the operational dimension missing from Kagan and Bohl's political analysis: the US may have both incentivized a nuclear sprint (by killing pragmatists) and made HEU recovery operationally impractical (by collapsing the facilities). A classic strategic backfire — see [[Strategic Backfire (2026 Iran War)]].
+
+*Source: MEI panel, March 20, 2026*
+
 ## Related Notes
 - [[2026 Iran conflict]] — strikes on nuclear facilities
 - [[Iran]]

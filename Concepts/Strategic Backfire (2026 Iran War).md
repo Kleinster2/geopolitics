@@ -77,6 +77,30 @@ But winning the military campaign triggered the strategic backfire: Iran's one a
 
 The closure is, in Rachman's words, "one of the most foreseen 'unforeseen problems' in history." Trump was specifically warned pre-war and "waved away these concerns, predicting instead that the Islamic republic would swiftly capitulate."
 
+## The deterrence equation is permanently broken
+
+[[Mick Mulroy]] (former Deputy ASD Middle East, MEI panel, March 20): the most dangerous strategic backfire may be the simplest. Before this war, the assumption — held by Iran, the US, and Gulf states alike — was that closing the [[Strait of Hormuz]] would trigger a regime-ending response. That assumption kept the strait open for decades.
+
+The war has now proven the assumption false. Iran closed the strait, attacked 6-7 Gulf energy facilities, caused billions in infrastructure damage, and the regime remains in place. [[Colby Connelly]] (MEI, from Dubai): "We've now demonstrated to them they can screw around with the strait and screw around with oil and gas in the Gulf in ways that they probably didn't believe before this war started."
+
+This is irreversible. Iran cannot unlearn that it survived Hormuz deployment. Future deterrence must account for a regime that knows the cost of strait closure is endurable — and that the US has a democracy with midterm elections while they do not.
+
+## Post-war nuclear sprint — the hardliner incentive
+
+Mulroy identifies the decapitation strikes as creating a second-order backfire: by killing [[Ali Khamenei]] (believed to be the restraining force against nuclear weapons — it was the [[IRGC]] pushing him) and [[Ali Larijani]], the war eliminated the pragmatists and left only hardliners in charge. The "I told you so" faction — "if we had a nuclear weapon, we'd be in a situation like North Korea rather than a situation like Libya" — is now ascendant. Mulroy: "There's going to be a significant push inside the regime to somehow get to a nuclear weapon so they don't have to deal with this again."
+
+Iran has ~1,000 lbs (441 kg) of up to 60% enriched uranium — enough for ~10 weapons. Possession doesn't mean a weapon is imminent (need core fabrication, triggering mechanism, delivery system), but the political will barrier has collapsed.
+
+Ground recovery of the HEU would be "very risky" — facilities are collapsed from massive ordnance penetrators, forces trained on intact structures, may need earth movers and constructed airfields, extended ground presence under Iranian army counterattack. "Even bigger decision than seizing [[Kharg Island]]."
+
+## Gulf partners as collateral — the basing question
+
+Mulroy raises what Gulf partners may be thinking but not saying: hosting US military assets made them targets. Before the war, US bases provided a security guarantee. Now: "hotels, high-rises, your means of economy and your population" were attacked. Some may view US presence as a liability.
+
+If regime change doesn't happen, "this might be viewed as just a pause" before the next round — "and that's going to get a lot of our partners thinking about where they sit."
+
+This compounds the sustainment trap ([[Emile Hokayem]]): the US needs Gulf basing to project power, but Gulf hosts now question whether basing makes them safer or more vulnerable.
+
 ## Related
 - [[2026 Iran conflict]]
 - [[Strait of Hormuz]]
@@ -85,6 +109,9 @@ The closure is, in Rachman's words, "one of the most foreseen 'unforeseen proble
 - [[Compellence]]
 - [[Escalation]]
 - [[Simon Gass]]
+- [[Mick Mulroy]]
+- [[Colby Connelly]]
+- [[Kharg Island]]
 - [[Alliance Entrapment (US-Israel)]] — complementary thesis on how the US entered the war
 
 ## Sources
@@ -92,3 +119,4 @@ The closure is, in Rachman's words, "one of the most foreseen 'unforeseen proble
 - Gideon Rachman, FT: "Why Hormuz will haunt us long after this war ends" (March 16, 2026)
 - FT, The Rachman Review: Sir Simon Gass interview (March 12, 2026)
 - FT: Trump threatens to delay Xi summit (March 15-16, 2026)
+- MEI: "The Iran War: Escalation, Energy, and the Uncertain Endgame" — Mulroy & Connelly (March 20, 2026)

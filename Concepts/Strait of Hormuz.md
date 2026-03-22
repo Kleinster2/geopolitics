@@ -262,6 +262,30 @@ IMO extraordinary council scheduled March 19-20 to discuss operational risks and
 
 ---
 
+### Mulroy operational assessment — March 20, 2026
+
+[[Mick Mulroy]] (former Deputy ASD Middle East, MEI panel, March 20) provided the most detailed insider assessment of the strait reopening challenge:
+
+**Phase 1 (current):** [[A-10 Thunderbolt]]s targeting small boats — related to both mine-laying capability and suicide drone boat threat.
+
+**Phase 2 (imminent):** [[31st MEU]] redirected from Indo-Pacific. Mulroy's assessment: "If this was really planned, the MEU would have already been there. This indicates we have had to add a contingency plan — you would not be pulling a national asset from the Far East." Approximately 8 days from arrival. Two possible missions:
+1. Secure islands around the strait
+2. Seize [[Kharg Island]] — 400 miles north of the strait, near Kuwait, close to mainland Iran. 90% of Iran's oil exports transit Kharg. Only 7 miles long, ~15,000 people. Ground component is a battalion landing team: 600 Marines.
+
+**The "what if they don't care" problem:** Even if the US seizes Kharg: "What if the Iranians say great, you have our stuff, we're still keeping the straits closed?" Marines would be vulnerable on a 7-mile island, near Iranian fuel tanks that could be targeted, with only 600 troops against potential counterattack.
+
+**Iran's "nuclear option" (Mulroy's term):** If the US tries to forcibly open the strait, Iran could deploy all 5,000 mines at once. "I simply don't know how long it would take to get that clear." Combined with Iran's ~1,000-mile coastline ("like the entire coast of the United States"), even the most significant military in the world can't cover it all.
+
+**LCS mine countermeasures — untested:** Mulroy confirmed the Avenger-class decommission and LCS replacement as an unproven gamble: "We're going to find out whether this was a good decision, unfortunately" in real-time combat conditions. LCS uses drones instead of traditional sweep methods.
+
+**Force insufficiency:** Iran is 4x the size of Iraq, 2x the population, extraordinarily mountainous. "We're never going to depreciate their military capabilities 100%. It's never going to happen." Must set realistic expectations.
+
+**No allied participation:** "We have no allies helping. We didn't engage them before the war. I can understand why." Convincing shipping companies to transit requires more than mine clearance — must address coastal missiles, drones, and suicide boats.
+
+**$200B supplemental:** Pentagon requesting roughly 1/4 of the defense budget, 1/4 of the entire Iraq War cost. "War not even a month old." This signals the Pentagon's own timeline is NOT 2-3 weeks.
+
+*Source: MEI panel, March 20, 2026*
+
 ## Historical precedents
 
 ### Tanker War (1984-1988)

@@ -851,3 +851,196 @@ Reports functional successor government but notes it has never been tested again
 - If the state collapses and neighbors + US + Israel support separatist groups, fragmentation is possible.
 
 **Assessment**: Nasr's third interview in the vault on this war, and his framing has sharpened from structural analysis (January: regime is resilient) to loss-of-control critique (March 4: US lost control, Israel's war goals marketed as America's) to what may be his most consequential contribution — the "last war" thesis. If correct, Iran is not simply enduring strikes or waiting for a ceasefire; it is actively seeking to permanently change the cost calculus of future US intervention. This reframes the war from a military campaign with a definable endpoint to a test of which side's political will breaks first. His maximum pressure radicalization argument complements this: the very policy designed to moderate Iran created the hardened leadership now executing the "last war" strategy. The JCPOA counterfactual — middle class growth as constituency for change vs. impoverishment as constituency for radicalism — is his most politically loaded argument, essentially attributing the current war to Trump's 2018 JCPOA withdrawal. Compare with Gass (existential trigger/Hormuz), Hokayem (sustainment burden), and Bohl (structural resilience) — Nasr adds the motivational and historical layer: why Iran is fighting this way, rooted in 47 years of revolutionary ideology and centuries of foreign intervention.
+
+---
+
+### MEI Panel: Mick Mulroy & Colby Connelly — March 20, 2026
+
+**Source**: [MEI livestream](https://www.youtube.com/live/CTWhUlxxwDk) — "The Iran War: Escalation, Energy, and the Uncertain Endgame"
+
+**Speakers**: [[Mick Mulroy]] (former Deputy Assistant Secretary of Defense for the Middle East, ex-CIA officer, former US Marine, MEI Distinguished Military Fellow; speaking from Whitefish, Montana), [[Colby Connelly]] (MEI Senior Fellow, energy expert; speaking from Dubai). Moderated by Ken Pollack (ex-CIA).
+
+**Context**: Recorded on Day 20 of the conflict, two days after Israel struck [[South Pars]] gas infrastructure and Iran retaliated against [[Ras Laffan]] and 6-7 other Gulf facilities. The panel covers military strategy, war termination, energy escalation, and post-conflict implications.
+
+#### Mulroy — Military & strategic assessment
+
+**NSC process failure:**
+- Normal national security policy coordination process was not used — decisions limited to "the very top echelons."
+- Frames the war through Sun Tzu ("determine the cost before war") and Clausewitz ("war is politics by other means"). Neither principle was followed.
+- Justifications shifted three times: (1) ICBM claim — intelligence community immediately said Iran's ICBM capability is 9 years away, "by nobody's definition is that imminent"; (2) intelligence that Iran was going to attack the US — "also proven, at least from media reports, to be incorrect"; (3) Israel would attack first, so Iran would attack the US — "unfairly put the blame on Israel who makes its own decisions as a country, but so do we."
+- The NSC process "certainly existed in the first administration and every other administration" — its absence is a structural failure, not an oversight.
+- Without a coherent casus belli, "everything that flows after that is going to be considered suspect."
+
+**Regime change is not achievable:**
+- Intelligence assessment: regime change is not going to happen. Talking about it "creates a scenario the US military and for the most part the intelligence community as far as action goes cannot meet."
+- Decapitation strikes were "astounding" — shows US intelligence collection capability is "really exquisite." But decapitation ≠ regime change.
+- No armed opposition on the ground. "I think we can all say that all the way back from the beginning that was unlikely to happen. And it still is."
+- Cannot identify a single case in history where a regime changed from air power alone. "Who are they going to surrender to?"
+- Kissinger paraphrase: Iran "just needs to not lose to win."
+
+**Killing the pragmatists, empowering the hardliners:**
+- Killing [[Ali Khamenei]] and [[Ali Larijani]] (by Israel) eliminated the pragmatists. "It only leaves the real hardliners in charge."
+- The former Supreme Leader was believed to be the one who did NOT want a nuclear weapon — the [[IRGC]] was pushing him. "Well, he's gone."
+- The hardliners "seem to now feel like they're in the catbird seat. They're causing us all of this distress."
+
+**Strait of Hormuz — operational assessment:**
+- Hormuz closure has been a US strategic concern since the 1980s. Iranian Parliament approved the closing of the strait BEFORE the US elected to start the conflict. "So the idea we didn't expect this, I just don't believe that to be the case."
+- Physical facts: 21 miles wide, only 2 miles navigable. "Very easy to sea mine."
+- Sea mining takes "a few hours with these small speedboats." Iran has an estimated 5,000 mines.
+- US decommissioned the [[Avenger-class minesweepers]] — "the most critical and most effective ships that could have done this." Mission given to a "multi-purpose vessel which is untested" (the [[Littoral Combat Ship|LCS]]).
+- Even if the US Navy clears mines, commercial shipping and insurers won't trust it. "It isn't just a military issue. It's a military issue that has to be so trusted that this would still allow for the free flow of commercial traffic."
+- Phase 1: [[A-10 Thunderbolt]]s taking out small boats — related to both mine-laying and suicide drone boats.
+- Phase 2: [[31st MEU]] redirected from the Indo-Pacific. "If this was really planned, then the MEU would have already been there. So this indicates that we have had to have added a contingency plan, or you would not be pulling a national asset from the Far East." Approximately 8 days from arrival.
+- 31st MEU is special operations capable — two possible missions: (1) secure islands around the strait; (2) seize [[Kharg Island]], 400 miles up from the strait, near [[Kuwait]], close to mainland Iran, 90% of Iran's oil exports. Only 7 miles long, ~15,000 people on it. The ground component is a battalion landing team — 600 Marines.
+- "What if the Iranians don't care? What if they say great, you have our stuff, we're still keeping the straits closed?" That would be a tactical victory for Iran.
+- Iran's coastline: ~1,000 miles — "like the entire coast of the United States." Even the most significant military in the world can't cover all of it.
+- Forcible opening may backfire: if the US tries to clear mines, Iran's "nuclear option" (Mulroy's term) is to deploy all 5,000 at once. "I simply don't know how long it would take to get that clear."
+- No allies helping. "We didn't engage them before the war. I can understand why."
+- Iran can never be 100% degraded — "four times the size of Iraq, over two times the population, extraordinarily mountainous."
+
+**Ground operation to seize HEU:**
+- ~1,000 lbs (441 kg) of up to 60% enriched uranium — enough for ~10 weapons.
+- Post-war nuclear sprint is near-certain: "I told you so — if we had a nuclear weapon, we'd be in a situation like North Korea rather than a situation like Libya."
+- Ground recovery operation would be "very risky." US dropped massive ordnance penetrators on these facilities — "they're training on intact facilities, not collapsed, demolished facilities." May need earth movers, airfields (may need to construct them), extended ground presence.
+- Not a pinpoint operation like catching Maduro — would take the majority of JSOC force plus extensive air assets plus ground elements to cordon off against Iranian army counterattack.
+- "Even bigger decision than seizing Kharg Island."
+- Possession doesn't mean a weapon is imminent: need core fabrication, triggering mechanism, delivery system. "But ultimately, we just don't want them to have it."
+
+**Pain asymmetry and war termination:**
+- Iran endured maximum pressure for 6-7 years. "They can endure more."
+- Iran understands asymmetric political pressure: "They have a democracy. We do not. Midterms are coming up. They don't have midterms."
+- Even seizing Kharg might not work — Iran could escalate: attack Qatar's gas infrastructure more, dump all 5,000 mines, activate [[Houthis]] in the Red Sea.
+- Pentagon's $200B supplemental request — roughly 1/4 of the defense budget, 1/4 of the entire Iraq War cost ($800B over 8 years). "War not even a month old." This signals the Pentagon's own plan is NOT for 2-3 weeks.
+- Ceasefire is the primary objective — possibly unilateral or with Israel. Then use intelligence back channels.
+- Iran was pursuing new JCPOA negotiations when the war launched — "they might have a legitimate reason to say they don't trust any kind of negotiations."
+- Need regional partners (presumably Oman, Qatar pre-war, Turkey) who can talk to Iran credibly.
+
+**Sanctions lifted mid-war — unprecedented:**
+- US discussing lifting sanctions on Russian AND Iranian oil during active combat. "I can't think of a time" in history when sanctions were lifted on an enemy during a war (echoed by moderator Pollack). Neither can Pollack, "old military historian."
+- 100-140 million barrels of Iranian oil in floating storage — waivers would apply.
+- This emboldens the hardliners: "They are going to think they are winning."
+- Russia benefits enormously: sanctions removed + oil prices soaring. Meanwhile, Ukraine is making military gains while attention is diverted.
+
+**Gulf partners reconsidering US basing:**
+- Gulf states hosted US bases believing it made them safer. "They may be reconsidering that because they think that it simply made them a target."
+- Targets weren't just military: "your means of economy and your population — hotels, high-rises."
+- Some may view US presence as a liability. Need to address why hosting [[Al Udeid]] (CENTCOM), [[Fifth Fleet]] in Bahrain is advantageous.
+- "Even if they're not saying it to us, I'm sure they're thinking it: if we didn't have any US military assets here, would we be on the target list?"
+- Since regime change won't happen, "this might be viewed as just a pause" — cessation of hostilities before the next round. "That's going to get a lot of our partners thinking about where they sit for the next round."
+- Pollack closed with the "mowing the grass" analogy — cyclical conflict may be the default.
+
+#### Connelly — Energy assessment (from Dubai)
+
+**Opening the strait is no longer the solution:**
+- When Connelly last briefed, the problem was "mostly rooted in the lack of any transit through the strait." Now: "opening the strait is no longer a solution to this problem. It is part of the solution."
+- Israel's attack on [[South Pars]] gas infrastructure "really took the energy side of this crisis to a new phase."
+- "This is absolutely a four-alarm fire now. There is really no sign of improvement."
+- Damage to infrastructure is "the lifeblood of so many of these economies" — not just Gulf states but globally.
+
+**South Pars as escalation trigger:**
+- Gigantic offshore gas field shared with [[Qatar]] (North Field on Qatar's side).
+- Satisfies 75% of Iran's domestic gas requirements.
+- Iran viewed the strike as an "enormous escalation" — measure by how they responded.
+
+**Iran's retaliation — six to seven Gulf facilities:**
+- [[Ras Laffan]] Industrial City (Qatar): home to ~20% of world's LNG capacity. "Very heavily damaged." 17% of [[QatarEnergy]] capacity now offline.
+- [[Saad al-Kaabi]] (QatarEnergy CEO) told Reuters: may declare force majeure on supply contracts with European customers "for a period of about five years." Estimated cost: $20B/year in lost revenue.
+- Qatari LNG was expected to double capacity by 2030 — "how that develops going forward is an open question."
+- ~14 million tons/year of LNG lost from Qatar (assuming no further incidents).
+- [[Habshan]] gas facility (UAE) — attacked. [[Occidental Petroleum]] is part of these assets — "that's not a coincidence, that's probably why it was targeted."
+- [[Bu Hasa]] oil field (UAE) — attacked.
+- [[Mina Abdullah]] + [[Mina Ahmedi]] refineries (Kuwait) — attacked multiple times, attacked again on March 20 (day of panel).
+- [[Samraf]] refinery (Saudi Arabia) — attacked.
+- [[Fujairah]] — under "fairly intense bombardment" throughout the conflict. Iran targeting it specifically because it's an alternate export route for the UAE. "That's no coincidence."
+
+**Energy infrastructure attacks predated South Pars:**
+- Attacks on tankers, oil storage, and refining had already been taking place before the South Pars strike. "They really escalated" after it.
+
+**Price data (as of March 20):**
+- [[Brent crude]]: ~$110/barrel, possibly slightly lower.
+- Middle East benchmarks ([[Dubai crude|Dubai]], [[Oman crude|Oman]], [[Murban]]/UAE): "closer to the $150 to $160 per barrel range." These are significant because they're the crudes heavily demanded by Asian refiners — "where we're already starting to see demand destruction."
+- European natural gas: +35% since Ras Laffan attack, +50% since start of war.
+- [[JKM]] (Japan-Korea LNG marker): +25% after Ras Laffan, +90% since start of war.
+- Oil indexation: natural gas contracts linked to crude oil prices also spiking as oil rises.
+- Asian jet fuel: +80%.
+- Fuel oil (maritime, cruise): +30-40%.
+- "The price of moving people and goods is spiking and it's going higher."
+- Commodities markets harder to jawbone than financial markets — "something that the administration is used to having a little bit more wiggle room with."
+
+**Demand destruction materializing:**
+- SE Asian governments ordering public sector employees to work from home.
+- [[Sri Lanka]] made Wednesday a weekly public holiday going forward.
+- [[IEA]] "just today" (March 20) recommended implementing work from home globally where possible.
+- COVID parallels: downtown businesses, restaurants, tourism.
+- Tourism industries worldwide will take a hit from jet fuel spikes.
+- Asian demand destruction starting as ME crude benchmarks hit $150-160.
+- "I could spend an hour alone just going through all the knockoff impacts."
+
+**Refined products crisis — distinct from crude:**
+- [[Kuwait]] became a "huge exporter of refined products, particularly in the aftermath of the Russia-Ukraine war." European markets "started to source a lot more of their jet fuel and other refined oil products from Kuwait."
+- Kuwait's refineries now attacked — disrupts this supply chain.
+- Refining loss is distinct from and compounds crude supply loss.
+
+**Investor confidence shattered:**
+- Kuwait was opening its oil sector to international investment for the first time — "lost one of the major investors that was supposed to be involved in that deal."
+- [[Occidental Petroleum]]: part of UAE gas assets that were attacked.
+- [[ExxonMobil]]: liquefaction capacity at Ras Laffan is "a big part of Exxon Mobil's portfolio." Enormous potential losses.
+- US firms unlikely to pull out entirely, but "restoring the investor confidence in being here is going to be really heavily linked to the assurance that this doesn't happen again. And we're clearly a very long way from that point."
+- "Above-ground risk landscape" has fundamentally changed.
+
+**Iran's leverage revelation — deterrence equation broken:**
+- Pre-war assumption: Iran shuts strait → regime gets overthrown. Deterrence worked.
+- Now demonstrated: Iran CAN shut the strait, attack Gulf infrastructure, and cause global economic pain WITHOUT bringing down the regime.
+- "We've now demonstrated to them they can screw around with the strait and screw around with oil and gas in the Gulf in ways that they probably didn't believe before this war started."
+- Iran "realized that they've got this enormous piece of leverage" — can make every global economy participant "feel some degree of pain."
+- The risk tolerance may hold because "until a transition is made to some other form of energy consumption that the world has not yet made, the resource base that is here in the Gulf is just that critical."
+
+**Kharg Island escalation risk:**
+- "What South Pars is to Iran's domestic gas requirements, Kharg Island is in many ways to its ability to export oil." 90% of oil exports go through that terminal.
+- Given how Iran retaliated to the South Pars strike, "whether or not we are prepared for the risk that may come with" action against Kharg is "a very reasonable question to be asking."
+- "For how bad things are getting already, we could be in for an even worse awakening" if Iran retaliates to Kharg action more forcefully than the South Pars response.
+
+**Pipeline alternatives — existing:**
+- Saudi [[East-West Pipeline]]: ~7 million bbl/day from eastern province to Yanbu and other Red Sea coast terminals. "Seeing a lot of exports rerouted that way now."
+- UAE [[ADCO pipeline]]: just under 2 million bbl/day to [[Fujairah]]. But Fujairah under "more concentrated" bombardment because of its proximity to Iran and role as alternate route.
+- Both under Iranian disruption — "Iran is very aware of what's going on there and sees this as an even greater point of leverage."
+
+**Pipeline alternatives — future:**
+- East-West pipeline expansion likely.
+- ADCO pipeline expansion likely.
+- [[Iraq-Turkey Pipeline]] improvements or alternate Iraqi export routes.
+- Possible Iraq-[[Aqaba]] (Jordan) pipeline — would allow Red Sea + Suez Canal exports.
+- But Iraq "isn't exporting any oil right now, at least not very much."
+- Pipelines "are expensive to build and they take time" — and need security guarantees.
+
+**European nuclear U-turn:**
+- Europe "making noise on making more of a U-turn on nuclear energy as a result of this because they are way exposed to natural gas price fluctuations as a result of this impact on Qatar."
+- Broader energy transition may accelerate — but until complete, Gulf resources remain critical.
+
+**Gulf air defense success:**
+- "Huge success story around air defenses in the Gulf." Connelly living through it in Dubai, "seeing it firsthand."
+- But "there are always a number of things that get through."
+
+**Gulf tech/AI investment:**
+- Gulf attracted tech/AI investment due to cheap energy: natural gas for power generation, "some of the lowest cost solar and — believe it or not — wind energy."
+- War doesn't change the resource advantage. "But it's the above-ground risk landscape that will impact how that goes forward."
+
+**Russia benefits:**
+- Sanctions removed + oil prices soaring = windfall.
+- Ukraine making military gains while world's attention is on Iran.
+- Mulroy: "We should be going the other direction with sanctioning Russia."
+- Sanctioning Russia Act should be passing, not Russian sanctions being lifted.
+
+#### Moderator (Ken Pollack) — key framings
+
+- "If President Trump had asked me, which he did not, I would have argued against this. I see this war as a huge gamble and I am not a gambling man."
+- Tsunami analogy: "It feels like a disaster movie where there was an earthquake offshore and there's a tidal wave coming."
+- Compared Iraq war ($800B over 8 years) to $200B request for a war not even a month old.
+- "I cannot think of another war in history where you've lifted sanctions on your foe in the middle of a war."
+- "Mowing the grass" — cyclical US-Iran conflict may be the structural outcome if regime survives.
+- Confirmed both he and Mulroy are former CIA officers.
+
+**Assessment**: The Mulroy-Connelly panel is the first MEI assessment that combines a former Pentagon policy official's war-termination critique with a Gulf-based energy expert's real-time damage assessment. Mulroy's contribution is distinct from other military analysts in the vault (Votel focused on mine warfare specifics, Hokayem on sustainment, Bohl on regime resilience): he centers the process failure — the absence of NSC coordination, shifting casus belli, undefined success criteria — as the root cause of the strategic predicament. His "turn the map around" framework (view from Iran's perspective) yields the most politically uncomfortable conclusion in any analyst assessment to date: the war has incentivized Iran's nuclear sprint by eliminating the pragmatists and validating the hardliners' "if we had a nuke, this wouldn't happen" argument. Connelly's contribution elevates the energy analysis beyond price data to physical infrastructure damage that will take years and billions to repair — the force majeure timeline (5 years), the $20B/year revenue loss, the targeting of US-linked assets (Occidental, ExxonMobil) as deliberate escalation, and the broken deterrence equation (Iran now knows it can weaponize the strait without regime-ending consequences). Together they paint the grimmest post-war scenario yet: a hardline regime sprinting for nukes, Gulf allies questioning whether US basing made them targets, and a war that may be "just a pause" before it happens again. Compare with Nasr's "last war" thesis — Mulroy arrives at a similar conclusion (cyclical conflict) from operational rather than ideological analysis.
+
+*Source: MEI, "The Iran War: Escalation, Energy, and the Uncertain Endgame," March 20, 2026*
+*URL: https://www.youtube.com/live/CTWhUlxxwDk*
