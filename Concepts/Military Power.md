@@ -149,9 +149,9 @@ Geopolitics
 ## Contemporary Trends
 
 ### Technology Revolution
-- Drones/autonomous systems
+- Drones/autonomous systems — see [[Precise Mass]] for the cost-asymmetry thesis
 - Precision munitions
-- AI/machine learning
+- AI/machine learning — see [[AI Warfare]]
 - Hypersonics
 - Cyber warfare
 

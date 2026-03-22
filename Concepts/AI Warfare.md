@@ -252,6 +252,7 @@ The [[2026 Iran conflict]] was the largest test of AI-enabled warfare to date:
 ## Related Concepts
 
 - [[Technology Competition]] -- AI as commanding heights of great power rivalry
+- [[Precise Mass]] -- the production-side thesis: cheap autonomous weapons at scale inverting attack-defense economics
 - [[Defense Industry]] -- production base for autonomous systems
 - [[Deterrence]] -- AI capabilities as deterrent signal
 - [[2026 Iran conflict]] -- first major test of Maven Smart System at scale

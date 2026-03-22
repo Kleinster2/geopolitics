@@ -72,6 +72,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Nuclear Command and Control]] - C2 systems, AI/cyber risks, emerging tech challenges
 - [[Anti-Access Area Denial]]
 - [[Mine Warfare]] - Naval mines, asymmetric advantage, US countermeasures crisis
+- [[Precise Mass]] - Cheap autonomous weapons at scale inverting attack-defense economics (Horowitz/CFR, Zakaria)
 - [[Long-Range Strike]] - Deep strike capability, precision missiles, escalation politics
 - [[European Air Defense]]
 - [[Golden Dome]] - Trump's Arctic missile defense concept
