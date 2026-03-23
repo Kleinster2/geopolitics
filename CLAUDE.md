@@ -376,6 +376,10 @@ When a note has a meaningful counterpart in the other vault, add clickable `obsi
 
 **History vault reference:** The **history vault** (`C:\Users\klein\obsidian\history\`) covers long-arc economic history — trade, institutions, innovation from prehistory to modernity. When writing about a topic with deep historical roots (sanctions, trade wars, alliance theory, imperial overreach, balance of power, Monroe Doctrine, etc.), check the history vault for relevant precedent. When an event represents a genuine structural break or first-of-its-kind precedent (novel coercive mechanism, new alliance pattern, institutional transformation), flag it for the history vault — today's inflection points become tomorrow's history.
 
+**Brazil vault reference:** The **Brazil vault** (`C:\Users\klein\obsidian\brazil\`) covers domestic Brazilian politics, economy, and institutions in depth. When writing about Brazil's international posture, BRICS, US-Brazil relations, or Latin American dynamics, check the Brazil vault for domestic context. When a geopolitical development has significant domestic Brazilian implications, flag it for the Brazil vault.
+
+**Technologies vault reference:** The **technologies vault** (`C:\Users\klein\obsidian\technologies\`) covers technology foundations and architecture. When writing about tech-driven geopolitical dynamics (chip export controls, AI race, critical minerals, undersea cables, cyber operations), check the technologies vault for technical context.
+
 ---
 
 ## Current Context (March 2026)
