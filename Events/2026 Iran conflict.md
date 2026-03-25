@@ -818,6 +818,141 @@ China helped develop Iran's Isfahan facility — Iran's largest nuclear-research
 
 ---
 
+### March 22 — Trump 48-hour Hormuz ultimatum
+
+[[Trump II|President Trump]] issued [[Iran]] a 48-hour ultimatum to unblock the [[Strait of Hormuz]] or face attacks on Iranian power plants. [[Iran]] responded by threatening to strike US and Israeli infrastructure — including energy assets — in the region.
+
+[[Brent]] crude closed at $112.19/bbl on Friday March 21 — up 55% since the war began on February 28. The [[East-West Pipeline]] ramp to 3.66 mb/d (5-day avg), coordinated [[SPR]] releases, and temporary US waivers on sanctioned [[Iran]]ian and [[Russia]]n oil have prevented even higher prices (confirmed, Bloomberg).
+
+Alternative bypass developments:
+- [[ADNOC]] ([[UAE]]) resumed shipments from [[Fujairah]] on Friday after mid-week suspension due to attacks
+- [[Iraq]] announced agreement with [[Kurdistan]] to jointly use a pipeline carrying oil to Turkey's Mediterranean coast — but far short of Iraq's normal 3M+ bbl/day Gulf exports
+- [[Oman]] offered its remote port of Duqm as an alternative regional hub, with government-backed companies developing oil storage facilities
+
+Source: Bloomberg (Di Paola, Longley, Prem, El Wardany), March 22, 2026
+
+### March 22 — Natanz and Dimona strikes, nuclear escalation spiral
+
+**Nuclear site strikes — tit-for-tat:**
+- US/Israeli forces struck the Shahid Ahmadi-Roshan enrichment complex at [[Natanz]] on Saturday morning. IAEA found no radioactive leaks; nearby residents not at risk. Israel denied responsibility; IAEA investigating (confirmed, Reuters, IAEA).
+- Iranian media also reported strikes on a passenger terminal in the southern port of [[Bushehr]] and an empty passenger ship at nearby [[Kharg Island]] (confirmed, Reuters).
+- In retaliation, Iran fired missiles at the Israeli cities of [[Dimona]] and Arad — both within 12-22 miles of Israel's main nuclear research center in the Negev desert. Iranian state media said the Dimona strike was intended to target the nuclear facility and was retaliation for Natanz and Bushehr attacks (confirmed, NYT, Reuters).
+- Strikes extended to additional Iranian cities: Shiraz, Abadan, Tabriz, Bandar Abbas, Chabahar, Bushehr, and Khorramshahr (confirmed, Alma Research).
+- Iran threatened to "completely" close the Strait of Hormuz and lay mines throughout the Persian Gulf if power plants were attacked.
+
+**UK confirms base targeted:**
+- UK confirmed Iran fired two missiles at the British-American base on Diego Garcia in the Indian Ocean (confirmed, CNBC).
+
+### March 23 — Trump postpones ultimatum, claims "productive" talks; Iran denies
+
+**Ultimatum postponed:**
+- Trump posted on Truth Social that he had ordered the military to postpone strikes on Iranian power plants and energy infrastructure for **five days**, citing "VERY GOOD AND PRODUCTIVE CONVERSATIONS" with Iran regarding "a complete and total resolution of our hostilities in the Middle East" (confirmed, Truth Social, CNBC, Al Jazeera).
+- Told CNBC's Joe Kernen: "We are very intent on making a deal with Iran." Said Jared Kushner and Steve Witkoff had talks Sunday night with "a top person" in Iran. "Otherwise, we'll just keep bombing our little hearts out."
+- Said Hormuz "will be opened very soon, if this works" and that the strait might be "jointly controlled" — suggested this would constitute "a very serious form of regime change."
+- Told Fox Business Tehran "wants to make a deal badly" and it could happen within five days.
+
+**Iran categorically denies talks:**
+- Iranian state media, citing a "senior security official": "There has been no negotiation and there is no negotiation, and with this kind of psychological warfare, neither the Strait of Hormuz will return to its pre-war conditions nor will there be peace in the energy markets" (confirmed, Tasnim via Telegram).
+- Ghalibaf (parliament speaker): "No negotiations have been held with the US" — accused Trump of trying to "manipulate the financial and oil markets and escape the quagmire in which the US and Israel are trapped" (confirmed, Al Jazeera).
+- FM spokesperson Baghaei: denied discussions, said "messages have been received from some friendly countries regarding the US's request for negotiations to end the war" — suggesting indirect contacts through intermediaries but no bilateral talks (confirmed, IRNA via Al Jazeera).
+- IRGC responded that if power plants were struck, Iran would target power plants in all regions supplying electricity to US bases "as well as the economic, industrial and energy infrastructures in which Americans have shares."
+- Iran's Defence Council warned any attack on Iran's southern coast or islands would prompt laying sea mines to sever Gulf shipping routes (confirmed, state media via Al Jazeera).
+
+**Infrastructure damage:**
+- IEA head Fatih Birol warned the situation is "very severe" and worse than the two 1970s energy crises and Ukraine war fallout combined (confirmed, Al Jazeera citing IEA). More than 40 Middle East energy assets "severely damaged" (confirmed, CNBC citing IEA).
+
+**Oil market reaction:**
+- Brent crashed ~11% from $112.19 to ~$99.94/bbl on Trump's postponement announcement. WTI fell to ~$86 from ~$99 (confirmed, CNBC, Guardian).
+- Dow surged over 1,000 points. Dollar fell against major currencies.
+
+**Ground troops debate — Cropsey op-ed:**
+- [[Seth Cropsey]] (former Deputy Undersecretary of the Navy, Hudson Institute) published WSJ op-ed "American Credibility Is on the Line in Iran" (March 22-23) arguing Trump "must put boots on the ground to open the Strait of Hormuz."
+- Called for "several thousand special-ops forces to southern Iran" backed by regular troops.
+- Invoked 1956 [[Suez Crisis]]: failure to complete the campaign would mark "the psychological transformation of two erstwhile great powers into medium powers" — same fate awaits the US if it withdraws without securing Hormuz.
+- Warned halting now "could trigger a Chinese move against Taiwan or a Russian move against NATO."
+- CNN separately reported (March 21) that Trump had been reviewing options in "near-daily briefings" that include sending American troops into Iran (confirmed, CNN).
+
+**Breitbart framing:** Characterized the Cropsey piece as part of a pattern of Murdoch-press "globalist" pressure to escalate, noting the WSJ editorial page has run 17+ opinion pieces attacking Vance since February 2025 and has spent "roughly a decade" undercutting Trump's foreign policy restraint.
+
+*Sources: CNBC (March 23); Al Jazeera (March 23); NYT (March 23); Guardian (March 23); Breitbart (March 23); PBS (March 23); CNN (March 21); WSJ — Cropsey op-ed (March 22-23)*
+
+### March 24 — 15-point ceasefire plan, 82nd Airborne deployment, nuclear escalation continues
+
+**15-point ceasefire plan — via Pakistan:**
+- Trump administration sent a **15-point ceasefire plan** to Iran through Pakistan, which offered to host direct negotiations (confirmed, AP, NYT, Channel 12).
+- Key reported conditions (Channel 12 citing sources): Iran must dismantle nuclear capabilities; commit to never develop nuclear weapons; halt all uranium enrichment on Iranian territory; hand over ~450 kg of 60%-enriched uranium stockpile to IAEA; dismantle Natanz, Isfahan, and Fordow facilities; grant IAEA full access; end regional proxy operations; stop support for allied militias; keep Strait of Hormuz open; limit missile programme in range and quantity; confine future missile use to self-defence.
+- Process design (Witkoff/Kushner): declaration of a **one-month ceasefire period**, during which sides would negotiate the 15-point agreement.
+- Israeli officials "reportedly uneasy" about Trump pushing for a "framework agreement, an agreement in principle" rather than insisting on fulfilment of all conditions before any pause (reported, Channel 12).
+- Pakistan's PM Shehbaz Sharif offered to host direct talks. Trump reshared Sharif's social media post "subject to concurrence by the US and Iran" (confirmed, AP, CBS News).
+
+**Iran's response — categorical rejection:**
+- Lt. Col. Ebrahim Zolfaghari (Iranian military spokesperson, prerecorded state TV statement): "The strategic power you used to talk about has turned into a strategic failure. The one claiming to be a global superpower would have already gotten out of this mess if it could. Don't dress up your defeat as an agreement."
+- "Our first and last word has been the same from day one, and it will stay that way: Someone like us will never come to terms with someone like you. Not now, not ever" (confirmed, CBS News, Guardian).
+- "Have your internal conflicts reached the point where you are negotiating with yourselves?"
+
+**82nd Airborne deployment:**
+- Pentagon ordered deployment of **~2,000-3,000 soldiers** from the 82nd Airborne Division to the Middle East (confirmed, NYT citing two defence officials; Politico reported ~3,000; AP and CBS reported 1,000-1,500; WaPo said "a couple thousand").
+- Includes a battalion from the 1st Brigade Combat Team plus Maj. Gen. Brandon Tegtmeier (division commander) and division staff.
+- Additionally, **two Marine Expeditionary Units** bringing ~5,000 Marines and several thousand sailors already en route (confirmed, AP, ABC News Australia).
+- Total US forces in Middle East: ~50,000 before this deployment.
+- The deployment undermines Trump's claims of successful peace talks — Iran previously threatened to mine the Gulf if US appeared to be landing troops.
+
+**Trump Oval Office statements (March 24):**
+- "This war has been won. The only one that likes to keep it going is the fake news."
+- "We killed all their leadership. And then they met to choose new leaders and we killed all of them. And now we have a new group."
+- Called leadership changes "regime change": "This is a change in the regime because the leaders are all very different."
+- Said Iran gave the US "a very big present" related to oil and gas that "arrived today" — refused to elaborate, said it meant "we're dealing with the right people" (confirmed, CBS News).
+- Asked who he was negotiating with, said "Marco, JD, we have a number of people doing it" (Rubio, Vance), along with Witkoff and Kushner.
+- Hegseth alongside Trump: "We negotiate with bombs. You have a choice, as we loiter over the top of Tehran."
+
+**Bushehr nuclear plant struck again:**
+- IAEA reported another projectile hit [[Bushehr]] Nuclear Power Plant premises. Iran told IAEA no damage to the plant itself, no injuries, plant condition normal (confirmed, IAEA social media).
+- [[Rafael Grossi]] reiterated call for "maximum restraint to avoid nuclear safety risks during conflict."
+- UN human rights chief [[Volker Türk]]: "States are flirting with unmitigated catastrophe" regarding strikes near nuclear sites in both Israel and Iran.
+
+**Lebanon — ambassador expelled, first Israeli death from Lebanese fire:**
+- Lebanon ordered Iran's newly appointed ambassador expelled, declared persona non grata (confirmed, Lebanese Foreign Ministry). Hezbollah called the decision a "national and strategic sin" and demanded immediate reversal.
+- A woman killed in northern Israel by rocket fire from Lebanon — **first Israeli death from Lebanese fire** in this war (confirmed, Magen David Adom, AP).
+
+**Iran strikes continue:**
+- IRGC fired missiles at Israel, Kuwait, Jordan, and Bahrain — targeting military bases hosting US forces (confirmed, state TV via Reuters).
+- Iran fired at least nine waves of missile launches at Israel including cluster munitions. Tel Aviv hit by unintercepted ballistic missile; IAF investigating interception failure. Nine people wounded across Israel, two seriously (confirmed, IDF, MDA, Times of Israel).
+- IDF launched new wave of strikes across Tehran targeting "infrastructures of the Iranian terror regime" in the early morning hours (confirmed, IDF Telegram).
+- Kuwait airport hit by Iranian drone, causing fire (confirmed, Guardian).
+
+**Hormuz — Iran offers partial reopening:**
+- Iran told the UN Security Council and IMO that **"non-hostile" ships may pass safely** through the Strait of Hormuz. Defined as vessels "neither participate in nor support acts of aggression against Iran" and do not belong to the US or Israel (confirmed, Reuters citing Iranian note to IMO).
+- UK offered to host an international security summit to draw up a "viable, collective plan" to reopen the strait — proposed London or Portsmouth as venue (confirmed, Guardian).
+
+**France's army chief criticism:**
+- Gen. Fabien Mandon (France's army chief): the US is "less and less predictable" as an ally. "We acted immediately, surprised by an American ally... who doesn't even bother to inform us when it decides to engage in military operations" (confirmed, CBS News).
+
+**Suspected insider trading:**
+- $500 million in oil trades placed minutes before Trump's Truth Social post on Iran talks on Monday morning. Brent dropped from $112 to ~$99 on the announcement. Reuters and CBS reported financial experts raising concerns about possible insider trading (confirmed, Reuters, CBS News).
+
+**WTO fertilizer warning:**
+- World Trade Organisation warned disruptions to fertilizer supplies from the Hormuz closure will cause food scarcity and high prices — a third of world fertilizers normally transit the strait (confirmed, Guardian).
+
+**Australian visa suspension:**
+- Australia blocked Iranian nationals with valid tourist visas from entering the country for six months, citing risk they may overstay (confirmed, Guardian).
+
+### March 25 — Oil falls on ceasefire hopes; Iran mocks talks; UN debate scheduled
+
+**Oil prices:**
+- Brent dropped ~6% to $98.30/bbl. WTI fell ~5% to $87.72 — both driven by 15-point plan ceasefire optimism (confirmed, Reuters, Times of India, Independent).
+- Asian shares gained broadly. Markets cautiously pricing in de-escalation despite Iran's rejection.
+
+**Iran's military mockery continues:**
+- Zolfaghari's prerecorded statement continued to circulate: "Don't dress up your defeat as an agreement."
+- Kuwait and Bahrain struck overnight — Gulf patience "wearing thin" after nearly a month of attacks (confirmed, Guardian).
+
+**UN Human Rights Council:**
+- Scheduled urgent debate for Friday on the Minab girls' school airstrike (February 28, 148-180 killed). Request submitted by Iran, China, and Cuba (confirmed, Guardian).
+
+*Sources: CNBC (March 23-24); Al Jazeera (March 23); NYT (March 23-25); AP (March 24-25); CBS News (March 24-25); Reuters (March 24-25); Guardian (March 24-25); Politico (March 24); WaPo (March 24); Channel 12 (March 24); Times of India (March 25); Independent (March 25); Alma Research (March 22); ISW-CTP (March 23)*
+
+---
+
 ## Related
 
 - [[2026 US Military Buildup Against Iran]] — pre-strike force disposition
@@ -876,6 +1011,10 @@ China helped develop Iran's Isfahan facility — Iran's largest nuclear-research
 - [[Grant Rumley]] — Washington Institute, Pacific signaling to China
 - [[Alex Vatanka]] — MEI, Gulf complicity dynamics
 - [[William Wechsler]] — Atlantic Council, Gulf escalation pressure and territorial access
+- [[Seth Cropsey]] — Hudson Institute, WSJ boots-on-ground advocacy, Suez analogy
+- [[Ebrahim Zolfaghari]] — Iranian military spokesperson, "don't dress up your defeat as an agreement"
+- [[Volker Türk]] — UN human rights chief, "flirting with catastrophe" on nuclear site strikes
+- [[Fabien Mandon]] — French army chief, US "less and less predictable" as ally
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil surge, defense rally, travel sell-off, gold safe-haven bid

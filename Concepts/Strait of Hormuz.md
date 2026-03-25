@@ -134,7 +134,7 @@ During Operation Epic Fury (February 28, 2026 onward):
 ### Energy bypass limitations
 
 Dr. [[Karen Young]] (MEI/Columbia) assessed the alternatives as inadequate:
-- Saudi East-West pipeline: 5 mb/d capacity, but Yanbu terminal can only load approximately 3 mb/d.
+- Saudi East-West pipeline: 7 mb/d capacity (permanent since 2024 expansion). Yanbu was estimated at ~3 mb/d loading capacity but has achieved 4.65 mb/d peak during the March 2026 crisis (Bloomberg, March 22). 5-day rolling average hit 3.66 mb/d by March 20.
 - UAE Fujairah pipeline: only 400,000 bpd, and tankers reluctant because Fujairah was itself an Iranian target.
 - If Gulf shutins reach 9 mb/d, that exceeds 10% of global supply.
 

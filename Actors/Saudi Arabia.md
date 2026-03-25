@@ -109,6 +109,26 @@ Before the war, Saudi Arabia was building a new strategic alliance incorporating
 ### US relationship under strain
 Lynch argues the sense of betrayal is acute because Gulf leaders believed they had better relations with Trump than any previous US administration. Specific grievances: war launched without consultation, US impotence at protecting oil installations, inability to resupply interceptors rapidly, and US bases becoming "a source of threat rather than security."
 
+### East-West Pipeline — strategic contingency activated
+
+[[Saudi Arabia]]'s contingency for a [[Strait of Hormuz]] closure — planned since the 1979 [[Iranian Revolution]] and built during the [[Iran-Iraq War]] — came to fruition within hours of the first strikes. The 1,200 km East-West Pipeline (Petroline) from [[Abqaiq]] to [[Yanbu]] on the Red Sea is now the kingdom's primary export route.
+
+[[Saudi Aramco]] CEO [[Amin Nasser]] (March 10 conference call): "While we have faced disruptions in the past, this one by far is the biggest crisis the region's oil and gas industry has faced." Aramco contacted customers immediately after war broke out, offering to divert vessels to Yanbu. State tanker company [[Bahri]] paid $450,000+/day to amass supertankers at the Red Sea port.
+
+Key data (Bloomberg, March 22):
+- Yanbu crude exports: 3.66 mb/d (5-day rolling avg, Mar 20) — up from <800K bbl/day pre-war
+- Peak loading: >4 mb/d on several occasions
+- Pipeline capacity: 7 mb/d (permanent expansion confirmed in 2024 earnings)
+- Production cut: up to 2.5 mb/d
+- Ras Tanura (largest refinery): forced to shut temporarily
+- ~2 mb/d through pipeline feeds domestic Red Sea coast refineries
+
+[[Jim Krane]] ([[Rice University]]): "The East-West pipeline is looking like a strategic masterstroke right now." But warned [[Houthis]] "now have a veto on Saudi oil exports via the [[Bab el-Mandeb]]" — [[Yanbu]] exports must transit the same strait the Houthis attacked for two years.
+
+The [[Samref]] refinery at [[Yanbu]] — a joint venture between [[Saudi Aramco]] and [[Exxon]] — was struck by [[Iran]] on Thursday March 19, briefly halting loadings. This demonstrated the vulnerability of the bypass route itself.
+
+Source: Bloomberg (Di Paola, Longley, Prem, El Wardany), March 22, 2026
+
 ## Related Notes
 - [[Middle East]]
 - [[Iran]]

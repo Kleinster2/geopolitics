@@ -228,6 +228,46 @@ Clean energy requires dirty mining:
 | Tanbreez | Greenland | Rare earths | Developing (Critical Metals Corp, US ExIm interest) |
 | Kvanefjeld | Greenland | Rare earths | Stalled (uranium mining ban) |
 
+## Brazil: The Mineral Diplomacy Battleground
+
+Brazil holds ~22 million metric tons of rare earth reserves (#2 globally after China's ~44M) but produces almost nothing — 20 metric tons in 2024, barely 1% of the global market. That gap between endowment and output has made Brazil the most contested piece on the critical minerals chessboard. By early 2026, three powers — the US, the EU, and India — were simultaneously courting Brasília for mineral access.
+
+### The competition
+
+| Actor | Approach | Key move |
+|-------|----------|----------|
+| US | DFC investment, strategic partnership | $465M to [[Serra Verde]] (Nov 2025); rare earth talks with [[Ibram]] (Oct 2025) |
+| EU | Critical Raw Materials Act partnerships | Von der Leyen discussions with Brasília (Mar 2026) |
+| India | Non-binding MOU, peer-to-peer framework | Lula state visit MOU (Feb 21, 2026) |
+
+### Brazil's strategic calculus
+
+Brazil is not passively accepting offers. Oliver Stuenkel (Fundação Getulio Vargas) frames the approach as strategic autonomy from *both* China and the US through diversification — Brazil refuses to swap one dependency for another.
+
+The 2025 US-Brazil tariff confrontation (50% tariff over the Bolsonaro extradition dispute) catalyzed a shift: Roberto Goulart Menezes (University of Brasília) argues Brazil "began to reposition its understanding of the importance of these elements beyond their commercial dimension, recognizing their geopolitical relevance."
+
+The India MOU was explicitly a "pilot before negotiating with a country with which Brazil has an asymmetrical relationship" — testing the framework with a peer before the superpower sits down.
+
+### The "reluctant diversification play"
+
+Brazil's leverage rests on scarcity of alternatives to Chinese supply chains. But that leverage has a shelf life:
+
+1. Phosphogypsum extraction technology (Rainbow Rare Earths / Mosaic JV at Uberaba, Minas Gerais) could produce 1,971 tonnes/yr NdPr oxide + 659 tonnes/yr heavy REE from fertilizer waste — no mining required. If the process proves replicable on US phosphogypsum stacks (Florida holds 1+ billion tonnes with ~200,000 tonnes trapped REE), Brazil's strategic urgency decreases.
+
+2. US VC investment in rare earth startups hit $628M in 2025 (PitchBook), up 2,900% from 2024. The technology pipeline is accelerating independently.
+
+3. Japan's deep-sea mining program (Minamitori Island, 6km depth) and allied coordination (Australia $8.5B potential, Saudi processing site) open parallel supply routes.
+
+Brazil's window to extract maximum concessions — diplomatic recognition, technology transfer, processing infrastructure investment — is open but narrowing. The Goulart Menezes "pilot" framework suggests Brasília knows this.
+
+### Concept: resource diplomacy sequencing
+
+The India-Brazil MOU introduces a pattern worth tracking: a middle power using a *peer* partnership as a template before negotiating with a great power. By establishing terms with India first, Brazil creates a floor for US negotiations and a signal of non-dependence. The sequencing is itself a form of leverage — it says "we have alternatives" without explicitly threatening.
+
+This parallels Indonesia's nickel export ban strategy (ban raw ore → force processing investment → extract technology transfer), but operates through diplomatic choreography rather than trade restrictions.
+
+---
+
 ## Future Outlook
 
 ### Short-term (2025-2030)
@@ -259,3 +299,10 @@ Clean energy requires dirty mining:
 - [[Africa]]
 - [[Greenland Crisis]]
 - [[Defense Industry]]
+
+### Cross-vault
+- [Investing: Rare earth leverage](obsidian://open?vault=investing&file=Concepts%2FRare%20earth%20leverage) — China dominance data, Western response pipeline, Brazil section, phosphogypsum economics
+- [Investing: Critical minerals](obsidian://open?vault=investing&file=Concepts%2FCritical%20minerals) — market impact, emerging non-China sources
+- [Investing: Phosphogypsum rare earth extraction](obsidian://open?vault=investing&file=Concepts%2FPhosphogypsum%20rare%20earth%20extraction) — full Uberaba PEA economics ($916M NPV, 45% IRR)
+- [Brazil: Rare Earths](obsidian://open?vault=Brazil%20News%20%26%20Analysis&file=Analysis%2FRare%20Earths) — domestic projects pipeline, DFC funding, environmental/regulatory barriers
+- [Technologies: Phosphogypsum REE Extraction](obsidian://open?vault=technologies&file=Phosphogypsum%20REE%20Extraction) — process chemistry, Rainbow flowsheet
