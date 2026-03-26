@@ -15,6 +15,9 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Roy Mottahedeh]] - Harvard (d. 2024), *The Mantle of the Prophet*, Iranian political culture and Shi'ite intellectual history
 - [[Vali Nasr]] - Johns Hopkins SAIS, Iran/Middle East, former Obama State Dept
 
+## Airpower, Coercion & Escalation
+- [[Robert Pape]] - Chicago, airpower effectiveness, suicide terrorism, escalation trap thesis, horizontal escalation
+
 ## Strategists
 - [[Hal Brands]] - Johns Hopkins SAIS, liberal order, US grand strategy
 - [[Peter Zeihan]] - Demographics, deglobalization, geographic determinism

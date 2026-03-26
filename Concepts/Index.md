@@ -25,6 +25,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Coercive Diplomacy]] - Threats + limited force + diplomatic off-ramps
 - [[Trump TACO]] - "Trump Always Chickens Out" — credibility deficit from systematic threat-reversal pattern
 - [[Escalation]] - Conflict intensity, escalation ladders, crisis management
+- [[Horizontal Escalation]] - Widening conflict scope rather than intensifying in one theater; Pape's 2026 Iran framework
 - [[Security Dilemma]]
 - [[Game Theory]] - Strategic interaction, rational choice, crisis bargaining
 - [[Great Power Competition]] - US-China/Russia rivalry as organizing framework

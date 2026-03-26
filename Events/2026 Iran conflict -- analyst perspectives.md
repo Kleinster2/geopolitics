@@ -1044,3 +1044,70 @@ Reports functional successor government but notes it has never been tested again
 
 *Source: MEI, "The Iran War: Escalation, Energy, and the Uncertain Endgame," March 20, 2026*
 *URL: https://www.youtube.com/live/CTWhUlxxwDk*
+
+---
+
+### Robert Pape (University of Chicago) — March 2026
+
+**Sources**: ["Why Escalation Favors Iran,"](https://www.foreignaffairs.com/iran/why-escalation-favors-iran) *Foreign Affairs* (March 2026); ["From Disruption to Damage in the Iran War,"](https://escalationtrap.substack.com/p/from-disruption-to-damage-in-the) *Escalation Trap* Substack (March 20, 2026); [CNBC interview](https://www.cnbc.com/video/2026/03/20/iran-ground-war-risks-true-economic-crisis-says-robert-pape.html) (March 20, 2026); [Amanpour and Company interview](https://youtu.be/Ghs03B9lkrw) (March 25, 2026)
+
+**Core framework — the escalation trap:**
+Pape argues the US has entered an "escalation trap" where efforts to control the conflict create pressures that make major escalation more likely. The precision decapitation strikes of Operation Epic Fury did not produce the expected rapid political collapse. Instead, they triggered Iran's strategy of [[Horizontal Escalation]] — widening the war's geographic scope and political stakes beyond what Washington can manage.
+
+"The search for control produced the loss of control."
+
+**On Iran's strategy — horizontal escalation:**
+Pape identifies four dimensions of Iran's response:
+1. **Resilience**: Retaliation within hours of losing Khamenei and senior commanders — signaling continuity of command despite decapitation
+2. **Multiplication of exposure**: Strikes at targets in at least nine countries (Azerbaijan, Bahrain, Greece, Iraq, Jordan, Kuwait, Qatar, Saudi Arabia, UAE), most hosting US forces. Airports closed, the iconic Dubai waterfront hotel damaged by interceptor debris, foreign workers killed
+3. **Politicization**: War migrated into "boardrooms and parliamentary chambers." Gulf leaders forced to reassure investors. Congressional alarm in Washington. Insurance and energy markets disrupted. Numerous actors now pursuing distinct interests, "none fully coordinated, and all capable of altering the trajectory of escalation beyond Washington's control"
+4. **Time leverage**: The longer multiple states feel pressure, the harder alliance management becomes. No NATO-equivalent in the Middle East. US officials floating Kurdish rebellion ideas that would provoke Iraq, Syria, and Turkey. Friendly-fire downing of three US jets over Kuwait illustrates coordination breakdown
+
+**On why this is not flailing retaliation:**
+Iran's horizontal escalation is a political strategy with clear objectives:
+- **Puncture Gulf invulnerability perception**: When missile alerts interrupt Dubai International Airport, "the reputational cost is far greater than whatever physical damage Iran inflicts"
+- **Raise the political cost of hosting US forces**: Striking near Al Udeid, Al Dhafra, and Prince Sultan signals that "alignment with Washington entails exposure to attack"
+- **Shape regional narrative**: Framing resistance to US-Israeli regional dominance to drive a wedge between Gulf leaders and their publics
+- **Leverage economic chokepoints**: Hormuz shipping down ~75%, insurance premiums spiking, energy volatility creating domestic pressure in the US and Europe
+- None of these objectives require battlefield victories — "they just require Iran's endurance"
+
+**Historical parallels:**
+Pape draws two cases:
+- **Vietnam (1968)**: Rolling Thunder dropped 3x WWII tonnage on North Vietnam. The Tet Offensive widened the conflict into cities and political nerve centers. LBJ withdrew from reelection. "The United States never lost a battle — but it still lost a war."
+- **Kosovo (1999)**: Allied Force planned as a 3-day, 51-target campaign. Serbia responded by expelling a million Kosovar Albanians, forcing NATO into 78 days of crisis and 40,000 ground troops. Precision strikes shocked but did not determine political outcomes.
+
+In both cases, adversaries responded to overwhelming airpower with horizontal escalation, and "the decisive arena was not the initial shock of airpower. It was the politics of an expanding war."
+
+**The disruption-to-damage threshold (Substack, March 20):**
+Pape formalizes the critical distinction:
+- **Current phase (disruption)**: Shipping delays, insurance shocks, tanker rerouting, limited strikes with reversible effects. Creates the "illusion that the war can be paused and unwound."
+- **Next phase (damage)**: Ground operations and reciprocal infrastructure attacks that destroy physical capacity — export terminals, offshore loading platforms, refineries. Facilities like Kharg Island "cannot be quickly replaced. Significant damage can take months or longer to repair."
+
+"Disruption delays flows. Damage removes them."
+
+Short disruptions create price volatility. Sustained damage creates lasting economic shock — "exactly the time horizon of months associated with recession-level effects."
+
+The logic chain: disruption → temporary costs → escalation → persistent damage. When survival is at stake (as it is for Iran), imposing long-term, difficult-to-reverse costs becomes rational. Historical precedent: Boer War (systematic infrastructure destruction by both sides), 1991 Gulf War oil fires (Iraq destroyed hundreds of Kuwaiti oil wells — impacting a few percent of world oil; the Iran war could damage 20%).
+
+**Indicators to watch:**
+- Sustained attacks on export terminals, refineries, and offshore platforms
+- Efforts to physically control or deny access to key energy nodes
+- Losses that cannot be restored within weeks but require months or longer
+
+**The strategic fork:**
+Pape argues the US faces two paths:
+1. **Double down**: Ramp up airpower to suppress Iranian launch capabilities, establish aerial control. But this is "tantamount to permanent aggressive military containment" — exactly the Iraq trajectory from 1990s no-fly zones to the 2003 ground invasion. "Permanent aerial occupation does not lead to political control."
+2. **Stand down**: Declare objectives met, accept short-term political criticism for leaving the job "unfinished." Allows the administration to move on and limits blowback.
+
+"The wisest choice may well be for the United States to accept a limited loss now rather than risk compounding losses later."
+
+**On wider consequences of protracted war:**
+- Gulf states with quiet Israeli security cooperation forced to make it visible — dangerous given Arab public opposition
+- Trump's MAGA base wary of Middle Eastern entanglements; grinding war with energy spikes and casualties will fracture the coalition
+- European exposure: energy volatility, migration pressure, potential divergence from Washington. UK already uncomfortable about Diego Garcia basing
+- Transatlantic bargain risk: US may need to commit more to European Ukraine objectives to retain European support — further alienating MAGA base
+- Nonstate actor multiplication: extended Gulf conflict invites new militant groups exploiting regional anger
+
+**Assessment**: Pape brings the strongest academic framework of any analyst in this file. His career-long research on airpower effectiveness (*Bombing to Win*) gives his critique of Operation Epic Fury's strategic logic particular weight — this is not a pundit's hot take but the application of decades of empirical work on precisely this question. The escalation trap concept and disruption-to-damage threshold provide concrete analytical tools with observable indicators, not just abstract warnings. His historical parallels (Vietnam, Kosovo) are well-chosen for the mechanism rather than the scale.
+
+**Limitations**: His framework may underweight the possibility that Iran's horizontal escalation *backfires* — galvanizing Gulf states against Iran rather than against Washington (Bohl's assessment). The Vietnam and Kosovo analogies are imperfect: Iran's conventional capacity is far more degraded than North Vietnam's was in 1968. And the "stand down" prescription, while analytically sound, may be politically impossible given the sunk-cost dynamics he himself describes. Compare with Bohl (regime resilience but Gulf rallying against Iran), Mulroy (process failure analysis), Nasr (civilizational frame), and Parsi (alliance entrapment) — Pape's contribution is the most structurally rigorous but the most narrowly focused on the escalation mechanism itself.

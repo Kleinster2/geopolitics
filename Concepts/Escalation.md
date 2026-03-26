@@ -32,7 +32,7 @@ The framework's value: making explicit that conflicts have gradations, and actor
 | **Vertical** | Increasing intensity within same domain/theater | Ukraine: artillery → HIMARS → ATACMS → Nightfall |
 | **Horizontal** | Expanding to new domains, theaters, or actors | Russia retaliating against NATO member for Ukraine support |
 
-Horizontal escalation often more dangerous—brings in new parties, creates new fronts, harder to control.
+Horizontal escalation often more dangerous—brings in new parties, creates new fronts, harder to control. See [[Horizontal Escalation]] for the full concept note, including [[Robert Pape]]'s 2026 formalization of the framework in the context of the Iran war.
 
 ### Escalation Dominance
 Ability to escalate to a level where you have advantage, deterring adversary from matching. The side with escalation dominance can threaten credibly at each rung.
@@ -104,11 +104,13 @@ Textbook case of managed escalation:
 - US ambiguity on intervention threshold
 - Nuclear dimension: would US trade Los Angeles for Taipei?
 
-### Iran-Israel
-- Shadow war: assassinations, cyber, strikes on proxies
-- Direct strikes (2025) crossed previous threshold
-- Nuclear program as ultimate escalation threat
-- Regional escalation risk via proxies (Hezbollah, Houthis)
+### Iran-Israel / 2026 Iran War
+- Shadow war escalated through direct strikes (2024-2025) to full-scale war (2026)
+- Operation Epic Fury (Feb 28, 2026): decapitation strikes intended to produce quick collapse
+- Iran responded with [[Horizontal Escalation]] across nine countries — the contemporary textbook case
+- [[Robert Pape]]'s "escalation trap": efforts to control the war create pressures for further escalation
+- Key threshold: transition from disruption (reversible) to damage (physical infrastructure destruction)
+- See [[2026 Iran conflict]], [[Israel-Iran Escalation]]
 
 ### Nuclear Threshold
 The ultimate escalation question. Contemporary concerns:
