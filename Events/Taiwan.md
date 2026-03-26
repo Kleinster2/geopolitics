@@ -150,12 +150,28 @@ First confirmed PLA violation of Taiwan-controlled airspace:
 - Military Police Command added battalion specialized in air defense; procuring 21 Stinger MANPADS
 - **Political obstacle**: KMT opposition has voted multiple times to block asymmetric warfare special budget
 
+### March 2026: Iran War Shifts Dynamic
+
+**Trump-Xi summit delayed**: The late-March summit was postponed (rescheduled for April) due to the Iran war. However, US Treasury and Chinese Vice Premier delegations continued meeting in Paris on March 15-17—during active hostilities—sorting final summit details. China accommodated the delay without protest.
+
+**Friedman's "Hong Kong on steroids" framework** (March 26, 2026): [[George Friedman]] argues the Iran war is accelerating US-China convergence, and Taiwan is the central issue to be resolved. His proposed settlement:
+- Taiwan formally acknowledged as part of China, but as a "profoundly autonomous zone"
+- US limits arms sales to defensive capability sufficient to deter invasion
+- China's real interest is the [[First Island Chain]]—Taiwan's position threatens Chinese access to the Pacific
+- Unlike Hong Kong (where Britain had no post-handover leverage), the US retains economic enforcement: cutting Chinese exports would be devastating
+- KMT's growing political strength domestically makes accommodation more feasible from Taiwan's side
+
+Friedman distinguishes this from Hong Kong: "Taiwan is an important threat to China if the United States decides to use it as a blocking tool." The strategic stakes ensure both sides have incentive to honor any deal.
+
+**China's Iran restraint as signal**: China's refusal to support Iran—even rhetorically—signals it prioritizes US accommodation over all other partnerships. Per Friedman: nations should watch Chinese *interests*, not its alliance rhetoric.
+
 ### Assessment
 - Invasion in 2026 considered **unlikely** by analysts
 - China perfecting "short-and-sharp" isolation tactics
 - Gray-zone pressure eroding war/peace distinction—contiguous zone incursions and airspace violations are graduated escalation ("boiling the frog")
 - Economic headwinds limit China's risk appetite
 - "Fourth Taiwan Strait Crisis" framing gaining traction (Aug 2022 to present as continuous crisis)
+- **New variable (March 2026)**: Possible US-China grand bargain could fundamentally alter Taiwan's strategic position—from flashpoint to settlement
 
 ## US Autonomous Weapons Development for Taiwan
 

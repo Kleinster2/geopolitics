@@ -184,13 +184,38 @@ US concern: China filling vacuum left by US tariff pressure:
 - More than 1/3 of Brazilian exports to China
 - Washington views Brazil partly through lens of Chinese influence
 
-## Trump-Xi Phone Call (February 4, 2026)
+## US-China Summit Track (February–March 2026)
 
+### Trump-Xi Phone Call (February 4)
 - Trump described as "excellent" and "long and thorough"
 - Xi called Taiwan "the most important issue" in China-US relations
 - Discussed: trade (soybean purchases of 20-25 million tons), Iran, Russia/Ukraine
-- **April 2026 face-to-face summit planned**
+- Face-to-face summit planned for late March
 - Xi urged US to handle Taiwan arms sales "with great prudence"
+
+### Paris Meetings During Iran War (March 15-17)
+US Treasury Secretary and Chinese Vice Premier delegations met in Paris to finalize summit details—while the Iran war was actively underway. This continued engagement during a major US military operation signals both sides' commitment to accommodation.
+
+### Summit Delayed to April
+Trump postponed the late-March summit, citing the war. China accommodated without protest and rescheduled for April. Per [[George Friedman]] (GPF, March 26): "The Chinese didn't hesitate. They didn't say, well, if you can't visit now, we're not interested in talk."
+
+### China's Iran Restraint as Accommodation Signal
+China's response to the Iran war has been conspicuously muted:
+- Formal condemnation only, no material support to Iran
+- No rhetorical exploitation of "American imperialism" despite easy opportunity
+- No weapons or supplies to Iran (Friedman notes: logistics would be extremely difficult with entranceways closed)
+- Continued summit preparations throughout the conflict
+
+Friedman's analysis: China's priority is clear—US market access and investment matter more than any partnership with Iran. China faces bank failures, unemployment, and economic stagnation; it needs the American market (25% of world economy) and foreign investment. Oil access through the Strait of Hormuz matters, but it's secondary to where China *sells* what it produces.
+
+### Potential Grand Bargain Framework
+Friedman argues both sides are converging on a broad accommodation:
+- **China needs**: US market access, American investment, end to tariff escalation
+- **US needs**: Lower-cost Chinese goods (affordability/inflation relief), stable Pacific
+- **Key obstacle**: Taiwan—which Friedman frames as solvable via "Hong Kong on steroids" autonomous arrangement (see [[Taiwan#March 2026: Iran War Shifts Dynamic]])
+- **Friedman's assessment**: "This is a thing that has to happen. Will happen."
+
+If successful, a US-China working relationship would represent roughly half the world economy—a transformation more consequential than the Iran war's outcome.
 
 ## Related Notes
 - [[Asia-Pacific]]
