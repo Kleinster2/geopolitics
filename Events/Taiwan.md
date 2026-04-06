@@ -165,13 +165,35 @@ Friedman distinguishes this from Hong Kong: "Taiwan is an important threat to Ch
 
 **China's Iran restraint as signal**: China's refusal to support Iran—even rhetorically—signals it prioritizes US accommodation over all other partnerships. Per Friedman: nations should watch Chinese *interests*, not its alliance rhetoric.
 
+### Hormuz-Taiwan Template (April 2026)
+
+[[Eyck Freymann]] (Hoover/Stanford, author of forthcoming *Defending Taiwan*) argues that Iran's [[Strait of Hormuz]] closure provides a directly replicable playbook for China against Taiwan — and that the economic consequences would be far worse.
+
+**The coercion-without-combat mechanism:**
+- China would not need to sink ships or invade. A unilateral legal declaration claiming control over Taiwan's maritime access, combined with missile demonstrations and "exclusion zones," would suffice.
+- The standard [[Five Powers Clause]] in commercial war-risk insurance automatically terminates coverage in any US-China conflict. If Hormuz proved uninsurable against Iranian drones, the Taiwan Strait would be uninsurable against the PLA.
+- Result: de facto blockade through insurance and carrier refusal, without physical interdiction.
+
+**Why worse than Hormuz:**
+- [[TSMC]] produces 90%+ of advanced chips — no strategic semiconductor reserve exists
+- TSMC Arizona cannot substitute for lost Taiwan production at scale
+- Taiwan, [[Japan]], and [[South Korea]] face compounding energy + semiconductor shocks simultaneously
+- Taiwan could curtail chip production deliberately to pressure the world into resupplying it
+- Semiconductor supply shock would trigger cascading financial contagion, particularly in US tech equities
+
+**The stockpiling asymmetry:**
+- China building vast reserves (oil, chips, grain, commodities) — a "shadow fortress economy" designed to outlast democratic coalitions
+- US and allies lack equivalent joint stockpiling, pre-positioned crisis logistics, or standing economic crisis management frameworks
+- Freymann: "The Hormuz emergency has shown what improvisation looks like. A Taiwan crisis would not be so forgiving."
+
 ### Assessment
-- Invasion in 2026 considered **unlikely** by analysts
+- Invasion in 2026 considered unlikely by analysts
 - China perfecting "short-and-sharp" isolation tactics
 - Gray-zone pressure eroding war/peace distinction—contiguous zone incursions and airspace violations are graduated escalation ("boiling the frog")
 - Economic headwinds limit China's risk appetite
 - "Fourth Taiwan Strait Crisis" framing gaining traction (Aug 2022 to present as continuous crisis)
-- **New variable (March 2026)**: Possible US-China grand bargain could fundamentally alter Taiwan's strategic position—from flashpoint to settlement
+- New variable (March 2026): Possible US-China grand bargain could fundamentally alter Taiwan's strategic position—from flashpoint to settlement
+- New variable (April 2026): Hormuz demonstration provides operational template for Chinese quasi-blockade — the insurance/shipping mechanism is now proven
 
 ## US Autonomous Weapons Development for Taiwan
 
@@ -221,6 +243,10 @@ The Pentagon's [[AI Warfare]] programs are primarily oriented toward a potential
 - [[First Island Chain]]
 - [[China Nuclear Program]]
 - [[AI Warfare]] -- autonomous weapons programs oriented toward Taiwan scenario
+- [[Chokepoint Power]] -- Hormuz-Taiwan template
+- [[Five Powers Clause]] -- insurance mechanism enabling quasi-blockade
+- [[Eyck Freymann]] -- Hormuz-Taiwan template thesis
+- [[Semiconductors]]
 
 ## Sources
 - [Global Taiwan Institute - PLA Justice Mission 2025](https://globaltaiwan.org/2026/01/pla-justice-mission-2025/)

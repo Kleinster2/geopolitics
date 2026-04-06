@@ -87,6 +87,24 @@ Key metrics from the 2026 demonstration:
 - The US requested warships from 5+ countries — could not solve it alone
 - Iran's own oil continued flowing to [[China]] via selective blockade
 
+## Taiwan Strait — the next application
+
+[[Eyck Freymann]] (Hoover/Stanford, April 2026) argues that the Hormuz playbook is directly replicable by [[China]] against [[Taiwan]] — and that China is a vastly more capable actor than Iran.
+
+**Key differences from Hormuz:**
+
+| Dimension | Hormuz (Iran) | Taiwan Strait (China) |
+|-----------|--------------|----------------------|
+| Actor capability | Asymmetric only (mines, drones, small boats) | Full-spectrum military + asymmetric |
+| Insurance trigger | Demonstrated risk collapsed confidence | [[Five Powers Clause]] auto-terminates coverage in US-China conflict |
+| Economic impact | ~14M bbl/day oil blocked | Oil + 90% of advanced semiconductors |
+| Strategic reserve | IEA SPR exists (inadequate but real) | No semiconductor strategic reserve |
+| Duration tolerance | Iran's reserves limited | China building "shadow fortress economy" — vast stockpiles of oil, chips, grain |
+
+The critical insight: for Hormuz, Iran had to *prove* it could threaten shipping before insurance collapsed. For Taiwan, the Five Powers Clause means insurance evaporates at the mere *perception* of US-China confrontation. The threshold for economic disruption is structurally lower.
+
+**The compounding shock:** Unlike Hormuz (energy only), a Taiwan crisis would simultaneously disrupt energy supplies to Taiwan/Japan/South Korea AND semiconductor production — TSMC's fabs supply 90%+ of advanced chips. No fab in Arizona or elsewhere can substitute at scale. The semiconductor shock would cascade through electronics, automotive, and AI sectors, triggering financial contagion far beyond the energy price effect.
+
 ## Implications
 
 ### For deterrence theory
@@ -101,13 +119,17 @@ Any energy infrastructure dependent on a single chokepoint is structurally vulne
 ## Related
 - [[Chokepoints]]
 - [[Strait of Hormuz]]
+- [[Taiwan]]
 - [[Mine Warfare]]
 - [[Weaponized Interdependence]]
 - [[Strategic Backfire (2026 Iran War)]]
 - [[Anti-Access Area Denial]]
 - [[Deterrence]]
 - [[Energy Security]]
+- [[Semiconductors]]
+- [[Five Powers Clause]]
 - [[Edward Fishman]]
+- [[Eyck Freymann]]
 
 ### Cross-vault
 - [History: Sound Dues](obsidian://open?vault=history&file=04%20-%20Early%20Modern%2FSound%20Dues) — Denmark's 428-year toll; prototype chokepoint power, economic lens on geographic rent
@@ -119,3 +141,4 @@ Any energy infrastructure dependent on a single chokepoint is structurally vulne
 - Henry Farrell & Abraham Newman, "Weaponized Interdependence" (*International Security*, 2019) — financial chokepoint framework
 - Edward Fishman, *Chokepoints* (2025) — economic chokepoint architecture
 - Nicholas Mulder, "The era of US dominance in economic warfare is over," FT (March 17, 2026) — Iran replicating US sanctions logic through geography
+- Eyck Freymann, "Shutting Hormuz is a template for China in Taiwan," FT (April 1, 2026) — Hormuz-Taiwan template, Five Powers Clause, semiconductor strategic reserve gap

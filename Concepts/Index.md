@@ -81,6 +81,7 @@ Theories, frameworks, and key terms in geopolitics.
 
 ## Economic Statecraft
 - [[Geoeconomics]]
+- [[Five Powers Clause]] - War-risk insurance exclusion for five major powers; auto-blockade mechanism
 - [[Sanctions]]
 - [[Shadow Fleet]] - Tanker networks evading oil sanctions (Russia, Iran, Venezuela)
 - [[Anti-Coercion Instrument]] - EU trade defense "bazooka" (2023)

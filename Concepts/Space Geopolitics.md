@@ -147,6 +147,49 @@ Space has become contested domain in great power competition. Satellites essenti
 - Resilience
 - Offensive/defensive
 
+## Space-Based Conventional Strike
+
+Theoretical concept: using low-cost reusable launch to pre-position conventional munitions in low Earth orbit for rapid global strike. Not an active program as of April 2026 — articulated by Michael Hochberg (physicist, semiconductor entrepreneur, visiting scholar at [[Cambridge]] Center for Geopolitics) in [[Wall Street Journal]] op-ed (April 5, 2026).
+
+### Cost logic
+
+| Platform | Cost to LEO (per kg) |
+|----------|---------------------|
+| [[Delta IV Heavy]] | >$10,000 |
+| [[Falcon Heavy]] | ~$1,500 |
+| [[Starship]] (target) | $10-100 |
+
+Hochberg estimates space-based munitions become cost-effective at ~$100/kg. At that threshold, tens of thousands of small guided munitions could be parked in orbit with ablation shields and inertial guidance.
+
+### Comparison: conventional air strike
+
+[[B-2]] Iran strike (June 2025): each bomber carried two 30,000-lb bombs. 37-hour round trip at ~$135,000/hr flight cost — ~$5M per aircraft, excluding tankers, fighters, and support. Functional Iranian air defense would have made it riskier and costlier. [[DoD]] has separately spent billions developing hypersonic weapons for rapid global strike.
+
+### Proposed capabilities
+
+- Munition types: bunker busters, kinetic weapons, fuel-air explosives, cluster munitions, guided antipersonnel/antitank/antiaircraft/antiship
+- [[Starship]] payload capacity (100-150 metric tons) could enable single conventional munitions larger than anything current aircraft carry
+- Suborbital point-to-point delivery: ~1 hour between any two locations on Earth
+- Persistent re-strike: continuous orbital replenishment defeats rapid runway repair
+- Satellite-delivered drones for ISR below cloud cover
+
+### Strategic implications
+
+- Eliminates need for air superiority before bombing campaigns
+- Zero risk to military personnel during strike
+- Mahan's "fleet in being" — hidden over the horizon, creates deterrence through credible conventional threat (vs nuclear weapons' credibility gap)
+- [[Outer Space Treaty]] (1967) bans WMD in space but is silent on conventional weapons — governance gap
+
+### Open questions
+
+- No state has announced a space-based conventional weapons program
+- [[Starship]] has not yet achieved full reusability or target launch costs
+- Orbital debris implications of deorbiting munitions at scale
+- Arms race dynamics if [[China]] or [[Russia]] pursue parallel capabilities
+- Verification and arms control: no existing framework covers this
+
+---
+
 ## Satellite Constellations
 
 ### Mega-Constellations

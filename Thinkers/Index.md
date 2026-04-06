@@ -25,6 +25,7 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Robert Kaplan]] - CNAS, geographic determinism, *Revenge of Geography*
 - [[Andrew Krepinevich]] - CSBA founder, A2/AD, competitive strategies
 - [[Rush Doshi]] - Brookings, China grand strategy, *The Long Game*
+- [[Eyck Freymann]] - Hoover/Stanford, Taiwan defense strategy, Hormuz-Taiwan template, *Defending Taiwan*
 
 ## Israeli Security
 - [[Amos Yadlin]] - Former Aman chief, MIND Israel founder, preemptive doctrine, Osirak pilot

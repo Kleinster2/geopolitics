@@ -129,6 +129,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[Atlantic Council]]
 - [[CNAS]]
 - [[Stimson Center]]
+- [[The Soufan Center]]
 - [[Middle East Institute]]
 - [[WINEP]]
 - [[Foundation for Defense of Democracies]] - Hawkish; Iran sanctions, China, cyber
