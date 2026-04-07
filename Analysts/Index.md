@@ -63,6 +63,9 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Steven Wills]] - Center for Maritime Strategy, former minesweeper officer, mine countermeasures
 - [[Scott Savitz]] - RAND, mine warfare adviser, naval engineering
 
+## Israel-Palestine
+- [[Xavier Abu Eid]] - PLO Negotiations Affairs Dept, Chilean-Palestinian, settlements/Jerusalem/Christian issues
+
 ## Tags
 - #analyst
 - #commentator

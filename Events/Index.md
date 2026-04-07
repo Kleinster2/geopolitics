@@ -49,6 +49,7 @@ Ongoing geopolitical developments and analysis.
 - [[US-Paraguay SOFA]] - Status of Forces Agreement (Dec 2025); 7th SFG training; five-year plan
 - [[Argentina-US Ushuaia Naval Base]] - Joint naval collaboration in Tierra del Fuego; South Atlantic/Antarctica; Milei-Trump alignment
 - [[Cuba Secondary Tariffs]] - IEEPA secondary tariffs on Cuba oil suppliers (EO 14380, Jan 29, 2026); oil siege after Venezuela cutoff
+- [[Greater North America]] - Hegseth's "immediate security perimeter" map; A3C conference (March 5, 2026); 17-nation joint declaration
 
 ## Major Developments
 - [[Chagos Islands Transfer]] - UK decolonization deal, Trump criticism (2025)

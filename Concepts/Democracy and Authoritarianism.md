@@ -107,11 +107,11 @@ Nobel laureate Daron Acemoglu (*Why Nations Fail*) argues all Trump administrati
 - Conflicts with Federal Reserve
 
 ### Carl Schmitt Connection
-Acemoglu links Trump's philosophy to **Carl Schmitt** (1888-1985):
+Acemoglu links Trump's philosophy to [[Carl Schmitt]] (1888-1985):
 - German jurist who rose during Weimar/Third Reich
 - Contempt for liberal democracy, parliamentary rule
 - Called for authoritarian "sovereign" power
-- "States of exception" require ultimate decider
+- "States of exception" require ultimate decider -- Schmitt's famous dictum: "Sovereign is he who decides on the exception"
 - Ideas adopted by right-wing thinkers when facing democratic constraints
 
 ### Foreign Policy as Domestic Power

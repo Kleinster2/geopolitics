@@ -138,8 +138,13 @@ Trump calculating US can dominate its hemisphere:
 - Resistance grows
 - Overextension risk
 
+## Schmitt's Grossraum Appropriation
+[[Carl Schmitt]] used the Monroe Doctrine as the explicit model for his 1939 Grossraum theory (*Volkerrechtliche Grossraumordnung mit Interventionsverbot fur raumfremde Machte*). He argued the Doctrine was "the first and to this day most successful example" of a great-space principle -- a leading power excluding outside interference from its region. Schmitt generalized this into a theory that any great power could claim an equivalent sphere, providing the legal-theoretical framework for German hegemony in Europe. The irony: Trump's 2026 revival of the Monroe Doctrine echoes the very structure Schmitt theorized, though without the intellectual apparatus.
+
 ## Related Concepts
+- [[Carl Schmitt]]
 - [[Donroe Doctrine]]
+- [[Greater North America]]
 - [[Spheres of Influence]]
 - [[Hegemony]]
 - [[Predatory Hegemony]]
@@ -150,3 +155,6 @@ Trump calculating US can dominate its hemisphere:
 - [[International Order]]
 - [[Stephen Walt]]
 - [[Hal Brands]]
+
+### Cross-vault
+- [History: US Hemisphere Defense Strategy](obsidian://open?vault=history&file=Themes%2FUS%20Hemisphere%20Defense%20Strategy) -- full historical arc from 1823 through 2026, including Clark Memorandum, Quarter Sphere Defense, Rainbow Plans, Cold War operations

@@ -2,6 +2,9 @@
 
 Academics and strategists whose frameworks shape geopolitical discourse.
 
+## Political Theory & International Law (Historical)
+- [[Carl Schmitt]] - German jurist (1888-1985), friend-enemy distinction, sovereignty/exception, Grossraum theory, nomos of the earth, partisan theory
+
 ## IR Theorists
 - [[Stephen Walt]] - Harvard, defensive realism, balance of threat theory, "predatory hegemony"
 - [[John Mearsheimer]] - Chicago, offensive realism, great power politics, Israel Lobby

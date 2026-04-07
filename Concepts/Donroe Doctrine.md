@@ -140,7 +140,12 @@ Military force as primary tool, not last resort. Venezuela raid as template.
 
 These represent scenarios where Donroe Doctrine could generate unexpected crises.
 
+## Greater North America (March 2026)
+
+In March 2026, Hegseth formalized the Donroe Doctrine's geographic scope as the [[Greater North America]] strategic map — an "immediate security perimeter" from Greenland to Ecuador and Alaska to Guyana. Everything north of the equator (using the Amazon and Andes as natural dividers) falls within the direct US perimeter; countries south of the equator are assigned "burden sharing" roles. The Pentagon calls this the "Greater North America," invoking a WWII "Quarter Sphere Defence" parallel. See [[Greater North America]] for full details.
+
 ## Related Concepts
+- [[Greater North America]] — geographic/military formalization
 - [[Monroe Doctrine]]
 - [[Predatory Hegemony]]
 - [[Venezuela]]
