@@ -175,3 +175,4 @@ Rather than sustain the order, profit from its demise.
 - [[Great Power Competition]]
 - [[State Death]]
 - [[Melian Dialogue]]
+- [[Suez Moment]] - Britain's 1956 inflection as diagnostic frame for possible US equivalent

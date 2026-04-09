@@ -12,6 +12,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Melian Dialogue]]
 - [[Pax Americana]]
 - [[Thucydides Trap]]
+- [[Suez Moment]] - Diagnostic for irreversible, publicly-visible exposure of imperial decline (1956 Britain as template; applied to 2026 US)
 
 ## IR Theories
 - [[Realism]]

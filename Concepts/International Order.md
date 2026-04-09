@@ -309,3 +309,4 @@ Trump making the ancient Athenian ethos US policy:
 - [[Donroe Doctrine]]
 - [[Board of Peace]]
 - [[Carlos Gustavo Poggio]]
+- [[Suez Moment]] - Diagnostic for irreversible, visible exposure of hegemonic decline

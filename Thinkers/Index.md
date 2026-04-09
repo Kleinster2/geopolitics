@@ -17,6 +17,7 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Bernard Haykel]] - Princeton, Saudi Arabia, Islamic law, Gulf politics, ~30 meetings with MBS
 - [[Roy Mottahedeh]] - Harvard (d. 2024), *The Mantle of the Prophet*, Iranian political culture and Shi'ite intellectual history
 - [[Vali Nasr]] - Johns Hopkins SAIS, Iran/Middle East, former Obama State Dept
+- [[Fawaz Gerges]] - LSE, US-Middle East relations, political Islam, "Suez moment" diagnosis of 2026 Iran war
 
 ## Airpower, Coercion & Escalation
 - [[Robert Pape]] - Chicago, airpower effectiveness, suicide terrorism, escalation trap thesis, horizontal escalation

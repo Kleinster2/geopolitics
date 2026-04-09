@@ -113,6 +113,7 @@ This compounds the sustainment trap ([[Emile Hokayem]]): the US needs Gulf basin
 - [[Colby Connelly]]
 - [[Kharg Island]]
 - [[Alliance Entrapment (US-Israel)]] — complementary thesis on how the US entered the war
+- [[Suez Moment]] — diagnostic framework for whether this backfire rises to hegemonic-era inflection
 
 ## Sources
 - Emile Hokayem, FT: "Who is winning the Middle East war?" (March 17, 2026)
