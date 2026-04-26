@@ -109,6 +109,14 @@ The industrial base that designs, develops, and produces military equipment. A s
 - Technology transition challenges
 - Commercial tech integration
 
+### Procurement Reform and Commercial Industrial Base (2025-2026)
+
+The Trump/Hegseth/Driscoll procurement-reform campaign should be read as an industrial-base move, not only a contracting fight with the primes. The geopolitical objective is to rebuild dual-use surge capacity by pulling commercial manufacturers back into the defense supply chain, especially where munitions, counter-drone systems, missiles, castings, forgings, plastics, composites, and 3D-printed parts run into bottlenecks.
+
+April 2026 reporting that senior Pentagon officials held preliminary talks with General Motors, Ford, GE Aerospace, and Oshkosh is the operational signal. The goal was not to hand automakers whole weapons programs, but to test whether civilian factories and workforces could backstop traditional defense contractors fast enough if Ukraine replenishment, the [[2026 Iran conflict]], or a future [[China]] contingency stretch inventories.
+
+Statecraft read: this is a partial return to the World War II mobilization model, but through modern subcontracting and advanced manufacturing rather than total conversion of the auto sector. If it scales, the United States gains a wider defense-industrial base; if it stalls, the munitions-depletion problem stays concentrated inside the same consolidated prime-contractor ecosystem.
+
 ## Top Defense Companies (2024 Revenue)
 
 | Rank | Company | Country | Revenue |
@@ -287,3 +295,6 @@ These companies represent a shift from hardware-centric to software-centric defe
 - [[Supply Chains]]
 - [[United States]]
 - [[China]]
+
+## Cross-vault
+- [Investing: Defense procurement reform](obsidian://open?vault=investing&file=Concepts%2FDefense%20procurement%20reform) -- market lens on prime-contractor overhang, commercial-manufacturer optionality, and defense-stock implications.
