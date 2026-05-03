@@ -12,6 +12,32 @@ tags: [country, rising-power, nuclear, south-asia]
 ## Overview
 World's most populous country and fastest-growing major economy. Pursues "strategic autonomy" while tilting toward US amid China tensions. Key swing state in great power competition.
 
+## Strategic Stress Test (April 2026)
+
+Per [[Sushant Singh]] (Yale, *One Decision*, April 23, 2026): the [[2026 Iran conflict]] and [[Pakistan as US-Iran Mediator|Pakistan's mediator turn]] have simultaneously stressed all three of India's structural dependencies (see [[India's Three Vulnerabilities]]):
+
+- **United States** — Trump claims credit 100+ times for [[India-Pakistan Four-Day War (May 2025)|May 2025 ceasefire]] (humiliating Modi); India received highest US tariffs; [[Quad]] dormant under Trump 2.0; Modi avoiding shared multilateral venues with Trump
+- **Russia** — ~60-70% of Indian military equipment is Russian; spare-parts leverage limits diversification; S-400 is the only credible counter to Pakistani/Chinese missile threats
+- **China** — extensive trade dependency forces accommodation; with Quad evaporating, India must pursue modus vivendi (more flights, trade, meetings) because external balancing is unavailable
+
+Singh's verdict on the Modi multi-alignment doctrine: **"Trying to be friends to everyone... at times of major global crisis, you realize you are friends with no one."**
+
+### Domestic political consequences (April 2026)
+- BJP-led government lost a constitutional amendment bill in parliament — first major legislative defeat
+- Energy price spikes, cooking-gas shortages, export disruptions causing industry layoffs
+- [[S. Jaishankar]] called Pakistan "*dalal*" (broker/pimp) at all-party meeting — sign of MEA frustration at being bypassed
+- Pakistani official countered that India is "acting as *dalal* for [[Benjamin Netanyahu]]" — a calibrated jab at deepening [[Israel]] alignment
+
+## India-Israel Relations (Public)
+
+Per Singh: India-Israel ties — once "under the radar" — are now publicly at their deepest level. Defense, intelligence, technology cooperation operate openly under [[Narendra Modi|Modi]].
+
+- Modi visited Israel for two days immediately before the June 2025 Israeli decapitation strike on Iran; publicly backed [[Benjamin Netanyahu|Netanyahu]]
+- India has not condemned Israeli operations in [[Gaza]], [[Lebanon]], or Iran
+- Gautam Adani has invested in Haifa Port; multiple Israeli defense companies operate inside India
+- Singh ranks Israel + UAE as India's two strongest regional partners
+- Roots predate full diplomatic recognition (1992): Israeli military/intelligence support to India in 1971 and 1976 wars; post-Mumbai 2008 urban-security consultation
+
 ## Key Facts
 - **Capital**: New Delhi
 - **Population**: ~1.4 billion (world's largest)
@@ -96,3 +122,9 @@ Traditional non-alignment evolved into multi-vector engagement:
 - [[Quad]]
 - [[BRICS]]
 - [[Non-Alignment]]
+- [[Narendra Modi]]
+- [[S. Jaishankar]]
+- [[India's Three Vulnerabilities]]
+- [[Pakistan as US-Iran Mediator]]
+- [[India-Pakistan Four-Day War (May 2025)]]
+- [[Sushant Singh]]

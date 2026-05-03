@@ -127,6 +127,39 @@ Space has become contested domain in great power competition. Satellites essenti
 - Precedent setting
 - Control questions
 
+## Q1 2026 — Sovereign space industrial policy under Isaacman
+
+NASA administrator Jared Isaacman drove the most significant restructuring of NASA's contractor relationships in a generation during Q1 2026, with material implications for US space industrial policy and the broader US-led commercial space framework as a geopolitical instrument.
+
+### Pattern: legacy primes lose, new entrants gain
+
+| Action | Date | Effect |
+|---|---|---|
+| Reclassified Boeing Starliner CFT as Type A mishap | Feb 19, 2026 | Boeing certification path significantly steeper; alongside Apollo 1 / Challenger / Columbia in regulatory tier |
+| Announced $20B / 7-year lunar base near south pole | Mar 25, 2026 | Permanent surface presence; two crewed landings/year |
+| Paused Lunar Gateway | Mar 2026 | Northrop Grumman HALO + Maxar PPE programs paused; hardware repurposed for surface |
+| Stripped SLS of core role | Q1 2026 | Boeing's $4B+/flight launcher loses architectural rationale; SpaceX Starship + Lockheed Orion Earth-orbit dock replaces SLS-Orion-Gateway |
+| Proposed alternative Commercial LEO Destinations framework | Q1 2026 | NASA-designed core module attached to ISS; partial reversal of 2018 Trump-era commercialization framework |
+
+The structural read: legacy fixed-price prime contractors (Boeing, Northrop on Gateway, Maxar on PPE) lose scope; SpaceX gains lunar lander role + Earth-orbit docking + Starship-native economics; new entrants (Vast, Voyager, Lunar Outpost, Axiom) are pulled into the architecture as commercial-tier suppliers.
+
+The economics enabling the pivot: Voyager's 10K disclosed Starship pricing at $90M / $900/kg vs SLS at $4B+/flight (>$10K/kg). The Voyager 10K is the cleanest publicly available primary source on Starship economics for a real customer contract — and it's the price point doing the structural work behind the contractor renegotiation.
+
+### Geopolitical implications
+
+- **US commercial framework as soft-power lever.** NASA's commercialization framework (CRS 2008 → Commercial Crew 2014 → CLPS 2018 → Commercial LEO Destinations) creates a US-anchored commercial space ecosystem. Sovereign agency follow-on customers — Japan, Europe (ESA), UAE, Saudi Arabia — are pulled toward commercial LEO destinations once NASA commits as anchor customer. The framework is structurally a US-led order that allies access by buying from US providers. A reversal toward NASA-designed core modules narrows the commercial framework and weakens the soft-power lever.
+- **Russia partnership winding down.** ISS retirement (~2030) and the post-ISS commercial framework are structurally a US-led arrangement without Russian participation. The Q1 2026 architecture restructure accelerates the wind-down of US-Russia space cooperation that has held since the early 1990s.
+- **China lunar competition timeline.** Isaacman's $20B over 7-year permanent lunar base targets "before China gets there" framing — China's own crewed lunar program targets ~2030. The accelerated architecture (two crewed landings per year, surface base near south pole resources) is positioned to establish US lunar presence ahead of Chinese parallel buildout.
+- **Sovereign space economy emergence.** The orbital data center platform war (SpaceX Terrafab + Blue Origin Project Sunrise + NVIDIA Vera Rubin Space 1 + Google Project Suncatcher) is largely a US-domiciled commercial play with FCC spectrum allocation as the regulatory layer. The structural read: sovereign AI infrastructure is moving to orbit, and the US has deep first-mover positioning under existing commercial framework. China's parallel orbital constellation programs (200,000-satellite proposal, ongoing AI supercomputer test) create the bipolar dynamic.
+
+### See also (investing-vault detail)
+
+- [Investing: NASA](obsidian://open?vault=investing&file=Actors%2FNASA) — full Isaacman restructuring sweep
+- [Investing: Commercial LEO Destinations](obsidian://open?vault=investing&file=Concepts%2FCommercial%20LEO%20Destinations) — program structure and Phase 2 candidates
+- [Investing: Jared Isaacman](obsidian://open?vault=investing&file=Actors%2FJared%20Isaacman) — administrator's actions
+- [Investing: Space data centers](obsidian://open?vault=investing&file=Concepts%2FSpace%20data%20centers) — orbital DC platform-war framing
+- [Investing: Space Capital](obsidian://open?vault=investing&file=Actors%2FSpace%20Capital) — Q1 2026 framing source
+
 ## Military Space Operations
 
 ### US Space Force
@@ -209,7 +242,8 @@ Hochberg estimates space-based munitions become cost-effective at ~$100/kg. At t
 
 ### Artemis Program (US)
 - Return to Moon
-- Lunar Gateway station
+- **Lunar Gateway**: paused March 2026 under Isaacman; equipment repurposed for surface
+- **$20B over 7-year permanent lunar base**: announced March 25, 2026; near south pole; two crewed landings/year
 - Allied participation
 - Resource extraction
 

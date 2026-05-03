@@ -109,6 +109,7 @@ Pakistan contacted India through the DGMO (Directors General of Military Operati
 - India's Defence Minister Singh called Trump's claim "baseless" (July 29)
 - Pakistan's PM Sharif credited Trump alongside Saudi Arabia, Turkey, Qatar, UK, UN, and China
 - Trump later claimed "We stopped the nuclear war" (June 26)
+- **Per [[Sushant Singh]] (April 2026):** Trump has subsequently claimed personal credit for the ceasefire **more than 100 times** in public remarks. Pakistani military leadership reportedly told Trump he should "get the Nobel Peace Prize" — flattery that helped open the [[Asim Munir|Munir]]-Trump channel later exploited during [[2026 Iran conflict|Iran-war mediation]]. [[Narendra Modi|Modi]] has been actively avoiding shared multilateral venues (APEC etc.) to dodge being publicly contradicted by Trump on the credit claim. The repeated public claim functions as an ongoing strategic humiliation tool against Delhi. See [[Pakistan as US-Iran Mediator]].
 
 ## Nuclear Dimension
 
@@ -154,6 +155,12 @@ Per MWI (West Point), Stimson Center, Foreign Policy, and Belfer Center:
 - [[Kashmir]]
 - [[United States]]
 - [[China]]
+- [[Asim Munir]]
+- [[Narendra Modi]]
+- [[Pakistan as US-Iran Mediator]]
+- [[India's Three Vulnerabilities]]
+- [[Sushant Singh]]
+- [[2026 Iran conflict]]
 
 ## Sources
 - [Stimson Center - "Four Days in May" (Christopher Clary)](https://www.stimson.org/2025/four-days-in-may-the-india-pakistan-crisis-of-2025/)

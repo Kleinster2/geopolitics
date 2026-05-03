@@ -187,6 +187,20 @@ Each sanction episode:
 - Alternative emerges rapidly
 - Historical precedent (UK to US)
 
+## Bessent three-equilibria framework for RMB (April 14, 2026)
+
+At the WSJ CEO Council, Treasury Secretary [[Scott Bessent]] dismissed the [[China]]-[[Iran]] reserve-currency coordination story as "coordination that doesn't exist." On the broader question of whether the RMB can become a reserve currency, he offered an unusual three-equilibria diagnosis arguing the RMB's equilibrium price is structurally unknowable:
+
+1. Academic model — what the RMB would trade at under free capital flows and normal monetary policy.
+2. Internal capital flight — what the RMB would trade at if Chinese residents could freely move savings offshore. Bessent's gloss: "1.4 billion people want to get their money out of the country." This equilibrium would imply a sharply weaker RMB than the academic model.
+3. Expropriation tail risk — what the RMB would trade at if non-Chinese holders priced in a non-trivial probability of asset freezes, capital controls flipping direction, or politically motivated seizures.
+
+The argument: capital controls are not an incidental feature to be relaxed over time; they are what makes the first equilibrium operative instead of the second or third. Until Chinese residents can freely take money out, foreign reserve managers are effectively being asked to hold a currency whose "true" price they cannot observe. A currency that cannot be priced cannot serve as the global reserve benchmark.
+
+Implication for the de-dollarization scenarios above: Bessent is effectively arguing scenarios (2) and (3) — yuan gradual growth or yuan-dollar fragmentation — are overstated as long as China's capital account remains closed. Scenario (4) crisis-displacement risk shifts back onto US policy, not Chinese attraction.
+
+*Source: WSJ Opinion / Paul Gigot interview with Scott Bessent, April 14, 2026.*
+
 ## Geopolitical Implications
 
 ### US Leverage

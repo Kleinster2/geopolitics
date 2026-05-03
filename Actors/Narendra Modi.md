@@ -41,6 +41,25 @@ Prime Minister of India (2014-), leader of the Bharatiya Janata Party. Longest-s
 - Partnerships with competing powers simultaneously
 - Transactional, interest-based approach
 
+### Multi-Alignment Stress Test (April 2026)
+
+Per [[Sushant Singh]] (Yale, *One Decision*, April 2026): Modi's signature foreign-policy doctrine is buckling under [[2026 Iran conflict|Iran-war]] pressure. The decade-long campaign to diplomatically isolate [[Pakistan]] has unraveled in twelve months as [[Asim Munir|Field Marshal Munir]] has positioned Islamabad as Trump's preferred Iran broker (see [[Pakistan as US-Iran Mediator]]).
+
+- The [[Quad]] is "essentially dead" under [[Trump 2.0]] — no summit, no India visit, no Indo-Pacific impetus from Washington — collapsing India's external balancing against China
+- Modi must accommodate [[China]] (more flights, trade, meetings) because external balancing is gone
+- Trump claimed credit 100+ times for the May 2025 [[India-Pakistan Four-Day War (May 2025)|India-Pakistan ceasefire]]; Modi has been avoiding shared multilateral venues to dodge Trump's claims publicly contradicting India's "we stopped on our own" narrative
+- India received among the highest US tariffs in Trump 2.0
+- See [[India's Three Vulnerabilities]] for the structural framework
+
+### Domestic Weakening (April 2026)
+
+Per Singh, the foreign-policy embarrassment is feeding measurable domestic weakness:
+- BJP did not win a single-party majority in 2024 — Modi already governs in coalition
+- April 2026: BJP-led government lost a constitutional amendment bill in parliament — first major legislative defeat
+- Energy price spikes, cooking-gas shortages, export disruptions to industry layoffs from West Asia crisis
+- [[S. Jaishankar]]'s "*dalal*" remark about Pakistan revealed MEA frustration at India's marginalization in the Iran corridor
+- Singh: damage not yet sufficient to threaten next election or trigger Gen-Z-style uprising (as in Nepal, Bangladesh) — but reputation, image, political standing dented
+
 ### US Relations
 - Defense partnership strengthened
 - Quad participation
@@ -60,8 +79,12 @@ Prime Minister of India (2014-), leader of the Bharatiya Janata Party. Longest-s
 
 ### Middle East
 - Strong Gulf ties (diaspora, energy)
-- Israel relationship upgraded
+- Israel relationship upgraded — now openly at deepest level under Modi
 - Balances Arab states and Israel
+- Personal closeness with [[Benjamin Netanyahu|Netanyahu]] — visited Israel for two days immediately before June 2025 Israeli decapitation strike on Iran; publicly backed Netanyahu
+- India has not condemned Israeli operations in [[Gaza]], [[Lebanon]], or Iran
+- Gautam Adani investment in Haifa Port; multiple Israeli defense companies operate inside India
+- Per [[Sushant Singh]]: Israel + UAE are India's two strongest regional partners
 
 ## Quad and Indo-Pacific
 - Active Quad participant with US, Japan, Australia
@@ -102,6 +125,12 @@ Prime Minister of India (2014-), leader of the Bharatiya Janata Party. Longest-s
 - [[Russia]]
 - [[Quad]]
 - [[EU-India FTA]]
+- [[S. Jaishankar]]
+- [[Asim Munir]]
+- [[Pakistan as US-Iran Mediator]]
+- [[India's Three Vulnerabilities]]
+- [[Sushant Singh]]
+- [[India-Pakistan Four-Day War (May 2025)]]
 
 ## Sources
 - Government communications

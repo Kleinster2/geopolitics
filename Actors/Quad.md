@@ -115,6 +115,20 @@ Common vision:
 - Maritime domain awareness
 - No integrated command
 
+## Trump 2.0 Dormancy (2025-2026)
+
+Per [[Sushant Singh]] (Yale, *One Decision*, April 2026): the Quad is effectively dead under [[Donald Trump|Trump]] 2.0.
+
+> "The whole impetus to Quad has completely gone away after President Biden left office. President Trump has shown no interest in holding any Quad summit or coming to India or doing anything with Quad." — Singh, April 2026
+
+- No leader summit held since Trump returned to office
+- Trump pursuing personal warmth with [[Xi Jinping|Xi]] — friendly visit, friendly entreaties — undercuts Quad's anti-China rationale
+- Without external balancing (US bulk + Japan/Australia support), [[India]] cannot "stand up to China" and must instead pursue accommodation (more trade, flights, meetings with Beijing)
+- Per Singh: "Quad has been quite a loss for India... India can't afford to stand up to China" without the structural Quad backstop
+- Compounds [[Alliance Credibility Crisis]] — adds Indo-Pacific dimension to the broader US-ally trust collapse
+
+The Quad's institutional weakness (no secretariat, no binding commitments, consensus-based) becomes existential when its primary driver loses interest.
+
 ## Limitations
 
 ### India Factor
@@ -154,3 +168,6 @@ Common vision:
 - [[China]]
 - [[Asia-Pacific]]
 - [[AUKUS]]
+- [[Alliance Credibility Crisis]]
+- [[India's Three Vulnerabilities]]
+- [[Sushant Singh]]

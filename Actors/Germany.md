@@ -105,6 +105,19 @@ Chancellor Scholz announced historic shift:
 - **Strategic enablers**: Air defense, space intelligence, logistics
 - Positioning to provide capabilities Europe currently gets from US
 
+### Bundeswehr Drone Procurement (Feb–Apr 2026)
+Three-supplier model for kamikaze drones — a deliberate hedge against single-vendor failure and political turbulence:
+- **Helsing** (Munich, Daniel Ek-backed): €269M upfront, February 2026
+- **Stark** (Berlin/Munich, Peter Thiel-backed): €269M upfront, February 2026
+- **Rheinmetall** (legacy prime, Auterion software): €298M upfront, April 15 2026
+- **Cap per supplier**: €1B absent fresh parliament approval (originally €4.3B combined framework cut to €2B)
+- **Deployment**: Lithuania by 2027 with the German NATO Enhanced Forward Presence brigade
+
+Statecraft angle: the Thiel stake in Stark drew Green-party transparency demands — tension between private-capital reliance and Merz's "Germany First" sovereignty signaling. The three-supplier redundancy model is ~20× smaller per supplier than the US Army's single-vendor Anduril contract (up to €20B/10 yrs) — European procurement optimizing for redundancy and political sustainability, US optimizing for scale. See investing vault for market-lever detail:
+- [Investing: European defense spending](obsidian://open?vault=investing&file=Concepts%2FEuropean%20defense%20spending)
+- [Investing: Bundeswehr](obsidian://open?vault=investing&file=Actors%2FBundeswehr)
+- [Investing: Rheinmetall](obsidian://open?vault=investing&file=Actors%2FRheinmetall)
+
 ### Franco-German Tensions
 - France feeling "awe and unease"
 - French concerns about German industry superseding French defense sector

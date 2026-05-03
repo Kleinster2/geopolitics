@@ -79,11 +79,31 @@ Dilma Rousseff era demonstrated consequences:
 - Republican senators quietly pushing back
 - Markets pricing in elevated uncertainty
 
+## Warsh confirmation and chair pro tem contingency (April 2026)
+
+At the WSJ CEO Council on April 14, 2026, Treasury Secretary [[Scott Bessent]] walked through the succession mechanics in public for the first time.
+
+Timeline:
+- Powell's chair term expires May 15, 2026.
+- Kevin Warsh nominated as successor. Senate Banking hearing scheduled April 21.
+- Senator [[Tom Tillis]] conditioning his vote on resolution of the DOJ investigation of Powell — a procedural holdout rather than a substantive objection to Warsh. Bessent: "Senator Tillis believes that Kevin Warsh is an excellent candidate" but has not committed to voting yes.
+- Bessent stated he is "confident that Kevin will be in situ by" mid-May.
+
+Chair pro tem contingency if Warsh is not confirmed in time:
+- Vice Chair Philip Jefferson "could be" chair pro tem.
+- Governor Chris Waller "could be" chair pro tem.
+- Bessent was deliberately ambiguous about Powell remaining in the chair seat pro tem, calling it "unclear" and adding "I think the president of the United States probably has a preference."
+
+Why this matters for the independence question: a chair pro tem appointed by the sitting president, chosen from sitting governors, is procedurally legitimate in a way that direct removal is not. That procedural legitimacy is the whole point — it routes around the legal challenges to firing Powell without triggering the same market reaction. The Tillis holdout, which ostensibly protects Powell by blocking Warsh, paradoxically increases the probability that the president gets to pick the chair pro tem from among sitting governors.
+
+*Source: WSJ Opinion / Paul Gigot interview with Scott Bessent, April 14, 2026.*
+
 ## Related Concepts
 - [[Dollar Dominance]]
 - [[Geoeconomics]]
 - [[United States]]
 - [[Trade]]
+- [[Scott Bessent]] — April 14, 2026 succession framing
 
 ## Sources
 - WW Especial (CNN Brasil), January 2026 - Roberto Dumas, Maurício Moura analysis

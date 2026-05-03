@@ -2,7 +2,7 @@
 type: concept
 category: coercion-theory
 tags: [concept, strategy, coercion, credibility, trump, united-states]
-aliases: [TACO, Trump Always Chickens Out, TACO theory, Trump put]
+aliases: [TACO, Trump Always Chickens Out, TACO theory, Trump put, TACO vs FAFO]
 ---
 
 # Trump TACO
@@ -67,6 +67,34 @@ Trump's March 11 statements illustrate the difficulty: told CBS the war was "ver
 
 The multilateral veto problem is central. [[Benjamin Netanyahu]] reportedly helped persuade Trump to strike in the first place, and Israeli interests may not align with a quick American exit. Iran's new supreme leader Mojtaba Khamenei appears to signal resolve rather than capitulation. Gulf states, Iraq, and China each have their own calculations.
 
+### Resolution: the ceasefire of April 7, 2026
+
+On April 7, 2026 (Day 39), Trump announced a two-week US-Iran ceasefire and declared "total and complete victory." [[Ian Bremmer]] (Eurasia Group, April 8) assessed it as a definitive TACO — a "unilateral climbdown" from a war of choice where none of the original goals were achieved:
+
+- Regime change: not achieved. Iran's new leadership is "completely untested" but in place.
+- Enriched uranium removal: not achieved. SOF mission "does not look feasible."
+- Strait of Hormuz reopening: not achieved. "They're in a meaningfully worse position there than they were if the war had never been started."
+- Degrade conventional military: partial success — significant naval degradation, less on ballistic missiles than expected. Iran had capabilities the US "did not believe that they had stockpiled."
+
+Bremmer's verdict: "This is the worst foreign policy mistake that Trump has made as president in either of his two terms and he has succeeded in not making it dramatically worse than it already has been through the announcement that he made yesterday evening."
+
+### TACO vs FAFO scale (Bremmer, January–April 2026)
+
+Bremmer introduced the "TACO versus FAFO" scale in January 2026 as a predictive framework: whether Trump chickens out (TACO) or doubles down ("fuck around and find out" — FAFO) depends on the adversary's capacity and willingness to impose reciprocal pain.
+
+| Case | Adversary pain capacity | Trump response | Result |
+|------|------------------------|----------------|--------|
+| [[Venezuela]] | Low — no serious retaliatory capability | FAFO | Short-term success; Maduro captured |
+| [[Greenland Crisis]] | Low — Denmark, NATO ally | TACO | "Concept of a deal," no action |
+| Tariffs on [[China]] | High — trade war retaliation, supply chain tools | TACO | "Forced to the table" after China "showed they were willing to give as good as they got" |
+| [[2026 Iran conflict]] | Medium-high — Hormuz closure, sustained drone/missile salvos, infrastructure strikes | TACO | Ceasefire after 39 days; "Trump has gotten over himself" |
+
+The TACO vs FAFO framing adds a structural predictor to Armstrong's original observation: it is not simply Trump's personal psychology but the adversary's objective leverage that determines the outcome. When the adversary has real cost-imposition tools (China's trade weapons, Iran's Hormuz control), Trump is "forced to the table." When the adversary is weaker (Venezuela), the madman theory "plays well."
+
+Bremmer on the mechanism (April 8): "Trump ultimately backed down when faced with an adversary that was prepared to cause more pain than he expected and to tolerate."
+
+This creates a paradox for TACO theory: the Iran war initially seemed to break the TACO pattern (Trump followed through with sustained force), but the ceasefire resolution confirms it at a higher level — the TACO didn't trigger at the decision to strike but at the decision to sustain. The pattern is not that Trump never initiates force, but that he cannot maintain escalation against an adversary that imposes real reciprocal cost.
+
 ## The reflexivity problem
 
 David A. Graham (The Atlantic, May 2025) identified a feedback loop: now that Trump knows about TACO, he may persist on bad policies specifically to disprove it. Joachim Klement (Panmure Liberum): "as the so-called TACO trade becomes more viral, it becomes more likely that Trump will stick to higher tariffs just to prove a point."
@@ -93,9 +121,11 @@ The distinctive feature of TACO vs. standard credibility analysis: Trump appears
 - [[Coercive Diplomacy]] — the toolkit; TACO is its failure mode
 - [[Compellence]] — forcing action vs. preventing it; TACO mostly concerns compellence failures
 - [[Escalation]] — the dynamic that TACO disrupts and that Iran tested
-- [[2026 Iran conflict]] — the existential stress test for TACO theory
+- [[2026 Iran conflict]] — the existential stress test for TACO theory; ceasefire April 7 confirmed TACO at sustainment level
 - [[Donald Trump]] — actor note
 - [[Greenland Crisis]] — the clearest confirmed TACO in foreign policy
+- [[Venezuela]] — the clearest FAFO success (madman theory worked against weaker adversary)
+- [[Ian Bremmer]] — coined the "TACO vs FAFO" scale (January 2026); ceasefire assessment (April 2026)
 
 ### Cross-vault
 - [Investing: Trump TACO](obsidian://open?vault=investing&file=Concepts%2FTrump%20TACO) — market mechanics: the TACO trade, price thresholds, Kobeissi 10-step framework, dip-buying strategy
@@ -108,3 +138,4 @@ The distinctive feature of TACO vs. standard credibility analysis: Trump appears
 - Mathis-Lilley, Ben. "As the Iran War Fallout Widens, Trump Seems to Be Turning to an Old Tactic." Slate, March 11, 2026.
 - Shapiro, Jeremy. European Council on Foreign Relations paper on Trump force threats (cited in Rachman).
 - Wikipedia. "Trump Always Chickens Out." Retrieved March 22, 2026.
+- Bremmer, Ian. Interview with Fergus McGee, "Trump is the 'most incompetent' President on policy the US has ever seen," *The Trump Report* ([YouTube](https://youtu.be/yHPyeAXZHDY), April 8, 2026). TACO vs FAFO scale, Iran ceasefire as definitive TACO, adversary pain capacity as structural predictor.

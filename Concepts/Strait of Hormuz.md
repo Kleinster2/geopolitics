@@ -190,6 +190,81 @@ The SPR release is a political tool: it signals "we're doing something" and brie
 
 ---
 
+### US Navy blockade announcement — April 12, 2026
+
+On the morning of April 12 — while the [[2026 Iran conflict#April 10-11 — Islamabad talks fail|Islamabad talks]] led by VP [[JD Vance]] were concluding without a deal — Trump posted on Truth Social:
+
+> "Effective immediately, the United States Navy, the finest in the world, will begin the process of blockading any and all ships trying to enter or leave the Strait of Hormuz. Additionally, at an appropriate moment, we are fully locked and loaded, and our military will finish up the little that is left of Iran."
+
+This converted the conflict's open question about Hormuz — whose enforcement of the closure matters — from "Iran's selective blockade of Western-allied shipping" to "US blockade of everyone including Iranian shadow fleet tankers."
+
+**Under international maritime law**, a blockade is an act of war (per [[James Stavridis]], former NATO SACEUR, CNN GPS April 12). Previous US Gulf operations were characterized as escort, freedom-of-navigation, or interdiction missions — not blockade. The stated term signals a formal legal-political escalation even if operational mechanics mirror prior posture.
+
+#### Force structure required (Stavridis, April 12)
+
+[[James Stavridis]] estimated the force laydown [[Admiral Brad Cooper]] ([[CENTCOM]]) would probably request:
+
+| Position | Assets |
+|----------|--------|
+| Outside Gulf (south of strait) | 2 aircraft carrier strike groups; ~12 destroyers and frigates |
+| Inside Gulf | ~6 US warships; Emirati Navy; Saudi Navy |
+| Purpose | "Bottle it up on both sides" |
+
+Stavridis's framing: blockade sits in the middle of a spectrum between "walking away" and "destroying the civilization of Iran" — "a big task" and "a big gamble." Economic squeeze without destroying oil facilities the US wants to preserve for future use.
+
+#### Iranian asymmetric counters — three layers (Stavridis)
+
+1. **Inside the strait: smuggling.** Confederate-era blockade analogy — "pretty porous." Dhows, small craft, submarines.
+2. **Mines.** CENTCOM has reportedly destroyed 90%+ of Iran's pre-war 5,000-mine stockpile (Stavridis figure), but Iran retains mine-laying capability via surviving small boats, submarines, trawlers, cargo ships, and speedboats (limpet). A determined redeployment could force the US into [[Mine Warfare#Clearance under fire|mine clearance under fire]] — first since Korea 1950-53.
+3. **Cyber, with Russian/Chinese assistance.** "Here's China, an expert cyber nation, alongside Russia, another expert cyber nation. Aid from Russia and China is another stream of threat. It's like in Ghostbusters — you don't want those streams to cross." AI making cyber tools more accessible.
+
+#### Energy market impact of blockade
+
+[[Karen Young]] (Columbia CGEP, CNN GPS April 12) assessed:
+
+- Blockade adds Iran's ~1.6 mb/d of shadow-fleet exports (previously flowing freely under Iran's selective closure, 100% to China) to the off-market total.
+- Market deficit now ~7 mb/d crude + ~4 mb/d product not getting out.
+- Young expected Monday (April 13) open to show a fresh price shock after the ceasefire's softening effect.
+- Elevated oil and LNG prices through end-2026 minimum; relief not before 2027, and assumes (a) resumption of traffic, (b) no further damage to oil/LNG infrastructure, and (c) "some sort of accommodating government in Iran" — "huge variables which are really really unsolved."
+
+The blockade paradoxically makes the market worse than the status quo: Iran's selective closure at least kept Iranian barrels in circulation (all to China). A full US blockade zero-outs those flows while still not reopening Saudi/UAE/Qatari/Iraqi crude exports trapped inside the Gulf.
+
+#### Gulf-state political exposure
+
+Masoud (Harvard, CNN GPS April 12): Gulf states — especially the "pro-American camp" leadership — are being forced to confront two outcomes they both want to avoid (Iran controls Hormuz with retained strike capacity *or* Iranian failed state producing refugees, warlords, narcotics), with Trump's rhetoric increasingly suggesting accommodation with either. This is feeding the "non-aligned" diversification camp's argument that the US is a liability, not an asset. See [[Tarek Masoud]] for full framework.
+
+#### Blinken's read — the "break glass" consequence is now structural
+
+[[Anthony Blinken]] (CNN GPS April 12): the escalation to a blockade confirms that pre-war US restraint — "always factored in what might Iran do in the strait to make life really difficult" — has been permanently eroded. Iran pulled the Hormuz trigger when the regime concluded survival was at stake; the US is now pulling a reciprocal trigger. Both sides' restraint options have collapsed. See [[Anthony Blinken#On Hormuz as the permanent strategic shift]].
+
+*Source: Truth Social (April 12 post); CNN Fareed Zakaria GPS (April 12, 2026) — [YouTube](https://youtu.be/BgNJ1Ygo_d8)*
+
+#### Operational start preceded the announcement (April 11)
+
+The blockade was already under way when Trump formalized it on Truth Social. Per CENTCOM (reported CNN This Morning Weekend, April 12):
+
+- Two US Navy guided-missile destroyers were actively clearing Iranian-laid mines in the strait during the Islamabad talks (Saturday April 11 into Sunday morning April 12).
+- First combat incident inside the post-ceasefire blockade perimeter: US Navy destroyed an Iranian surveillance drone that approached one of the minesweepers (NYT sources).
+- Sources told NYT the drone "was not a direct threat," but the Navy "did not want Iranian forces tracking their movements."
+- Administration framing: this did not violate the already-fragile ceasefire.
+
+**Significance:** the operational footprint was pre-staged. Trump's Truth Social post formalized legal-political posture on an already-running mission — it did not launch a new operation. This matters for assessing Iranian response calculus: Iran watched the minesweeping begin without publicly escalating, suggesting either (a) tacit acceptance aligned with [[Paul Salem]]'s "quiet de-escalation" scenario, or (b) delayed response under consideration.
+
+#### Post-announcement pathway framework (Paul Salem, April 12)
+
+[[Paul Salem]] ([[Middle East Institute]]) on CNN This Morning Weekend offered the cleanest public articulation of the two end-states for the blockade:
+
+1. **Quiet de-escalation.** US Navy opens the strait without being overtly challenged by Iran. Strait quietly reopens over "the next few weeks." War ends without formal agreement; "effectively a ceasefire and the straits open."
+2. **Proactive US military campaign** to open the straits — larger, sustained operation beyond current minesweeping.
+
+Salem's core analytical claim: "the only thing the US really needs is for those straits to open — one way or the other." Nuclear program already set back many years; ballistic missile program still exists but greatly degraded; Iran deterred by suffering. An implicit Iranian offramp: reopen the strait in exchange for no further attacks, without a formal agreement with Israel — a **minimum-viable closure**.
+
+Salem's framework implies that a functional blockade outcome does not require regime change, a nuclear framework, or a diplomatic deal — only the physical reopening. Compatible with [[Errol Lewis]]'s (Spectrum News) domestic-politics read that Trump's only acceptable political exit is "declare victory and come home."
+
+*Source: CNN This Morning Weekend (Victor Blackwell), April 12, 2026 — [YouTube](https://youtu.be/BRg6QGl-tg0)*
+
+---
+
 ### Selective blockade — Iran-to-China flows (March 11)
 
 The blockade is selective by design. On March 5, [[IRGC]] declared Hormuz closed only to US, Israeli, and Western-allied ships. Iranian shadow fleet tankers keep transiting freely, all bound for [[China]].
@@ -286,6 +361,29 @@ IMO extraordinary council scheduled March 19-20 to discuss operational risks and
 
 *Source: MEI panel, March 20, 2026*
 
+## Fertilizer corridor — the overlooked transit risk
+
+Hormuz is a fertilizer chokepoint, not just an energy chokepoint. Aurelion Research (Global Fertilizer Primer 2026, March 24) quantified Gulf producer shares of global traded urea:
+
+| Producer country | Share of global urea exports |
+|---|---|
+| Saudi Arabia | 20% |
+| Qatar | 11% |
+| Iran | 11% |
+| Oman | 4% |
+| Other Gulf | 3% |
+| Total Hormuz-routed | 49% |
+
+Parallel exposures: ~30% of global ammonia trade, ~50% of sulfur trade (sulfur is a phosphate-processing input). The strait's closure simultaneously disrupts all three primary nutrient complexes — nitrogen (urea, ammonia), phosphorus (sulfur for phosphoric acid), and potash-adjacent NPK blends — the first such event since industrial fertilizer production was established.
+
+Countries most exposed: [[India]] (formally asked China to ease urea export restrictions March 12), [[Bangladesh]] (5 of 6 urea factories shut — Boro rice season at risk), [[Egypt]] (triple vulnerability: wheat imports, nitrogen production disruption, sovereign debt), Australia (imports ~2/3 of urea from Gulf, AdBlue/diesel exhaust fluid at risk). China halted ALL fertilizer exports on March 16, removing the only alternative source large enough to partially offset Hormuz losses.
+
+Unlike oil, there is no Strategic Petroleum Reserve equivalent for fertilizer — no stockpiles, no doctrine, no institutional framework. See [Food Security](Food%20Security.md) for the deeper food-system framing and the investing vault [Nitrogen Trap](obsidian://open?vault=investing&file=Concepts%2FNitrogen%20Trap) for the 14-channel cascading framework.
+
+*Source: Aurelion Research, Global Fertilizer Primer 2026 (Substack, March 24, 2026); TFI (~49% urea estimate)*
+
+---
+
 ## Historical precedents
 
 ### Tanker War (1984-1988)
@@ -304,9 +402,15 @@ Iran and Iraq attacked commercial shipping during the Iran-Iraq War. The US cond
 - [[Farzin Nadimi]]
 - [[Caitlin Talmadge]]
 - [[Simon Gass]]
+- [[James Stavridis]]
+- [[Anthony Blinken]]
+- [[Tarek Masoud]]
+- [[Paul Salem]]
+- [[Errol Lewis]]
 
 ### Cross-vault
 - [Investing: Iran market impact](obsidian://open?vault=investing&file=Events%2F2026%20Iran%20conflict%20market%20impact) — oil price impact and shipping disruption
+- [Investing: Nitrogen Trap](obsidian://open?vault=investing&file=Concepts%2FNitrogen%20Trap) — full 14-channel cascading fertilizer framework, equity positioning, Aurelion corridor breakdown
 
 ## Sources
 - Gideon Rachman, FT: [Why Hormuz will haunt us long after this war ends](https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1) — permanent non-nuclear deterrent thesis, war aims collapse, allied reluctance, escalation options (March 16, 2026)
@@ -322,3 +426,5 @@ Iran and Iraq attacked commercial shipping during the Iran-Iraq War. The US cond
 - CNBC: [Iran ships oil to China through closed Hormuz](https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html) (March 11, 2026)
 - Reuters: [Iranian oil flows while neighbors' exports shut](https://www.reuters.com/business/energy/iranian-oil-flows-through-strait-hormuz-even-gulf-neighbors-exports-shut-2026-03-11/) (March 11, 2026)
 - FT: Iran mine warfare analysis — Nadimi, Shugart, Wills, Talmadge, Savitz assessments (March 2026)
+- CNN This Morning Weekend (Victor Blackwell): [YouTube](https://youtu.be/BRg6QGl-tg0) (April 12, 2026) — Salem two-scenario framework; US Navy minesweeping operational start during talks; Iranian drone incident
+- CNN Fareed Zakaria GPS: [YouTube](https://youtu.be/BgNJ1Ygo_d8) — Trump blockade announcement; Stavridis on blockade mechanics and Iranian counters; Blinken on strategic failure; Masoud on Gulf attitudes; Young on energy market outlook (April 12, 2026)

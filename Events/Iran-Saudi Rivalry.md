@@ -189,6 +189,12 @@ Saudi Arabia has been cautious about direct military involvement. Lynch notes Sa
 
 The rapprochement may be permanently broken regardless of war outcome: if the Iranian regime survives, it will remember the coercive power of attacking the Gulf. If it collapses, Saudi Arabia faces refugee flows, armed spillover, and instability from a neighboring state of 90 million.
 
+## 2026 — UAE OPEC exit reframes the Gulf rivalry
+
+The Saudi-Iran rivalry is no longer the binary regional cleavage it was in the 2010s. The April 28, 2026 UAE announcement of departure from both OPEC and OPEC+ — the largest defection in OPEC's history — added a second cleavage running across the Gulf itself. UAE Energy Minister Suhail Al Mazrouei denied political linkage with Saudi in the announcement interview, but the surrounding facts (Saudi-UAE Yemen coalition rupture in December 2025 over Saudi airstrikes on UAE-backed [[Southern Transitional Council]] separatists; the Lynch-documented pre-war Saudi-Emirati realignment now reactivated; the Bessent $20B swap line publicly defended five days before the OPEC announcement; UAE adviser Anwar Gargash's public framing of GCC weakness) read as strategic reorientation rather than market technicality.
+
+The structural implication for the Iran-Saudi rivalry is that Saudi Arabia is now navigating a triangulated regional landscape rather than a binary one. Containing Iran (the historical project) competes with managing UAE-driven realignment toward bilateral US anchoring. Both Saudi and UAE remain US-aligned in broad terms, but their post-war preferences diverge: Saudi prefers a stable Iran (even Islamic Republic) given Eastern Province Shia exposure; UAE prefers a weakened Iran (per Bohl's framing). The OPEC exit institutionalizes the divergence at the most visible level of Gulf cooperation. Cross-vault: [Investing: 2026 UAE OPEC exit](obsidian://open?vault=investing&file=Events%2F2026%20UAE%20OPEC%20exit) for full mechanics.
+
 ## Related Notes
 - [[Iran]]
 - [[Saudi Arabia]]

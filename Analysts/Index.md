@@ -35,11 +35,19 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Kenneth Katzman]] - Ex-CRS/CIA, Iran specialist (30+ years), now Soufan Center/GIF
 - [[Marc Lynch]] - GWU professor, Gulf politics, Arab media, US Middle East policy
 - [[Paul Pillar]] - Georgetown/Quincy, ex-CIA NIO, Israel-Iran entrapment thesis, intelligence critique
+- [[Rana Foroohar]] - FT global business columnist / CNN, geoeconomics, supply chains, financial-transmission analysis of geopolitical conflicts
+- [[Tarek Masoud]] - Harvard Kennedy School, director Middle East Initiative; Gulf states, Arab politics, Islamist movements
+- [[Paul Salem]] - MEI senior fellow; Arab politics, Lebanon, Iran-Arab relations; two-scenario post-failure framework
 
 ## Diplomacy / Intelligence
 - [[Simon Gass]] - Former UK ambassador to Iran, JIC chair, JCPOA lead negotiator; Iran power structure, Hormuz trigger thesis
 
+## Journalism / National Security Reporting
+- [[Jim Sciutto]] - CNN chief national security analyst, *Return of Great Powers* author; Iran ~50% missile capability exclusive, Trump-Putin parallel miscalculation thesis, alliance credibility crisis
+- [[Preet Bharara]] - Stay Tuned podcast host, former SDNY US Attorney; legal/political interview framing for national-security figures
+
 ## Defense / Strategy
+- [[Kateryna Bondar]] - CSIS Wadhwani AI Center fellow; Russian unmanned-systems and AI ecosystem; "Russia is way ahead of NATO"
 - [[Emile Hokayem]] - IISS director of regional security; Iran war phase analysis, sustainment burden, cruise missile reserve thesis
 - [[Kelly Grieco]] - Stimson Center, military alliances, force posture; "first war" with adversary precision strike
 - [[Mark Cancian]] - CSIS, Pentagon budget, force structure, munitions sustainability; inventory race
@@ -49,6 +57,7 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Thomas Karako]] - CSIS Missile Defense Project, multi-domain integration, PrSM operational test
 - [[Grant Rumley]] - Washington Institute, former Pentagon, Pacific signaling through Iran
 - [[William Wechsler]] - Atlantic Council, former Pentagon, Gulf escalation ladder and territorial access
+- [[James Stavridis]] - Retired Admiral, former NATO SACEUR; naval strategy, maritime chokepoints, Hormuz blockade mechanics
 
 ## Maritime / Institutional
 - [[Arsenio Dominguez]] - IMO secretary-general, escorts unsustainable, shipping lane geometry, stranded ships humanitarian crisis
@@ -65,6 +74,12 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 
 ## Israel-Palestine
 - [[Xavier Abu Eid]] - PLO Negotiations Affairs Dept, Chilean-Palestinian, settlements/Jerusalem/Christian issues
+
+## US Domestic Politics
+- [[Errol Lewis]] - Spectrum News anchor, host *The Big Deal*; Democratic Party politics, NYC politics, electoral analysis; Vance delegation critique (April 2026)
+
+## South Asia
+- [[Sushant Singh]] - Yale (lecturer, South Asian Studies) / *Caravan* (consulting editor) / former Indian Army officer (20 yrs); Pakistan as US-Iran mediator, India's Three Vulnerabilities framework, Modi's domestic weakening
 
 ## Tags
 - #analyst

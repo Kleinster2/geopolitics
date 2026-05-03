@@ -270,6 +270,20 @@ Supporters argue:
 - Regime's choices cause suffering
 - No good alternatives
 
+## Operation Economic Fury — April 14, 2026
+
+Treasury Secretary [[Scott Bessent]] branded the financial track of the 2026 Iran campaign Operation Economic Fury at a WSJ CEO Council interview with [[Paul Gigot]], making it the first time the economic pressure campaign was given an explicit public name parallel to the military Operation Epic Fury.
+
+Campaign arc as Bessent described it:
+- March 2025: maximum pressure campaign reactivated on presidential order.
+- December 2025: "one of their major banks going under" forced the [[Central Bank of Iran]] to print money, triggering acute inflation and street protests (see [[Iran Protests 2025-2026]]).
+- April 2026: Gulf partners ([[UAE]], [[Qatar]], [[Saudi Arabia]]) begin sharing Iranian regime bank account information held in their jurisdictions — a reversal from prior tolerance, framed by Bessent as a consequence of ~40 days of Iranian missile fire on Gulf territories (Qatar cited at "14% of GDP" lost; UAE "over 1,200 hits").
+- April 2026: Treasury "reaching out to banks including Chinese banks" on secondary sanctions compliance for dollar-settled Iranian oil.
+
+What is structurally new: regional intelligence cooperation on account-level Iranian financial data. This is the piece that was missing from every prior sanctions round — previous Gulf cooperation stopped at trade flows. Bank-account sharing pushes sanctions into territory closer to how the US treats North Korea or cartels than how it has historically treated Iran.
+
+*Source: WSJ Opinion / Paul Gigot interview with Scott Bessent, April 14, 2026.*
+
 ## Related Notes
 - [[Iran Sanctions]] - Full sanctions overview (all programs)
 - [[Iranian Economic Crisis]]
@@ -280,6 +294,8 @@ Supporters argue:
 - [[Sanctions]]
 - [[Dollar Dominance]]
 - [[Geoeconomics]]
+- [[Scott Bessent]] — named the campaign
+- [[2026 Iran conflict]] — parallel military track
 
 ## Sources
 - [Al Jazeera - Iran economy](https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests)

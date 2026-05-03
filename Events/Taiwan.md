@@ -78,6 +78,28 @@ The most dangerous flashpoint in international politics. China claims Taiwan as 
 - Economic pressure
 - Cyber attacks
 
+#### Boa-constrictor blockade model ([[Jim Sciutto]])
+Per Sciutto's *The Return of Great Powers* (2024): China does not need to execute an amphibious invasion to force Taiwan's submission. Alternative model — surround and wait. Chinese naval and air forces encircle Taiwan progressively, cutting maritime and air access without kinetic engagement, until Taiwan yields.
+
+**Why the boa-constrictor model is attractive to Beijing:**
+- Amphibious invasion across the Strait remains the hardest military operation (water, defender preparation)
+- Encirclement avoids the D-Day analogy that frames Western strategic thought
+- Time horizon can stretch to weeks or months, letting allies' attention span decay
+- Nuclear escalation thresholds are not triggered by a non-kinetic blockade
+- Semiconductor supply chain damage is gradual rather than sudden, complicating US escalation choice
+
+**Why it can succeed even if Taiwan resists:**
+- Taiwan imports ~97% of energy; reserves run out in weeks, not months
+- TSMC requires continuous inputs (chemicals, replacement parts) that cross the blockade line
+- Global semiconductor buyers apply their own pressure on Taipei to negotiate
+- US response to a slow-motion blockade is harder to galvanize than response to an invasion
+
+**Distinguished from [[Eyck Freymann]]'s Hormuz-Taiwan template:**
+- Freymann's model: legal declaration + exclusion zones + insurance mechanism ([[Five Powers Clause]]) = de facto blockade via commercial carrier refusal
+- Sciutto's boa-constrictor: military encirclement + attrition + waiting
+- The two are compatible, not alternatives — a full Beijing playbook likely combines the insurance/legal coercion track with the physical encirclement track
+- Shared implication: coercion without combat is a realistic Taiwan scenario, not a hypothesis
+
 ### Military Conflict
 - Amphibious invasion (hardest)
 - Missile strikes

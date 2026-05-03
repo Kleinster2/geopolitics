@@ -167,6 +167,9 @@ States, organizations, and decision-makers in geopolitics.
 
 ## Decision-Makers
 
+### US — Former officials
+- [[Anthony Blinken]] - Former Secretary of State (2021-2025); Deputy SecState during JCPOA negotiation; extensive Iran diplomatic experience
+
 ### US (Trump 2.0)
 - [[Donald Trump]] - 47th President, central actor in multiple vault flashpoints
 - [[Marco Rubio]] - Secretary of State, China/Latin America hawk
@@ -181,11 +184,14 @@ States, organizations, and decision-makers in geopolitics.
 ### Iran (Current)
 - [[Mojtaba Khamenei]] - Supreme Leader (March 2026-), son of Ali Khamenei, dynastic succession
 - [[Masoud Pezeshkian]] - President, weakest of three power centers (Vaez)
+- [[Mohammad Bagher Ghalibaf]] - Speaker of Majles, former IRGC; senior war leader and diplomatic interlocutor after Larijani's assassination (March 2026)
 
 ### Heads of State/Government
 - [[Xi Jinping]] - Chinese President/CCP General Secretary, assertive foreign policy
 - [[Vladimir Putin]] - Russian President, Ukraine war, Alaska Summit, Board of Peace controversy
-- [[Narendra Modi]] - Indian PM, multi-alignment foreign policy
+- [[Narendra Modi]] - Indian PM, multi-alignment foreign policy stress-tested by 2026 Iran war
+- [[Asim Munir]] - Pakistani Field Marshal / COAS; central US-Iran mediator under Trump 2.0
+- [[S. Jaishankar]] - Indian External Affairs Minister; "*dalal*" comment April 2026
 - [[Mohammad bin Salman]] - Saudi Crown Prince, Vision 2030, Abraham Accords prospect
 - [[Benjamin Netanyahu]] - Israeli PM, Gaza war leader
 - [[Keir Starmer]] - UK PM, declined Board of Peace
@@ -194,6 +200,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[Mark Carney]] - Canadian PM, conditional Board of Peace engagement
 - [[Giorgia Meloni]] - Italian PM, Trump-Europe bridge
 - [[Viktor Orban]] - Hungarian PM, EU/NATO outlier, pro-Russia
+- [[Péter Magyar]] - Hungarian opposition leader (Tisza Party), challenger in April 12, 2026 election
 - [[Javier Milei]] - Argentine President, libertarian, Board of Peace founding member
 - [[Alexander Lukashenko]] - Belarusian President, Russia-dependent, Board of Peace signatory
 - [[Jonas Gahr Støre]] - Norwegian PM, European spine, Greenland response
@@ -218,6 +225,9 @@ States, organizations, and decision-makers in geopolitics.
 ### Latin America
 - [[Abelardo de la Espriella]] - Colombian presidential candidate (2026), far-right, Defensores de la Patria founder
 - [[Iván Cepeda]] - Colombian presidential candidate (2026), Pacto Histórico, human rights defender
+
+### Religious Leaders
+- [[Pope Leo]] - First American Pope; April 11, 2026 peace vigil at St. Peter's condemning Iran war ("madness of war," "delusion of omnipotence")
 
 ### Board of Peace - Gaza Executive Board
 - [[Hakan Fidan]] - Turkey's Foreign Minister

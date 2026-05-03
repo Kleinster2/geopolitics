@@ -24,6 +24,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Compellence]] - Forcing action through threats (vs. deterrence preventing action)
 - [[Coercive Diplomacy]] - Threats + limited force + diplomatic off-ramps
 - [[Trump TACO]] - "Trump Always Chickens Out" — credibility deficit from systematic threat-reversal pattern
+- [[Madman Theory]] - Nixon performative version vs. Trump apparent-genuine version; adversary learning effect
 - [[Escalation]] - Conflict intensity, escalation ladders, crisis management
 - [[Horizontal Escalation]] - Widening conflict scope rather than intensifying in one theater; Pape's 2026 Iran framework
 - [[Security Dilemma]]
@@ -37,6 +38,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[G-Zero]]
 - [[Alliance Theory]]
 - [[Alliance Entrapment (US-Israel)]] - Snyder entrapment framework applied to 2026 Iran war
+- [[Alliance Credibility Crisis]] - Sciutto thesis: 2025-2026 US-ally trust damage may be irreparable on multi-year horizons
 - [[Strategic Backfire (2026 Iran War)]] - War to neutralize Iran instead elevated it to global chokepoint power
 - [[Grand Strategy]]
 - [[Spheres of Influence]]
@@ -63,6 +65,7 @@ Theories, frameworks, and key terms in geopolitics.
 
 ## Warfare & Security
 - [[AI Warfare]] - Autonomous weapons, Project Maven, drone swarms, Pentagon-Silicon Valley dynamics
+- [[Russian Drone Ecosystem]] - Russia's civil-military unmanned-systems and AI integration; Bondar/CSIS thesis Russia is "way ahead of NATO"
 - [[Hybrid Warfare]]
 - [[Gray Zone]]
 - [[Cyber Warfare]]
@@ -147,6 +150,10 @@ Theories, frameworks, and key terms in geopolitics.
 - [[China Demographic Decline]] - Population crisis, data quality debate, Zeihan thesis
 - [[Deglobalization]] - Trade fragmentation, reshoring, supply chain restructuring
 - [[Zeitenwende]] - Germany's post-2022 defense policy transformation
+
+## Diplomacy & Foreign-Policy Frameworks
+- [[Pakistan as US-Iran Mediator]] - Munir's 2025-2026 mediator gambit; Singh thesis on Modi's isolation strategy unraveling
+- [[India's Three Vulnerabilities]] - Singh framework: India structurally dependent on US, Russia, China simultaneously
 
 ## Reference
 - [[Think Tanks]]

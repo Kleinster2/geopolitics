@@ -227,7 +227,7 @@ The [[2026 Iran conflict]] was the largest test of AI-enabled warfare to date:
 | **China** | "Intelligentization" (third PLA modernization phase); DeepSeek AI integrated into military procurement; Norinco autonomous combat vehicle | September 2025 parade showcased uncrewed ground/air/underwater drones; ~$278B military budget (+7%) |
 | **Israel** | **Lavender** (marks people for targeting) and **Gospel/Habsora** (marks buildings) AI targeting systems | First used in Gaza; deployed at largest-ever scale in [[2026 Iran conflict]]; 20-second human verification windows (reported) |
 | **Turkey** | Baykar **K2 Kamikaze Drone**: 2,000 km range, 200 kg warhead, AI-enabled swarming without GPS | Unveiled March 14, 2026; $2.2B exports in 2025; deals with 37 countries |
-| **Russia** | Geran-2 drones (based on Iranian Shahed) with Nvidia Jetson-powered AI for autonomous target recognition; 5,000+/month production | Putin ordered Russia-China AI collaboration |
+| **Russia** | Geran-2 drones (based on Iranian Shahed) with Nvidia Jetson-powered AI for autonomous target recognition; 5,000+/month production. Sovereign drone ecosystem with state targets of 130,000 large UAS/yr by 2030, 350,000/yr by 2035; 1M UAS workforce by 2030 (per [[Kateryna Bondar]], CSIS) | Putin ordered Russia-China AI collaboration; see [[Russian Drone Ecosystem]] |
 | **South Korea** | SGR-A1 robot sentries on DMZ; 78% FY2026 budget increase for AI unmanned combat systems | Among states blocking LAWS treaty |
 | **India** | Fast-tracking orders for 50 Israeli Harop loitering munitions after May 2025 India-Pakistan war | Used Harop in combat |
 
@@ -260,6 +260,8 @@ The [[2026 Iran conflict]] was the largest test of AI-enabled warfare to date:
 - [[Cyber Warfare]] -- overlapping domain
 - [[Nuclear Command and Control]] -- AI risks to nuclear C2
 - [[Hybrid Warfare]] -- AI-enabled gray zone operations
+- [[Russian Drone Ecosystem]] -- Russia's civil-military integration and state-targets architecture for unmanned systems and AI
+- [[Kateryna Bondar]] -- CSIS analyst tracking Russian sovereign drone/AI ecosystem
 
 ### Cross-vault
 - [Investing: Defense sector](obsidian://open?vault=investing&file=Sectors%2FDefense) -- defense tech companies (Palantir, Anduril) as investment theme

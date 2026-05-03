@@ -4,6 +4,10 @@ Running log of vault changes by session.
 
 ---
 
+## 2026-04-11
+
+- edited [[Strait of Hormuz]] (Concepts) — added fertilizer corridor section: 49% of global urea exports (Saudi 20%, Qatar 11%, Iran 11%, Oman 4%, Other Gulf 3%), ~30% ammonia trade, ~50% sulfur trade; food-system exposure table; cross-vault link to investing Nitrogen Trap. Source: Aurelion Research Global Fertilizer Primer 2026 (Substack, March 24, 2026)
+
 ## 2026-03-14
 
 - edited [[2026 Iran conflict]] (Events) — March 11-14 timeline: IEA 400M barrel SPR release, Mojtaba Khamenei succession/first address, Kharg Island military strikes, KC-135 crash (6 US killed), Lebanon Litani bridge/ground expansion, 3 NATO intercepts over Turkey, Pezeshkian ceasefire terms, Houthi restraint, maritime campaign expansion (Kuwait sea drone), war powers votes failed; updated casualties to Day 15; added succession section; 20 new sources
