@@ -60,6 +60,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Power]]
 - [[Hard Power]]
 - [[Soft Power]]
+- [[China soft power]] - 2025-26 inflection: algorithmic platforms (TikTok), open-source frontier tech (DeepSeek), consumer-brand displacement; concurrent US drawdown under Trump II
 - [[Military Power]]
 - [[Power Projection]]
 
@@ -68,6 +69,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Russian Drone Ecosystem]] - Russia's civil-military unmanned-systems and AI integration; Bondar/CSIS thesis Russia is "way ahead of NATO"
 - [[Hybrid Warfare]]
 - [[Gray Zone]]
+- [[Iran transnational repression]] - IRGC Unit 400 / Quds Force Unit 840 covert operations against Western dissidents and former US officials; post-2026-conflict capacity analysis
 - [[Cyber Warfare]]
 - [[Information Warfare]]
 - [[Proxy Wars]]
