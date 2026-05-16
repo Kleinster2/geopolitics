@@ -65,6 +65,14 @@ Iran still has ability to produce drones, launch missiles, and lay mines, bringi
 - "Trump's Risky War of Choice in Iran" (*Project Syndicate*, March 2026)
 - "A War the U.S. Didn't Need" (*The Free Press*, March 2026)
 
+## 2026 Trump-Xi Summit Commentary
+
+### "Once Upon a Time in China" (Substack, May 15, 2026)
+
+Weekly column. Lead-in piece on the Trump-Xi summit, which Haass treats as the most important diplomatic event of the week. Frames Taiwan as the central organizing question of US-China relations and Xi's defining legacy issue. Cites China's official readout: Xi stressed "the Taiwan question is the most important issue in China-U.S. relations. If it is handled properly, the bilateral relationship will enjoy overall stability. Otherwise, the two countries will have clashes."
+
+On Iran (the column's second main section), Haass titles his treatment "Between War and Peace" — characterizes the current state as a drawn-out impasse until one side signals renewed interest in a deal, with [[2026 Iran conflict]] outcomes worsening regardless of whether or when diplomacy resumes.
+
 ## Significance for the Entrapment Debate
 
 Haass's critique matters because of who he is: a former NSC senior director who supported the 1991 Gulf War as necessary, served in two Republican administrations, and ran the CFR for 20 years. When Pillar or Parsi call the war unnecessary, hawks can dismiss them as restrainers. When Haass calls it "Epic Folly" using the same framework he used to support Desert Storm, the critique is harder to dismiss.
