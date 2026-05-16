@@ -50,6 +50,7 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 
 ## Foreign Policy Establishment
 - [[Richard Haass]] - Former CFR president (2003-2023), "war of choice vs. necessity" framework, centrist 2026 Iran war critic
+- [[Fareed Zakaria]] - CNN GPS host, Washington Post columnist, *Post-American World* / *Age of Revolutions*, mainstream consensus synthesizer
 
 ## Political Risk
 - [[Ian Bremmer]] - Eurasia Group founder, G-Zero concept
