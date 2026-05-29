@@ -145,6 +145,8 @@ The structural read: legacy fixed-price prime contractors (Boeing, Northrop on G
 
 The economics enabling the pivot: Voyager's 10K disclosed Starship pricing at $90M / $900/kg vs SLS at $4B+/flight (>$10K/kg). The Voyager 10K is the cleanest publicly available primary source on Starship economics for a real customer contract — and it's the price point doing the structural work behind the contractor renegotiation.
 
+NASA's May 22, 2026 mission-directorate realignment made the political economy more explicit. Human Spaceflight now contains Artemis, Moon Base, and low Earth orbit; Research and Technology contains space technology and the Space Reactor Office; Science remains separate. Mission-directorate leaders report directly to Isaacman. The geopolitical point is that US lunar presence, commercial LEO continuity, and enabling nuclear/surface-power technology are being managed as a state-backed commercial-space stack rather than as separate exploration programs.
+
 ### Geopolitical implications
 
 - **US commercial framework as soft-power lever.** NASA's commercialization framework (CRS 2008 → Commercial Crew 2014 → CLPS 2018 → Commercial LEO Destinations) creates a US-anchored commercial space ecosystem. Sovereign agency follow-on customers — Japan, Europe (ESA), UAE, Saudi Arabia — are pulled toward commercial LEO destinations once NASA commits as anchor customer. The framework is structurally a US-led order that allies access by buying from US providers. A reversal toward NASA-designed core modules narrows the commercial framework and weakens the soft-power lever.
@@ -152,13 +154,27 @@ The economics enabling the pivot: Voyager's 10K disclosed Starship pricing at $9
 - **China lunar competition timeline.** Isaacman's $20B over 7-year permanent lunar base targets "before China gets there" framing — China's own crewed lunar program targets ~2030. The accelerated architecture (two crewed landings per year, surface base near south pole resources) is positioned to establish US lunar presence ahead of Chinese parallel buildout.
 - **Sovereign space economy emergence.** The orbital data center platform war (SpaceX Terrafab + Blue Origin Project Sunrise + NVIDIA Vera Rubin Space 1 + Google Project Suncatcher) is largely a US-domiciled commercial play with FCC spectrum allocation as the regulatory layer. The structural read: sovereign AI infrastructure is moving to orbit, and the US has deep first-mover positioning under existing commercial framework. China's parallel orbital constellation programs (200,000-satellite proposal, ongoing AI supercomputer test) create the bipolar dynamic.
 
+### May 2026 - Starlab as strategic-capital signal
+
+The Starlab / 1789 Capital investment gives the soft-power point a concrete capital-market expression. The investment amount was undisclosed, so it is not a funding-capacity signal by itself. Its geopolitical value is the framing: a US-led commercial station is being marketed as the answer to a possible post-ISS American presence gap while [[China]]'s Tiangong continues to operate and feed the 2030 lunar program.
+
+The strategic question is whether NASA's commercial framework stays credible enough for private and allied capital to organize around it. If it does, the US commercial-station ecosystem becomes a diplomatic-economic platform: allies buy into US-led orbital infrastructure instead of building standalone stations or accepting Chinese LEO leadership. If NASA recentralizes around a government-owned core module or underfunds CLD, the commercial soft-power lever weakens even if individual stations keep raising symbolic capital.
+
+### May 2026 - Blue Origin cadence test
+
+Blue Origin's May 2026 sequence is a useful test of the US commercial-space model. Florida approved a roughly $600M New Glenn upper-stage facility at Cape Canaveral, showing that state industrial policy is willing to finance the physical base for commercial launch cadence. Days later, a New Glenn vehicle exploded during hotfire testing at Launch Complex 36. No injuries were reported, but the incident turned the issue back from capacity to reliability.
+
+Geopolitically, this matters because the US strategy increasingly treats private launch capacity as national infrastructure. SpaceX already carries that burden through Starlink, Starship, NASA, and military launch; Blue Origin is supposed to become the second heavy-lift pole for Blue Moon, Orbital Reef, Project Sunrise, and third-party capacity. A commercial-space order with only one reliable heavy-lift provider is less resilient than the US policy narrative implies.
+
 ### See also (investing-vault detail)
 
 - [Investing: NASA](obsidian://open?vault=investing&file=Actors%2FNASA) — full Isaacman restructuring sweep
 - [Investing: Commercial LEO Destinations](obsidian://open?vault=investing&file=Concepts%2FCommercial%20LEO%20Destinations) — program structure and Phase 2 candidates
+- [Investing: Star Lab](obsidian://open?vault=investing&file=Products%2FStar%20Lab) — Starlab / 1789 Capital May 2026 strategic investment
 - [Investing: Jared Isaacman](obsidian://open?vault=investing&file=Actors%2FJared%20Isaacman) — administrator's actions
 - [Investing: Space data centers](obsidian://open?vault=investing&file=Concepts%2FSpace%20data%20centers) — orbital DC platform-war framing
 - [Investing: Space Capital](obsidian://open?vault=investing&file=Actors%2FSpace%20Capital) — Q1 2026 framing source
+- [Investing: Rocket Lab](obsidian://open?vault=investing&file=Actors%2FRocket%20Lab) — May 2026 GEO SDA commercial-prime award
 
 ## Military Space Operations
 
@@ -167,6 +183,14 @@ The economics enabling the pivot: Voyager's 10K disclosed Starship pricing at $9
 - Organize, train, equip
 - Space as domain
 - Operational integration
+
+### May 2026 - commercial prime in GEO space-domain awareness
+
+The U.S. Space Force / Space Systems Command May 2026 award to Rocket Lab for two geostationary space-domain-awareness satellites is a small but clean procurement signal. The mission is strategic: maintaining custody of objects in the GEO belt, where high-value communications, missile-warning, weather, and national-security satellites sit in predictable slots.
+
+The contract is also a commercial-prime signal. Rocket Lab is not only supplying a launch service; it is providing the Lightning satellite bus, integrating the Heimdall optical payload from its acquired GEOST / Rocket Lab Optical Systems unit, handling launch integration onto a government-furnished vehicle, and operating the satellites for up to five years after commissioning. That is the U.S. commercial-space model moving into a harder military-space layer, not just NASA services or LEO communications.
+
+Geopolitically, this supports the same pattern as the commercial-station and Starship economics story above: the U.S. is turning commercial space firms into national-security infrastructure providers. The risk is dependency concentration in a small set of private providers; the advantage is speed, cost pressure, and a broader industrial base than the heritage-prime-only model.
 
 ### Chinese Integration
 - Strategic Support Force

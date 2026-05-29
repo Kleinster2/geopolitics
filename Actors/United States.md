@@ -35,6 +35,12 @@ The world's preeminent superpower since 1991, wielding unmatched military, econo
 5. Counter-terrorism
 6. Technology competition (AI, semiconductors)
 
+### China track: constructive strategic stability
+
+The May 2026 Trump-Xi state visit gave Beijing a new label for the relationship: [[Constructive strategic stability]]. From the US side, the test is whether this becomes a real guardrail system or remains Chinese diplomatic language layered over continuing competition.
+
+The practical channels are trade, investment, agriculture, tariffs, regional-crisis talks, and global-governance issues such as AI, climate, public health, supply chains, and the global economic order. The strategic ceiling remains low because Taiwan, export controls, sanctions, military posture, and domestic politics can still override the cooperative language.
+
 ## Alliances & Partnerships
 - **NATO**: Foundational European security commitment
 - **Indo-Pacific**: Japan, South Korea, Australia, Philippines

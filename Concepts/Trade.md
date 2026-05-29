@@ -189,6 +189,14 @@ SE Asia)     Global       BRI states)
 - Trade defense strengthening
 - Strategic autonomy push
 
+#### EU-China trade defense after May 2026
+
+The May 2026 European Commission discussion of China marked another step in the securitization of trade policy. The Commission described the EU-China trade and investment relationship as unsustainable and pointed to the need for a more coherent response as economic and security interests converge.
+
+The issue is not only the bilateral deficit or Chinese EV prices. Europe and China are both export-goods blocs, which makes the competition structurally harder in autos, chemicals, solar, rail, aviation, and pharmaceuticals. A tariff can manage one product line; it does not solve dependency across ports, buses, telecom towers, cable networks, data centers, medicines, and critical minerals.
+
+The policy frontier is therefore anti-circumvention and control-surface review: unfinished products routed through third countries, foreign ownership of strategic infrastructure, procurement rules, investment screening, and sector-specific pricing mechanisms.
+
 ### Americas
 - USMCA constrains China
 - Nearshoring to Mexico

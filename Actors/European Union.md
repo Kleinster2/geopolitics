@@ -91,6 +91,14 @@ The world's most advanced regional integration project, combining economic union
 - Human rights concerns
 - Technology competition
 
+#### May 2026: strategic autonomy cannot mean China dependency
+
+The May 2026 EU-China debate sharpened the strategic-autonomy problem. A temporary anti-US mood in Europe can make China look like a balancing partner, but the industrial structure points the other way: China and the EU are both export-goods economies, so the relationship is competitive in autos, chemicals, pharmaceuticals, solar, rail, aviation, and other traded-goods sectors.
+
+On May 29, 2026, the European Commission said the EU-China trade and investment relationship was "not sustainable" and called for a more coherent response as economic and security interests converge. The practical implication is that China policy now extends beyond tariff levels into procurement, investment screening, anti-circumvention rules, and ownership of strategic infrastructure such as ports, telecom towers, cable networks, data centers, and buses.
+
+The harder autonomy lesson is negative: Europe can reduce overreliance on Washington without making Beijing the alternative anchor.
+
 ### Internal Cohesion
 - Rule of law (Hungary, Poland)
 - North-South economic divide

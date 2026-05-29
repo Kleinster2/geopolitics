@@ -20,6 +20,7 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 ## International
 - [[Alex Vatanka]] - MEI, Iran, Gulf states, US-Iran relations; Gulf complicity calculus
 - [[Ali Vaez]] - Crisis Group Iran Project Director, nuclear diplomacy, sanctions, track-two practitioner
+- [[Bill Bishop]] - Sinocism founder/editor; China-policy source selection, official-media framing, US-China signals
 - [[Brandon Weichert]] - Author "The Shadow War," Iran/space policy, conservative commentator
 - [[Christopher Garman]] - Eurasia Group executive director, political risk, Latin America
 - [[David Wurmser]] - Center for Security Policy, ex-Cheney advisor, Middle East/Iran
@@ -34,6 +35,7 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Ken Pollack]] - MEI, former CIA analyst, Middle East military affairs, Iran
 - [[Kenneth Katzman]] - Ex-CRS/CIA, Iran specialist (30+ years), now Soufan Center/GIF
 - [[Marc Lynch]] - GWU professor, Gulf politics, Arab media, US Middle East policy
+- [[Paymon Azmoudeh]] - Forward Global senior consultant; Middle East / Africa political risk, Iran governance and civil-society issues, risk and compliance lens
 - [[Paul Pillar]] - Georgetown/Quincy, ex-CIA NIO, Israel-Iran entrapment thesis, intelligence critique
 - [[Rana Foroohar]] - FT global business columnist / CNN, geoeconomics, supply chains, financial-transmission analysis of geopolitical conflicts
 - [[Tarek Masoud]] - Harvard Kennedy School, director Middle East Initiative; Gulf states, Arab politics, Islamist movements
@@ -43,14 +45,17 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 - [[Simon Gass]] - Former UK ambassador to Iran, JIC chair, JCPOA lead negotiator; Iran power structure, Hormuz trigger thesis
 
 ## Journalism / National Security Reporting
+- [[Borzou Daragahi]] - International correspondent, *The Independent*; publisher of [[badlands]]; Middle East / North Africa / Europe conflict reporting, Iran, Turkey, Syria, Lebanon, Iraq
 - [[Jim Sciutto]] - CNN chief national security analyst, *Return of Great Powers* author; Iran ~50% missile capability exclusive, Trump-Putin parallel miscalculation thesis, alliance credibility crisis
 - [[Preet Bharara]] - Stay Tuned podcast host, former SDNY US Attorney; legal/political interview framing for national-security figures
+- [[Michael Weiss]] - Editor-in-chief, The Insider (English edition); contributing editor New Lines Magazine; Russian intelligence operations, FSB/GRU exposés, disinformation, Syria/ISIS; co-author *ISIS: Inside the Army of Terror* (2015)
 
 ## Defense / Strategy
 - [[Kateryna Bondar]] - CSIS Wadhwani AI Center fellow; Russian unmanned-systems and AI ecosystem; "Russia is way ahead of NATO"
 - [[Emile Hokayem]] - IISS director of regional security; Iran war phase analysis, sustainment burden, cruise missile reserve thesis
 - [[Kelly Grieco]] - Stimson Center, military alliances, force posture; "first war" with adversary precision strike
 - [[Mark Cancian]] - CSIS, Pentagon budget, force structure, munitions sustainability; inventory race
+- [[Preston Stewart]] - Former U.S. Army officer / West Point graduate; military and geopolitics explainer; Hormuz mine-laying / ceasefire-fragility read
 - [[William Alberque]] - Pacific Forum, arms control, missile defense; THAAD global capability blow
 - [[Elaine McCusker]] - Former Pentagon comptroller, defense budget; production constraints
 - [[Frank McKenzie]] - Former CENTCOM commander, land-based missile integration planning

@@ -4,6 +4,27 @@ Running log of vault changes by session.
 
 ---
 
+## 2026-05-25
+
+- created [[Borzou Daragahi]] (Analysts) - international correspondent for *The Independent* and publisher of [[badlands]]; coverage focus on Middle East, North Africa, Europe, Iran, Iraq, Turkey, Syria, Lebanon, Libya, conflict reporting, and regional politics.
+- created [[badlands]] (Sources) - Daragahi's Substack newsletter and podcast feed; added use guidelines for attribution, hard-number verification, unnamed-source caution, and `/substacks` ingestion routing.
+- edited [[Analysts/Index]] - added Daragahi under Journalism / National Security Reporting.
+- added *badlands* to the financial-charts curated `/substacks` source list for future newsletter sweeps.
+- created [[Paymon Azmoudeh]] (Analysts) - Forward Global senior consultant focused on Middle East and Africa geopolitical, socioeconomic, regulatory, governance, and civil-society issues; useful for Iran protest politics and risk/compliance interpretations of regional conflict.
+- created [[Forward Global]] (Actors) - Paris-headquartered political-risk / strategic-advisory group with cyber, investigations, compliance, investment intelligence, strategic communications, and government-affairs services.
+- edited [[Analysts/Index]] and [[Actors/Index]] - added Azmoudeh and Forward Global to their respective indexes.
+
+---
+
+## 2026-05-19
+
+- created [[Michael Weiss]] (Analysts) — editor-in-chief of The Insider English edition; contributing editor New Lines Magazine; founder of The Interpreter (2013); co-author *ISIS: Inside the Army of Terror* (2015 with Hassan Hassan). Focus on Russian intelligence operations, FSB/GRU exposés, disinformation, Syria/ISIS. Notable 2024 work: joint investigation revealing a Latvian MEP was an FSB operative. Cross-vault paired with The Insider (Sources).
+- expanded [[Michael Weiss]] (Analysts) same day — added Substack "Foreign Office by M. Weiss" (macspaunday.substack.com — the slug is a literary reference to the 1930s MacSpaunday poet group Auden+Spender+Day-Lewis+MacNeice), weekly *Foreign Office with Michael Weiss* podcast (jointly produced by New Lines + Free Russia Foundation), Free Russia Foundation affiliation, and forthcoming GRU history *Trouble with the Neighbors: A History of Russia's Most Secretive Spy Agency*. Substack added to investing-vault tracked list (`docs/newsletter-sources.md` 82 → 83 sources; mirror updated in `~/clawd/TOOLS.md`; SKILL.md count refs bumped; `promote_shared_skill.py substacks --from claude` synced Claude → Codex + OpenClaw; parity check clean).
+- created [[The Insider]] (Sources) — Russian-language investigative outlet (theins.ru) founded by Roman Dobrokhotov 2013, operating from Latvia (exile) after 2023 "undesirable organization" designation. English edition led by Michael Weiss. Best known for Bellingcat collaborations: Skripal poisoning attribution 2018 (GRU Unit 29155 / Chepiga + Mishkin), Navalny poisoning 2020 (FSB Kriminalistika Institute), 2024 Latvian MEP/FSB investigation.
+- Both notes added with cross-vault relevance to investing-vault Russia/Ukraine thread ([[Ukraine war]], [[Vladimir Putin]], [[Gazprom Neft]], [[2026 Iran conflict market impact]]).
+
+---
+
 ## 2026-04-11
 
 - edited [[Strait of Hormuz]] (Concepts) — added fertilizer corridor section: 49% of global urea exports (Saudi 20%, Qatar 11%, Iran 11%, Oman 4%, Other Gulf 3%), ~30% ammonia trade, ~50% sulfur trade; food-system exposure table; cross-vault link to investing Nitrogen Trap. Source: Aurelion Research Global Fertilizer Primer 2026 (Substack, March 24, 2026)

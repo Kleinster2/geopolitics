@@ -90,6 +90,12 @@ If Beijing succeeds in both domains: "hybrid hegemony" with overwhelming influen
 - **Military leadership instability** (2024-2026 purges)
 - **Heavy rare earth supply fragility**: ~98% of HREE imports came from [[Myanmar Rare Earths|Myanmar's Kachin State]] in 2023; KIO seizure of mines (October 2024) disrupted this supply
 
+### Hukou and migrant integration (May 2026)
+
+The May 22 2026 State Council [[Hukou]] opinion is a domestic-state-capacity reform with macro consequences. Beijing is trying to provide basic public services based on actual residence, so migrant workers and their families can access education, rental housing, social insurance, medical coverage, employment services, and safety-net benefits where they live rather than only where they are registered.
+
+The strategic logic is social mobility plus consumption rebalancing. The limitation is fiscal: if central transfers do not follow the resident population, local governments absorb the cost. This is why hukou reform matters for China's long-run social contract but should be treated as gradual integration rather than a sudden release of household demand.
+
 ## Military Leadership Purges (2024-2026)
 
 ### January 2026 Announcement (Confirmed)
@@ -114,6 +120,22 @@ Earlier purges included members of the Rocket Force and equipment development de
 - See [[Heng He]] for full framework
 
 **Note**: Claims about internal motivations, power dynamics, and procedure violations are largely unverifiable. The scale of purges (5/7 CMC members) is observable; the reasons are contested.
+
+### Howard Wang interpretation (May 2026)
+
+[[Howard Wang]]'s RAND-linked interpretation is more institutional than factional. He reads the 2024-2026 purge cycle primarily as real corruption enforcement, probably rooted in Rocket Force and equipment-development problems, rather than as a simple anti-Xi factional struggle or a 21st Party Congress positioning exercise.
+
+The strongest version of the argument is nuclear credibility. If procurement corruption affected missile quality, silo reliability, or Rocket Force readiness, Xi's problem is not ordinary graft; it is whether China's strategic counterbalance against the United States is trustworthy. The short-term cost is readiness disruption and loss of expertise. The long-term benefit, if the campaign actually changes incentives, is a more capable PLA.
+
+Wang's caveat is important: Xi appears to be using the same anti-corruption tools he has used since 2012, only at higher intensity. That leaves open whether the campaign fixes the military-industrial incentive structure or merely punishes another cohort after the same structure reproduced corruption.
+
+## Total war / national mobilization doctrine
+
+China's 2021-2025 National Security Strategy embedded a concept that recent PLA and party writing call "total war." In [[Howard Wang]]'s reading, this is not an unlimited-war objective. It is a mobilizational doctrine: civilian institutions should be built in peacetime so party leaders can turn them into warfighting effects during conflict.
+
+This sits above ordinary military strategy. It assumes modern conflict is "systems confrontation" - the whole national system of one side against the whole national system of another. Finance, sanctions, information networks, cyber, space, industrial production, energy, food, and domestic political cohesion are all treated as part of the fight.
+
+The institutional bridge is [[Integrated national strategic system and capabilities]], which is broader than [[Military-civil fusion]]. MCF brings civilian technology into PLA modernization. Total war asks civilian systems themselves to fight alongside the PLA under party-center direction.
 
 ### Demographic Crisis (2025-2026)
 
@@ -216,6 +238,14 @@ Friedman argues both sides are converging on a broad accommodation:
 - **Friedman's assessment**: "This is a thing that has to happen. Will happen."
 
 If successful, a US-China working relationship would represent roughly half the world economy—a transformation more consequential than the Iran war's outcome.
+
+### May 2026: constructive strategic stability
+
+The May 13-15 Trump-Xi state visit produced a Chinese formula for the relationship: [[Constructive strategic stability]]. In Gao Fei's People's Daily article, the phrase is not presented as a retreat from competition. It is presented as the new order for competition: cooperation remains primary, competition is bounded, differences are controlled, and peace stays foreseeable.
+
+The strategic signal is that Beijing now wants guardrails on its own terms. Kewalramani's read is the important one: in 2022-2023, Washington was the side emphasizing guardrails; in 2026, Beijing is speaking the language of managing competition boundaries because it sees the United States as declining but still dangerous. Prudence does not mean trust. It means China believes it can consolidate gains while avoiding a clash that would damage supply chains, energy security, food security, and the global economic order.
+
+The concrete channels named in the Chinese account are Trade Council, Investment Council, agricultural market-access resolution, reciprocal tariff reductions, and discussions on the Middle East, Ukraine, and the Korean Peninsula. The Taiwan caveat remains the binding constraint: Chinese-side messaging still treats Taiwan independence as incompatible with peace and stability.
 
 ## Related Notes
 - [[Asia-Pacific]]

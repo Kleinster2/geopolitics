@@ -187,6 +187,7 @@ See: [[Semiconductors]]
 - Quad technology cooperation
 - AUKUS (defense tech)
 - Chip 4 (semiconductors)
+- [[Pax Silica]] (trusted technology supply chains, critical minerals, AI infrastructure, advanced manufacturing)
 
 ### Challenges
 - Different interests (EU-China trade)
@@ -236,6 +237,10 @@ Technologies with both civilian and military applications.
 - Research security
 - Collaboration limits
 - Brain drain concerns (China)
+
+### May 2026: Talent Mobility Controls
+
+Reported Chinese restrictions on AI-specialist travel add a China-side counterpart to US visa, research-security, and export-control pressure. Bloomberg reporting summarized by TechCrunch on May 27 2026 said some private-sector AI specialists now need approval before leaving China, with strategic relevance to China's AI ambitions as the reported screen. That turns human mobility into a formal control surface inside [[Technology Decoupling]]: frontier engineers are no longer just a scarce input, but a resource both states may try to retain or filter.
 
 ## Innovation Ecosystems
 
@@ -287,3 +292,4 @@ Technologies with both civilian and military applications.
 - [[Cyber Warfare]]
 - [[Artificial Intelligence]]
 - [[Supply Chains]]
+- [[Pax Silica]]

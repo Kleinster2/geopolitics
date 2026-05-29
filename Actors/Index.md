@@ -96,6 +96,8 @@ States, organizations, and decision-makers in geopolitics.
 - [[Hamas]]
 
 ### Other
+- [[Xinhua]] - PRC official state news agency; official-message and influence-channel source
+- [[Ministry of State Security]] - China's civilian intelligence / state-security ministry
 - [[Quds Force]]
 - [[Falun Gong]] - Spiritual movement, persecuted in China since 1999
 - [[Kachin Independence Organization]] - Myanmar ethnic army, controls world's most valuable heavy rare earth deposits since October 2024
@@ -149,6 +151,7 @@ States, organizations, and decision-makers in geopolitics.
 
 ### Political Risk Firms
 - [[Eurasia Group]]
+- [[Forward Global]] - Paris-headquartered risk-management and strategic-advisory group; cyber, investigations, compliance, strategic communications, government affairs
 - [[Stratfor]]
 
 ### Policy Advocacy
@@ -188,6 +191,7 @@ States, organizations, and decision-makers in geopolitics.
 
 ### Heads of State/Government
 - [[Xi Jinping]] - Chinese President/CCP General Secretary, assertive foreign policy
+- [[Wang Yi]] - Chinese foreign minister and top party foreign-affairs official; UN-centered-order signal
 - [[Vladimir Putin]] - Russian President, Ukraine war, Alaska Summit, Board of Peace controversy
 - [[Narendra Modi]] - Indian PM, multi-alignment foreign policy stress-tested by 2026 Iran war
 - [[Asim Munir]] - Pakistani Field Marshal / COAS; central US-Iran mediator under Trump 2.0

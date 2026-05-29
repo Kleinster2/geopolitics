@@ -78,6 +78,12 @@ Vast Central African nation with immense mineral wealth but chronic instability.
 - Territorial control
 - Regional tensions
 
+#### Rubaya / tantalum leverage
+
+M23's territorial control matters economically because eastern DRC contains minerals outside the better-known copper/cobalt belt. Rubaya, under AFC/M23 control since 2024, produces around 15% of the world's coltan, which is processed into tantalum for electronics, aerospace, computers, phones, and gas turbines. Reuters' March 2026 reporting on the Rubaya mine disaster also noted that the site had been shortlisted among mining assets the Congolese government was offering to the US under a minerals cooperation framework.
+
+That creates a diplomatic trap. Kinshasa is the legitimate state counterparty for Western minerals deals, but some strategic supply sits inside rebel-held territory. Any foreign policy designed to secure DRC minerals has to decide whether it is solving the conflict, bypassing it, or accepting the supply-chain vulnerability.
+
 ### Rwanda Involvement
 - Supports M23 (documented)
 - Denials despite evidence

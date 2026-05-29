@@ -139,6 +139,14 @@ A pattern of activity that sustains elementary goals of society:
 - Status quo in some areas
 - Not replacing system (yet)
 
+### May 2026: UN-centered-order strategy
+
+[[Wang Yi]]'s May 26, 2026 [[United Nations]] Security Council speech is a useful correction to the idea that China's order strategy is simply to abandon existing institutions. The Chinese position is more precise: keep the UN at the center, then define legitimacy through sovereignty, non-interference, Security Council authorization, development finance, Global South representation, and rules for new domains such as AI, outer space, polar regions, and cyberspace.
+
+That creates a contest inside the post-1945 architecture. The US and allies tend to invoke a broader "rules-based order" that includes alliances, sanctions coalitions, export controls, and human-rights norms. Beijing counters by elevating the UN Charter and Security Council as the legitimate center, then uses that frame to reject unilateral sanctions, military action outside Council mandates, technology blockade, and coalition-based pressure.
+
+The result is neither full institutional preservation nor revolutionary replacement. It is forum capture and vocabulary capture: China wants existing institutions to carry a different hierarchy of rules.
+
 ### Alternative Vision
 - State capitalism model
 - Sovereignty absolutism
@@ -289,6 +297,7 @@ Trump making the ancient Athenian ethos US policy:
 - [[Balance of Power]]
 - [[China]]
 - [[United States]]
+- [[Wang Yi]]
 - [[Power Transition]]
 - [[Melian Dialogue]]
 - [[State Death]]

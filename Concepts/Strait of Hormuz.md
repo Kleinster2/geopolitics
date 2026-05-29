@@ -40,6 +40,14 @@ Iran maintains a stockpile of **more than 6,000 naval mines** including modern d
 
 **Deployment resilience:** Even with 30+ mine-laying vessels destroyed by March 13, Iran retains deployment capability via surviving vessels, submarines (torpedo tubes), trawlers, cargo ships, wooden dhows, and speedboats (for limpet mines).
 
+### Re-mining during ceasefire talks (May 26, 2026)
+
+The May 25/26 U.S. strikes showed why mine warfare keeps the strait from normalizing even when diplomats use ceasefire language. U.S. Central Command said its forces conducted self-defense strikes in southern [[Iran]] against missile launch sites and Iranian boats attempting to emplace mines. Defense reporting added that two [[IRGC]] boats were caught laying mines in the [[Strait of Hormuz]] and that a [[Bandar Abbas]] surface-to-air missile site had targeted U.S. aircraft.
+
+[[Preston Stewart]]'s useful contribution was the operational read: this did not necessarily mean a full return to open war, but it did mean the reopening problem remained reversible. Mine clearance is not finished when a route is swept once; the route must stay clear long enough for shipowners, crews, insurers, and cargo financiers to believe it is commercially safe. On the same day, Reuters reported a UKMTO incident in which the VLCC Olympic Life suffered an external explosion near the port-side waterline about 60 nautical miles off Muscat; the cause was unknown, so it should be treated as maritime-risk context rather than attribution.
+
+*Sources: [[Preston Stewart]], ["Iran Just Tried Mining The Strait of Hormuz"](https://prestonstew.substack.com/p/iran-just-tried-mining-the-strait), May 26 2026; [Reuters via GMA News](https://www.gmanetwork.com/news/topstories/world/988962/us-forces-conducted-self-defense-strikes-in-southern-iran-report/story/), May 26 2026; [The Aviationist](https://theaviationist.com/2026/05/26/u-s-launches-defensive-strikes-in-iran/), May 26 2026; [Reuters via StreetInsider](https://www.streetinsider.com/Reuters/Tanker%2Breports%2Bexternal%2Bexplosion%2Boff%2BOman%2Bcoast%2C%2Bcrew%2Bsafe%2C%2BUKMTO%2Bsays/26549727.html), May 26 2026.*
+
 ### Gulf conditions
 
 The Persian Gulf is the worst-case environment for [[Mine Warfare#Detection and clearance|mine countermeasures]]:
@@ -381,6 +389,24 @@ Countries most exposed: [[India]] (formally asked China to ease urea export rest
 Unlike oil, there is no Strategic Petroleum Reserve equivalent for fertilizer — no stockpiles, no doctrine, no institutional framework. See [Food Security](Food%20Security.md) for the deeper food-system framing and the investing vault [Nitrogen Trap](obsidian://open?vault=investing&file=Concepts%2FNitrogen%20Trap) for the 14-channel cascading framework.
 
 *Source: Aurelion Research, Global Fertilizer Primer 2026 (Substack, March 24, 2026); TFI (~49% urea estimate)*
+
+## May 27-29 reopening vs normalization test
+
+[[Robert Pape]]'s May 27 Escalation Trap preview frames the late-May negotiations around oil-price normalization rather than the binary phrase "reopen Hormuz." His public test: if oil remains above $90 after nominal reopening, the war's strategic result is that markets now price Gulf passage as structurally dangerous.
+
+Reuters and AP reporting on May 29 showed why that distinction matters. US-side terms described unrestricted reopening, mine removal, no tolls, and gradual US pressure relief. Iran-side reporting pointed to reopening according to Tehran's own arrangements and continued traffic regulation/fees. Meanwhile Brent remained around $91 even after a sharp weekly selloff on deal hopes, and traffic through the strait remained only a small fraction of pre-conflict levels.
+
+The operative distinction for this note: "open" means some vessels can move; "normalized" means commercial operators, insurers, and states treat the passage as a neutral artery again. Hormuz can be open without being normalized.
+
+*Sources: [Escalation Trap](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran), May 27 2026 (paid; public preview only); Reuters via MarketScreener and AP, May 29 2026.*
+
+### Insurance closure - the paper chokepoint
+
+[[Felipe Germini]]'s May 27 ENERGY Pipeline public section gives the commercial mechanism behind the normalization test. The strait can be physically passable while still commercially closed if war-risk cover, P&I liability cover, charter-party terms, and bank financing do not line up. The cited Bloomberg tanker-desk quote put Hormuz war-risk cover around 5% of vessel value since March 17, so a $100M VLCC faced roughly $5M of insurance cost for the transit alone.
+
+That makes Hormuz a paper chokepoint as well as a geographic chokepoint. Tehran's "Hormuz Safe" safe-passage product attempts to monetize clearance; the International Group of P&I Clubs' sanctions warning makes that paper legally toxic for many operators; and Gulf sellers such as ADNOC are already pricing war-risk surcharges into cargo terms. The statecraft consequence is that reopening is no longer a binary military event. It is a negotiated normalization of insurance law, sanctions exposure, tanker risk, and sovereign pricing power.
+
+*Source: [Felipe Germini / ENERGY Pipeline, "The Insurance Geometry That Replaced the Strait"](https://fgermini.substack.com/p/the-insurance-geometry-that-replaced), May 27 2026. Public section only; paid trade map not ingested.*
 
 ---
 

@@ -53,6 +53,14 @@ IEA projections (by 2040):
 - **Issues**: Child labor, conflict, concentration
 - **Trend**: Cobalt-free battery R&D
 
+#### Eastern DRC: tantalum and rebel control
+
+The DRC minerals problem is not confined to state-controlled cobalt and copper in the southeast. Rubaya in eastern DRC produces around 15% of the world's coltan, processed into tantalum for electronics, aerospace components, computers, phones, and gas turbines. Reuters reported in March 2026 that the site has been under AFC/M23 control since 2024.
+
+That creates a recognition trap for Western critical-minerals policy. A minerals-for-security deal with Kinshasa can address cobalt and copper, but it cannot automatically secure rebel-held tantalum. Routing around Kinshasa would undermine the Congolese state; ignoring eastern deposits leaves a strategic mineral node in conflict control.
+
+The broader implication is that "critical mineral security" sometimes requires conflict settlement, banking access decisions, sanctions policy, and territorial authority - not only mine finance and refinery buildout.
+
 ### Rare Earth Elements (REEs)
 **17 elements, not actually rare**
 - Magnets, catalysts, electronics
@@ -115,6 +123,7 @@ This is where real control lies:
 - 2010: Rare earth embargo to Japan
 - **April 2025**: China imposed export controls on terbium, dysprosium, and five other REEs; dysprosium prices rose 180% within 60 days (per CSIS)
 - **January 2026**: Dual-use export ban to Japan over Taiwan remarks
+- **May 2026**: Reuters-linked customs checks showed China had effectively blocked shipments of several heavy rare earths and gallium to Japan for about four months, including dysprosium, terbium, yttrium, and gallium. This made the 2010 Japan rare-earth pressure template current again rather than merely historical. Source mirror: https://energynews.oedigital.com/mineral-resources/2026/05/22/china-presses-japan-on-rare-earths-a-repeat-of-the-2010-showdown
 - Processing chokepoint (91% of global capacity)
 - Leverage over energy transition and defense supply chains
 

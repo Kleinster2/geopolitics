@@ -55,6 +55,16 @@ Pape draws on two cases to illustrate horizontal escalation:
 ### Policy Prescription
 Pape frames the US as facing a "strategic fork": double down (permanent aerial containment, risking a repeat of the Iraq trajectory from no-fly zones to 2003 ground invasion) or stand down (declare objectives met, accept short-term political cost, avoid compounding losses). He argues the latter is wiser: "accept a limited loss now rather than risk compounding losses later."
 
+### Oil-price normalization as the Iran deal test (May 2026)
+
+Pape's May 27 Escalation Trap post was paid beyond the public preview, but the preview gives a clean late-war diagnostic: if oil remains above $90 after [[Strait of Hormuz]] is nominally reopened, the strategic result is no longer just the physical ability to move ships. It is the market's belief that Gulf passage has become structurally dangerous.
+
+That matters for the statecraft file because it shifts the center of negotiation from uranium alone to the operating regime of the strait. A US-preferred deal that removes mines, prohibits tolls, and restores unrestricted passage is a different settlement from an Iran-preferred arrangement where Tehran regulates traffic and levies fees. The first tries to restore the pre-war commons; the second converts Hormuz into a permissioned chokepoint under Iranian leverage.
+
+Reuters' May 29 oil tape showed the test in real time: Brent was down sharply on ceasefire-extension hopes but still around $91 while traffic remained only a small fraction of pre-war levels. Pape's useful contribution is the distinction between reopening and normalization.
+
+*Sources: [Escalation Trap, "The Price of Oil Is the Real Iran Deal"](https://escalationtrap.substack.com/p/the-price-of-oil-is-the-real-iran), May 27 2026 (paid; public preview only); [Reuters via MarketScreener](https://ca.marketscreener.com/news/oil-steadies-as-market-awaits-possible-us-iran-ceasefire-deal-ce7f5ddbd988ff24), May 29 2026; [AP](https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096), May 29 2026.*
+
 ## Assessment
 
 Pape's work on airpower effectiveness is foundational — *Bombing to Win* is one of the most cited books in the field. His suicide terrorism research is more contested methodologically but influential. His current escalation trap framework synthesizes his career-long skepticism of airpower-centric strategies into a real-time analytical lens on the Iran war.

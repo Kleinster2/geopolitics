@@ -81,6 +81,14 @@ The uninterrupted availability of energy sources at an affordable price. Encompa
 - LNG alternatives
 - Price shocks
 
+### Europe-US LNG dependency (2026)
+
+The post-2022 European gas adjustment reduced Russian pipeline leverage but did not automatically create autonomy. [[Giacomo Prandelli]]'s May 27, 2026 public [[The Merchant's News]] post frames the shift as a new dependency channel: Russian pipeline gas to the EU fell from 165 bcm in 2019 to roughly 20 bcm in 2025, while US LNG into Europe rose from 5 bcm to 81 bcm. IEEFA's January 2026 analysis independently warned that, if contracted supply materializes and demand cuts disappoint, the US could supply 75-80% of EU LNG imports by 2030.
+
+The geopolitical point is supplier concentration. Russian pipeline gas was coercive because the seller had political leverage over fixed infrastructure; US LNG is more flexible, but a high US share still leaves Europe exposed to US domestic politics, contract terms, export-permitting policy, and Atlantic spot-market competition. The durable energy-security answer is not simply replacing Moscow with Washington; it is reducing import volumes through electrification, renewables, grid capacity, storage, and demand-side efficiency.
+
+*Sources: The Merchant's News, "Europe's Gas Crisis Just Repriced 8 Of My 12 Positions," May 27 2026; IEEFA, "EU risks new energy dependence as US could supply 80% of its LNG imports by 2030," January 19 2026.*
+
 ### Middle East Oil
 - Strait of Hormuz (20% global oil)
 - Gulf producers

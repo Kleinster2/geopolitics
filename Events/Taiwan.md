@@ -106,6 +106,14 @@ Per Sciutto's *The Return of Great Powers* (2024): China does not need to execut
 - Air/sea blockade
 - US intervention → great power war
 
+#### PLA war categories and the US-intervention problem
+
+[[Howard Wang]]'s May 2026 discussion of PLA source texts is useful for placing Taiwan inside China's broader war taxonomy. The 2013 Academy of Military Science *Science of Military Strategy* described four broad conflict types: a large-scale defensive war against a powerful enemy, a relatively large anti-separatist war against Taiwan independence potentially with US intervention, a smaller self-defense/counterattack operation around disputes such as the South China Sea or India border, and small-scale counterterrorism.
+
+Recent PLA writing increasingly merges the Taiwan and US-war categories. The reason is obvious: a forced-unification campaign is the most plausible path to direct US-China war. But PLA analysts also frame the United States as using "puppet warfare" - emboldening Taiwan or the Philippines to fight costly wars against China while Washington holds direct intervention in reserve.
+
+This is not just rhetoric. It affects escalation assumptions. If Beijing expects the US to supplement Taiwan's war system with civilian and allied systems - sanctions, Starlink-like communications, intelligence disclosure, cyber effects, messaging, and defense-industrial support - then the conflict is no longer imagined as a cross-strait military campaign alone. It becomes a systems confrontation.
+
 ## January 2026 Developments
 
 ### Justice Mission 2025 (Dec 29-30, 2025)
@@ -163,6 +171,14 @@ First confirmed PLA violation of Taiwan-controlled airspace:
 - Taiwan President Lai Ching-te (Feb 5): relations with US are "rock-solid"
 - Russia reaffirmed support for China on Taiwan (Feb 2)
 
+### May 2026: Arms-Sale Delay Signal
+
+AP reported on May 22 that Taiwan had not received formal notice of a pause in a planned $14B US arms sale, but acting US Navy Secretary Hung Cao told senators that some foreign military sales were being delayed so US munitions could support the Iran operation, with sales to resume when the administration judged it appropriate. The same report noted Trump's Fox News line that Taiwan arms sales were "a very good negotiating chip" with China.
+
+The Taiwan-risk read is subtle but important: even without a formal policy reversal, the arms-sale cadence can become entangled with US-China bargaining and other theaters' munition demands. That weakens the perception that Taiwan packages are insulated from transactional diplomacy.
+
+Source: AP, May 22 2026: https://apnews.com/article/taiwan-us-arms-china-fa36646d6b370a4cd3da756d2fafb77a.
+
 ### Taiwan Defense Preparations (January-February 2026)
 
 - Taiwan-US Joint Firepower Cooperation Center being established for coordinated defense
@@ -213,6 +229,7 @@ Friedman distinguishes this from Hong Kong: "Taiwan is an important threat to Ch
 - China perfecting "short-and-sharp" isolation tactics
 - Gray-zone pressure eroding war/peace distinction—contiguous zone incursions and airspace violations are graduated escalation ("boiling the frog")
 - Economic headwinds limit China's risk appetite
+- PLA total-war thinking adds a protraction branch: quick decisive victory remains preferred, but China is building food, energy, industrial, space, and mobilization resilience in case a wider US conflict becomes prolonged
 - "Fourth Taiwan Strait Crisis" framing gaining traction (Aug 2022 to present as continuous crisis)
 - New variable (March 2026): Possible US-China grand bargain could fundamentally alter Taiwan's strategic position—from flashpoint to settlement
 - New variable (April 2026): Hormuz demonstration provides operational template for Chinese quasi-blockade — the insurance/shipping mechanism is now proven

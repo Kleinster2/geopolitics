@@ -55,6 +55,11 @@ Traditional non-alignment evolved into multi-vector engagement:
 - China rivalry intensifying
 - Global South leadership aspirations
 
+### AI Sovereignty
+AI capability is now another test of strategic autonomy. Rohit Lamba and [[Raghuram Rajan]] argue that [[Google]]'s $15B Visakhapatnam AI hub strengthens India's data-center infrastructure but does not by itself make India a producer of intelligence. The strategic vulnerability is that military systems, decision support, and public-sector AI can become dependent on foreign model weights even when the servers are located in India.
+
+The geopolitical version of the investment question is whether India can convert compute access into domestic research labs, datasets, models, and procurement terms that transfer capability. Otherwise, AI infrastructure becomes a new form of dependence layered onto the existing US/Russia/China vulnerabilities.
+
 ### Regional Dominance
 - Dominant South Asian power
 - Indian Ocean primacy ambitions

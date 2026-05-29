@@ -107,6 +107,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Supply Chains]]
 - [[Critical Minerals]]
 - [[Semiconductors]]
+- [[Pax Silica]] - US-led trusted-supply-chain framework for semiconductors, AI infrastructure, critical minerals, advanced manufacturing, and logistics
 - [[Energy Security]]
 - [[Food Security]]
 - [[Water Security]]
@@ -127,6 +128,7 @@ Theories, frameworks, and key terms in geopolitics.
 ## Political Concepts
 - [[Nationalism]]
 - [[Democracy and Authoritarianism]]
+- [[Hukou]] - China's household-registration system; domestic-governance constraint on migration, public services, and social mobility
 - [[Insurrection Act]] - US law for domestic military deployment
 - [[War Powers Resolution]] - Congressional check on presidential war authority (1973)
 - [[Lisbon Treaty]] - EU constitutional basis, competence division (2009)

@@ -87,6 +87,26 @@ Key metrics from the 2026 demonstration:
 - The US requested warships from 5+ countries — could not solve it alone
 - Iran's own oil continued flowing to [[China]] via selective blockade
 
+### Price as proof of leverage (May 2026)
+
+[[Robert Pape]]'s May 27 Escalation Trap preview adds a useful diagnostic to the chokepoint-power concept: the proof of leverage is not only whether ships move, but whether markets believe the route has returned to its old risk state. His public test was oil remaining above $90 even after Hormuz is nominally reopened.
+
+The May 29 deal watch made the distinction concrete. AP reporting described a US-preferred settlement in which Hormuz would reopen without restrictions, mines would be removed, tolls would be barred, and US pressure on Iranian ports and oil sales would be gradually relaxed. Reuters' Iran-side reporting pointed to reopening under Tehran's own arrangements, with regulation and fees still in view. Those are different geopolitical states. The first restores a commons; the second monetizes and politicizes the chokepoint.
+
+[[Preston Stewart]]'s May 26 mine-laying transcript supplies the tactical version of the same point. If Iranian boats can attempt to emplace new mines during a ceasefire/reopening track, the chokepoint power is not exhausted when one batch of mines is swept. The low-cost ability to re-contaminate the route is itself leverage, because insurers and shipowners care about the probability of renewed closure, not only the current channel status.
+
+This is why chokepoint power can survive "reopening." Once a passage has become permissioned, insurable only at a premium, or vulnerable to renewed closure at low cost, the dominant power has not fully restored control even if transit resumes.
+
+*Sources: Escalation Trap, May 27 2026 public preview; Reuters and AP, May 29 2026; [[Preston Stewart]], ["Iran Just Tried Mining The Strait of Hormuz"](https://prestonstew.substack.com/p/iran-just-tried-mining-the-strait), May 26 2026.*
+
+### Bounded-price correction
+
+[[Robin J. Brooks]]'s May 27 South Korea import-data post adds an important limiter. Chokepoint power does not automatically imply an unlimited commodity price. South Korea's April 2026 HS code 27 imports fell only 8% year over year despite Saudi-origin volumes falling 40%, because buyers rerouted into Canada, Malaysia, and other suppliers. Korea paid more, but the implied average price across the import basket rose just under 20%, not enough to validate a $200 Brent demand-destruction scenario.
+
+The lesson is that chokepoint power works through friction, time, and distributional pain, not through a single mechanical price target. It can still create permanent risk premium and insurance/legal changes even when the global system finds enough alternative supply to prevent a headline price blowout.
+
+*Source: Robin J. Brooks, "Why did the Brent oil price not go to $200?", May 27 2026.*
+
 ## Taiwan Strait — the next application
 
 [[Eyck Freymann]] (Hoover/Stanford, April 2026) argues that the Hormuz playbook is directly replicable by [[China]] against [[Taiwan]] — and that China is a vastly more capable actor than Iran.

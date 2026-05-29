@@ -104,6 +104,16 @@ Coordinated efforts to affect:
 - "Wolf warrior" diplomacy
 - COVID-19 origins
 
+### May 2026: Pauken / Xinhua Case
+
+US prosecutors charged American journalist Thomas Pauken II with acting as an unregistered agent of China, according to NPR/WUNC and Anadolu reports on May 27 2026. Pauken had previously worked around Chinese state-media outlets such as CGTN and [[Xinhua]], but the criminal allegation is narrower and more serious: prosecutors allege he worked for China without registering and dealt with a handler the FBI believed was tied to the [[Ministry of State Security]]. Treat this as an allegation and case study, not a conviction.
+
+The significance for information warfare is the blended channel: state media, foreign commentary, and alleged covert direction are not necessarily separate lanes. Beijing's influence architecture can use nominally independent foreign voices to launder state narratives into a more credible package for foreign audiences, while still keeping enough ambiguity that each component can be defended as journalism, commentary, consulting, or ordinary political access.
+
+Bill Bishop's May 26 Sinocism public preview flagged the case as an "American Xinhua journalist" arrest, but the vault should keep the legal formulation tighter than the headline. The durable fact is the charge and the prosecutors' allegation of foreign-government direction; the guilt question remains unresolved.
+
+Sources: NPR/WUNC, May 27 2026; Anadolu, May 27 2026; Bill Bishop / Sinocism public preview, May 26 2026.
+
 ### Differences from Russia
 | Russia | China |
 |--------|-------|

@@ -31,6 +31,12 @@ The concept serves as rhetorical scaffolding for concrete Chinese initiatives:
 | Global Security Initiative (GSI) | 2022 | Security governance alternative |
 | Global Civilization Initiative (GCI) | 2023 | Cultural pluralism, anti-universalism |
 
+## US-China bridge: constructive strategic stability
+
+[[Constructive strategic stability]] is not the same concept as a Community with a Shared Future, but the May 2026 Gao Fei / People's Daily article ties them together. The immediate formula is bilateral: China and the United States should manage competition boundaries, keep cooperation channels open, and avoid a new Cold War. The long-run destination is more ambitious: a new type of major-country relationship that contributes to a more "just and rational" global-governance system and points toward the shared-future formula.
+
+That matters because it shows how Beijing nests tactical de-escalation inside its broader order language. A US-China stability formula is not simply crisis management; in Chinese diplomatic theory it becomes evidence that great powers can coexist under principles closer to mutual respect, non-interference, and win-win cooperation than to US-led alliance hierarchy.
+
 ## Analytical Tensions
 
 **Genuine philosophy vs. diplomatic branding**: The concept is vague enough to justify whatever China wants while offering an alternative legitimating narrative. This is arguably by design — flexibility is the point.
@@ -50,6 +56,7 @@ The concept serves as rhetorical scaffolding for concrete Chinese initiatives:
 ## Related Concepts
 
 - [[Comprehensive Strategic Partnership]]
+- [[Constructive strategic stability]]
 - [[International Order]]
 - [[Multipolarity]]
 - [[Soft Power]]

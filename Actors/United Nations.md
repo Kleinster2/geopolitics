@@ -99,9 +99,23 @@ The world's primary international organization, founded to maintain peace, devel
 - General Assembly empowerment
 - Efficiency improvements
 
+## May 2026: China presidency and UN-centered-order debate
+
+China used its May 2026 Security Council presidency to stage a high-level meeting on upholding the UN Charter and strengthening the UN-centered international system. The PRC Ministry of Foreign Affairs says [[Wang Yi]] chaired the May 26 meeting and that representatives from over 100 countries attended, including more than 20 foreign ministers or high-level representatives.
+
+The meeting shows why the UN remains politically central even when it is operationally constrained. Beijing is using the UN to contest Western "rules-based order" language from inside the institution: sovereign equality, non-interference, Security Council authorization, developing-country representation, and UN-centered governance of AI, outer space, polar regions, and cyberspace. In that frame, UN legitimacy becomes a tool against unilateral sanctions, military action outside Council mandates, and technology-control coalitions.
+
 ## Related Notes
 - [[International Law]]
 - [[Peacekeeping]]
 - [[Multilateralism]]
 - [[Human Rights]]
 - [[Liberalism]]
+- [[Chinese Foreign Policy]]
+- [[International Order]]
+- [[Wang Yi]]
+
+## Sources
+
+- PRC Ministry of Foreign Affairs, "Wang Yi Chairs United Nations Security Council High-Level Meeting," May 27 2026.
+- PRC Ministry of Foreign Affairs, "Remarks by H.E. Wang Yi at the United Nations Security Council High-Level Meeting," May 27 2026.
