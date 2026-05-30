@@ -96,6 +96,17 @@ This produces what George Kennan called a strategic culture "in which conception
 - Relations with China
 - Internal stability
 - Military reconstitution
+- Hormuz-driven oil windfall and shadow-fleet enforcement gaps
+
+### Hormuz oil windfall (May 2026)
+
+[[Robin J. Brooks]]' May 29 public post adds a fiscal-geopolitical channel to the Iran war: the [[Strait of Hormuz]] shock is helping finance Russia. Brooks argues the war lifted [[Urals crude]] through both the global oil deficit and the compression of the Urals discount after US sanctions waivers reduced the stigma around buying Russian barrels. He reports Russian oil-tax collection at about $10B in April, up from $4B in March and the highest level in two years.
+
+The geopolitical claim is that this is also an EU governance failure. Brooks points to the Russian shadow fleet, especially Baltic exports, and argues that Greece, Cyprus and Malta have limited tougher EU action because of domestic shipping interests. If shadow-fleet sanctions remain performative, the Iran-war oil shock becomes a revenue bridge for Moscow even without any strategic success by Russia itself.
+
+This should be read as a windfall, not a structural solution. It improves near-term fiscal capacity for the war in Ukraine, but it does not solve Russia's sanctions, technology, capital-stock and long-run production problems.
+
+*Source: [Robin J. Brooks, "Russia's Massive Oil Price Windfall"](https://robinjbrooks.substack.com/p/russias-massive-oil-price-windfall), May 29 2026.*
 
 ## Drone and AI Ecosystem (Bondar thesis, April 2026)
 

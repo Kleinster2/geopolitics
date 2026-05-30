@@ -408,6 +408,18 @@ That makes Hormuz a paper chokepoint as well as a geographic chokepoint. Tehran'
 
 *Source: [Felipe Germini / ENERGY Pipeline, "The Insurance Geometry That Replaced the Strait"](https://fgermini.substack.com/p/the-insurance-geometry-that-replaced), May 27 2026. Public section only; paid trade map not ingested.*
 
+### May 29 - reopening trap and post-closure learning
+
+The May 29 energy-commentary cluster moves the strategic question from "can the strait reopen?" to "what political and commercial behavior survives reopening?"
+
+[[Felipe Germini]]'s public May 29 ENERGY Pipeline sections make the freight-market version of the point. USGC-Brazil clean-products freight collapsed from the crisis peak and returned near pre-war Worldscale levels before the strait had actually normalized. That is a market bet on reopening, not evidence that neutral passage has returned. His later "Reopening Trap" public section frames the residue as Iranian management claims, a seven-figure passage-fee concept, Atlantic Basin replacement barrels, and buyers that may keep diversified supply routes after the headline crisis fades.
+
+[[Carolyn Kissane]]'s May 29 public post adds the statecraft consequence: countries spent three months learning to operate with less Gulf oil. Stockpile use, refinery adjustments, fuel substitution, workweek/cooling restrictions, rationing, subsidies and tax relief were emergency measures, but some may become doctrine. If the world learned that Hormuz disruption is recurring rather than exceptional, then the strait's strategic value changes even after vessels return.
+
+Geopolitical read-through: a reopened Hormuz can still represent an Iranian strategic gain if the post-war settlement leaves Tehran with more management authority, more fee leverage, or more recognized ability to turn traffic confidence on and off than it had before Feb 28.
+
+*Sources: [Felipe Germini / ENERGY Pipeline, "The Freight Market Already Priced the Deal. The Strait Has Not Been Told."](https://fgermini.substack.com/p/the-freight-market-already-priced), May 29 2026 (paid after public section); [Felipe Germini / ENERGY Pipeline, "The Reopening Trap"](https://fgermini.substack.com/p/the-reopening-trap), May 29 2026 (paid after public section); [Carolyn Kissane / Energy Common Sense, "Never Comin' Back"](https://carolynkissane157206.substack.com/p/never-comin-back), May 29 2026.*
+
 ---
 
 ## Historical precedents

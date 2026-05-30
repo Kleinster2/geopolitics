@@ -107,6 +107,16 @@ The lesson is that chokepoint power works through friction, time, and distributi
 
 *Source: Robin J. Brooks, "Why did the Brent oil price not go to $200?", May 27 2026.*
 
+### Post-closure adaptation
+
+The May 29 Theme 2 update adds a second limiter and a second proof of chokepoint power at the same time. [[Carolyn Kissane]]'s public "Never Comin' Back" post argues that Asia and other import-dependent states learned to operate with less Gulf oil through stockpile use, refinery changes, fuel substitution, conservation, subsidies and rationing. That adaptation is why the price path can be bounded: the target states change behavior before the price reaches the most extreme scenarios.
+
+But adaptation is also evidence that the chokepoint worked. If more than a temporary price spike follows - new reserve doctrine, route diversification, freight premia, insurance premia, workweek rules, cooling restrictions, and industrial rationing - the coercive effect has escaped the channel. The chokepoint changes how states plan, not only how tankers sail.
+
+The strategic lesson for other chokepoints is that "failed to produce unlimited price escalation" is not the same as "failed to coerce." Chokepoint power can be successful when it forces redundancy spending, supply-chain redesign, and durable risk premia.
+
+*Source: Carolyn Kissane / Energy Common Sense, ["Never Comin' Back"](https://carolynkissane157206.substack.com/p/never-comin-back), May 29 2026.*
+
 ## Taiwan Strait — the next application
 
 [[Eyck Freymann]] (Hoover/Stanford, April 2026) argues that the Hormuz playbook is directly replicable by [[China]] against [[Taiwan]] — and that China is a vastly more capable actor than Iran.

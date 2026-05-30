@@ -166,6 +166,14 @@ Blue Origin's May 2026 sequence is a useful test of the US commercial-space mode
 
 Geopolitically, this matters because the US strategy increasingly treats private launch capacity as national infrastructure. SpaceX already carries that burden through Starlink, Starship, NASA, and military launch; Blue Origin is supposed to become the second heavy-lift pole for Blue Moon, Orbital Reef, Project Sunrise, and third-party capacity. A commercial-space order with only one reliable heavy-lift provider is less resilient than the US policy narrative implies.
 
+### May 2026 - allied launch redundancy
+
+The May 2026 launch-capacity cluster adds a second layer to the US commercial-space model: allied redundancy. The issue is no longer only whether the United States has enough private launch capacity; it is whether US-aligned states can preserve assured access to orbit if launch ranges, export-control exposure, tariffs, security rules, or provider concentration become chokepoints.
+
+Two examples make the pattern concrete. Spain's PLD Space raised a large 2026 financing package around MIURA 5 and European autonomous access to orbit. Germany's Isar Aerospace signed a letter of intent with Maritime Launch Services to use Spaceport Nova Scotia for mid- to high-inclination and polar launches from Canadian soil. Neither is a proven cadence story yet, but both are industrial-policy signals: allied states and operators want launch options outside a narrow US range/provider dependency.
+
+The strategic implication is that spaceports are becoming alliance infrastructure. A rocket company, a launch site, and a customer constellation now form a sovereign-access chain. That chain matters for Earth observation, military communications, navigation resilience, and rapid replacement if conflict or sanctions disrupt normal launch procurement.
+
 ### See also (investing-vault detail)
 
 - [Investing: NASA](obsidian://open?vault=investing&file=Actors%2FNASA) — full Isaacman restructuring sweep
@@ -175,6 +183,8 @@ Geopolitically, this matters because the US strategy increasingly treats private
 - [Investing: Space data centers](obsidian://open?vault=investing&file=Concepts%2FSpace%20data%20centers) — orbital DC platform-war framing
 - [Investing: Space Capital](obsidian://open?vault=investing&file=Actors%2FSpace%20Capital) — Q1 2026 framing source
 - [Investing: Rocket Lab](obsidian://open?vault=investing&file=Actors%2FRocket%20Lab) — May 2026 GEO SDA commercial-prime award
+- [Investing: PLD Space](obsidian://open?vault=investing&file=Actors%2FPLD%20Space) — European launch-capacity hedge
+- [Investing: Spaceport Nova Scotia](obsidian://open?vault=investing&file=Infrastructure%2FSpaceport%20Nova%20Scotia) — allied non-traditional launch infrastructure
 
 ## Military Space Operations
 
