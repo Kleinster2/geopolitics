@@ -104,6 +104,16 @@ The content matters because it turns familiar Chinese foreign-policy vocabulary 
 
 This is not anti-institutional revisionism. It is institutional revisionism from inside the existing system: Beijing wants the UN, not a US-led "rules-based order," to define legitimacy, while using that UN language to constrain sanctions, technology controls, military action, and Western coalition behavior.
 
+#### May 2026: Group of Friends of Global Governance
+
+The May 28-29 People's Daily / Xinhua sequence adds a more operational layer. [[Wang Yi]] attended a Group of Friends of Global Governance meeting at UN headquarters with representatives from more than 60 countries, while Manoj Kewalramani's Tracking People's Daily digest framed the event as part of China's wider Global Governance Initiative.
+
+Wang's nine reform directions are a concise map of Beijing's order agenda: UN reform and efficiency, stronger Security Council authority, peacekeeping modernization, accelerated development consensus, reorientation of human-rights governance, economic and financial-system reform, AI governance rules, governance of cyberspace and outer space, and civilizational exchange. The joint communique's core concepts - sovereign equality, international rule of law, multilateralism, people-centered governance, and action orientation - are familiar Chinese diplomatic language, but the member count gives the campaign institutional weight.
+
+The strategic read is that Beijing is building a diplomatic caucus for rule-writing domains where the US and allies prefer smaller coalitions or technical standard bodies: AI, cyber, space, human rights, sanctions, and development finance. That makes "global governance" less abstract. It is a contest over which forum defines legitimacy before technical rules harden.
+
+*Sources: Tracking People's Daily, "China Outlines Nine Priorities of Global Governance Reform - New Plan for Urban Renewal," May 29 2026; People's Daily / Xinhua, "'Group of Friends of Global Governance' meeting joint communique," May 29 2026.*
+
 ### United States
 - Strategic competition
 - Managed tensions, avoid war
@@ -168,4 +178,6 @@ Xi has centralized and personalized foreign policy:
 - Xi Jinping speeches on diplomacy
 - PRC Ministry of Foreign Affairs, "Wang Yi Chairs United Nations Security Council High-Level Meeting," May 27 2026.
 - PRC Ministry of Foreign Affairs, "Remarks by H.E. Wang Yi at the United Nations Security Council High-Level Meeting," May 27 2026.
+- Tracking People's Daily, "China Outlines Nine Priorities of Global Governance Reform - New Plan for Urban Renewal," May 29 2026.
+- People's Daily / Xinhua, "'Group of Friends of Global Governance' meeting joint communique," May 29 2026.
 - Academic analysis of Chinese foreign policy

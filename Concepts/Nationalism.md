@@ -87,6 +87,14 @@ Political ideology centering on loyalty to one's nation, often defined by shared
 - Immigration restriction
 - Alliance skepticism
 
+#### Liberal nationalism counter-frame
+
+[[Noah Smith]]'s May 29 2026 Noahpinion essay is useful because it distinguishes civic, integrationist nationalism from the blood-and-soil version now dominant in parts of the online right. His "liberal nationalism" frame argues that the United States' 20th-century strength came from combining national loyalty with liberal inclusion: immigrants could become fully American, public investment could be justified as national greatness, and state power could mobilize for growth without reducing the nation to ancestry.
+
+The geopolitical relevance is that nationalism is not automatically anti-growth or anti-immigrant. A civic-national frame can support industrial policy, defense mobilization, infrastructure, and talent attraction. An ethnic or exclusionary frame turns those same tools into restriction, resentment, and foreign-policy volatility. That difference matters for US state capacity: the country can build more easily when people believe the construction project belongs to a common national future rather than to a factional spoils system.
+
+*Source: Noah Smith, "America needs liberal nationalism back," Noahpinion, May 29 2026.*
+
 ### India
 - Hindu nationalism (Hindutva)
 - BJP platform

@@ -46,6 +46,12 @@ The source names practical channels from the May 2026 summit:
 
 The stabilizing claim is broad, but the test is narrow: whether these channels keep working when Taiwan, sanctions, export controls, Iran-war aftershocks, or domestic politics force either side to reprice the relationship.
 
+## New York follow-through
+
+The May 27-29 New York sequence shows Beijing trying to connect bilateral stabilization with its broader order campaign. In the official Foreign Ministry readout, [[Wang Yi]] told US strategic and business representatives that reviving the UN requires Security Council coordination, and that Security Council coordination depends heavily on the direction of China-US relations. The same trip also included the Group of Friends of Global Governance meeting, where Wang outlined nine reform directions ranging from Security Council authority and peacekeeping to AI, cyber, outer space, human rights and economic-financial governance.
+
+This matters because constructive strategic stability is not only a bilateral guardrail formula. Beijing is using it as the great-power-management layer beneath a wider global-governance project. The US-China relationship is framed as the stabilizing hinge; the desired output is a UN-centered order less tolerant of unilateral sanctions, selective human-rights pressure, and US-led coalition rule-setting.
+
 ## Relation to older Chinese frameworks
 
 Constructive strategic stability revives part of the older "new type of major-country relationship" language that Xi Jinping proposed to Barack Obama at Sunnylands in 2013. The US side resisted that phrase because it was read as asking Washington to recognize a Chinese sphere of influence or equal major-power status on Beijing's terms.
@@ -78,3 +84,5 @@ In the 2026 version, the older destination reappears through a more modest pathw
 - Manoj Kewalramani / Tracking People's Daily, "Gao Fei on Building a China-US Relationship of Constructive Strategic Stability," May 27 2026.
 - Xinhua / People's Daily Online, "New vision charts course for China, U.S. to get along," May 15 2026.
 - Xinhua / People's Daily Online, "China ready to work with U.S. to promote constructive relationship of strategic stability," May 29 2026.
+- PRC Ministry of Foreign Affairs, "Wang Yi Has Discussions with Representatives from Various Sectors in the United States," May 28 2026.
+- Tracking People's Daily, "China Outlines Nine Priorities of Global Governance Reform - New Plan for Urban Renewal," May 29 2026.
