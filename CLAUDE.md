@@ -399,4 +399,4 @@ Major ongoing situations:
 - [[Ukraine Crisis]] - France/UK troop deployment
 - [[Iran Protests 2025-2026]] - Preceded and enabled the war
 - [[Taiwan]] - Largest-ever Chinese military exercises
-- [[China Nuclear Program]] - Rapid expansion toward parity
+- [[China Nuclear Program]] - Rapid expansion toward parity; May 29 Reuters satellite-imagery report shows launch pads near Xinjiang/Hami silo fields, likely air-defense systems for fixed ICBM survivability.

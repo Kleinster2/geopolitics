@@ -45,6 +45,14 @@ If accurate, China approaches parity with US/Russia deployed strategic warheads 
 - **Silo fields**: ~350 new silos across six fields (three desert in north, three mountainous in east); completion expected before 2028
 - China now has more ICBM silos than US has active Minuteman III silos
 
+### May 2026: air-defense launch pads near silo fields
+
+Reuters reported on May 29, 2026 that commercial satellite imagery shows China building launch pads near nuclear missile silo fields, likely for air-defense systems. Reuters identified 12 newly built large pads around two Xinjiang ICBM bases - eight at a southeast Xinjiang base and four at a newly expanded west Xinjiang base - plus six smaller pads about 2.5 km north of four silos near Hami.
+
+The significance is survivability rather than raw arsenal count. Silo construction created a fixed target set; air-defense pads around the fields suggest Beijing is now protecting the second-strike infrastructure it built. Analysts read this as consistent with a more robust deterrent, not necessarily a change in US assessment of the immediate Chinese nuclear threat.
+
+*Source: [Reuters via Investing.com, May 29 2026](https://www.investing.com/news/world-news/exclusivechina-is-building-launch-pads-near-its-nuclear-missile-silos-4715921).*
+
 ### SLBMs
 - **JL-2**: Current, ~7,000 km range
 - **JL-3**: In development, longer range

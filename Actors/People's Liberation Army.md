@@ -33,6 +33,12 @@ Wang reads the 2024-2026 PLA purges primarily as real corruption enforcement rat
 
 Short term, the purges likely damage expertise and readiness. Long term, a less corrupt PLA is more capable. The unresolved question is whether Xi's repeated campaign tools changed the incentive structure or merely intensified punishment after the same system reproduced corruption.
 
+## Rocket Force silo-field defense (May 2026)
+
+Reuters' May 2026 launch-pad imagery points to the PLA protecting the fixed side of the nuclear force. If the pads are for air-defense systems, the Rocket Force problem is no longer only missile count or silo reliability; it is integrated defense of the silo fields against conventional precision strike.
+
+*Source: [Reuters via Investing.com, May 29 2026](https://www.investing.com/news/world-news/exclusivechina-is-building-launch-pads-near-its-nuclear-missile-silos-4715921).*
+
 ## Related
 - [[China]]
 - [[Taiwan]]
@@ -44,4 +50,3 @@ Short term, the purges likely damage expertise and readiness. Long term, a less 
 ## Sources
 - Manoj Kewalramani / Tracking People's Daily, "The PLA's Theory of Total War," May 27 2026.
 - Howard Wang, "China Plans for 'Total War': Developing the Capacity to Defeat the 'Strong Enemy' of the United States," RAND / Journal of Contemporary China, 2026.
-

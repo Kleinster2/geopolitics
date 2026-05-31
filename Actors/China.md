@@ -20,6 +20,12 @@ The world's most populous country and second-largest economy, pursuing "national
 - **Nuclear Warheads**: ~600 (rapidly expanding; DoD projects 1,000+ by 2030)
 - **Leader**: Xi Jinping (General Secretary since 2012)
 
+## ICBM base air-defense buildout (May 2026)
+
+Reuters' May 29 satellite-imagery report adds a nuclear-survivability layer to China's military picture: 12 new large launch pads near two Xinjiang ICBM bases and six smaller pads near Hami, likely for air-defense systems around silo fields. The move fits a force trying to protect a larger fixed deterrent, not merely build more missiles.
+
+*Source: [Reuters via Investing.com, May 29 2026](https://www.investing.com/news/world-news/exclusivechina-is-building-launch-pads-near-its-nuclear-missile-silos-4715921).*
+
 ## Geopolitical Position
 
 ### Amphibious Geography

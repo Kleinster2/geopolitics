@@ -37,6 +37,12 @@ A strategy to prevent adversary action by threatening unacceptable costs. The go
 - **Second-strike capability**: Ability to retaliate after absorbing first strike
 - **Nuclear triad**: Land, sea, air delivery systems
 
+## Silo-field air defense (China, May 2026)
+
+Reuters' May 2026 satellite-imagery report on Chinese launch pads near ICBM silo fields is a deterrence-by-survivability signal. The point is not to threaten first use; it is to make a counterforce strike less credible by surrounding fixed nuclear infrastructure with active defenses. That supports second-strike credibility while also making crisis interpretation harder for adversaries.
+
+*Source: [Reuters via Investing.com, May 29 2026](https://www.investing.com/news/world-news/exclusivechina-is-building-launch-pads-near-its-nuclear-missile-silos-4715921).*
+
 ## Historical Examples
 - Cold War nuclear standoff
 - NATO deterrence of Soviet invasion

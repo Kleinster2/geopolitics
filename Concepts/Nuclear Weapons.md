@@ -119,6 +119,8 @@ US, Russia, China, India have/building triads.
 - Historically minimal deterrent
 - Changing posture
 
+China's May 2026 silo-field launch-pad buildout adds an active-defense layer to the arsenal-growth story. A country that is only expanding warheads builds more silos; a country worried about assured retaliation starts defending the silos with air-defense infrastructure. This is a survivability move inside the nuclear-weapons system.
+
 ### France/UK
 - Independent deterrents
 - Minimum deterrence
