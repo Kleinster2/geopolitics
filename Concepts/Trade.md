@@ -197,6 +197,10 @@ The issue is not only the bilateral deficit or Chinese EV prices. Europe and Chi
 
 The policy frontier is therefore anti-circumvention and control-surface review: unfinished products routed through third countries, foreign ownership of strategic infrastructure, procurement rules, investment screening, and sector-specific pricing mechanisms.
 
+The overcapacity-instrument threat is the next step in that arc. Dow Jones reported on May 29, 2026 that China could respond to the EU's proposed import-curbing tool with anti-discrimination and supply-chain-security investigations, while Reuters reported a May 30 Commerce Ministry warning of countermeasures against new discriminatory EU trade restrictions. This is trade defense becoming meta-trade defense: the EU is considering a faster instrument against Chinese overcapacity, and Beijing is threatening to investigate the instrument itself.
+
+*Sources: [Dow Jones via MarketScreener, May 29 2026](https://www.marketscreener.com/news/china-threatens-to-launch-trade-probes-against-the-european-union-2nd-update-ce7f5ddbdf89f220); [Reuters via Investing.com, May 30 2026](https://au.investing.com/news/economy-news/china-warns-of-retaliation-if-eu-imposes-new-trade-restrictions-4463409).*
+
 ### Americas
 - USMCA constrains China
 - Nearshoring to Mexico

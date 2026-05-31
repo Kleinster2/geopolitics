@@ -99,6 +99,8 @@ On May 29, 2026, the European Commission said the EU-China trade and investment 
 
 The harder autonomy lesson is negative: Europe can reduce overreliance on Washington without making Beijing the alternative anchor.
 
+The next escalation channel is the overcapacity instrument. On May 29, 2026, Dow Jones reported that Beijing threatened anti-discrimination and supply-chain-security investigations if the EU advances a tool to curb heavily subsidized foreign imports. The Chinese state-media account cited in the report framed the Industrial Accelerator Act, cybersecurity restrictions, and the proposed overcapacity tool as one radical turn in EU China policy. Reuters then reported that China's Commerce Ministry warned of countermeasures if Brussels introduced new discriminatory restrictions. Geopolitically, that means Europe's China strategy is moving from "de-risking" language into reciprocal geoeconomic instrumentation: Brussels tries to harden the single market, Beijing threatens to make the hardening itself the target.
+
 ### Internal Cohesion
 - Rule of law (Hungary, Poland)
 - North-South economic divide
@@ -134,3 +136,9 @@ The harder autonomy lesson is negative: Europe can reduce overreliance on Washin
 - [[France]]
 - [[Russia]]
 - [[United Kingdom]]
+
+## Sources
+
+- [European Commission readout on EU-China relations](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/read_26_1201/READ_26_1201_EN.pdf), May 29 2026
+- [Dow Jones via MarketScreener: China threatens trade probes against the EU](https://www.marketscreener.com/news/china-threatens-to-launch-trade-probes-against-the-european-union-2nd-update-ce7f5ddbdf89f220), May 29 2026
+- [Reuters via Investing.com: China warns of retaliation if EU imposes new trade restrictions](https://au.investing.com/news/economy-news/china-warns-of-retaliation-if-eu-imposes-new-trade-restrictions-4463409), May 30 2026
