@@ -42,6 +42,10 @@ South America's second-largest economy plagued by chronic economic crises and po
 - Climate skepticism
 - Regional isolation risk
 
+### AI and technology policy (2026)
+
+Milei government submitted legislation establishing a dedicated legal framework for AI deployment, resting on three pillars: (1) commitment to unregulated development free from premature regulation; (2) creation of a "non-human corporation" legal category for AI-operated entities, granting limited liability where systems exercise independent judgment (explicitly analogized to the 1602 Dutch East India Company); (3) competitive fiscal terms including low corporate tax and choice of governance law, with final beneficiary disclosure required. Framed as positioning Buenos Aires as the legal/fiscal hub for 21st-century AI, comparable to Amsterdam in the age of sail. Builds on 20-position gains in the Heritage Economic Freedom Index (2024–2025) and return to growth trajectory.
+
 ## Economic Crisis
 
 ### Chronic Problems
