@@ -33,6 +33,7 @@ Ongoing geopolitical developments and analysis.
 - [[US-Israel-Saudi Arms Sales (January 2026)]] - $15.7B amid Iran tensions
 
 ## Strategic Competition
+- [[Executive Order 13959]] - US capital-markets ban on "Communist Chinese Military Companies" (2020); delisted the big-3 China telecom ADRs; expanded by Biden's NS-CMIC list (2021)
 - [[US-China Moon Race]] - Artemis vs ILRS, lunar south pole race
 - [[New START Expiration]] - Last US-Russia nuclear treaty **expired** February 5, 2026
 - [[China Nuclear Program]] - Rapid expansion toward 1,500 warheads by 2035

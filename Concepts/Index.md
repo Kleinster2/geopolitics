@@ -87,6 +87,7 @@ Theories, frameworks, and key terms in geopolitics.
 
 ## Economic Statecraft
 - [[Geoeconomics]]
+- [[Data as a Factor of Production]] - China's doctrine + accounting machinery valuing data as a national resource; US strategic indifference (Kuiken)
 - [[Five Powers Clause]] - War-risk insurance exclusion for five major powers; auto-blockade mechanism
 - [[Sanctions]]
 - [[Shadow Fleet]] - Tanker networks evading oil sanctions (Russia, Iran, Venezuela)
@@ -127,6 +128,7 @@ Theories, frameworks, and key terms in geopolitics.
 
 ## Political Concepts
 - [[Nationalism]]
+- [[Traditionalism]] - Capital-T esoteric anti-modern current; useful for Bannon-Dugin-Olavo and civilizational populist-right analysis
 - [[Democracy and Authoritarianism]]
 - [[Hukou]] - China's household-registration system; domestic-governance constraint on migration, public services, and social mobility
 - [[Insurrection Act]] - US law for domestic military deployment
@@ -141,6 +143,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Digital Colonialism]] - Imperial power through digital infrastructure control
 - [[Techno-Nationalism]] - Technology policy fused with nationalist ideology
 - [[Surveillance Capitalism]] - Economic logic of behavioral data extraction
+- [[Recursive self-improvement]] - Frontier-AI takeoff risk as a coordination/arms-control problem; Anthropic's June 2026 "When AI builds itself" pause proposal and its verification gap
 
 ## Other Key Concepts
 - [[Technology Competition]]

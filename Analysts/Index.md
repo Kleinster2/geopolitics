@@ -20,6 +20,7 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 ## International
 - [[Alex Vatanka]] - MEI, Iran, Gulf states, US-Iran relations; Gulf complicity calculus
 - [[Ali Vaez]] - Crisis Group Iran Project Director, nuclear diplomacy, sanctions, track-two practitioner
+- [[Benjamin R. Teitelbaum]] - CU Boulder ethnographer; Traditionalism, radical nationalism, Bannon-Dugin-Olavo networks, populist-right ideology
 - [[Bill Bishop]] - Sinocism founder/editor; China-policy source selection, official-media framing, US-China signals
 - [[Brandon Weichert]] - Author "The Shadow War," Iran/space policy, conservative commentator
 - [[Christopher Garman]] - Eurasia Group executive director, political risk, Latin America
@@ -85,6 +86,9 @@ Commentators, correspondents, and specialists who interpret geopolitical events.
 
 ## South Asia
 - [[Sushant Singh]] - Yale (lecturer, South Asian Studies) / *Caravan* (consulting editor) / former Indian Army officer (20 yrs); Pakistan as US-Iran mediator, India's Three Vulnerabilities framework, Modi's domestic weakening
+
+## US-China / Economic Statecraft
+- [[Mike Kuiken]] - Hoover Institution / USCC vice-chair; data as a factor of production, US "strategic indifference" on data valuation
 
 ## Tags
 - #analyst

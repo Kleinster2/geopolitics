@@ -91,6 +91,7 @@ Current: Weaponizing chokepoints:
 - [[Tim Wu]] - Net neutrality and platform power
 
 ## Related Concepts
+- [[Data as a Factor of Production]] - The economic-valuation side: China prices data as a national resource; this note covers governance/control
 - [[Internet Geopolitics]]
 - [[Splinternet]]
 - [[Sovereignty]]

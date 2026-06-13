@@ -157,12 +157,20 @@ States, organizations, and decision-makers in geopolitics.
 ### Policy Advocacy
 - [[Defense Priorities]] - Restraint-oriented think tank
 
+### US Government Advisory
+- [[US-China Economic and Security Review Commission]] - Congressional commission on US-China economic/security relationship; annual report
+
 ## Defense Companies
 ### European
 - [[Rheinmetall]] - Germany (armor, ammunition, air defense)
 - [[Dassault Aviation]] - France (fighter jets)
 - [[MBDA]] - European (missiles)
 - [[Kongsberg]] - Norway (NASAMS, naval)
+
+## Chinese State Enterprises
+- [[China Mobile]] - Largest SOE telecom; delisted from NYSE under [[Executive Order 13959]]
+- [[China Telecom]] - SOE telecom; Tianyi Cloud (#2 China public cloud); delisted 2021
+- [[Xiaomi]] - Consumer electronics/EV; won court challenge to its CCMC designation
 
 ## Key Relationships
 - [[US-Israel Relations]] - Alliance and Iran coordination
@@ -192,6 +200,7 @@ States, organizations, and decision-makers in geopolitics.
 ### Heads of State/Government
 - [[Xi Jinping]] - Chinese President/CCP General Secretary, assertive foreign policy
 - [[Wang Yi]] - Chinese foreign minister and top party foreign-affairs official; UN-centered-order signal
+- [[Han Zheng]] - Chinese vice president; high-level relationship-management channel
 - [[Vladimir Putin]] - Russian President, Ukraine war, Alaska Summit, Board of Peace controversy
 - [[Narendra Modi]] - Indian PM, multi-alignment foreign policy stress-tested by 2026 Iran war
 - [[Asim Munir]] - Pakistani Field Marshal / COAS; central US-Iran mediator under Trump 2.0
@@ -199,6 +208,7 @@ States, organizations, and decision-makers in geopolitics.
 - [[Mohammad bin Salman]] - Saudi Crown Prince, Vision 2030, Abraham Accords prospect
 - [[Benjamin Netanyahu]] - Israeli PM, Gaza war leader
 - [[Keir Starmer]] - UK PM, declined Board of Peace
+- [[Yvette Cooper]] - UK Foreign Secretary; China/India/Hormuz diplomatic channel
 - [[Emmanuel Macron]] - French President, European strategic autonomy advocate
 - [[Recep Tayyip Erdogan]] - Turkish President, NATO-Russia balancer, Board of Peace signatory
 - [[Mark Carney]] - Canadian PM, conditional Board of Peace engagement
