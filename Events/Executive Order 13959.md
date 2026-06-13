@@ -69,6 +69,7 @@ Together they form a two-track capital-markets pressure system: one keyed to sec
 ### Cross-vault
 - [Investing: Executive Order 13959](obsidian://open?vault=investing&file=Concepts%2FExecutive%20Order%2013959) — markets/decoupling lens, the delisted-ADR mechanics
 - [Investing: China Unicom](obsidian://open?vault=investing&file=Actors%2FChina%20Unicom) — the marquee delisted name, with the China-telecom cluster analysis
+- [Investing: Holding Foreign Companies Accountable Act](obsidian://open?vault=investing&file=Concepts%2FHolding%20Foreign%20Companies%20Accountable%20Act) — the audit-transparency track that pairs with this ownership-based one
 
 ## Sources
 
