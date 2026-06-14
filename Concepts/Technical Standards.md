@@ -85,6 +85,7 @@ The mechanism by which EU regulation becomes a global standard: because the EU m
 - [[Milton Mueller]] — internet-governance scholar on multi-stakeholder vs multilateral models
 
 ### Cross-vault
+- [History: Standardization](obsidian://open?vault=history&file=Themes%2FStandardization) — the long-arc precedent: railway gauge wars, the ITU's 1865 founding, the container, and path dependence
 - [Technologies: Open Knowledge Format](obsidian://open?vault=technologies&file=Open%20Knowledge%20Format) — the technical spec for one agentic-AI standard
 - [Technologies: MCP](obsidian://open?vault=technologies&file=MCP) — the agent-to-tool protocol layer
 - [Investing: Data catalog disruption](obsidian://open?vault=investing&file=Concepts%2FData%20catalog%20disruption) — the market read-through of the OKF/OSI standards contest
