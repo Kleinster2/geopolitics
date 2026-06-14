@@ -10,6 +10,7 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[John Mearsheimer]] - Chicago, offensive realism, great power politics, Israel Lobby
 
 ## Geoeconomics & Economic Statecraft
+- [[Susan Strange]] - LSE/Warwick, founder of IPE, structural power (security/production/finance/knowledge)
 - [[Edward Fishman]] - CFR, sanctions architect, *Chokepoints*, economic warfare
 - [[Nicholas Mulder]] - Cornell, *The Economic Weapon*, sanctions history, end of US coercion monopoly
 
@@ -64,6 +65,7 @@ Academics and strategists whose frameworks shape geopolitical discourse.
 - [[Kieron O'Hara]] - Southampton, Four Internets framework, web science
 - [[Shoshana Zuboff]] - Harvard Business, surveillance capitalism
 - [[Michael Kwet]] - U. of Johannesburg/Yale, digital colonialism
+- [[Anu Bradford]] - Columbia Law, the Brussels Effect, *Digital Empires* (US/China/EU regulatory models)
 
 ## Tags
 - #thinker

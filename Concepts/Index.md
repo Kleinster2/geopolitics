@@ -143,6 +143,8 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Digital Colonialism]] - Imperial power through digital infrastructure control
 - [[Techno-Nationalism]] - Technology policy fused with nationalist ideology
 - [[Technical Standards]] - Standard-setting as structural power; US firm-led vs China state-led (Standards 2035) vs EU regulation-led; the agentic-AI protocol frontier (MCP/A2A/OKF/OSI)
+- [[AI Act]] - EU's comprehensive risk-based AI law (in force Aug 2024, phased to 2027); the AI-era Brussels Effect
+- [[American AI Export Program]] - US full-stack AI-stack export promotion (EO 14320, July 2025); the "American models everywhere" proliferation strategy vs export controls
 - [[Surveillance Capitalism]] - Economic logic of behavioral data extraction
 - [[Recursive self-improvement]] - Frontier-AI takeoff risk as a coordination/arms-control problem; Anthropic's June 2026 "When AI builds itself" pause proposal and its verification gap
 
