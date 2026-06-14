@@ -122,6 +122,7 @@ Two competing approaches to internet governance:
 - [[Splinternet]]
 - [[Digital Colonialism]]
 - [[Techno-Nationalism]]
+- [[Technical Standards]]
 - [[Surveillance Capitalism]]
 - [[Cyber Warfare]]
 - [[Semiconductors]]

@@ -86,6 +86,7 @@ Per *International Organization* (Cambridge, 2025), technology alignment is crea
 ## Related Concepts
 - [[Internet Geopolitics]]
 - [[Digital Sovereignty]]
+- [[Technical Standards]]
 - [[Semiconductors]]
 - [[Technology Competition]]
 - [[Geoeconomics]]

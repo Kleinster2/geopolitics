@@ -142,6 +142,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Splinternet]] - Fragmentation of global internet along geopolitical lines
 - [[Digital Colonialism]] - Imperial power through digital infrastructure control
 - [[Techno-Nationalism]] - Technology policy fused with nationalist ideology
+- [[Technical Standards]] - Standard-setting as structural power; US firm-led vs China state-led (Standards 2035) vs EU regulation-led; the agentic-AI protocol frontier (MCP/A2A/OKF/OSI)
 - [[Surveillance Capitalism]] - Economic logic of behavioral data extraction
 - [[Recursive self-improvement]] - Frontier-AI takeoff risk as a coordination/arms-control problem; Anthropic's June 2026 "When AI builds itself" pause proposal and its verification gap
 
