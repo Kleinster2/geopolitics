@@ -97,6 +97,10 @@ But more concentrated than oil ever was.
 - Advanced logic (<14nm)
 - DRAM manufacturing equipment
 
+#### Latest: controlled re-opening (2025-2026)
+
+The 2022 blanket posture has softened into case-by-case licensing. NVIDIA built China-specific parts (A800/H800, then the H20) to stay under the line; the H20 itself was restricted in April 2025, after which the US began issuing H20 export licenses (~August 2025). On December 8, 2025, the Trump administration said it would allow the H200 and comparable chips to ship to approved Chinese customers, with Commerce's Bureau of Industry and Security (BIS) moving to case-by-case review under security conditions — no reduction of US-available capacity, purchaser compliance screening, and US third-party testing. The direction since late 2025 is a controlled re-opening, not a hard ban — a partial retreat from the "small yard, high fence" framing (confirmed; sources: Congress.gov CRS R48642, Sutter, Sept 2025; BIS; SCMP/Reuters).
+
 #### CHIPS Act (2022)
 - $52B subsidies for US manufacturing
 - TSMC Arizona fab

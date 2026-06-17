@@ -53,6 +53,12 @@ Current: Weaponizing chokepoints:
 - App store bans (TikTok)
 - Submarine cable restrictions — FCC barred Chinese equipment (August 2025); visa sanctions on Chilean officials for advancing China-linked cable (February 2026, see [[Chile-China Cable Sanctions]])
 
+## Sovereign AI
+
+A fast-growing strand of digital sovereignty: states seeking their own AI capacity — national models, data, and compute — rather than depending wholly on US or Chinese providers. Two models are emerging. The autarkic, state-built version is the Russia-Belarus joint "sovereign AI" project (June 2025, noted above). The dominant version is commercial: US chipmaker [[Nvidia]] markets a government program it calls "IA Soberana" (Sovereign AI) and reported roughly $30B in sovereign-customer revenue in FY2026, about 14% of group revenue (confirmed). Its Nemotron-class open models are positioned so any government can fine-tune without depending on a closed provider.
+
+This sharpens the Global South bind under Infrastructure Dependency: "sovereign AI" built on a single US vendor's GPUs is a different dependency, not independence. Marcio Aguiar (NVIDIA's enterprise lead for Latin America) frames Brazil and Mexico as the region's two anchor markets, with smaller LatAm states adopting faster but lacking project critical mass, and warns that resource-rich states risk exporting critical minerals and talent rather than climbing into higher-value AI development (Aguiar's characterization, CBN Futuramente, June 2026). Brazil's existing sovereign compute is concentrated in one state actor — the oil company Petrobras, NVIDIA's largest Brazil client — whose seismic supercomputers are the country's de facto national AI compute base (see Cross-vault).
+
 ## Key Tensions
 
 ### Data Localization vs. Free Flow
@@ -103,6 +109,8 @@ Current: Weaponizing chokepoints:
 ### Cross-vault
 - [Investing: Submarine Cables](obsidian://open?vault=investing&file=Concepts%2FSubmarine%20Cables) — cable projects, hyperscaler ownership, investment exposure
 - [Investing: US Chile cable visa sanctions](obsidian://open?vault=investing&file=Events%2FUS%20Chile%20cable%20visa%20sanctions) — market/trade angle
+- [Investing: Brazil AI](obsidian://open?vault=investing&file=Actors%2FBrazil%20AI) — Brazil's AI infrastructure, PBIA/REDATA, Petrobras compute anchor, NVIDIA IA Soberana
+- [Brazil: Technology Sector](obsidian://open?vault=Brazil%20News%20%26%20Analysis&file=Analysis%2FTechnology%20Sector) — domestic AI compute base and the value-chain question
 
 ## Sources
 - "Digital Sovereignty: A Descriptive Analysis" (*Digital Society*, Springer, 2024)
