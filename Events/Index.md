@@ -34,6 +34,7 @@ Ongoing geopolitical developments and analysis.
 
 ## Strategic Competition
 - [[Executive Order 13959]] - US capital-markets ban on "Communist Chinese Military Companies" (2020); delisted the big-3 China telecom ADRs; expanded by Biden's NS-CMIC list (2021)
+- [[Anthropic model export ban (June 2026)]] - First US export controls on a *deployed domestic* AI model (Fable 5 / Mythos 5); cut allies (UK/EU) off from the frontier tier, inverting the deny-adversaries logic
 - [[US-China Moon Race]] - Artemis vs ILRS, lunar south pole race
 - [[New START Expiration]] - Last US-Russia nuclear treaty **expired** February 5, 2026
 - [[China Nuclear Program]] - Rapid expansion toward 1,500 warheads by 2035

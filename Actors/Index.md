@@ -172,6 +172,9 @@ States, organizations, and decision-makers in geopolitics.
 - [[China Telecom]] - SOE telecom; Tianyi Cloud (#2 China public cloud); delisted 2021
 - [[Xiaomi]] - Consumer electronics/EV; won court challenge to its CCMC designation
 
+## Technology & AI Companies
+- [[Anthropic]] - US frontier-AI lab (Claude); top models placed under US export controls June 2026 ([[Anthropic model export ban (June 2026)]])
+
 ## Key Relationships
 - [[US-Israel Relations]] - Alliance and Iran coordination
 - [[Franco-German Relations]] - EU engine under strain

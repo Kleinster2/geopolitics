@@ -25,6 +25,14 @@ The speech was a compact statement of Beijing's order strategy. Wang framed the 
 
 That makes the speech important beyond UN procedure. China is not presenting itself as anti-institutional; it is trying to make existing institutions carry Chinese definitions of legitimacy, especially sovereignty, development, and opposition to Western sanctions practice.
 
+## June 2026 China-UK Strategic Dialogue
+
+On June 2, 2026, Wang held the 11th China-UK Strategic Dialogue in Beijing with UK Foreign Secretary [[Yvette Cooper]]. The PRC readout placed the meeting in the follow-through from [[Keir Starmer]]'s January 2026 China visit, describing exchanges and cooperation as restored and returning to track.
+
+Wang's message combined reassurance and pressure. He called for high-level exchanges, practical cooperation, alignment between China's 15th Five-Year Plan and the UK's modern industrial strategy, and a fair, non-discriminatory UK business environment for Chinese enterprises. He also put the relationship inside China's order vocabulary: both states are permanent UN Security Council members and should uphold the UN Charter, true multilateralism, and global-governance reform.
+
+The diplomatic significance is that Beijing is treating Britain as a useful middle-power test case: not an ally, not an adversary to isolate, but a Western permanent Security Council member whose economic needs and post-Brexit autonomy can be used to normalize selective engagement with China.
+
 ## Related
 
 - [[China]]
@@ -33,6 +41,8 @@ That makes the speech important beyond UN procedure. China is not presenting its
 - [[International Order]]
 - [[Community with a Shared Future]]
 - [[Constructive strategic stability]]
+- [[Yvette Cooper]]
+- [[United Kingdom]]
 
 ## Sources
 
@@ -40,3 +50,5 @@ That makes the speech important beyond UN procedure. China is not presenting its
 - Ministry of Foreign Affairs of the People's Republic of China, "Wang Yi Chairs United Nations Security Council High-Level Meeting," May 27, 2026.
 - Ministry of Foreign Affairs of the People's Republic of China, "Remarks by H.E. Wang Yi at the United Nations Security Council High-Level Meeting," May 27, 2026.
 - Bill Bishop / Sinocism, "Wang Yi at the UN; American Xinhua 'journalist' arrested; Keeping AI talent at home; Recalculating carbon intensity; Another WMP blowup," May 26, 2026. Public preview only.
+- PRC Ministry of Foreign Affairs, "UK Foreign Secretary Yvette Cooper to Visit China and Hold the 11th China-UK Strategic Dialogue," May 31, 2026.
+- Xinhua, "China hopes for sound atmosphere to boost China-UK ties, deepen cooperation: Chinese FM," June 2, 2026.

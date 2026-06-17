@@ -90,6 +90,12 @@ The May 2026 EU debate shows why the approach can work tactically but fail strat
 
 The core pattern is divide-and-engage rather than alliance-building. Beijing benefits when individual European states see bilateral commercial access as more valuable than an EU-level China policy.
 
+#### June 2026: UK strategic dialogue
+
+The June 2, 2026 China-UK Strategic Dialogue with [[Yvette Cooper]] adds a narrower European test case. [[Wang Yi]] framed the relationship as returning to track after [[Keir Starmer]]'s January China visit and called for a fair, non-discriminatory business environment for Chinese enterprises, narrower national-security boundaries, and deeper cooperation in trade, finance, energy, AI, and climate.
+
+For Chinese foreign policy, the UK case shows how Beijing works through selective normalization with Western states that are economically constrained but still strategically relevant. Britain is a permanent UN Security Council member, a Five Eyes state, and a post-Brexit economy looking for growth channels. Beijing's aim is not to turn the UK into an ally; it is to make engagement with China look normal, useful, and distinct from Washington-led containment.
+
 ### Global South
 - Development assistance alternative to West
 - BRI infrastructure

@@ -76,6 +76,12 @@ Former global hegemon maintaining outsized influence through permanent UNSC seat
 - [[China]] - Deteriorated (Hong Kong, Huawei)
 - [[Russia]] - Adversarial (Salisbury, Ukraine)
 
+### China reset under strategic constraint (June 2026)
+
+Foreign Secretary [[Yvette Cooper]]'s June 1-3, 2026 China visit is the clearest post-Starmer test of the UK's current China formula. Cooper held the 11th China-UK Strategic Dialogue with [[Wang Yi]] in Beijing on June 2, met [[Han Zheng]], and then travelled to [[Shenzhen]] for a science-and-technology program. Reuters framed the broader China-India trip around the [[Strait of Hormuz]], Ukraine, and Ebola; the PRC readout emphasized trade, finance, energy, AI, climate, institutional dialogue, and UN-centered global governance.
+
+The UK position is not a binary hawk/dove posture. It is strategic compartmentalization: engage with China on global problems and economic channels, while challenging it on national security, Hong Kong, Taiwan, cyber, transnational repression, critical minerals, and infrastructure exposure. That is why the same government can pursue high-level dialogue with Wang while maintaining security barriers around Chinese companies in critical infrastructure.
+
 ## AUKUS
 - Trilateral security pact (2021)
 - Nuclear-powered submarines for Australia
