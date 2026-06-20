@@ -94,6 +94,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[Anti-Coercion Instrument]] - EU trade defense "bazooka" (2023)
 - [[Economic Interdependence]]
 - [[Weaponized Interdependence]] - Using economic networks as coercion (Farrell & Newman)
+- [[Project Glasswing]] - Anthropic's restricted ~150-partner Mythos-access program; the model-layer access channel at the center of the June 2026 export ban
 - [[Trade]]
 - [[IEEPA]] - International Emergency Economic Powers Act (1977), tariff authority dispute
 - [[Dollar Dominance]]

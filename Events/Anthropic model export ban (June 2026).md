@@ -26,9 +26,11 @@ The action runs through a recently signed Trump executive order giving national-
 
 More than a week on, both models remain disabled worldwide; no access has been restored. (confirmed) The story has advanced on two fronts.
 
-**Negotiation toward restoration.** Anthropic and Trump-administration officials have been negotiating a path back, reportedly "working toward a deal" to reinstate Fable 5 and Mythos 5. (reported — The Globe and Mail) At a June 17 press conference in Seoul, Anthropic Managing Director of International Chris Ciauri said the company was *"very confident that in the coming days, the models will become available again,"* without naming a date or conditions. (claimed — Ciauri, Anthropic)
+**Negotiation toward restoration.** Anthropic and Trump-administration officials have been negotiating a path back, reportedly "working toward a deal" to reinstate Fable 5 and Mythos 5. (reported — The Globe and Mail) At a June 17 press conference in Seoul, Anthropic Managing Director of International [[Chris Ciauri]] said the company was *"very confident that in the coming days, the models will become available again,"* without naming a date or conditions. (claimed — Ciauri, Anthropic)
 
-**A Korea–China trigger reframes the "why target allies?" puzzle.** The Washington Post reported that the directive traces to a South Korean telecommunications company with Mythos access — one of roughly 150 partners in Anthropic's restricted [[Project Glasswing]] cyber program — flagged over suspected ties to [[China]]. (reported — Washington Post, via Korea JoongAng Daily) If accurate, the action's logic reads less as "deny allies the frontier tier" than as "close an adversary-exposed conduit running through an ally" — the model-layer analogue of the [[Semiconductors|semiconductor regime]]'s shift from shipment geography toward *ultimate-parent and end-user* exposure. It does not dissolve the contradiction Goodrich named (chips to adversaries, models off allies), but it relocates the stated concern from the ally as such to a China-linked firm operating inside one. [[South Korea]] is now the focal point: Seoul firms — Samsung, SK hynix, and SK Telecom among them — are listed Glasswing partners caught in the worldwide freeze.
+**A Korea–China trigger reframes the "why target allies?" puzzle.** Reporting has since named the firm at the center: [[SK Telecom]], South Korea's largest carrier and an Anthropic investor, one of roughly 150 organizations granted Mythos access through Anthropic's restricted [[Project Glasswing]] cyber program. US officials flagged the carrier over suspected ties to [[China]] and pressed Anthropic to revoke its access; the blanket foreign-national directive followed within days. (reported — Washington Post, "How Anthropic lost the White House's trust," Jun 15; WIRED; Tom's Hardware; Korean press) The asserted China link is historical and thin — SK Telecom's parent SK Group held a stake in China Unicom until 2009, and the carrier reported only about $1.9M of China revenue and roughly seven staff there in 2024 — and SK Telecom denies any China ties; no underlying evidence has been made public. (disputed)
+
+If accurate, the action's logic reads less as "deny allies the frontier tier" than as "close an adversary-exposed conduit running through an ally" — the model-layer analogue of the [[Semiconductors|semiconductor regime]]'s shift from shipment geography toward *ultimate-parent and end-user* exposure. It does not dissolve the contradiction Goodrich named (chips to adversaries, models off allies), but it relocates the stated concern from the ally as such to a specific China-linked firm operating inside one. [[South Korea]] is the new focal point — the episode has reportedly put the country's whole telecom sector on alert — while other Seoul-based Glasswing partners (Samsung, SK hynix) remain caught in the worldwide freeze.
 
 ## A new instrument: the model layer
 
@@ -56,6 +58,8 @@ What makes it anomalous is direction. Every prior chokepoint pointed at an adver
 - [[Anthropic]] — the company (full corporate coverage in the investing vault)
 - [[United States]], [[China]], [[United Kingdom]], [[European Union]] — the asymmetric treatment that defines the puzzle
 - [[South Korea]] — the ally at the center of the reported Korea–China trigger; home to Glasswing partners caught in the freeze
+- [[SK Telecom]] — the carrier whose suspected China ties reportedly triggered the directive
+- [[Project Glasswing]] — Anthropic's restricted Mythos program; the access channel at issue
 
 ### Cross-vault
 - [Investing: Anthropic](obsidian://open?vault=investing&file=Actors%2FAnthropic) — corporate/market lens: the full event arc, quotes, and IPO overhang
@@ -67,3 +71,6 @@ What makes it anomalous is direction. Every prior chokepoint pointed at an adver
 - Anthropic, "Statement on the US government directive to suspend access to Fable 5 and Mythos 5," June 12, 2026
 - WSJ (Amrith Ramkumar), "Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use," June 13, 2026
 - Axios, CNBC, Fortune, NBC News, ABC News — June 12–13, 2026
+- Washington Post, "How Anthropic lost the White House's trust — and then its flagship product," June 15, 2026 (the SK Telecom trigger)
+- WIRED; Tom's Hardware; Korea JoongAng Daily (Park Eun-jee); Kyunghyang Shinmun — June 15–18, 2026 (SK Telecom identification, Project Glasswing roster, the Seoul press conference)
+- The Globe and Mail — Anthropic–Trump restoration talks, June 2026

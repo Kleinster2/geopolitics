@@ -174,6 +174,8 @@ States, organizations, and decision-makers in geopolitics.
 
 ## Technology & AI Companies
 - [[Anthropic]] - US frontier-AI lab (Claude); top models placed under US export controls June 2026 ([[Anthropic model export ban (June 2026)]])
+- [[SK Telecom]] - South Korea's largest carrier; reported trigger of the Anthropic export ban over suspected China ties ([[Anthropic model export ban (June 2026)]])
+- [[Chris Ciauri]] - Anthropic Managing Director of International; the company's public voice during the export ban
 
 ## Key Relationships
 - [[US-Israel Relations]] - Alliance and Iran coordination
