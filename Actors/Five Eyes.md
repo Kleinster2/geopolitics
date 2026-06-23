@@ -108,6 +108,14 @@ Intelligence-sharing alliance between the United States, United Kingdom, Canada,
 - AI implications
 - Critical infrastructure
 
+### AI cyber advisory (June 22, 2026)
+
+On Jun 22, 2026 the Five Eyes cyber agencies — US CISA and NSA, the UK's NCSC, Australia's ACSC, Canada's Cyber Centre, and New Zealand's NCSC — issued a rare joint advisory warning that frontier AI models will transform offensive cyber capability "in months, not years," exceeding industry expectations (confirmed). Agentic AI can chain exploits, adapt to defences in real time, and scale attacks beyond any human team; the guidance flips the posture from prevention to resilience ("breaches will occur"), urging tighter access control, faster patching, and stronger identity. It builds on May 2026 Five Eyes guidance cataloguing 23+ autonomous-AI risk categories.
+
+The advisory is notable as a coordination act: five national agencies jointly signing a capability-timeline warning is a stronger signal than any single member's guidance, and it formalises the offensive-AI concern that frontier-lab demonstrations (e.g. Anthropic's Mythos-class cyber capability) had made concrete. See [[Cyber Warfare]].
+
+*Sources: Five Eyes joint advisory (CISA / NSA / NCSC-UK / ACSC / Canadian Cyber Centre / NCSC-NZ), Jun 22 2026; Financial Times; CyberScoop. Market & sector read: [Investing: Cybersecurity](obsidian://open?vault=investing&file=Sectors%2FCybersecurity).*
+
 ## Five Eyes Plus?
 
 ### Extended Partnerships
