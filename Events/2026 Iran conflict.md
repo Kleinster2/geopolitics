@@ -1437,6 +1437,26 @@ Full event detail and market mechanics: [Investing: 2026 UAE OPEC exit](obsidian
 
 ---
 
+## June 15-22, 2026 — preliminary US-Iran deal, blockade lift, Lebanon-triggered re-closure
+
+*Timeline note: this section jumps from the April 28 entries above. The intervening May–early-June developments (the May 4-7 "Project Freedom" fire-exchange and Saudi/Kuwait airspace denials, the May 10-11 maximalist Iranian counter-proposal, and the June 4 ADNOC reopening-clock framing) are tracked in detail in the investing-vault [2026 Strait of Hormuz crisis](obsidian://open?vault=investing&file=Events%2F2026%20Strait%20of%20Hormuz%20crisis) timeline and remain a backfill follow-up for this note.*
+
+On June 15 [[United States|US]] and [[Iran|Iranian]] negotiators reached a preliminary memorandum of understanding, mediated through the [[Pakistan as US-Iran Mediator|Pakistani]] channel and finalized in Switzerland (confirmed). Full text published June 18 (NPR); by June 21 mediators described an agreed "road map" toward a final deal. Core terms (NPR / CNBC / PBS):
+
+- Reopen the [[Strait of Hormuz]] to commercial shipping, toll-free, for 60 days, with Iran using "best efforts" for safe passage and de-mining the main lanes via a US-Iran "coordination mechanism" ([[JD Vance]]: "a lot of good progress").
+- US to begin removing its naval blockade of Iranian ports immediately, full removal within 30 days.
+- 60-day ceasefire extension; the nuclear endpoint (enrichment, HEU stockpile) deferred to talks inside that window — the "focus on Hormuz first" sequencing [[Anthony Blinken]] urged on April 12 and the April 28 Iranian proposal floated.
+
+This is the statecraft realization of the conditional-access-for-blockade swap tracked since April 28 — but it immediately demonstrated the fragility the note warned of. On Saturday June 20 Iran's joint military command declared the strait closed again (claimed) — not over anything in the strait, but citing continued Israeli strikes on Lebanon (16+ killed in the Nabatieh / Sidon districts that day despite a renewed Lebanon ceasefire on June 19) as a violation of its US agreement. This is precisely the [[Hezbollah]] / Lebanon carve-out the April 28 section flagged as an unaddressed parallel track — now reaching back to govern the chokepoint.
+
+US CENTCOM disputed the closure (reported): it said commercial traffic actually increased Saturday and "traffic continues to flow." The dispute is itself the signal — Washington is treating Iran's declaration as rhetorical and refusing to validate the veto, consistent with the "building deconfliction mechanisms" and "clarifying some of the confusing messaging from Iran" language US officials used about the Switzerland talks.
+
+Statecraft read: Iran retains an instantly-exercisable chokepoint veto it will invoke for leverage on adjacent fronts (here, Israel's Lebanon campaign), and the US response is now to deny the veto's validity rather than escalate militarily. The 60-day toll-free window also time-boxes whether Hormuz returns to neutral passage or settles into a permissioned, fee-bearing regime — Iran has signaled it could charge after the window (e.g., requiring purchase of Iranian insurance), the transit-fee regime in contractual form. Market read (gloss): oil barely moved — Brent fell ~$87→$78 into and after the deal and did not spike on the June 20 re-closure (vs the $126 March peak), i.e., the market now discounts Iranian closure declarations. Full shipping-backlog data (a satellite-measured 441 vessels staging off Sohar and Fujairah on June 21), the price tape, and the transit-fee mechanics are in the investing vault.
+
+*Sources: NPR ("US and Iran announce an initial deal," Jun 15; preliminary MOU full text, Jun 18; "US and Iran agree to a 'road map'," Jun 21); FT, "Hundreds of ships wait outside Gulf for full opening of Hormuz Strait" (Jun 22); Al Jazeera (Israeli strikes on Lebanon, Jun 20); Bloomberg ("Iran Says Strait of Hormuz Has Been Closed," Jun 20); CNBC ("Shipping stalls in Strait of Hormuz," Jun 22); CENTCOM. Market mechanics: investing-vault [2026 Strait of Hormuz crisis](obsidian://open?vault=investing&file=Events%2F2026%20Strait%20of%20Hormuz%20crisis) (Jun 15-22 section) and [Hormuz Transit Regime](obsidian://open?vault=investing&file=Concepts%2FHormuz%20Transit%20Regime).*
+
+---
+
 ## Related
 
 - [[2026 US Military Buildup Against Iran]] — pre-strike force disposition

@@ -422,6 +422,14 @@ Geopolitical read-through: a reopened Hormuz can still represent an Iranian stra
 
 ---
 
+## June 15-22, 2026 reopening — deal, 441-ship backlog, re-closure
+
+The June 15 preliminary [[United States|US]]-[[Iran]] memorandum of understanding (full text Jun 18) reopened the strait to commercial shipping toll-free for 60 days, with Iran committing to de-mine the main lanes via a US-Iran "coordination mechanism" and the US to lift its naval blockade of Iranian ports within 30 days. First-mover confidence appeared: the container ship MSC Qingdao transited June 20 with its transponder on, four Qatari LNG carriers transited June 22 (the most since the Feb 28 outbreak), and Iranian tankers moved more freely once the US began lifting the blockade June 17.
+
+The reopening was immediately tested. On June 20 Iran declared the strait closed again (claimed), citing continued Israeli strikes on Lebanon as a breach of its US agreement — a third-front trigger, not a strait-internal one. US CENTCOM disputed the closure, saying traffic increased that day (reported). FT analysis of European Space Agency Sentinel-1 radar imagery counted 441 large vessels staging off Sohar and Fujairah on June 21, with no significant main-channel traffic — the physical backlog of a reopening that the commercial-confidence constraint predicts. The episode confirms this note's core thesis: military/diplomatic access (a signed deal) and commercial normalization (ships, war-risk cover, mine confidence) are different states, and Iran's instantly-reversible veto keeps the chokepoint's permanent-deterrent premium intact even under a deal.
+
+*Sources: FT, "Hundreds of ships wait outside Gulf for full opening of Hormuz Strait" (Jun 22); NPR (Jun 15 / 18 / 21); Bloomberg, Al Jazeera, CNBC (Jun 20-22). Market read and transit-fee mechanics: investing-vault [2026 Strait of Hormuz crisis](obsidian://open?vault=investing&file=Events%2F2026%20Strait%20of%20Hormuz%20crisis) and [Hormuz Transit Regime](obsidian://open?vault=investing&file=Concepts%2FHormuz%20Transit%20Regime).*
+
 ## Historical precedents
 
 ### Tanker War (1984-1988)
