@@ -59,6 +59,10 @@ These are not sequential (adopt first, regulate later) but simultaneous. The sta
 
 Sheehan identifies a recursive dynamic: the CCP is worried about AI-driven job losses **and** worried about people worrying about AI-driven job losses. Public anxiety about displacement can itself become a source of instability, independent of actual job losses. The Wuhan incident demonstrated this — the political impact came from the backlash, not from measured unemployment statistics.
 
+### Supply-Side Response: Educational Realignment
+
+China is also attacking the displacement problem from the labor-supply side. Between 2021 and 2025 its universities revoked or suspended ~12,200 undergraduate degree programs and added ~10,200, cutting oversupplied fields (arts, humanities, foreign languages, management) and adding AI, robotics, and chip-design programs (Ministry of Education via [[Xinhua]], reported by the South China Morning Post, June 2026). Re-skilling the incoming workforce toward state-promoted sectors is the educational complement to the employment-impact assessments above. It does not resolve the core contradiction: if final demand stays weak, better-aligned graduates still meet a thin job market, and front-loading a cohort into AI risks the next oversupply. See [[Technology Competition]] for the talent-competition framing.
+
 ## Significance
 
 This development matters for several reasons:
@@ -75,6 +79,7 @@ This development matters for several reasons:
 - [[Semiconductors]]
 
 ### Cross-vault
+- [Investing: China higher education realignment](obsidian://open?vault=investing&file=Concepts%2FChina%20higher%20education%20realignment) — the degree-catalog overhaul as a labor-market / industrial-policy lever (the supply-side response to this anxiety)
 - Investing vault may want a note on China AI regulatory risk and its impact on Chinese tech companies
 
 ## Sources

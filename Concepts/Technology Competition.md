@@ -242,6 +242,12 @@ Technologies with both civilian and military applications.
 
 Reported Chinese restrictions on AI-specialist travel add a China-side counterpart to US visa, research-security, and export-control pressure. Bloomberg reporting summarized by TechCrunch on May 27 2026 said some private-sector AI specialists now need approval before leaving China, with strategic relevance to China's AI ambitions as the reported screen. That turns human mobility into a formal control surface inside [[Technology Decoupling]]: frontier engineers are no longer just a scarce input, but a resource both states may try to retain or filter.
 
+### June 2026: China's degree-catalog realignment (supply-side talent strategy)
+
+China's largest talent lever is production, not recruitment. Between 2021 and 2025 its universities revoked or suspended roughly 12,200 undergraduate degree programs and added roughly 10,200 — more than 30% of all programs adjusted — cutting arts, humanities, foreign languages, and management while adding artificial intelligence, robotics, integrated-circuit design, and advanced manufacturing (Ministry of Education data via [[Xinhua]], reported by the South China Morning Post, June 2026). The 12,200 figure is undergraduate; at the postgraduate level the move is net-additive (~1,129 doctoral and ~2,294 master's programs added since 2023 while phasing out outdated offerings).
+
+In the talent-competition frame this is the supply-side counterpart to the mobility controls above and to the recruitment programs (Thousand Talents, returnee incentives): where the US advantage rests on top universities plus immigration, China is answering with scale and state direction, re-weighting the entire degree catalog toward the strategic sectors of Made in China 2025. The move is dual-edged. The drivers China cites domestically — youth unemployment above 16% and AI automating entry-level white-collar work — mean the realignment is also a response to [[China AI Employment Anxiety]], not only a bid for frontier-talent supremacy. And it carries the quality-vs-quantity risk already listed under China's Challenges: a state can mandate AI degrees faster than it can build the faculty and labs to make them good, and steering a whole cohort into one field can manufacture the next graduate oversupply.
+
 ## Innovation Ecosystems
 
 ### US Model
@@ -293,3 +299,7 @@ Reported Chinese restrictions on AI-specialist travel add a China-side counterpa
 - [[Artificial Intelligence]]
 - [[Supply Chains]]
 - [[Pax Silica]]
+- [[China AI Employment Anxiety]]
+
+### Cross-vault
+- [Investing: China higher education realignment](obsidian://open?vault=investing&file=Concepts%2FChina%20higher%20education%20realignment) — the market / industrial-policy lens: the degree-catalog overhaul as human-capital supply for China's AI, robotics, and chip sectors, with the youth-unemployment driver and ed-tech read-through
