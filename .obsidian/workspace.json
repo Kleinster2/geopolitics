@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actors/Greenland.md",
+                "file": "Concepts/Traditionalism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greenland"
+              "title": "Traditionalism"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "bdac1bba5b8db8ee",
   "lastOpenFiles": [
+    "Daily/2026-05-31.md",
     "Concepts/Iranian Banking System.md",
     "Actors/Christine Lagarde.md",
     "Actors/Howard Lutnick.md",
@@ -211,7 +212,6 @@
     "Actors/Hassan Rashad.md",
     "Actors/Ali Al-Thawadi.md",
     "Actors/Hakan Fidan.md",
-    "Actors/Alexander Lukashenko.md",
     "Analysts",
     "Thinkers"
   ]
