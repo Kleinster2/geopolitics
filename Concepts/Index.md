@@ -136,6 +136,7 @@ Theories, frameworks, and key terms in geopolitics.
 - [[War Powers Resolution]] - Congressional check on presidential war authority (1973)
 - [[Lisbon Treaty]] - EU constitutional basis, competence division (2009)
 - [[EU Governance]] - Hub note on EU institutional architecture
+- [[Broadcast licence pressure as media leverage]] - FCC licence renewal as a state lever over media editorial; ABC/Kimmel/Trump 2025-26 case
 
 ## Internet & Technology Governance
 - [[Internet Geopolitics]] - Control over infrastructure, governance, and standards
