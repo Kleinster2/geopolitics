@@ -87,6 +87,7 @@ Theories, frameworks, and key terms in geopolitics.
 
 ## Economic Statecraft
 - [[Geoeconomics]]
+- [[Geoeconomic Fragmentation]] - Policy-driven reversal of integration along geopolitical lines (IMF framing); the structural process of the 2020s
 - [[Data as a Factor of Production]] - China's doctrine + accounting machinery valuing data as a national resource; US strategic indifference (Kuiken)
 - [[Five Powers Clause]] - War-risk insurance exclusion for five major powers; auto-blockade mechanism
 - [[Sanctions]]

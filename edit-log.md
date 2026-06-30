@@ -4,6 +4,14 @@ Running log of vault changes by session.
 
 ---
 
+## 2026-06-29
+
+- created [[Geoeconomic Fragmentation]] (Concepts) - IMF-framed policy-driven reversal of integration along geopolitical lines; statecraft lens (weaponization-driven fragmentation, bloc formation, the financial leg). Cross-vault gloss from the investing vault's FT/[[Pierre-Olivier Gourinchas]] ingest.
+- created [[Pierre-Olivier Gourinchas]] (Analysts, stub) - outgoing IMF chief economist; June 2026 "tit-for-tat" / self-defeating-chokepoint framing. Cross-linked to the investing actor note.
+- edited [[Concepts/Index]] - added [[Geoeconomic Fragmentation]] under Economic Statecraft.
+
+---
+
 ## 2026-05-25
 
 - created [[Borzou Daragahi]] (Analysts) - international correspondent for *The Independent* and publisher of [[badlands]]; coverage focus on Middle East, North Africa, Europe, Iran, Iraq, Turkey, Syria, Lebanon, Libya, conflict reporting, and regional politics.
